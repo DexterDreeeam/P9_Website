@@ -1,0 +1,11 @@
+{
+    "Absol": "Absol",
+    "Speedster": "Speedster",
+    "Physical": "Physical",
+    "Super Luck": "Super Luck",
+    "ABSOL_PA1_TEXT_1": "Increases Critical-Hit rate by 15%.",
+    "ABSOL_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing damage to enemies and lowering their Defense by 15% for 2s when it hits. If this boosted attack hits only a single target, it deals increased damage.",
+    "ABSOL_MOVE_FEINT_TEXT_1": "Absol dashes in an arc, damaging all enemies hit. Each use alternates between a left and right arc. Feint ignores the target’s Defense and bypasses all shields.",
+    "ABSOL_MOVE_NIGHT_SLASH_TEXT_1": "Absol dashes in an arc, damaging the first Pokémon hit. If Absol hits, this ability can be activated within 6s – allowing Absol to dash again, dealing damage to all enemies hit and increasing attack speed once again. The second hit also has 30% increased Critical-Hit Rate on enemies below 50% max HP. \nCooldown on Hit or without recasting is 6s.",
+    "_Void": "_Void"
+}
