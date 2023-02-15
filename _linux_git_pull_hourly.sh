@@ -1,5 +1,5 @@
 while true
 do
-    git pull origin master
+    git pull
     sleep 30
 done
