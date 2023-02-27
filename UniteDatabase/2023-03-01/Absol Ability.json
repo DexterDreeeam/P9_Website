@@ -1,0 +1,323 @@
+{
+    "ABSOL_PA1":
+    {
+        "name": "Super Luck",
+        "type": "Passive Ability",
+        "text": "ABSOL_PA1_TEXT_1"
+    },
+
+    "ABSOL_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "ABSOL_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.51,
+                            "Level": 5,
+                            "Const": 100
+                        }
+                    },
+                    {
+                        "name": "Damage - Single Target Bonus",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.375,
+                            "Level": 1,
+                            "Const": 20
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ABSOL_MOVE_FEINT":
+    {
+        "name": "Feint",
+        "type": "Move 1",
+        "cd": 8.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "ABSOL_MOVE_FEINT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.66,
+                            "Level": 7,
+                            "Const": 130
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ABSOL_MOVE_NIGHT_SLASH":
+    {
+        "name": "Night Slash",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 5.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "ABSOL_MOVE_NIGHT_SLASH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.69,
+                            "Level": 6,
+                            "Const": 140
+                        }
+                    },
+                    {
+                        "name": "Damage - Second Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.1035,
+                            "Level": 9,
+                            "Const": 210
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "ABSOL_MOVE_NIGHT_SLASH_TEXT_2"
+            }
+        ]
+    },
+
+    "ABSOL_MOVE_PURSUIT":
+    {
+        "name": "Pursuit",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 5.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "ABSOL_MOVE_PURSUIT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.1,
+                            "Level": 9,
+                            "Const": 220
+                        }
+                    },
+                    {
+                        "name": "Damage - Backstab",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.98,
+                            "Level": 19,
+                            "Const": 396
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "ABSOL_MOVE_PURSUIT_TEXT_2"
+            }
+        ]
+    },
+
+    "ABSOL_MOVE_SLASH":
+    {
+        "name": "Slash",
+        "type": "Move 2",
+        "cd": 6.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "ABSOL_MOVE_SLASH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.89,
+                            "Level": 6,
+                            "Const": 200
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ABSOL_MOVE_PSYCHO_CUT":
+    {
+        "name": "Psycho Cut",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "ABSOL_MOVE_PSYCHO_CUT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.3,
+                            "Level": 2,
+                            "Const": 45
+                        }
+                    },
+                    {
+                        "name": "Damage - First 2 Markers",
+                        "type": "damage",
+                        "text": "ABSOL_MOVE_PSYCHO_CUT_TAG_TEXT_1",
+                        "value":
+                        {
+                            "Atk": 0.6,
+                            "Level": 4,
+                            "Const": 90
+                        }
+                    },
+                    {
+                        "name": "Damage - Last Marker",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.9,
+                            "Level": 6,
+                            "Const": 135
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "ABSOL_MOVE_PSYCHO_CUT_TEXT_2"
+            }
+        ]
+    },
+
+    "ABSOL_MOVE_SUCKER_PUNCH":
+    {
+        "name": "Sucker Punch",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 6.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "ABSOL_MOVE_SUCKER_PUNCH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.05,
+                            "Level": 6,
+                            "Const": 165
+                        }
+                    },
+                    {
+                        "name": "Damage - Interrupted Attack",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.56,
+                            "Level": 10,
+                            "Const": 250
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "ABSOL_MOVE_SUCKER_PUNCH_TEXT_2"
+            }
+        ]
+    },
+
+    "ABSOL_MOVE_MIDNIGHT_SLASH":
+    {
+        "name": "Midnight Slash",
+        "type": "Unite Move",
+        "cd": 134.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "ABSOL_MOVE_MIDNIGHT_SLASH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Full (6 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.91,
+                            "Level": 4,
+                            "Const": 200
+                        }
+                    },
+                    {
+                        "name": "Damage - Reduced (up to 3 Hits)",
+                        "type": "damage",
+                        "text": "ABSOL_MOVE_MIDNIGHT_SLASH_TAG_TEXT_1"
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "ABSOL_MOVE_MIDNIGHT_SLASH_TEXT_2"
+            }
+        ]
+    }
+}
