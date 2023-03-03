@@ -1,0 +1,34 @@
+{
+  "En":
+  {
+    "SCIZOR_PA1_TEXT_1": "After this Pokémon uses a move, the next auto attack will deal two consecutive auto attacks instead. The second of these deals decreased damage. Technician lasts 5s and has no internal cooldown.",
+    "SCIZOR_BA1_TEXT_1": "Becomes a boosted attack with every third attack, decreasing enemy movement speed by 30% for 2s when it hits and increasing Scizor's Defense by 25% for 6s. This Defense increase can stack additively up to 3 times and the duration refreshes when gaining another stack.",
+    "SCIZOR_MOVE_FURY_CUTTER_TEXT_1": "Slashes twice dealing damage with its scythes in a cone. The second slash deals more damage than the first.",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_1": "Dash in the designated direction and strike enemies, reducing this move's cooldown by 40% if the attack animation completes and recovering a portion of HP with each hit. If Bullet Punch is used again within 8s, the number of punches increases. The number of punches increases from 3 to a maximum of 5.",
+    "SCIZOR_MOVE_BULLET_PUNCH_TAG_TEXT_1": "30% damage of initial punch.",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_2": "Also grants a shield for 3s if this move hits an enemy.",
+    "SCIZOR_MOVE_QUICK_ATTACK_TEXT_1": "Dashes in designated direction dealing damage to enemies hit along the way.",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_1": "Jumps in the designated direction, dealing damage to enemies during the jump and applying a mark to that enemy until they leave combat. After hitting an enemy, jump again. An enhanced auto attack is prepared on landing that charges at the enemy being attacked. This enhanced attack is available for 5s. If a marked enemy is knocked out, all of the user's move cooldowns are reset. The mark may be cleansed.",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_2": "Reduces cooldown by 1s.",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_1": "Dashes a short distance, increasing Attack by 12% for 5s. While Swords Dance's attack buff is active, after basic attacks or abilities make contact 8 times, the user launches an area-of-effect attack that pierces through enemies in a line.",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_2": "Reduces the damage the user receives by 50% while dashing (0.3s).",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_1": "Target an enemy and punch them, dealing an initial hit of damage, decreasing their movement speed by 40% for 3s. Then create 5 copies that dash away from Scizor. If a copy hits an enemy while dashing out, it deals damage, decreases that enemy's movement speed by 40% for 3s, then disappears. For 8s after activation, this move may be used again, dashing in a designated direction dealing damage to enemies hit. The enemies hit are also grabbed and carried while Scizor continues dashing. At the end of the dash, Scizor punches the ground dealing damage in an area-of-effect. If a grabbed enemy makes contact with an illusory copy, they will be dealt damage and be left incapacitated for 2s.",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "SCIZOR_PA1_TEXT_1": "OOOO",
+    "SCIZOR_BA1_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_FURY_CUTTER_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_BULLET_PUNCH_TAG_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_2": "OOOO",
+    "SCIZOR_MOVE_QUICK_ATTACK_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_2": "OOOO",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_2": "OOOO",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_1": "OOOO",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_2": "OOOO"
+  }
+}

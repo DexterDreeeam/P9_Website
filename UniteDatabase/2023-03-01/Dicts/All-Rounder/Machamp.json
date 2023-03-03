@@ -1,0 +1,36 @@
+{
+  "En":
+  {
+    "MACHAMP_PA1_TEXT_1": "Increases Attack by 10% for 5s when afflicted by any debuff.",
+    "MACHAMP_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage when it hits. This boosted attack also decreases the movement speed of enemies by 50% for 1s.",
+    "MACHAMP_MOVE_KARATE_CHOP_TEXT_1": "Machamp attacks in a straight line dealing damage to enemies hit.",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_1": "Machamp unleashes a barrage of blows in a targeted direction for 1s, hitting multiple times and finishing with a single large strike. Machamp is unstoppable for the duration and can move while using Close Combat.",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_2": "Deals 25% additional damage if the target is affected by a status condition.",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_1": "Machamp dashes forward, dealing damage to enemies hit. Cross Chop may critically hit and has a 5% higher Critical-Hit Rate. Cross Chop further increases Critical-Hit Rate by 5% for 3s on hit.",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_2": "Machamp’s auto attacks increases Atk by 2 per target hit, permanently stacking up to 40 times.",
+    "MACHAMP_MOVE_BULK_UP_TEXT_1": "Machop buffs themselves for 3s becoming unstoppable, increasing attack by 15%, attack speed by 40% and movement speed by 30% inititally, diminishing gradually every 1s. Machop's next attack is boosted.",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_1": "Machamp jumps to target location, becoming unstoppable for 0.5s, stunning enemies hit for 0.5s, slowing them by 40% for 3s, and dealing damage four times in quick succession to the landing radius. Machamp’s Atk is increased by 15% for 5s and gains bonus movement speed of 40% inititally, diminishing gradually, for 3s when using Dynamic Punch. Machamp’s next auto attack is boosted.",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_2": "Further increases movement speed by 30% and Atk bonus by 5%.",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_1": "Machamp becomes unstoppable for 5s and gains 50% increased movement speed (diminishing every 1s by 20%) or until the next auto attack. Machamp’s next auto attack during submission is enhanced, hitting twice and slamming the target down behind Machamp. If this attack hits, Machamp also gains 5% increased Critical-Hit Rate and 50% Attack Speed for 3s.",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_2": "Further increases Critical-Hit Rate by 5% and Attack Speed by 10%.",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_1": "Increases Machamp's movement speed by 5%, Attack by 30%, Defense by 200, and Sp. Defense by 200 for 10s. If used again, unleash a combo attack, dealing damage to enemies in the area of effect and shoving them. The final blow deals double the damage of the previous hits.",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_2": "30% Movement Speed, 35% Attack Speed, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "MACHAMP_PA1_TEXT_1": "OOOO",
+    "MACHAMP_BA1_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_KARATE_CHOP_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_2": "OOOO",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_2": "OOOO",
+    "MACHAMP_MOVE_BULK_UP_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_2": "OOOO",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_2": "OOOO",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_1": "OOOO",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_2": "OOOO"
+  }
+}

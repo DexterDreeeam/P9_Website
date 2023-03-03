@@ -1,0 +1,50 @@
+{
+  "En":
+  {
+    "URSHIFU_PA1_TEXT_1": "Reduces the duration of hindrance effects on Kubfu.",
+    "URSHIFU_PA2_TEXT_1": "When Urshifu deals damage to an enemy with a shield effect, 70% of the damage is dealt to the shield and 30% is dealt to their HP.",
+    "URSHIFU_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage.",
+    "URSHIFU_BA2_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage and granting Urshifu a shield for 3s when it hits.",
+    "URSHIFU_BA3_TEXT_1": "Deals increased damage with two consecutive blows and reduces Surging Strikes, and Liquidation, Liquidation+ or Headbutt's cooldown by 2s.",
+    "URSHIFU_MOVE_ROCK_SMASH_TEXT_1": "Charges power before punching in the designated direction, dealing damage to enemies. The longer the power is charged, the more damage this move deals. The user receives 20% reduced damage while charging.",
+    "URSHIFU_MOVE_WICKED_BLOW_TEXT_1": "Charge power before striking in the designated direction with a fierce blow. Urshifu's next basic attack after hitting an enemy with this move becomes a boosted attack. While charging, movement speed is decreased but Urshifu receives 20% reduced damage and becomes immune to hindrances. If Urshifu charges power for a set amount of time or longer before striking, this move deals damage to enemies in an area-of-effect. The lower the enemies' remaining HP is, the more damage is dealt. Enemies in the center of the area receive a critical hit and are shoved. If Urshifu does not charge power for that set amount of time, this move deals damage to enemies in an area-of-effect, decreasing their movement speed. If an enemy is hit with the uncharged punch, this move's cooldown is reduced by 50%.",
+    "URSHIFU_MOVE_WICKED_BLOW_TAG_TEXT_1": "Damage is always a critical and deals additional damage equal to 10% of the enemies missing HP. Against Wild Pokemon: This additional damage is capped at 1200.",
+    "URSHIFU_MOVE_WICKED_BLOW_TAG_TEXT_2": "Deals additional damage equal to 5% of the enemies' missing HP. Against Wild Pokemon: This additional damage is capped at 600.",
+    "URSHIFU_MOVE_WICKED_BLOW_TEXT_2": "Damage reduction that Urshifu receives while charging this move is increased to 40%. When Urshifu strikes after charging power, enemies in the center of the area-of-effect are also stunned with the shove.",
+    "URSHIFU_MOVE_SURGING_STRIKES_TEXT_1": "Dash in the designated direction and strike with a flowing motion, dealing damage to enemies hit. This move can be used an additional two times. The third time it is used, the enemy is thrown and the damage dealt will be critical. Urshifu's next basic attack after using this move becomes a boosted attack and if the boosted attack hits, Urshifu's HP is restored.",
+    "URSHIFU_MOVE_SURGING_STRIKES_TEXT_2": "While using this move, Urshifu receives 30% damage reduction.",
+    "URSHIFU_MOVE_HEADBUTT_TEXT_1": "Charge in the designated direction, dealing damage to enemies hit and leaving them unable to act for a short time.",
+    "URSHIFU_MOVE_THROAT_CHOP_TEXT_1": "Dash in the designated direction, dealing damage to enemies hit and leaving them stunned for 0.7s. Urshifu's next basic attack after using this move becomes a boosted attack.",
+    "URSHIFU_MOVE_THROAT_CHOP_TEXT_2": "This move's cooldown is reduced by 2s when Wicked Blow hits.",
+    "URSHIFU_MOVE_LIQUIDATION_TEXT_1": "Deal damage to and decrease the defense of enemies in the area around Urshifu by 30% for 2s. When this move hits, Urshifu is granted a shield whose strength is based on the number of enemies hit. The shield lasts for 3s.",
+    "URSHIFU_MOVE_LIQUIDATION_TEXT_2": "Reduces this move's cooldown by 1s.",
+    "URSHIFU_MOVE_EBON_FIST_TEXT_1": "Dash at the designated enemy and designate a direction or not. If no direction is designated, this move instead deals damage and throws the singular enemy, leaving them unable to act when they land. If a direction is designated, this move deals a more powerful blow to the target and shoves them in the designated direction. The shoved enemy then also deals damage to and throws other enemies they hit. Using this move will reset Wicked Blow's cooldown.",
+    "URSHIFU_MOVE_EBON_FIST_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield",
+    "URSHIFU_MOVE_FLOWING_FISTS_TEXT_1": "Deal damage to enemies in an area-of-effect and shove them. If this move is used again, Urshifu unleashes five consecutive blows upon the designated enemy, dealing damage and shoving them. In the time between activating Flowing Fists and the follow-up attack, every 2 times Urshifu deals damage to an enemy, the number of consecutive blows the follow-up attack will deal is increased by 1 up to 10 times maximum. While dealing the consecutive blows, Urshifu receives 30% reduced damage and becomes immune to hindrances. After the consecutive blows have finished, Urshifu deals damage and shoves enemies in an area-of-effect in front of themself.",
+    "URSHIFU_MOVE_FLOWING_FISTS_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "URSHIFU_PA1_TEXT_1": "OOOO",
+    "URSHIFU_PA2_TEXT_1": "OOOO",
+    "URSHIFU_BA1_TEXT_1": "OOOO",
+    "URSHIFU_BA2_TEXT_1": "OOOO",
+    "URSHIFU_BA3_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_ROCK_SMASH_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_WICKED_BLOW_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_WICKED_BLOW_TAG_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_WICKED_BLOW_TAG_TEXT_2": "OOOO",
+    "URSHIFU_MOVE_WICKED_BLOW_TEXT_2": "OOOO",
+    "URSHIFU_MOVE_SURGING_STRIKES_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_SURGING_STRIKES_TEXT_2": "OOOO",
+    "URSHIFU_MOVE_HEADBUTT_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_THROAT_CHOP_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_THROAT_CHOP_TEXT_2": "OOOO",
+    "URSHIFU_MOVE_LIQUIDATION_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_LIQUIDATION_TEXT_2": "OOOO",
+    "URSHIFU_MOVE_EBON_FIST_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_EBON_FIST_TEXT_2": "OOOO",
+    "URSHIFU_MOVE_FLOWING_FISTS_TEXT_1": "OOOO",
+    "URSHIFU_MOVE_FLOWING_FISTS_TEXT_2": "OOOO"
+  }
+}

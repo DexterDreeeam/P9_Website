@@ -1,0 +1,38 @@
+{
+  "En":
+  {
+    "LUCARIO_PA1_TEXT_1": "When dropping below 50% HP, gain a shield and increased movement speed for 5s (60s cooldown).",
+    "LUCARIO_BA1_TEXT_1": "Becomes a boosted attack with every third attack, striking twice. The first attack is a normal basic attack and the second is an additional attack that can critically hit, has increased attack range, and throws enemies into the air.",
+    "LUCARIO_MOVE_QUICK_ATTACK_TEXT_1": "Lucario dashes forward, damaging all enemies hit.",
+    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_1": "Lucario dashes forward, damaging all enemies hit and healing Lucario for each enemy hit. The first enemy hit will reset the cooldown of Extreme Speed. This effect cannot occur on the same target more than once every 10s. Attacking immediately after the dash will perform a unique attack in an area dealing 75% Atk and can critically hit.",
+    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_2": "Increases Lucario's damage by 7.5% for 2s. This buff activates regardless if an enemy was hit, and is applied the moment this move is activated.",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_1": "Lucario begins charging power, slowing themself and reducing damage taken by 30% while preparing to unleash a devastating punch. Upon release, Lucario lunges – damaging the first enemy hit and briefly stunning them. Power-Up Punch does bonus damage based on the enemy's missing HP, and will cause Lucario's next attack to be boosted. The cooldown for Power-Up Punch is reduced by 1s whenever Lucario lands a move. Against Wild Pokémon: The additional damage from missing HP is capped at 1000.",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TAG_TEXT_1": "10% of Enemy Missing HP (caps at 1000 dmg).",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_2": "Lucario is unstoppable while charging the punch.",
+    "LUCARIO_MOVE_METEOR_MASH_TEXT_1": "Lucario punches with the force of a meteor, damaging and knocking enemies back.",
+    "LUCARIO_MOVE_BONE_RUSH_TEXT_1": "Lucario rapidly strikes with a bone, damaging enemies hit up to 6 times. Enemies in long range will be hit 3 times and at close range they will be hit 6 times. Lucario then throws the bone after the final strike, shoving enemies and causing the bone to land a short distance away. Lucario can activate Bone Rush again to teleport to the bone, damaging enemies in a small area around it. Landing one of Bone Rush's initial strikes will reset the cooldown timer for Extreme Speed on that target.",
+    "LUCARIO_MOVE_BONE_RUSH_TEXT_2": "Teleporting to the bone will reset the cooldown of Extreme Speed or Power-Up Punch.",
+    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_1": "Lucario rapidly punches, damaging enemies in the area in front of them 11 times over the duration, restoring HP per hit, and becomes Unstoppable while punching. For 5s after this move is used, Lucario's next basic attack gains increased range and causes Lucario to dash to the target.",
+    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_2": "Increased damage.",
+    "LUCARIO_MOVE_AURA_CANNON_TEXT_1": "Channel aura power into a spherical projectile launched in a designated direction. The projectile picks up speed as it travels. Pokémon that contact the projectile are dealt damage. Aura Cannon does not have a limit to the number of times it can hit one target. At close range, a still enemy can be hit up to 4 times and when the cannon is at max speed, a still enemy will only be struck once. Damage of the next Power-Up Punch is increased by roughly 20%, and enemies hit by the cannon have their internal cooldown for Extreme Speed reset.",
+    "LUCARIO_MOVE_AURA_CANNON_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "LUCARIO_PA1_TEXT_1": "OOOO",
+    "LUCARIO_BA1_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_QUICK_ATTACK_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_2": "OOOO",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TAG_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_2": "OOOO",
+    "LUCARIO_MOVE_METEOR_MASH_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_BONE_RUSH_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_BONE_RUSH_TEXT_2": "OOOO",
+    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_2": "OOOO",
+    "LUCARIO_MOVE_AURA_CANNON_TEXT_1": "OOOO",
+    "LUCARIO_MOVE_AURA_CANNON_TEXT_2": "OOOO"
+  }
+}

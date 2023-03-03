@@ -1,0 +1,42 @@
+{
+  "En":
+  {
+    "DRAGONITE_PA1_TEXT_1": "Increases Defense by 100 for 1.5s when afflicted by a status condition (Dratini and Dragonair only).",
+    "DRAGONITE_PA2_TEXT_1": "When damaged by an enemy player, gain a buff that reduces damage taken by 25% for 2.5 seconds. This ability has a 15 second cooldown.",
+    "DRAGONITE_BA1_TEXT_1": "Becomes a boosted attack with every third attack, blasting water in front of Dratini, dealing increased damage, reducing the cooldown of Dratini's moves by 1s, and recover 5% max HP when this hits.",
+    "DRAGONITE_BA2_TEXT_1": "The boosted attack alternates between water and electric with every use of a boosted attack. If the water attack hits, it triggers the same effects as Dratini's boosted attack. If the electric attack hits, it leaves enemies unable to act for .6s and reduces the cooldown of Dragonair's moves by 1s when this hits.",
+    "DRAGONITE_BA3_TEXT_1": "The boosted attack alternates between water, electric, and fire with every use of a boosted attack. If the water or electric attack hits, it triggers the same effects as Dragonair's boosted attack. If the fire attack hits, it deals additional damage equal to 10% of the enemy's remaining HP (capped at 1200 dmg against wilds) and reduces the cooldown of Dragonite's moves by 1s when this hits.",
+    "DRAGONITE_MOVE_TWISTER_TEXT_1": "Creates a twister and releases it in the designated direction, dealing damage to enemies hit and decreases their movement speed by 50% for 1s.",
+    "DRAGONITE_MOVE_DRAGON_DANCE_TEXT_1": "Dash in a designated direction, alternating each use between a left arc, right arc and a direct dash. After using this move, grant a buff increasing attack speed of the next 3 auto attacks by 80% for 4.5s, increasing movement speed by 30% for 1s, increasing Attack by 8% (capping at 24%), as well as increasing the stage of Hyper Beam. This buff stacks up to 3 times, and the duration is reset to full on reuse. All stacks are removed after a few seconds. Auto attacks reduce the cooldown of this ability by 1s.",
+    "DRAGONITE_MOVE_DRAGON_DANCE_TEXT_2": "Further increases Dragonite's movement speed by 10% for 4.5s if there are enemies nearby when the dance ends.",
+    "DRAGONITE_MOVE_EXTREME_SPEED_TEXT_1": "Dash toward the designated enemy, damaging and slowing all enemies in a small radius around the target upon impact by 50% for 2s, throwing the primary target and shoving others away. Using this move resets the cooldown of Multiscale.",
+    "DRAGONITE_MOVE_EXTREME_SPEED_TEXT_2": "If Dragonite's movement speed is currently decreased when this move is used, that movement speed decrease is negated before the move is used.",
+    "DRAGONITE_MOVE_DRAGON_BREATH_TEXT_1": "Exhale a mighty gust in the designated direction. If this move hits an enemy, Dragonite's next attack becomes a boosted attack.",
+    "DRAGONITE_MOVE_HYPER_BEAM_TEXT_1": "Fires a beam of energy toward the targeted enemy after a delay, dealing damage to all enemies that it hits, as well as additional damage based on their Max HP. The move changes Stages based on the number of stacks of Dragon Dance that Dragonite has, from 0 to 3. The max HP damage is 0%/5%/10%/20%, determined by the current Stage. Dragonite cannot act while releasing the beam. Against Wild Pokémon: The additional damage from max HP is capped at 600/1200/1800/2400 depending on the stage.",
+    "DRAGONITE_MOVE_HYPER_BEAM_TEXT_2": "Reduces damage taken by 50% while charging this move.",
+    "DRAGONITE_MOVE_OUTRAGE_TEXT_1": "Dragonite stomps the ground, dealing damage to enemies in an area around Dragonite with the bonus effect of the last Boosted Attack that was used. Additionally, Dragonite gains a buff for 5.5s, increasing auto attack speed by 30% for 5.5s, converting all attacks during the duration of Outrage into melee Boosted Attacks, and alternating through the water, electric, and fire Boosted Attacks in order. When the buff ends, Dragonite is stunned for .7s.",
+    "DRAGONITE_MOVE_OUTRAGE_TEXT_2": "Reduce the duration of hindrances inflicted on Dragonite while rampaging by 40% for 5.5s.",
+    "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_1": "Briefly fly up in the air, becoming untargetable, before crashing down, approximately 2s after activating, with several comets on a designated area, dealing damage and throwing enemies in the area for 0.5s. The farther Dragonite flies, the more the Unite gauge is consumed (50% at min distance and 100% at max). Dragonite is unstoppable while using this move.",
+    "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_2": "30% Movement Speed, 35% Attack Speed, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "DRAGONITE_PA1_TEXT_1": "",
+    "DRAGONITE_PA2_TEXT_1": "",
+    "DRAGONITE_BA1_TEXT_1": "",
+    "DRAGONITE_BA2_TEXT_1": "",
+    "DRAGONITE_BA3_TEXT_1": "",
+    "DRAGONITE_MOVE_TWISTER_TEXT_1": "",
+    "DRAGONITE_MOVE_DRAGON_DANCE_TEXT_1": "",
+    "DRAGONITE_MOVE_DRAGON_DANCE_TEXT_2": "",
+    "DRAGONITE_MOVE_EXTREME_SPEED_TEXT_1": "",
+    "DRAGONITE_MOVE_EXTREME_SPEED_TEXT_2": "",
+    "DRAGONITE_MOVE_DRAGON_BREATH_TEXT_1": "",
+    "DRAGONITE_MOVE_HYPER_BEAM_TEXT_1": "",
+    "DRAGONITE_MOVE_HYPER_BEAM_TEXT_2": "",
+    "DRAGONITE_MOVE_OUTRAGE_TEXT_1": "",
+    "DRAGONITE_MOVE_OUTRAGE_TEXT_2": "",
+    "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_1": "",
+    "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_2": ""
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "En":
+  {
+    "TYRANITAR_PA1_TEXT_1": "When Larvitar receives damage equal to at least 10% of max HP, Attack is increased by 30% for 3s. This Ability goes on cooldown after it’s triggered (40s cd).",
+    "TYRANITAR_PA2_TEXT_1": "When Pupitar receives damage equal to at least 10% max HP, all status conditions are nullified and Pupitar is granted a shield worth 10% Max HP. This Ability goes on cooldown after it’s triggered (40s cd).",
+    "TYRANITAR_PA3_TEXT_1": "Summons a sandstorm around Tyranitar for 3s after using a move. This sandstorm increases Defense and Sp. Defense by 65% for 3s and deals damage to nearby enemies every .5s.",
+    "TYRANITAR_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage when it hits.",
+    "TYRANITAR_MOVE_BITE_TEXT_1": "Deals damage to enemies in front of the user. If the enemy HP is below 50%—or falls below that percentage as a result of this move—they become unable to move for a short time.",
+    "TYRANITAR_MOVE_DARK_PULSE_TEXT_1": "Exhale a mist of darkness in a horizontal sweeping motion, dealing damage to any enemy hit. If the remaining HP of an enemy hit by this move falls below 50%, they become unable to move for a short time. If this move hits an enemy again within a set amount of time, it deals additional damage. If this move is used while Tyranitar's piercing strength is activated by Ancient Power, the 8s duration of piercing damage is refreshed.",
+    "TYRANITAR_MOVE_DARK_PULSE_TEXT_2": "Reduces this move's cooldown by 1s.",
+    "TYRANITAR_MOVE_STONE_EDGE_TEXT_1": "Deals damage to enemies in a 90 degree cone, dealing more damage the closer the enemies are to the user. This move can be used up to 3 times with the cone widening to 135 and 180 degrees.",
+    "TYRANITAR_MOVE_STONE_EDGE_TEXT_2": "Increased damage.",
+    "TYRANITAR_MOVE_ROCK_POLISH_TEXT_1": "Charge ahead in the designated direction, dealing damage to any enemies hit. If this move hits any enemy, Attack is increased by 15% for 3s.",
+    "TYRANITAR_MOVE_ANCIENT_POWER_TEXT_1": "Charge power before releasing a shock wave. The shock wave deals damage to nearby enemies and leaves them unable to act for a short time. While charging power: Tyranitar becomes resistant to hindrances for 4s, movement speed is increased by 20% for 3s (stacking 3 times), and Tyranitar gains a shield (stacking 3 times and lasting up to 5s). If any enemies are hit by the shock wave, Tyranitar is granted piercing strength allowing damage dealt to ignore enemy Defense and shield effects for 8s. If this move hits an enemy, a second shock wave can be released in front of Tyranitar; dealing damage to enemies and decreasing their movement speed by 30% for 2s. If this second shock wave hits successfully, Tyranitar is granted another shield. The strength of this shield increases for each enemy hit, capping at 3 stacks.",
+    "TYRANITAR_MOVE_ANCIENT_POWER_TEXT_2": "Strengthens the effect of the shields granted by this move.",
+    "TYRANITAR_MOVE_SAND_TOMB_TEXT_1": "Leap in a designated direction; dealing damage to any enemies hit and leaving them unable to act for a short time. When Tyranitar lands, the shock from landing creates a cloud of dust at the point of impact for 6s; dealing damage-over-time every 0.5s and decreasing movement speed of enemies hit by 25% for 1s every second. If this move is used again while Tyranitar is in the cloud of dust, enemies in front of Tyranitar will be pulled closer to it. Furthermore, while the user is in the cloud of dust, they take 25% reduced damage and can ignore the Defense and shield effects of enemies.",
+    "TYRANITAR_MOVE_SAND_TOMB_TEXT_2": "Increases the length of time the cloud of dust remains at the point of impact.",
+    "TYRANITAR_MOVE_TYRANNICAL_RAMPAGE_TEXT_1": "Explode with anger and go on a rampage for 10s. While rampaging, Tyranitar also gains 50% Tenacity and the basic attack pattern changes, dealing increased damage. If the HP of an enemy hit by these basic attacks is below 20% it is immediately knocked out (enemy players only). Attacks during this move cannot critically-hit.",
+    "TYRANITAR_MOVE_TYRANNICAL_RAMPAGE_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "TYRANITAR_PA1_TEXT_1": "OOOO",
+    "TYRANITAR_PA2_TEXT_1": "OOOO",
+    "TYRANITAR_PA3_TEXT_1": "OOOO",
+    "TYRANITAR_BA1_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_BITE_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_DARK_PULSE_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_DARK_PULSE_TEXT_2": "OOOO",
+    "TYRANITAR_MOVE_STONE_EDGE_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_STONE_EDGE_TEXT_2": "OOOO",
+    "TYRANITAR_MOVE_ROCK_POLISH_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_ANCIENT_POWER_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_ANCIENT_POWER_TEXT_2": "OOOO",
+    "TYRANITAR_MOVE_SAND_TOMB_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_SAND_TOMB_TEXT_2": "OOOO",
+    "TYRANITAR_MOVE_TYRANNICAL_RAMPAGE_TEXT_1": "OOOO",
+    "TYRANITAR_MOVE_TYRANNICAL_RAMPAGE_TEXT_2": "OOOO"
+  }
+}
