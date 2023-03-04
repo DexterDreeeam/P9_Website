@@ -14,7 +14,7 @@
     "DRAGAPULT_MOVE_PHANTOM_FORCE_TEXT_1": "The user enters stealth and has 15% increased movement speed for 6s. While the user is in stealth, the boosted basic attack gauge increases. When stealth ends, Dragapult's basic attack speed is increased by 85% for 3s. After this move is learned, if the user knocks out an enemy, this move's cooldown is reset and Dragapult's Attack is increased by 6 until the end of battle. This Attack increase can stack up to 8 times.",
     "DRAGAPULT_MOVE_PHANTOM_FORCE_TEXT_2": "Reduces this move's cooldown by 0.5s when the user deals damage to enemies with basic or boosted attacks.",
     "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_1": "Launches two Dreepy and each deals damage to different enemies in the area-of-effect. The lower the enemy's remaining HP is, the more damage the Dreepy deal. If there is only one target in the area, both Dreepy target that enemy and deal damage to them. A maximum of 2 uses can be kept in reserve for this move. Dreepy may be fired once every 2s. Against Wild Pokemon: The additional damage from missing HP is capped at 1200.",
-    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TAG_TEXT_1": "30% of Damage",
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TAG_TEXT_1": "Also deals 10% of enemy missing HP.",
     "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_2": "Has an internal cooldown of 30s to activate Energy Amplifier; Has an internal cooldown of 60s to activate Buddy Barrier; 10% Max HP Shield, 10% Movement Speed for 3s"
   },
   "Cn":
