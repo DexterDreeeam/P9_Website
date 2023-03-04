@@ -1,0 +1,36 @@
+{
+  "En":
+  {
+    "WIGGLYTUFF_PA1_TEXT_1": "When hit by an enemy attack at close range, make that enemy infatuated for a short time. Infatuated enemies become enthralled and approach Wigglytuff against their will. This ability goes on a 10s cooldown when triggered.",
+    "WIGGLYTUFF_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing damage to enemies and stunning them for 0.5s when it hits.",
+    "WIGGLYTUFF_MOVE_POUND_TEXT_1": "Wigglytuff slaps the area in front of them twice (.3s apart), damaging enemies in a cone and slowing them by 40% for 0.5s.",
+    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_1": "Wigglytuff unleashes a barrage of slaps, damaging enemies in a cone 3-5 times and slowing them by 45% for 1.5s.",
+    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_2": "Slaps 4-6 times instead.",
+    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_1": "Wigglytuff emits a flash of fairy energy, dealing a small amount of damage in a cone after 0.6s followed by a large amount of damage.",
+    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_2": "Slows enemies hit by the first flash by 40% for 1s.",
+    "WIGGLYTUFF_MOVE_DEFENSE_CURL_TEXT_1": "Wigglytuff gains a 25% max HP shield for 0.5s and rolls forward a short distance, throwing enemies hit in the air for 0.5s. Hitting an obstacle while rolling will change the direction Wigglytuff is moving and reset the cooldown of Pound, Double Slap, or Dazzling Gleam.",
+    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_1": "Wigglytuff gains a 25% max HP shield for 2.5s and rolls forwards. Wigglytuff becomes unstoppable for the duration of the roll, damaging and throwing Pokémon hit in the air for 0.5s. Hitting an obstacle while rolling will change the direction Wigglytuff is moving up to 5 times and reset the cooldown of Pound, Double Slap, and Dazzling Gleam. Also, the shield refreshes duration each time an obstacle is hit.",
+    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_2": "Increases the amount of time enemies are thrown in the air to 0.7s.",
+    "WIGGLYTUFF_MOVE_SING_TEXT_1": "Wigglytuff begins singing, slowing enemies around them by 10% for 2s per \"Note\" and increasing Wigglytuff's movement speed by 30% for 2.5s. Enemies that stay inside the song's effect will be put to sleep (when reaching 4 Notes) for 1.5s, and have their Defense and Special Defense reduced by 25% for 1.25s.",
+    "WIGGLYTUFF_MOVE_SING_TEXT_2": "Increases the amount of time enemies are asleep to 1.75s and the duration of Defense and Sp. Defense to 1.5s.",
+    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_1": "Begin performing a recital and become unstoppable for 3s, granting Wigglytuff and nearby allies a shield for 2.5s as well as removing all status conditions from the affected allies and granting them immunity to hindrances for as long as the shield is active.",
+    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "WIGGLYTUFF_PA1_TEXT_1": "OOOO",
+    "WIGGLYTUFF_BA1_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_POUND_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_2": "OOOO",
+    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_2": "OOOO",
+    "WIGGLYTUFF_MOVE_DEFENSE_CURL_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_2": "OOOO",
+    "WIGGLYTUFF_MOVE_SING_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_SING_TEXT_2": "OOOO",
+    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_1": "OOOO",
+    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_2": "OOOO"
+  }
+}
