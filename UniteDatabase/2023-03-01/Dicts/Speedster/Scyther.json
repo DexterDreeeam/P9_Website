@@ -17,18 +17,18 @@
   },
   "Cn":
   {
-    "SCYTHER_PA1_TEXT_1": "OOOO",
-    "SCYTHER_BA1_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_FURY_CUTTER_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_DUAL_WINGBEAT_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_DUAL_WINGBEAT_TAG_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_DUAL_WINGBEAT_TEXT_2": "OOOO",
-    "SCYTHER_MOVE_QUICK_ATTACK_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_DOUBLE_HIT_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_DOUBLE_HIT_TEXT_2": "OOOO",
-    "SCYTHER_MOVE_SWORDS_DANCE_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_SWORDS_DANCE_TEXT_2": "OOOO",
-    "SCYTHER_MOVE_GREEN_ILLUSION_DIVE_TEXT_1": "OOOO",
-    "SCYTHER_MOVE_GREEN_ILLUSION_DIVE_TEXT_2": "OOOO"
+    "SCYTHER_PA1_TEXT_1": "该宝可梦使用招式后，下一次普攻改为连续两次普攻。这些交易中的第二个减少了伤害。技术员持续 5 秒，没有内部冷却时间。",
+    "SCYTHER_BA1_TEXT_1": "每三次攻击变为一次增强攻击，攻击两次。第一次攻击是普通的基本攻击，第二次攻击造成的伤害降低，可以暴击，并使镰刀的移动速度提高 35%，持续 2 秒。",
+    "SCYTHER_MOVE_FURY_CUTTER_TEXT_1": "用它的镰刀在一个锥形范围内进行两次斜线造成伤害。第二个斜线比第一个造成更多伤害。",
+    "SCYTHER_MOVE_DUAL_WINGBEAT_TEXT_1": "用镰刀在前方斩击，在 X 形范围内造成伤害。如果第二道斩击对中心的敌人造成伤害，则恢复使用者的 HP。此招式若命中敌人，可在一定时间内再次发动。如果再次使用此招式，使用者会向指定方向冲刺，对命中的敌人造成伤害。冲刺造成的伤害越低，敌人的 HP 越低。",
+    "SCYTHER_MOVE_DUAL_WINGBEAT_TAG_TEXT_1": "20% 的敌人失去 HP。对付野生宝可梦：总伤害上限为1200。",
+    "SCYTHER_MOVE_DUAL_WINGBEAT_TEXT_2": "增加此招式造成的伤害。",
+    "SCYTHER_MOVE_QUICK_ATTACK_TEXT_1": "向指定方向冲刺，对沿途击中的敌人造成伤害。",
+    "SCYTHER_MOVE_DOUBLE_HIT_TEXT_1": "向指定方向跳跃，在跳跃过程中对敌人造成伤害并对该敌人施加标记，直到他们离开战斗。击中敌人后，再次跳跃。落地时准备增强的自动攻击，向被攻击的敌人冲锋。此增强攻击可使用 5 秒。如果被标记的敌人被击倒，则用户的所有移动冷却时间都会重置。标记可能会被清除。",
+    "SCYTHER_MOVE_DOUBLE_HIT_TEXT_2": "冷却时间减少 1 秒。",
+    "SCYTHER_MOVE_SWORDS_DANCE_TEXT_1": "冲刺一小段距离，增加12%的攻击，持续5秒。当剑舞的攻击增益处于活动状态时，在基本攻击或技能接触 8 次后，用户会发起一次范围攻击，穿透一条直线上的敌人。",
+    "SCYTHER_MOVE_SWORDS_DANCE_TEXT_2": "使用户在冲刺时受到的伤害降低 50%（0.3 秒）。",
+    "SCYTHER_MOVE_GREEN_ILLUSION_DIVE_TEXT_1": "瞄准一个敌人，砍穿他们造成初始伤害并在一定距离外制造 5 个副本。复制体对接触到的敌人造成伤害并对其施加标记 5 秒。5 秒后，副本返回 Scyther，对接触到的敌人造成伤害，每次击中都会治疗 Scyther。此动作可以在激活后 5 秒内再次使用，作为向指定方向冲刺的动作，对击中的敌人造成伤害。副本然后冲到用户破折号的结束位置。如果副本在返回 Scyther 时与敌人接触，则副本对该敌人造成伤害并消失。如果被标记的敌人被击倒，则 Scyther 的所有移动冷却时间都会重置。击中同一目标的后续副本受到的伤害降低 70%。",
+    "SCYTHER_MOVE_GREEN_ILLUSION_DIVE_TEXT_2": "80% 移动速度，20% 最大生命值护盾"
   }
 }

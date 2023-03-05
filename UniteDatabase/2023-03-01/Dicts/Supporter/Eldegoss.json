@@ -19,20 +19,20 @@
   },
   "Cn":
   {
-    "ELDEGOSS_PA1_TEXT_1": "OOOO",
-    "ELDEGOSS_BA1_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_LEAFAGE_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_POLLEN_PUFF_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_POLLEN_PUFF_TEXT_2": "OOOO",
-    "ELDEGOSS_MOVE_LEAF_TORNADO_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_LEAF_TORNADO_TAG_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_LEAF_TORNADO_TEXT_2": "OOOO",
-    "ELDEGOSS_MOVE_SYNTHESIS_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_COTTON_GUARD_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_COTTON_GUARD_TEXT_2": "OOOO",
-    "ELDEGOSS_MOVE_COTTON_SPORE_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_COTTON_SPORE_TEXT_2": "OOOO",
-    "ELDEGOSS_MOVE_COTTON_CLOUD_CRASH_TEXT_1": "OOOO",
-    "ELDEGOSS_MOVE_COTTON_CLOUD_CRASH_TEXT_2": "OOOO"
+    "ELDEGOSS_PA1_TEXT_1": "单次攻击至少受到最大生命值5%的伤害时；恢复HP，对Eldegoss周围范围造成复仇伤害，并使该范围内的敌人移动速度降低30%，持续1.5秒。此技能有 10 秒的冷却时间。",
+    "ELDEGOSS_BA1_TEXT_1": "每三次攻击变为一次增幅攻击，在敌人身上附着一点棉絮，持续3秒。Eldegoss 和盟友对身上有棉绒的敌人的自动攻击会造成更高的伤害，并使敌人的移动速度降低 30%，持续 1.5 秒。每个攻击者的这种额外伤害有 0.35 秒的内部冷却时间。盟友使用他们自己的 SpAtk 来计算 proc。",
+    "ELDEGOSS_MOVE_LEAFAGE_TEXT_1": "Eldegoss 射出一束树叶，在第一个敌人命中时爆炸；在一个区域内造成伤害并降低移动速度 40%，持续 2 秒。",
+    "ELDEGOSS_MOVE_POLLEN_PUFF_TEXT_1": "Eldegoss 抛出一团花粉。这种粉扑会附着在落地后 0.5 秒内接触到它的任何宝可梦身上，或者直接附着在 Eldegoss 瞄准的宝可梦身上。如果附着，粉扑会在 2 秒后爆炸，对周围的敌人造成伤害并治疗盟友。如果粉扑没有附着在着陆拾取窗口内的任何神奇宝贝上，粉扑会在 1 秒后引爆。",
+    "ELDEGOSS_MOVE_POLLEN_PUFF_TEXT_2": "如果附在盟友或Eldegoss身上，它将使他们受到的伤害降低20%，持续2秒。如果直接附着在敌人身上，粉扑会随着时间的推移造成伤害。附在盟友身上时接触到小粉扑的敌人也会随着时间的推移受到伤害。",
+    "ELDEGOSS_MOVE_LEAF_TORNADO_TEXT_1": "Eldegoss 召唤出一片长满树叶的龙卷风，将它朝指定方向发射。龙卷风对敌人造成伤害并制造一条风路，使接触它的盟友的移动速度提高 55%，持续 1.5 秒，只要他们在路上，就会刷新。当龙卷风达到最大距离时，该路径会再次对路径上的敌人造成伤害。加速路径持续 4 秒。",
+    "ELDEGOSS_MOVE_LEAF_TORNADO_TAG_TEXT_1": "第一击伤害的 25%。",
+    "ELDEGOSS_MOVE_LEAF_TORNADO_TEXT_2": "被龙卷风击中的敌人将在 2.5 秒内错过所有自动攻击。",
+    "ELDEGOSS_MOVE_SYNTHESIS_TEXT_1": "Eldegoss 使用阳光来治疗自己和附近的盟友。",
+    "ELDEGOSS_MOVE_COTTON_GUARD_TEXT_1": "Eldegoss 用棉花制造屏障；为 Eldegoss 和所有附近的盟友提供 3 秒的护盾。护盾失效时，恢复剩余护盾值15%的HP。",
+    "ELDEGOSS_MOVE_COTTON_GUARD_TEXT_2": "同时使友军和Eldegoss的移动速度提高30%，持续2秒。",
+    "ELDEGOSS_MOVE_COTTON_SPORE_TEXT_1": "Eldegoss 引导 2 秒，收集孢子，同时增加 30% 的移动速度，持续 2 秒。在通道的尽头释放孢子；对附近的敌人造成伤害并将其抛向空中 0.5 秒，然后在落地时降低他们 30% 的移动速度，持续 2 秒。2s通道可以通过使用Cotton Cloud Crash提前结束。",
+    "ELDEGOSS_MOVE_COTTON_SPORE_TEXT_2": "引导时，Eldegoss 的防御和特防提高 40%。",
+    "ELDEGOSS_MOVE_COTTON_CLOUD_CRASH_TEXT_1": "浮空3s；变得无敌，移动速度提高10%，持续6秒。如果再次使用或在 3 秒后使用，重击地面，攻击并推搡敌人 0.7 秒，同时为范围内的 Eldegoss 和盟友恢复 HP。",
+    "ELDEGOSS_MOVE_COTTON_CLOUD_CRASH_TEXT_2": "30% 移动速度，30% 最大生命值护盾"
   }
 }

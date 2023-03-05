@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "GREEDENT_PA1_TEXT_1": "OOOO",
-    "GREEDENT_BA1_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_TACKLE_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_BULLET_SEED_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_BULLET_SEED_TEXT_2": "OOOO",
-    "GREEDENT_MOVE_BELCH_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_BELCH_TEXT_2": "OOOO",
-    "GREEDENT_MOVE_DEFENSE_CURL_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_2": "OOOO",
-    "GREEDENT_MOVE_COVET_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_COVET_TEXT_2": "OOOO",
-    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_1": "OOOO",
-    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_2": "OOOO"
+    "GREEDENT_PA1_TEXT_1": "贪婪者吃下浆果后，受到浆果的影响后恢复HP。与此同时，Greedent 的尾巴里藏着一颗奥兰浆果。被单次攻击或组合攻击击中会导致 Oran 浆果从 Greedent 的尾巴（4.5s cd）掉落。浆果在地上停留 10 秒。如果任何盟友或敌人吃了奥兰莓，他们会恢复 45 + 2% 最大生命值（除非敌人是贪婪者）。吃橙子浆果的贪婪敌人治疗 45 + 5 x（等级 -1）+ 2% 最大生命值",
+    "GREEDENT_BA1_TEXT_1": "每三次攻击都会成为一次增强攻击，击中时造成更高的伤害，并使贪婪者的尾巴掉落一颗奥兰浆果。",
+    "GREEDENT_MOVE_TACKLE_TEXT_1": "跳跃至指定区域，对范围内的敌人造成伤害，并使其移动速度降低20%，持续1秒。如果在 Covet 处于活动状态时使用此移动，则无法指定任何区域供 Greedent 跳跃。相反，在奔跑时，会对 Greedent 前方的敌人造成一定范围内的伤害。如果 Greedent 藏有任何奥兰浆果，则将其全部吃掉，每消耗一个浆果，Tackle 的冷却时间就会减少 1 秒。",
+    "GREEDENT_MOVE_BULLET_SEED_TEXT_1": "向指定方向吐出浆果种子6s；对范围内的敌人造成伤害，并使其移动速度降低30%，持续1秒。Greedent 为每个隐藏的奥兰浆果发射更多种子。",
+    "GREEDENT_MOVE_BULLET_SEED_TEXT_2": "伤害增加。",
+    "GREEDENT_MOVE_BELCH_TEXT_1": "对范围内的敌人造成伤害，并使其移动速度降低15%，持续1秒。如果 Greedent 藏有任何 Oran 浆果，则将其全部吃掉，每消耗一个浆果，Belch 的冷却时间就会减少 1 秒（上限为 4 秒）。此招式的冷却时间不能减少超过 1 秒。",
+    "GREEDENT_MOVE_BELCH_TEXT_2": "伤害增加。",
+    "GREEDENT_MOVE_DEFENSE_CURL_TEXT_1": "为贪婪者提供护盾（10% 最大生命值），持续 3 秒。此外，奥兰浆果会掉落在贪婪者面前。",
+    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_1": "Greedent 掉落 5 个 Oran 浆果，可以吃掉它们来恢复 HP。在 5 秒内从奥兰浆果中恢复的任何超过 Greedent 最大 HP 的 HP 将转换为每个浆果 1.8% 最大 HP 的护盾。如果贪婪者在使用此招式时看到浆果，移动速度将增加 70%，持续 6 秒，但每 1 秒减少 15%。",
+    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_2": "将奥兰浆果的掉落数量增加 1 个。",
+    "GREEDENT_MOVE_COVET_TEXT_1": "贪婪者全力奔跑6s；对障碍物产生抵抗力（持续 6.1 秒），对击中的敌人造成伤害并将其投掷。在跑步的时候; 贪婪者每 1 秒掉落奥兰浆果。吃掉掉落的浆果会使移动速度提高 22%，持续 1 秒（最多叠加 5 次）。此外，还可以在跑步时使用铲球、打嗝或子弹种子，使用此招式将重置铲球或打嗝的冷却时间。",
+    "GREEDENT_MOVE_COVET_TEXT_2": "增加伤害并增加 Oran 浆果掉落的频率（6 秒内掉落 8 个浆果）。",
+    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_1": "贪婪吃下特殊浆果恢复15%最大生命值，然后跳跃到指定区域；暂时无法阻挡，造成伤害，并将敌人扔到效果范围内。Greedent 然后吃掉另一个浆果，允许无限量的 Oran 浆果储存 8 秒并重置所有动作的冷却时间。",
+    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
   }
 }

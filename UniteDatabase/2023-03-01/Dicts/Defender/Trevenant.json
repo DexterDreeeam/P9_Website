@@ -19,20 +19,20 @@
   },
   "Cn":
   {
-    "TREVENANT_PA1_TEXT_1": "OOOO",
-    "TREVENANT_BA1_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_WILL_O_WISP_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_WOOD_HAMMER_CRASH_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_WOOD_HAMMER_CRASH_TEXT_2": "OOOO",
-    "TREVENANT_MOVE_CURSE_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_CURSE_TEXT_2": "OOOO",
-    "TREVENANT_MOVE_BRANCH_POKE_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_HORN_LEECH_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_HORN_LEECH_TEXT_2": "OOOO",
-    "TREVENANT_MOVE_PAIN_SPLIT_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_PAIN_SPLIT_TAG_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_PAIN_SPLIT_TEXT_2": "OOOO",
-    "TREVENANT_MOVE_PHANTOM_FOREST_TEXT_1": "OOOO",
-    "TREVENANT_MOVE_PHANTOM_FOREST_TEXT_2": "OOOO"
+    "TREVENANT_PA1_TEXT_1": "当特雷文特在最大生命值的 35% 或以下时造成或受到伤害时，每 0.5 秒触发一次持续的生命恢复效果，持续 4 秒。此效果还会使 Trevenant 的技能冷却时间每 1 秒减少 1 秒。此HP恢复效果结束时，有100秒的冷却时间。但是，每次 Trevenant 的一个动作对敌人造成伤害时，此冷却时间就会减少 1 秒。此冷却缩减每 0.5 秒只能触发一次。",
+    "TREVENANT_BA1_TEXT_1": "每三次攻击变为一次增强攻击，对敌人造成更高的伤害，并在该增强攻击命中时恢复 5% 的最大生命值。",
+    "TREVENANT_MOVE_WILL_O_WISP_TEXT_1": "向指定方向射出邪恶的火焰，对击中的敌人造成伤害并使其在短时间内燃烧。这种燃烧会降低敌人的攻击力和 Sp。攻击5%，持续3秒。第一缕击中目标造成全额伤害，随后的火焰命中造成 50% 的伤害。",
+    "TREVENANT_MOVE_WOOD_HAMMER_CRASH_TEXT_1": "崔文南特收回双臂攻击，对范围内的敌人造成伤害并将其拉到崔文南特面前，0.5秒内无法行动。如果这次攻击对至少一名敌人造成伤害，则可以进行持续 5 秒的后续攻击。这个后续攻击会在 Trevenant 面前猛击一把巨大的木锤，对击中的任何敌人造成伤害，并使他们无法行动。Trevenant 的 HP 越低，敌人无法行动的时间就越长。每次使用此招式，都会消耗崔文南特当前生命值的5%。",
+    "TREVENANT_MOVE_WOOD_HAMMER_CRASH_TEXT_2": "被第二锤击中的敌人造成的伤害降低 20%，持续 3 秒。",
+    "TREVENANT_MOVE_CURSE_TEXT_1": "Trevenant 创造一个诅咒区域，以换取每秒 3% 的最大生命值，持续 6 秒，每 0.5 秒对范围内的敌人造成持续伤害，持续 6 秒，并降低他们的移动速度，持续 1 秒，每次更新都会刷新。Trevenant的生命值越低，移动速度下降的幅度越大。在使用此招式时，Trevenant 每次造成或受到伤害时都会积累诅咒力量。释放这种累积的力量会对效果范围内的敌人造成额外伤害。如果诅咒能量在释放时达到最大值，树枝戳、角水蛭和痛苦分裂的冷却时间将被重置。",
+    "TREVENANT_MOVE_CURSE_TEXT_2": "半径增加。",
+    "TREVENANT_MOVE_BRANCH_POKE_TEXT_1": "特雷文特朝指定方向刺刺；造成伤害，降低他们 40% 的移动速度，持续 2 秒，并在击中敌人时为 Trevenant 恢复 9% 的最大生命值（超过 3 滴答为每秒 1 滴答）。",
+    "TREVENANT_MOVE_HORN_LEECH_TEXT_1": "向前冲锋，变得势不可挡，在冲刺期间向指定方向冲刺的同时对敌人造成伤害并推他们。在冲锋结束时，被推挤的敌人会受到额外伤害，然后被抛出。冲锋时与敌人相撞可恢复特雷文特3次生命值，特雷文特剩余生命值越低，恢复的生命值越多。此招式命中敌人后，崔文南特接下来的三次普攻造成更多伤害，并在命中时减少此招式的冷却时间0.5秒。",
+    "TREVENANT_MOVE_HORN_LEECH_TEXT_2": "使用此招式后，崔文南特的移动速度提升30%，持续1.5秒。",
+    "TREVENANT_MOVE_PAIN_SPLIT_TEXT_1": "在 Trevenant 和指定敌人之间建立联系，持续 6 秒。当链接保持时，Trevenant 受到的一定百分比的伤害将被减轻，并作为真实伤害重定向到链接的敌人。Trevenant 的剩余 HP 越低，转移的伤害百分比就越大。如果崔文南特的剩余生命百分比低于链接的敌人，此招式会持续造成伤害并每0.5秒恢复崔文南特的生命值。如果 Trevenant 和链接的敌人相距太远，链接就会消失。使用此招式可使 Trevenant 的移动速度提高 45%，持续 2 秒。",
+    "TREVENANT_MOVE_PAIN_SPLIT_TAG_TEXT_1": "Trevenant 治疗每刻所造成伤害的 120%。",
+    "TREVENANT_MOVE_PAIN_SPLIT_TEXT_2": "持续时间增加到 8.5 秒。",
+    "TREVENANT_MOVE_PHANTOM_FOREST_TEXT_1": "制造一片诅咒森林，对范围内的敌人造成伤害并标记、投掷，并使其移动速度降低50%，持续2秒。Trevenant 和盟友对被此招标记的敌人造成的伤害增加（每个攻击者 0.5s cd）。标记持续 6 秒。当此招式击中敌人时，Trevenant 也会获得持续 6 秒的护盾，每击中一个敌人，护盾就会增强，最多 5 次。当 Trevenant 受到此护盾的保护时，应用于 Trevenant 的 HP 恢复效果增加 50%。",
+    "TREVENANT_MOVE_PHANTOM_FOREST_TEXT_2": "30% 移动速度，20% 最大生命值护盾"
   }
 }

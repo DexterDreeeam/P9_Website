@@ -20,21 +20,21 @@
   },
   "Cn":
   {
-    "SNORLAX_PA1_TEXT_1": "OOOO",
-    "SNORLAX_BA1_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_TACKLE_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_2": "OOOO",
-    "SNORLAX_MOVE_FLAIL_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_FLAIL_TAG_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_FLAIL_TAG_TEXT_2": "OOOO",
-    "SNORLAX_MOVE_FLAIL_TEXT_2": "OOOO",
-    "SNORLAX_MOVE_REST_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_BLOCK_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_BLOCK_TEXT_2": "OOOO",
-    "SNORLAX_MOVE_YAWN_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_YAWN_TEXT_2": "OOOO",
-    "SNORLAX_MOVE_POWER_NAP_TEXT_1": "OOOO",
-    "SNORLAX_MOVE_POWER_NAP_TEXT_2": "OOOO"
+    "SNORLAX_PA1_TEXT_1": "增加吃浆果获得的​​效果。靠近浆果时移动速度提高 25%，并且从 Sitrus 浆果（黄色浆果）获得的治疗量翻倍。",
+    "SNORLAX_BA1_TEXT_1": "每三次攻击变为一次增强攻击。当这种强化攻击命中时，它会对附近的敌人造成更高的伤害，并使他们的移动速度降低 20%，持续 1 秒。",
+    "SNORLAX_MOVE_TACKLE_TEXT_1": "鼻涕虫向前冲刺一小段距离，造成伤害，击晕第一个命中的目标 1 秒，并将其轻微抛掷。咆哮兽的下一次自动攻击得到增强。",
+    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_1": "斯诺拉克斯跳向目标位置，造成伤害并将着陆半径内的敌人抛向空中，持续 1 秒。",
+    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_2": "伤害增加。",
+    "SNORLAX_MOVE_FLAIL_TEXT_1": "Snorlax 会为自己增益 5 秒，使自动攻击造成更高的伤害并减缓被击中的敌人。每失去 20% 的 HP Snorlax，就会加强伤害增加。Snorlax 还会短时间增加 70% 的移动速度，持续 2 秒，每 0.4 秒减少 14%，并在连枷激活时使附近敌人减速 50%，持续 1.5 秒。",
+    "SNORLAX_MOVE_FLAIL_TAG_TEXT_1": "对付野生宝可梦：总伤害上限为2000。",
+    "SNORLAX_MOVE_FLAIL_TAG_TEXT_2": "对付野生宝可梦：总伤害上限为2500。",
+    "SNORLAX_MOVE_FLAIL_TEXT_2": "伤害增加。此外，如果卡比兽的生命值低于40%，普攻也会获得30%的吸血。",
+    "SNORLAX_MOVE_REST_TEXT_1": "Snorlax 入睡 3 秒，变得势不可挡，并恢复 3 次 8% 最大生命值。睡着的敌人无法穿过 Snorlax 的碰撞箱。",
+    "SNORLAX_MOVE_BLOCK_TEXT_1": "Snorlax 在目标方向创造并保持一堵墙 4 秒并获得护盾。即使提前取消格挡，护盾也会持续 3.5 秒。接触墙壁的敌人会被击退并眩晕 0.45 秒。这种击退每 1 秒发生一次（最多 4 次）。Snorlax 在格挡时无法攻击或使用技能，但移动速度会降低 45%。",
+    "SNORLAX_MOVE_BLOCK_TEXT_2": "方块变大，击退和眩晕每 0.5 秒发生一次（最多 8 次）。格挡时，Snorlax 的 Def 和 SpDef 增加 25%。",
+    "SNORLAX_MOVE_YAWN_TEXT_1": "Snorlax 发出缓慢的短程射弹，使所有被击中的目标陷入睡眠 3 秒。",
+    "SNORLAX_MOVE_YAWN_TEXT_2": "醒来后敌人移动速度降低 35%，持续 3 秒。",
+    "SNORLAX_MOVE_POWER_NAP_TEXT_1": "进入睡眠并开始打鼾，对效果范围内的敌人造成伤害并将其抛向空中 1 秒。当沉睡的敌人无法通过卡诺拉克斯的命中框时，卡诺拉克斯免疫障碍物，对附近的敌人造成持续伤害，使被击中的敌人减速 30% 持续 1 秒，并持续恢复 7% 的最大生命值，共 9 次。此招式可以重新施放以翻身，造成 DoT 伤害的额外实例并将敌人扔到空中 1 秒。",
+    "SNORLAX_MOVE_POWER_NAP_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
   }
 }

@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "SABLEYE_PA1_TEXT_1": "OOOO",
-    "SABLEYE_BA1_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_THIEF_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_KNOCK_OFF_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_KNOCK_OFF_TEXT_2": "OOOO",
-    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_2": "OOOO",
-    "SABLEYE_MOVE_ASTONISH_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_2": "OOOO",
-    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_2": "OOOO",
-    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_1": "OOOO",
-    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_2": "OOOO"
+    "SABLEYE_PA1_TEXT_1": "当 Sableye 处于敌方玩家的视野范围之外时，Sableye 会进入隐身状态并获得 10% 的移动速度提升。当 Sableye 进入敌方玩家的视野时，Sableye 不会立即变得可见，而是会保持隐身状态 1.8 秒。Sableye 在攻击时退出隐身状态。",
+    "SABLEYE_BA1_TEXT_1": "每三次攻击变为一次增幅攻击，对命中的敌人造成伤害并降低其20%的移动速度，持续2秒。如果 Sableye 在用增强攻击击中敌人时处于隐身状态，Sableye 将造成伤害并施加恐惧效果 1 秒。受到恐惧影响的敌人将被迫远离 Sableye，移动速度降低 40%。当 Sableye 进入隐身状态时，他们会立即准备好攻击并保持住。",
+    "SABLEYE_MOVE_THIEF_TEXT_1": "向指定方向冲刺，对命中的所有敌人造成伤害并在短时间内降低其移动速度。如果此举击中敌人，Sableye 会窃取他们少量的 Aeos 能量（最多 5 个）。如果那些敌人没有任何宙斯能量，他们将在0.5秒内无法行动。",
+    "SABLEYE_MOVE_KNOCK_OFF_TEXT_1": "Sableye向指定方向冲刺，然后在攻击自己的同时再次返回，对被击中的敌人造成伤害，并使他们在0.5秒内无法行动。此招式可在7.5秒内再次使用，用爪子攻击Sableye前方，对击中的敌人造成伤害，将其推开，1.2秒内无法行动。当此招式的第一次或第二次激活击中敌人时，他们将掉落 5 个 Aeos 能量（总计 15：第一次激活 10 个，第二次激活 5 个）并且在 4 秒内无法拾取 Aeos 能量。当此招式的任一激活击中没有 Aeos 能量的敌人（或野生神奇宝贝）时，这些敌人将无法行动 1 秒。使用此招式时，Sableye 受到的伤害降低 40%。",
+    "SABLEYE_MOVE_KNOCK_OFF_TEXT_2": "使用此招式后5秒内吸收的Aeos能量可恢复9%的最大生命值，并增加40%的移动速度，持续2秒。",
+    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_1": "应用一个持续 6.5 秒的增益效果，在 1.5 秒后使 Sableye 隐身，使 Sableye 的移动速度提高 10%。如果初始隐身被障碍打断，Sableye 将不会进入隐身。当 buff 第一个隐身的 Sableye 时，Sableye 会获得准备好的增强攻击，造成额外伤害。当 buff 仍然有效时，如果 Sableye 退出潜行并且没有被障碍物固定或无法行动，它们将在 2 秒后再次进入潜行。",
+    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_2": "将此招式效果的持续时间增加到 7.5 秒。当此招式处于活动状态且 Sableye 处于隐身状态时，Sableye 还会每 0.5 秒恢复 1% 的最大生命值。",
+    "SABLEYE_MOVE_ASTONISH_TEXT_1": "貂眼攻击自己前方的锥形区域，对命中的敌人造成伤害，并使其移动速度降低 30%，持续 2 秒。如果此招式从背后击中敌人，此招式造成的伤害会增加，并且移动速度会降低 60%。",
+    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_1": "将虚拟 Aeos 能量扔到指定位置。当虚拟 Aeos 能量保留在某个位置时，该位置及其周围区域将对用户可见。虚拟 Aeos 能量一次最多可以停留在五个位置。如果敌人走在虚拟的 Aeos 能量之上，该能量会爆炸，在 4 秒内对一个区域造成 9 次持续伤害，并使被击中的敌人的移动速度降低 70%，持续 4 秒，并逐渐降低。保留 3 次使用，每 1 秒不能使用超过一次。注意：放置虚拟能量不会破坏隐形。只有当敌人受到虚拟能量的伤害时，隐身才会被打破。",
+    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_2": "如果敌人在受到此招式影响时被击倒，他们会掉落比平时更多的 Aeos 能量。",
+    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_1": "向指定方向发射邪恶射线，对命中的敌人造成伤害。如果此招式击中敌方玩家，他们也会感到困惑 2.5 秒。困惑时，敌人无法行动，无法用普通攻击连续攻击附近的敌人。困惑的敌人会按照以下优先顺序瞄准附近的敌人：首先是他们的盟友；然后是野生宝可梦；最后，Sableye 团队中的神奇宝贝。野生神奇宝贝的击倒将归因于 Sableye，窃取被击倒的野生神奇宝贝的效果以及 Aeos 能量。困惑时，自动攻击和移动 1 的输出伤害降低 50%。",
+    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_2": "当此举让对方感到困惑时，也会增加 30% 的移动速度和 50% 的攻击速度。",
+    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_1": "Sableye 在 1.2 秒内变得势不可挡，并从双眼射出光芒，对前方锥形范围内的敌人造成伤害。被此招式击中并面对 Sableye 的敌方玩家将在 3 秒内无法行动并开始准备返回基地。如果他们在返回基地前受到伤害，返回效果将被取消，他们将在 1.5 秒内无法行动。被此招式击中的敌人，如果没有面对 Sableye，移动速度会降低 50%，持续 2 秒。",
+    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
   }
 }

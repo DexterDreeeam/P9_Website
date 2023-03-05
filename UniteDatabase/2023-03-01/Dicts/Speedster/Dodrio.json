@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "DODRIO_PA1_TEXT_1": "OOOO",
-    "DODRIO_BA1_TEXT_1": "OOOO",
-    "DODRIO_MOVE_PECK_TEXT_1": "OOOO",
-    "DODRIO_MOVE_TRI_ATTACK_TEXT_1": "OOOO",
-    "DODRIO_MOVE_TRI_ATTACK_TEXT_2": "OOOO",
-    "DODRIO_MOVE_DRILL_PECK_TEXT_1": "OOOO",
-    "DODRIO_MOVE_DRILL_PECK_TEXT_2": "OOOO",
-    "DODRIO_MOVE_QUICK_ATTACK_TEXT_1": "OOOO",
-    "DODRIO_MOVE_AGILITY_TEXT_1": "OOOO",
-    "DODRIO_MOVE_AGILITY_TEXT_2": "OOOO",
-    "DODRIO_MOVE_JUMP_KICK_TEXT_1": "OOOO",
-    "DODRIO_MOVE_JUMP_KICK_TEXT_2": "OOOO",
-    "DODRIO_MOVE_TRIPLE_TRAMPLE_TEXT_1": "OOOO",
-    "DODRIO_MOVE_TRIPLE_TRAMPLE_TEXT_2": "OOOO"
+    "DODRIO_PA1_TEXT_1": "移动时，冲刺量表会充满，多德里奥会以更高的移动速度奔跑。如果移动速度降低到阈值以下，则冲刺槽会迅速耗尽。当多多进球时，它会将收集到的 Aeos 能量平均分成两部分，一次一个地投入球门。作为 Dodrio，这被分成三个部分，一次一个地投入球门。只有全频道完成的目标才会计入堆叠项目。",
+    "DODRIO_BA1_TEXT_1": "每三次攻击变为一次增强攻击。以全速冲刺计攻击时，攻击会变成朝对面方向冲锋。如果冲刺计量攻击击中敌人，所有冷却时间减少 1 秒。",
+    "DODRIO_MOVE_PECK_TEXT_1": "多多的喙向前戳去。使用招式时，朵朵停止移动，并因低于冲刺槽获得阈值而失去冲刺槽。冲刺槽满时，朵朵向前冲刺，将冲刺槽消耗殆尽。",
+    "DODRIO_MOVE_TRI_ATTACK_TEXT_1": "多德里奥用它们的喙攻击自己前方的锥形区域，对敌人造成伤害并对被击中的敌人施加以下随机效果之一：减少攻击和燃烧、降低攻击速度或降低移动速度。当冲刺槽满时，多德里奥改为朝面对的方向发射 3 颗弹丸。如果射弹击中敌人，射弹会造成伤害并根据其颜色应用上述效果之一。此招式使用后，多德里奥的下一次普攻追加伤害并回复生命值。保留 2 次使用，每 1 秒不能使用超过一次。",
+    "DODRIO_MOVE_TRI_ATTACK_TEXT_2": "下一次自动攻击额外获得相当于最大生命值 3% 的治疗效果。当使用完整的冲刺量表时，此招式的充电时间减少 1 秒。BUG：额外 3% 的 Max HP 在 Tri Attack 的射弹版本的 Tri Attack 后不适用于 Sprint Gauge Empowered Attack",
+    "DODRIO_MOVE_DRILL_PECK_TEXT_1": "多德里奥用它们锋利的喙多次向前攻击，对命中的敌人造成伤害。冲刺槽满时消耗冲刺槽，一边用锋利的喙多次攻击一边向前冲刺，对命中的敌人造成伤害并将其推开。",
+    "DODRIO_MOVE_DRILL_PECK_TEXT_2": "减少 2.5 秒的基础 cd，并恢复 Dodrio 的部分 HP，该部分 HP 等于固定伤害造成的伤害的 30%（不包括百分比伤害）。",
+    "DODRIO_MOVE_QUICK_ATTACK_TEXT_1": "向前冲刺，短时间内提高使用者的移动速度并对击中的敌人造成伤害。如果击中敌人，此招式的冷却时间会减少 1 秒。",
+    "DODRIO_MOVE_AGILITY_TEXT_1": "在短时间内对障碍免疫并增加冲刺量表。之后，移动速度增加 20%，持续 4 秒，冲刺槽的充能速度加快。",
+    "DODRIO_MOVE_AGILITY_TEXT_2": "使用时为冲刺量表充满电。",
+    "DODRIO_MOVE_JUMP_KICK_TEXT_1": "多德里奥一边踢一边向前跳跃。如果此招式接触到敌人或障碍物，多德里奥会跳过它并在落地时踩踏地面，对范围内的敌人造成伤害，减速25%，持续2秒，冲刺槽增加75%。如果此招式与敌人接触，则此招式的冷却时间减少 3 秒。",
+    "DODRIO_MOVE_JUMP_KICK_TEXT_2": "降落区域的敌人也会被眩晕 1 秒。",
+    "DODRIO_MOVE_TRIPLE_TRAMPLE_TEXT_1": "多德里奥跑到指定地点。奔跑时，多德里奥不受障碍物的影响。如果多德里奥在奔跑中与敌人接触，他们会受到伤害并被抛到空中 1 秒。当多德里奥到达指定位置时，多德里奥获得30%的攻击力提升并失去5%的Sp。攻击持续 3 秒，获得 10% 最大生命值护盾，持续 3 秒，冲刺槽蓄力加速，持续 6 秒。在指定位置造成的伤害受 30% 攻击加成的影响。",
+    "DODRIO_MOVE_TRIPLE_TRAMPLE_TEXT_2": "80% 移动速度，20% 最大生命值护盾"
   }
 }

@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "CRUSTLE_PA1_TEXT_1": "OOOO",
-    "CRUSTLE_BA1_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_ROCK_SLIDE_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_2": "OOOO",
-    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_2": "OOOO",
-    "CRUSTLE_MOVE_FURY_CUTTER_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_2": "OOOO",
-    "CRUSTLE_MOVE_X_SCISSOR_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_X_SCISSOR_TEXT_2": "OOOO",
-    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_1": "OOOO",
-    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "OOOO"
+    "CRUSTLE_PA1_TEXT_1": "获得防御和 Sp。每 7% 的 Crustle 损失的 HP 的防御。叠加 10 次。",
+    "CRUSTLE_BA1_TEXT_1": "每三次攻击变为一次增强攻击。当此增幅攻击命中时，会对效果范围内的敌人造成伤害，并使其移动速度降低 40%，持续 2 秒。",
+    "CRUSTLE_MOVE_ROCK_SLIDE_TEXT_1": "碎石在小范围内掉落岩石，击中敌人 1 秒。",
+    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_1": "碎裂发出一道光束，对命中的敌人造成伤害，并短暂地降低他们 60% 的移动速度，持续 2 秒，然后在指定位置制造一堵弯曲的墙。当墙升起或消失时，附近的敌人会受到伤害并使其移动速度降低 60%，持续 2 秒。墙持续 3 秒，可以提前取消。",
+    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_2": "移动速度降低增加到 80%。",
+    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_1": "Crustle 粉碎了他们的外壳，将 Def 和 SpD 设置为 0，分别获得相当于损失的 Def 和 SpD 的 40% 的 Atk 和 SpA。来自物品和增益（包括 Crustle 的被动）的额外 Def 和 SpD 是免除的。Crustle 还会获得 75% 的移动速度（每 1 秒降低 5%）并且在激活此移动时变得不可阻挡 0.8 秒。这个增益持续 4.5 秒。",
+    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_2": "Def 和 SpD 转换从 40% 增加到 50%。",
+    "CRUSTLE_MOVE_FURY_CUTTER_TEXT_1": "Crustle 用他的爪子攻击一次。被 Fury Cutter 击中的敌人会获得一个持续 9 秒的减益效果，使后续 Fury Cutter 攻击造成 20% 的额外伤害。最多 2 层减益效果。此减益带来的额外伤害总是四舍五入。",
+    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_1": "Crustle 向指定方向发射一堆岩石。击中敌人、墙壁或达到最大距离后，会产生一个半径，在该半径范围内，岩石在 4 秒内每 0.5 秒对敌人造成最多 8 次伤害。每次击中都会施加一层 debuff，使后续击中的伤害提高 15%，持续 1.5 秒，最多可叠加 10 次。此减益带来的额外伤害总是四舍五入。",
+    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_2": "岩石的持续时间增加 1 秒。命中次数从 8 次增加到 10 次。此外，使敌人的移动速度降低 35%，持续 1 秒。",
+    "CRUSTLE_MOVE_X_SCISSOR_TEXT_1": "Crustle 用他的爪子攻击 3 次，每次攻击都会造成更高的伤害，每次攻击都会将敌人推开 0.2 秒。如果敌人在第三击落地时靠墙，则眩晕 1.5 秒。",
+    "CRUSTLE_MOVE_X_SCISSOR_TEXT_2": "冷却时间减少 1 秒。",
+    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_1": "召唤一阵岩石旋风。开始时使附近的敌人昏迷1秒并获得护盾（40%最大生命值+600生命值）。然后每 1 秒对附近的敌人造成一次伤害，持续 10 秒，如果 Crustle 在这个动作生效时受到伤害，则造成额外的复仇伤害（这不会每 2 秒发生一次以上）。",
+    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
   }
 }

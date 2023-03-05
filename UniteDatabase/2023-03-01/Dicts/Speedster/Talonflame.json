@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "TALONFLAME_PA1_TEXT_1": "OOOO",
-    "TALONFLAME_BA1_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_PECK_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_FLAME_CHARGE_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_FLAME_CHARGE_TEXT_2": "OOOO",
-    "TALONFLAME_MOVE_AERIAL_ACE_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_AERIAL_ACE_TEXT_2": "OOOO",
-    "TALONFLAME_MOVE_ACROBATICS_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_FLY_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_FLY_TEXT_2": "OOOO",
-    "TALONFLAME_MOVE_BRAVE_BIRD_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_BRAVE_BIRD_TEXT_2": "OOOO",
-    "TALONFLAME_MOVE_FLAME_SWEEP_TEXT_1": "OOOO",
-    "TALONFLAME_MOVE_FLAME_SWEEP_TEXT_2": "OOOO"
+    "TALONFLAME_PA1_TEXT_1": "HP 85%以上时；移动速度提高 10%。",
+    "TALONFLAME_BA1_TEXT_1": "每三次攻击变为一次增强攻击，制造出炽热的旋风，对范围内的敌人造成伤害。即使在离开战斗后，这种增强的攻击仍然准备就绪。",
+    "TALONFLAME_MOVE_PECK_TEXT_1": "Talonflame 飞向目标宝可梦并攻击它 3 次。",
+    "TALONFLAME_MOVE_FLAME_CHARGE_TEXT_1": "Talonflame 向前冲；对路径上的敌人造成伤害。冲刺后 Talonflame 获得 30% 的移动速度，持续 1.5 秒。",
+    "TALONFLAME_MOVE_FLAME_CHARGE_TEXT_2": "此招命中后3秒；Talonflame 的技能和自动攻击会部分忽略敌人的防御（上限为 0），并且被击中的敌人会减速 30%，持续 5 秒。",
+    "TALONFLAME_MOVE_AERIAL_ACE_TEXT_1": "Talonflame 冲过目标敌人；损坏它们并治疗 Talonflame。Talonflame 的下一次自动攻击得到提升。",
+    "TALONFLAME_MOVE_AERIAL_ACE_TEXT_2": "伤害增加。",
+    "TALONFLAME_MOVE_ACROBATICS_TEXT_1": "Talonflame 飞向目标区域；最多攻击范围内的所有宝可梦3次。Talonflame可以在移动结束后选择一个方向冲刺。",
+    "TALONFLAME_MOVE_FLY_TEXT_1": "Talonflame 飞向天空；变得无法被选中，移动速度提高 65%。3 秒后，Talonflame 向目标区域俯冲，对该区域内的所有敌人造成伤害。飞行可以重铸为提前潜水。如果击中敌方玩家，此招式的冷却时间会减少 40%。使用此招式后，下一次攻击变为增幅攻击。",
+    "TALONFLAME_MOVE_FLY_TEXT_2": "被击中的敌人也会被抛到空中 0.4 秒。",
+    "TALONFLAME_MOVE_BRAVE_BIRD_TEXT_1": "Talonflame 向目标区域俯冲；承受剩余生命值的5%作为后坐力伤害，并对范围内的所有敌人造成伤害。如果 Talonflame 在 4 秒内对被 Brave Bird 击中的敌人使用增强攻击，则重置 Flame Charge 或 Aerial Ace 的冷却时间。Brave bird 每击中一个目标，只能重置一次 Flame Charge 和 Aerial Ace 的冷却时间。",
+    "TALONFLAME_MOVE_BRAVE_BIRD_TEXT_2": "当此招式命中时，Talonflame 在 5 秒内每击中一个敌人就会减少 15% 的伤害。此伤害减免最多叠加 3 次（上限为 45%）。",
+    "TALONFLAME_MOVE_FLAME_SWEEP_TEXT_1": "Talonflame 向前冲锋；伤害并推开其路径上的所有敌人。烈焰扫荡造成最多 2 次伤害，而烈焰猛爪在扫荡期间受到的伤害减少 50%。",
+    "TALONFLAME_MOVE_FLAME_SWEEP_TEXT_2": "80% 移动速度，20% 最大生命值护盾"
   }
 }

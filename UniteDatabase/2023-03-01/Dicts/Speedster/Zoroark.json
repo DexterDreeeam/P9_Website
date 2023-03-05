@@ -20,21 +20,21 @@
   },
   "Cn":
   {
-    "ZOROARK_PA1_TEXT_1": "OOOO",
-    "ZOROARK_BA1_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_SLASH_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_SHADOW_CLAW_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_SHADOW_CLAW_TEXT_2": "OOOO",
-    "ZOROARK_MOVE_CUT_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_CUT_TEXT_2": "OOOO",
-    "ZOROARK_MOVE_FURY_SWIPES_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_NIGHT_SLASH_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_NIGHT_SLASH_TAG_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_NIGHT_SLASH_TEXT_2": "OOOO",
-    "ZOROARK_MOVE_FEINT_ATTACK_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_FEINT_ATTACK_TAG_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_FEINT_ATTACK_TEXT_2": "OOOO",
-    "ZOROARK_MOVE_NIGHTFALL_DAZE_TEXT_1": "OOOO",
-    "ZOROARK_MOVE_NIGHTFALL_DAZE_TEXT_2": "OOOO"
+    "ZOROARK_PA1_TEXT_1": "索罗亚克以离对方最近的野生神奇宝贝或神奇宝贝的形式出现。索罗亚克在受到伤害、使用自动攻击或移动、试图得分或召回基地时会恢复原状。应用幻象会应用无敌 20 帧（1/3 秒）。此技能有 15 秒的冷却时间。",
+    "ZOROARK_BA1_TEXT_1": "每三次攻击都会增强，造成更高的伤害。",
+    "ZOROARK_MOVE_SLASH_TEXT_1": "向指定方向冲刺，对命中的敌人造成伤害。",
+    "ZOROARK_MOVE_SHADOW_CLAW_TEXT_1": "向指定方向冲刺，对敌人造成伤害，并使其0.1s无法行动。如果此招式击中冲刺终点附近的敌人，他们将被抛出 0.3 秒，而不是无法行动。",
+    "ZOROARK_MOVE_SHADOW_CLAW_TEXT_2": "将敌人被抛出的时间延长至 0.6 秒。",
+    "ZOROARK_MOVE_CUT_TEXT_1": "向指定方向冲刺，对敌人造成伤害，并恢复索罗亚克的生命值。",
+    "ZOROARK_MOVE_CUT_TEXT_2": "增加此招式恢复的 HP 量。",
+    "ZOROARK_MOVE_FURY_SWIPES_TEXT_1": "向指定方向冲刺，对敌人造成伤害。如果这一招击中敌人，在短时间内，可以再次使用这一招。",
+    "ZOROARK_MOVE_NIGHT_SLASH_TEXT_1": "持续 2 秒，将用户的正常移动更改为冲刺攻击。执行冲刺攻击后，用户的下一次自动攻击将变为独特的强化攻击。在该招式的效果持续时间内，每当索罗亚克以其他招式或独有的强化攻击击中敌人时，该招式的效果持续时间将重置为2秒，并且使用者可以再次使用暗夜斩。如果用户在无法使用 Night Slash 时移动，则该移动的效果持续时间结束。此招式持续期间，如果索罗亚克以总共六招和/或独特的增幅攻击击中敌人，使用者将跳到空中成为无敌状态，然后在落地时斩击设定的范围，对敌人，并根据他们失去的 HP 对敌人造成额外伤害。索罗亚克的斩击击中敌人时会恢复HP。跳跃时，用户可以使用暗影爪或切割移动设定的距离。",
+    "ZOROARK_MOVE_NIGHT_SLASH_TAG_TEXT_1": "额外造成 10% 已损失敌人 HP 的伤害。对付野生宝可梦：总伤害上限为1000。",
+    "ZOROARK_MOVE_NIGHT_SLASH_TEXT_2": "此招式的冷却时间减少 1 秒。",
+    "ZOROARK_MOVE_FEINT_ATTACK_TEXT_1": "向指定方向冲刺，对敌人造成伤害并重置所有使用者的移动冷却时间。如果此招式击中敌人，则在 3 秒内标记冲刺开始的位置，使用者可以再次使用此招式，返回标记的位置，对敌人造成伤害。破折号开始的地方留下了一个新标记。只要有标记，如果用户使用另一个招式，标记就会移动到使用招式的地方。如果用户在不打断标记链的情况下使用假动作攻击或其他动作击中敌人四次，则下一次使用假动作会发生变化。如果使用这种改变形式的佯攻，索罗亚克将向指定的敌人扑去。索罗亚克在跳跃时指定一个方向，以指定方向弹开目标进行斩击。这种斩击攻击对最初指定的目标和斩击范围内的任何神奇宝贝造成伤害。此斜线还会根据损失的 HP 造成额外伤害。",
+    "ZOROARK_MOVE_FEINT_ATTACK_TAG_TEXT_1": "额外造成 15% 已损失敌人 HP 的伤害。对付野生宝可梦：总伤害上限为1200。",
+    "ZOROARK_MOVE_FEINT_ATTACK_TEXT_2": "此招式的冷却时间减少 1 秒。",
+    "ZOROARK_MOVE_NIGHTFALL_DAZE_TEXT_1": "释放黑暗冲击波，对命中的敌人造成伤害。三道冲击波释放，每一道冲击波的作用范围都越来越大。使用者在释放冲击波时不受障碍物的影响。",
+    "ZOROARK_MOVE_NIGHTFALL_DAZE_TEXT_2": "80% 移动速度，20% 最大生命值护盾"
   }
 }

@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "BLISSEY_PA1_TEXT_1": "OOOO",
-    "BLISSEY_BA1_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_POUND_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_EGG_BOMB_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_EGG_BOMB_TEXT_2": "OOOO",
-    "BLISSEY_MOVE_HELPING_HAND_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_HELPING_HAND_TEXT_2": "OOOO",
-    "BLISSEY_MOVE_HEAL_PULSE_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_SOFT_BOILED_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_SOFT_BOILED_TEXT_2": "OOOO",
-    "BLISSEY_MOVE_SAFEGUARD_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_SAFEGUARD_TEXT_2": "OOOO",
-    "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_1": "OOOO",
-    "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_2": "OOOO"
+    "BLISSEY_PA1_TEXT_1": "每 6 秒 Blissey 会自动清洁自己。即使 Blissey 没有激活的减益效果，自然疗法也会激活。",
+    "BLISSEY_BA1_TEXT_1": "每当自然疗法激活时，Blissey 的下一次攻击将得到增强，造成更高的伤害。",
+    "BLISSEY_MOVE_POUND_TEXT_1": "Blissey 向指定方向猛击，对被击中的敌人造成 40% 的伤害并使其减速，持续 2 秒。",
+    "BLISSEY_MOVE_EGG_BOMB_TEXT_1": "Blissey 将一个鸡蛋扔到一个爆炸的地方；对半径内的敌人造成伤害并投掷 0.8 秒。保留 2 次使用，每 2 秒不能使用超过一次。学习 Soft-Boiled 和 Egg Bomb 时，获得 2 个额外的 Soft-Boiled 次数。费用在两个移动之间共享。两个动作的基础冷却时间变为 5 秒，使用相同动作之间的时间仍然是 2 秒的冷却时间。",
+    "BLISSEY_MOVE_EGG_BOMB_TEXT_2": "投掷后还会使敌人减速 40%，持续 2 秒。",
+    "BLISSEY_MOVE_HELPING_HAND_TEXT_1": "极乐使自身和友军移动速度和普攻速度大幅提升35%，持续3秒。在此期间，Blissey 的所有自动攻击都会得到提升。此奖励到期后，Blissey 将失去任何授予的增强攻击。",
+    "BLISSEY_MOVE_HELPING_HAND_TEXT_2": "还会使所有受影响的人的自动攻击伤害提高 15%，持续 3 秒。",
+    "BLISSEY_MOVE_HEAL_PULSE_TEXT_1": "Blissey在2秒内持续恢复生命值以及指定盟友的生命值，每0.5秒恢复一次。",
+    "BLISSEY_MOVE_SOFT_BOILED_TEXT_1": "Blissey 向盟友扔鸡蛋，治愈 Blissey 和指定的盟友。之后每 1 秒额外治疗 2 秒。在这 2 秒之前使用额外的软煮蛋会随着时间的推移覆盖之前鸡蛋的额外治疗。保留 2 次使用，每 2 秒不能使用超过一次。学习 Soft-Boiled 和 Egg Bomb 时，获得 2 个额外的 Soft-Boiled 次数。费用在两个移动之间共享。两个动作的基础冷却时间变为 5 秒，使用相同动作之间的时间仍然是 2 秒的冷却时间。",
+    "BLISSEY_MOVE_SOFT_BOILED_TEXT_2": "获得额外费用。",
+    "BLISSEY_MOVE_SAFEGUARD_TEXT_1": "Blissey 为目标盟友和他们自己提供一个持续 3 秒的护盾，清除障碍并使双方免疫障碍，直到护盾被移除（护盾持续 3 秒）。",
+    "BLISSEY_MOVE_SAFEGUARD_TEXT_2": "护盾值增加。",
+    "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_1": "Blissey 冲向指定的盟友并给它一个蛋，为该盟友提供护盾并增加他们的 Attack 和 Sp。6秒内攻击力提高20%。Blissey 还会拦截该盟友受到的伤害的 50%，持续 6 秒。冲刺时，将击中的敌人抛向空中 0.8 秒。当到达目标盟友时，对附近的所有敌人造成额外伤害。",
+    "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
   }
 }

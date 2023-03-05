@@ -19,20 +19,20 @@
   },
   "Cn":
   {
-    "COMFEY_PA1_TEXT_1": "OOOO",
-    "COMFEY_PA1_TAG_TEXT_1": "OOOO",
-    "COMFEY_BA1_TEXT_1": "OOOO",
-    "COMFEY_MOVE_SYNTHESIS_TEXT_1": "OOOO",
-    "COMFEY_MOVE_FLORAL_HEALING_TEXT_1": "OOOO",
-    "COMFEY_MOVE_FLORAL_HEALING_TEXT_2": "OOOO",
-    "COMFEY_MOVE_SWEET_KISS_TEXT_1": "OOOO",
-    "COMFEY_MOVE_SWEET_KISS_TEXT_2": "OOOO",
-    "COMFEY_MOVE_VINE_WHIP_TEXT_1": "OOOO",
-    "COMFEY_MOVE_MAGICAL_LEAF_TEXT_1": "OOOO",
-    "COMFEY_MOVE_MAGICAL_LEAF_TEXT_2": "OOOO",
-    "COMFEY_MOVE_GRASS_KNOT_TEXT_1": "OOOO",
-    "COMFEY_MOVE_GRASS_KNOT_TEXT_2": "OOOO",
-    "COMFEY_MOVE_FLOWERY_FIELDS_FOREVER_TEXT_1": "OOOO",
-    "COMFEY_MOVE_FLOWERY_FIELDS_FOREVER_TEXT_2": "OOOO"
+    "COMFEY_PA1_TEXT_1": "Comfey 每 1.5 秒获得一朵花。Comfey 自己进入高草丛时获得了四朵花。这有 5 秒的内部冷却时间。Comfey最多可以有八朵花。此外，当靠近剩余 HP 为 50% 或以下的盟友神奇宝贝时，Comfey 移动速度加快 25%。当 Comfey 使用 Synthesis、Floral Healing 或 Sweet Kiss 时，它可以将自己附着在盟友神奇宝贝身上，并应用 Comfey 最大 HP 15% 的基础护盾。附着时康菲不受攻击影响并逐渐恢复生命值。当这只神奇宝贝附着的盟友神奇宝贝获得的 Aeos 能量超过它可以容纳的最大值时，Comfey 会吸收多余的能量。当这只神奇宝贝附着的盟友神奇宝贝进球时，Comfey 也会以相同的能量得分。如果 Comfey 在计分期间使用 Move，Comfey 的部分得分将被取消。Comfey 可以从盟友 Pokémon 释放，然后向指定方向移动。如果附在其上的盟友神奇宝贝通过分流获得护盾，则护盾的分流部分将被移除。这只宝可梦释放后，它的下一次普通攻击会变成增强的普通攻击。释放方向由 Switch 上的右摇杆控制，并使用 Switch 上方向键的向下按钮或移动设备上的单独按钮。",
+    "COMFEY_PA1_TAG_TEXT_1": "Comfey 最大 HP 的 15%",
+    "COMFEY_BA1_TEXT_1": "成为增强攻击，每三次攻击造成更高的伤害并为 Comfey 提供两朵花。",
+    "COMFEY_MOVE_SYNTHESIS_TEXT_1": "如果未附着，则附着在指定的盟友神奇宝贝上并为其提供盾牌（参见分类）。如果附着，治疗附着的盟友神奇宝贝。所有的花在使用时都会消耗掉。消耗的花越多，恢复的HP就越多。",
+    "COMFEY_MOVE_FLORAL_HEALING_TEXT_1": "如果未附着，则附着在指定的盟友神奇宝贝上并为他们提供盾牌（参见分类）。如果附着，治疗附着的盟友神奇宝贝的。所有的花在使用时都会消耗掉。消耗的花越多，恢复的HP就越多。任何超过我方神奇宝贝最大值的恢复 HP 都会转换为盾牌。这个超量治疗护盾最多可以叠加 4 层，持续 5 秒，额外使用时会刷新持续时间。",
+    "COMFEY_MOVE_FLORAL_HEALING_TEXT_2": "同时增加我方宝可梦 30% 的移动速度，持续 2 秒。",
+    "COMFEY_MOVE_SWEET_KISS_TEXT_1": "如果未附着，则附着在指定的盟友神奇宝贝上并给他们一个盾牌（见分流）。如果与 Sweet Kiss 连接，则会提供额外的防护罩。如果附着在我方宝可梦身上，按住并松开可充能最多 2.5 秒，使效果区域内的对方宝可梦陷入痴迷状态。充电超过 2.5 秒会取消移动。痴情的宝可梦违背康菲的意愿接近康菲。充能时间越长，效果面积越大，1.5秒后达到最大充能。附着时使用甜蜜之吻会消耗所有花朵。消耗的花越多，神奇宝贝迷恋的时间就越长，每朵花 0.1 秒，2 朵花时最少 0.8 秒（注意：由于冷却时间上限和花朵，无法在少于 2 朵花时使用甜蜜之吻生成速度）。",
+    "COMFEY_MOVE_SWEET_KISS_TEXT_2": "蓄力时，附身的我方宝可梦的移动速度提高 30%，持续 2 秒。",
+    "COMFEY_MOVE_VINE_WHIP_TEXT_1": "向前方挥出鞭状藤蔓，对范围内的宝可梦造成伤害并减速40%，持续2秒。附在盟友身上时，此招式的范围会增加。",
+    "COMFEY_MOVE_MAGICAL_LEAF_TEXT_1": "每秒发射三片好奇的散落叶，持续 5 秒。树叶以效果区域内的对手神奇宝贝为目标，并在击中时造成伤害。这些叶子甚至可以对隐藏在高草丛中的神奇宝贝造成伤害。当 Pokémon 受到伤害时，它们会被标记为 4 秒，以便在被另一片叶子击中时刷新。如果一只宝可梦获得 6 个印记，该宝可梦将昏迷 0.75 秒。如果在用户连接到盟友神奇宝贝时使用此招式，则其效果范围会增加。魔法叶优先攻击敌方宝可梦。",
+    "COMFEY_MOVE_MAGICAL_LEAF_TEXT_2": "将每秒发射的叶数增加到四片。",
+    "COMFEY_MOVE_GRASS_KNOT_TEXT_1": "向指定方向放出藤蔓，对击中的对方宝可梦造成伤害并定身。此招式最多可以击中对方的两只宝可梦。如果它击中了全范围 75% 范围内的两只对立宝可梦，草结会将第二只宝可梦拉到第一只宝可梦的位置并对两者造成额外伤害。附在盟友身上时，此招式的范围会增加。",
+    "COMFEY_MOVE_GRASS_KNOT_TEXT_2": "增加此招式的影响范围。",
+    "COMFEY_MOVE_FLOWERY_FIELDS_FOREVER_TEXT_1": "在自身周围制造一大片高草丛，持续 6 秒。这片高草丛中的神奇宝贝是看不见的，就像地图上的其他高草丛一样。如果我方宝可梦进入这片高草丛，它们会每 0.5 秒持续治疗一次。Comfey 从这种高草中长出特殊的花朵。这种草的花朵可以让你获得强大的花香疗愈和甜蜜之吻。",
+    "COMFEY_MOVE_FLOWERY_FIELDS_FOREVER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
   }
 }

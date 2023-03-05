@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "SLOWBRO_PA1_TEXT_1": "OOOO",
-    "SLOWBRO_BA1_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_WATER_GUN_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_SCALD_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_SCALD_TEXT_2": "OOOO",
-    "SLOWBRO_MOVE_SURF_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_SURF_TEXT_2": "OOOO",
-    "SLOWBRO_MOVE_SLACK_OFF_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_AMNESIA_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_AMNESIA_TEXT_2": "OOOO",
-    "SLOWBRO_MOVE_TELEKINESIS_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_TELEKINESIS_TEXT_2": "OOOO",
-    "SLOWBRO_MOVE_SLOWBEAM_TEXT_1": "OOOO",
-    "SLOWBRO_MOVE_SLOWBEAM_TEXT_2": "OOOO"
+    "SLOWBRO_PA1_TEXT_1": "Slowbro 会在短时间内储存失去的 HP（蓝色 HP）。Slowbro 的无视生命值会保持 6 秒，然后每秒减少 3% 最大生命值。使用水枪、烫伤、冲浪或慢光对敌人造成伤害时 - 降低敌人 4% 的 Sp.Def，持续 5 秒，最多可叠加 5 次。",
+    "SLOWBRO_BA1_TEXT_1": "每三次攻击变为一次增强攻击。当此增幅攻击命中时，对附近的敌人造成伤害并使其移动速度降低 30%，持续 1 秒。",
+    "SLOWBRO_MOVE_WATER_GUN_TEXT_1": "Slowbro 射出一股水流，对命中的敌人造成伤害并使其减速 35%，持续 1 秒。可以引导此移动以增加其范围和伤害。引导时 Slowbro 的移动速度会降低。在击中敌人后，恢复 Slowbro 的一些不经意的生命值（蓝色 HP）一次。",
+    "SLOWBRO_MOVE_SCALD_TEXT_1": "Slowbro 喷出一股沸水；对击中的敌人造成伤害，使其减速 80%，持续 0.5 秒，并以第一个击中的敌人为中心制造一团蒸汽，减速 30%，持续 3 秒，并对里面的所有敌人造成灼伤。这种燃烧会降低 40% 的攻击，持续 3 秒。在击中敌人后，每个流实例恢复 10% 的 Slowbro 的不经意健康（蓝色 HP）（最多 3 次）。",
+    "SLOWBRO_MOVE_SCALD_TEXT_2": "增加蒸汽云的大小。",
+    "SLOWBRO_MOVE_SURF_TEXT_1": "Slowbro 骑在波浪上，对敌人造成伤害，将其击退，并将其抛向空中 0.4 秒。第一波之后又是两波，对敌人造成 25% 的伤害和减速，持续 1 秒。当击中至少一个敌人（最多 3 次）时，每波恢复 10% 的 Slowbro 不经意的生命值（蓝色 HP）。",
+    "SLOWBRO_MOVE_SURF_TEXT_2": "第二波和第三波现在也会将敌人抛向空中 0.75 秒，第二波会将敌人击退。",
+    "SLOWBRO_MOVE_SLACK_OFF_TEXT_1": "Slowbro 开始引导小睡并随着时间的推移获得治疗，每 0.5 秒恢复 1.5% 的最大生命值，持续 3 秒。当 Slowbro 继续引导它的午睡时，所有自我治疗都会加倍（包括 Slack Off 治疗）。",
+    "SLOWBRO_MOVE_AMNESIA_TEXT_1": "Slowbro 短暂地变得势不可挡，获得 +300 防御力，持续 4 秒，并每秒恢复 Slowbro 不经意的生命值（蓝色 HP）的 22.5%，持续 4 秒。",
+    "SLOWBRO_MOVE_AMNESIA_TEXT_2": "同时增加 Slowbro 的 Sp。防御力150。",
+    "SLOWBRO_MOVE_TELEKINESIS_TEXT_1": "Slowbro 射出一道光束，使第一个被击中的敌人漂浮在空中 2.3 秒，每秒恢复 Slowbro 15% 的无视生命值（蓝色 HP），持续 5 秒。Slowbro 可以重新激活将敌人拉向自己的能力，但在此期间无法行动。",
+    "SLOWBRO_MOVE_TELEKINESIS_TEXT_2": "增加光束的范围和速度。",
+    "SLOWBRO_MOVE_SLOWBEAM_TEXT_1": "凝视敌人并持续攻击，每 0.5 秒造成一次伤害，持续 3 秒并对其施加“束缚”。这种能力反击势不可挡。授予护盾（10% 最大 HP）并使 Slowbro 在使用此招式时免疫障碍。",
+    "SLOWBRO_MOVE_SLOWBEAM_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
   }
 }

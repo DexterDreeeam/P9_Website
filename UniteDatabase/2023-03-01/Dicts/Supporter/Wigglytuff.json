@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "WIGGLYTUFF_PA1_TEXT_1": "OOOO",
-    "WIGGLYTUFF_BA1_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_POUND_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_2": "OOOO",
-    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_2": "OOOO",
-    "WIGGLYTUFF_MOVE_DEFENSE_CURL_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_2": "OOOO",
-    "WIGGLYTUFF_MOVE_SING_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_SING_TEXT_2": "OOOO",
-    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_1": "OOOO",
-    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_2": "OOOO"
+    "WIGGLYTUFF_PA1_TEXT_1": "近距离被敌人攻击命中时，使该敌人短时间陷入迷魂状态。痴迷的敌人变得着迷并违背他们的意愿接近 Wigglytuff。此技能触发后有 10 秒的冷却时间。",
+    "WIGGLYTUFF_BA1_TEXT_1": "每三次攻击变为一次增幅攻击，对敌人造成伤害并在命中时使敌人昏迷0.5秒。",
+    "WIGGLYTUFF_MOVE_POUND_TEXT_1": "Wigglytuff 两次拍击他们前方的区域（相隔 0.3 秒），对锥形范围内的敌人造成伤害并使其减速 40%，持续 0.5 秒。",
+    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_1": "Wigglytuff 释放一连串的巴掌，对锥形范围内的敌人造成 3-5 次伤害，并使他们减速 45%，持续 1.5 秒。",
+    "WIGGLYTUFF_MOVE_DOUBLE_SLAP_TEXT_2": "而是打耳光 4-6 次。",
+    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_1": "Wigglytuff 发出一道闪光的精灵能量，在 0.6 秒后在锥形范围内造成少量伤害，随后造成大量伤害。",
+    "WIGGLYTUFF_MOVE_DAZZLING_GLEAM_TEXT_2": "使第一道闪光击中的敌人减速 40%，持续 1 秒。",
+    "WIGGLYTUFF_MOVE_DEFENSE_CURL_TEXT_1": "Wigglytuff 获得 25% 的最大 HP 护盾，持续 0.5 秒，并向前滚动一小段距离，将击中的敌人抛向空中，持续 0.5 秒。翻滚时撞到障碍物会改变 Wigglytuff 的移动方向，并重置重击、双拍或炫光的冷却时间。",
+    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_1": "Wigglytuff 获得 25% 的最大 HP 护盾，持续 2.5 秒并向前滚动。Wigglytuff 在翻滚期间变得势不可挡，对击中的神奇宝贝造成伤害并将其投掷到空中 0.5 秒。翻滚时撞到障碍物最多会改变 Wigglytuff 的移动方向 5 次，并重置重击、双拍和炫目闪光的冷却时间。此外，每次击中障碍物时，护盾都会刷新持续时间。",
+    "WIGGLYTUFF_MOVE_ROLLOUT_TEXT_2": "将敌人被抛向空中的时间增加到 0.7 秒。",
+    "WIGGLYTUFF_MOVE_SING_TEXT_1": "Wigglytuff 开始唱歌，每个“音符”使周围的敌人减速 10%，持续 2 秒，并使 Wigglytuff 的移动速度提高 30%，持续 2.5 秒。留在歌曲效果内的敌人将陷入睡眠（达到 4 个音符时）1.5 秒，并在 1.25 秒内降低其防御和特防 25%。",
+    "WIGGLYTUFF_MOVE_SING_TEXT_2": "将敌人的睡眠时间增加到 1.75 秒，并增加防御和 Sp 的持续时间。防御到1.5s。",
+    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_1": "开始朗诵并变得势不可挡，持续 3 秒，为 Wigglytuff 和附近的盟友提供 2.5 秒的护盾，并移除受影响盟友的所有状态条件，并在护盾激活期间使他们免疫障碍。",
+    "WIGGLYTUFF_MOVE_STARLIGHT_RECITAL_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
   }
 }
