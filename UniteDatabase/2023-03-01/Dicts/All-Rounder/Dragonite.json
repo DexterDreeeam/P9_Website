@@ -39,6 +39,9 @@
     "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_1": "短暂地在空中飞翔，变得不可瞄准，然后坠落，大约在激活后 2 秒，在指定区域有几颗彗星，造成伤害并将该区域的敌人投掷 0.5 秒。Dragonite 飞得越远，Unite 槽消耗的越多（最短距离为 50%，最大距离为 100%）。使用此招式时，Dragonite 势不可挡。",
     "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
 
+    "Attack - Dratini": "攻击 - 迷你龙",
+    "Attack - Dragonair": "攻击 - 哈克龙",
+    "Attack - Dragonite": "攻击 - 快龙",
     "Marvel Scale": "神奇鳞片",
     "Multiscale": "多重鳞片",
     "Twister": "龙卷风",

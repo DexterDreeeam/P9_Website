@@ -39,13 +39,13 @@
     "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_1": "向指定方向发射尖刺，对敌人造成伤害但不会穿透他们。移动结束时释放出一根巨大的羽毛笔，对它击中的所有敌人造成伤害（如果目标生命值低于 50%，则伤害增加 30%）。在使用此招式时，Decidueye 免疫障碍但无法移动。",
     "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_2": "30% 移动速度，30% 最大生命值护盾",
 
-    "Long Reach": "0000",
-    "Leafage": "0000",
-    "Razor Leaf": "0000",
-    "Spirit Shackle": "0000",
-    "Astonish": "0000",
-    "Leaf Storm": "0000",
-    "Shadow Sneak": "0000",
-    "Nock Nock": "0000"
+    "Long Reach": "远隔",
+    "Leafage": "树叶",
+    "Razor Leaf": "飞叶快刀",
+    "Spirit Shackle": "缝影",
+    "Astonish": "惊吓",
+    "Leaf Storm": "飞叶风暴",
+    "Shadow Sneak": "影子偷袭",
+    "Nock Nock": "无间连环箭"
   }
 }

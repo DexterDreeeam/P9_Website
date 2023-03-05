@@ -37,6 +37,8 @@
     "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_1": "跳到空中，消除大多数状态并立于不败之地。Sylveon落地的那一刻，失去无敌状态并立即获得Fairy Frolic buff，同时对效果范围内的敌人造成伤害。妖精嬉戏buff：持续10秒，仙女座造成伤害的50%转化为生命值。如果对护盾造成伤害，则不会恢复 HP。",
     "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
 
+    "Attack - Sylveon": "攻击 - 仙子伊布",
+
     "Adaptability": "适应力",
     "Pixilate": "妖精皮肤",
     "Swift": "高速星星",

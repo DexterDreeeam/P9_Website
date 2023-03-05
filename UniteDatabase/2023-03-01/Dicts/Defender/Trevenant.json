@@ -35,13 +35,13 @@
     "TREVENANT_MOVE_PHANTOM_FOREST_TEXT_1": "制造一片诅咒森林，对范围内的敌人造成伤害并标记、投掷，并使其移动速度降低50%，持续2秒。Trevenant 和盟友对被此招标记的敌人造成的伤害增加（每个攻击者 0.5s cd）。标记持续 6 秒。当此招式击中敌人时，Trevenant 也会获得持续 6 秒的护盾，每击中一个敌人，护盾就会增强，最多 5 次。当 Trevenant 受到此护盾的保护时，应用于 Trevenant 的 HP 恢复效果增加 50%。",
     "TREVENANT_MOVE_PHANTOM_FOREST_TEXT_2": "30% 移动速度，20% 最大生命值护盾",
 
-    "Natural Cure": "0000",
-    "Will-o-Wisp": "0000",
-    "Wood Hammer": "0000",
-    "Curse": "0000",
-    "Branch Poke": "0000",
-    "Horn Leech": "0000",
-    "Pain Split": "0000",
-    "Phantom Forest": "0000"
+    "Natural Cure": "自然回复",
+    "Will-o-Wisp": "鬼火",
+    "Wood Hammer": "木槌",
+    "Curse": "诅咒",
+    "Branch Poke": "木枝突刺",
+    "Horn Leech": "木角",
+    "Pain Split": "分担痛楚",
+    "Phantom Forest": "幽暗森灵"
   }
 }

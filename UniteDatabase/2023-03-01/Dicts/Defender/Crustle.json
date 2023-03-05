@@ -33,13 +33,13 @@
     "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_1": "召唤一阵岩石旋风。开始时使附近的敌人昏迷1秒并获得护盾（40%最大生命值+600生命值）。然后每 1 秒对附近的敌人造成一次伤害，持续 10 秒，如果 Crustle 在这个动作生效时受到伤害，则造成额外的复仇伤害（这不会每 2 秒发生一次以上）。",
     "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "30% 移动速度，40% 最大生命值护盾",
 
-    "Sturdy": "0000",
-    "Rock Slide": "0000",
-    "Rock Tomb": "0000",
-    "Shell Smash": "0000",
-    "Fury Cutter": "0000",
-    "Stealth Rock": "0000",
-    "X-Scissor": "0000",
-    "Rubble Rouser": "0000"
+    "Sturdy": "结实",
+    "Rock Slide": "岩崩",
+    "Rock Tomb": "岩石封锁",
+    "Shell Smash": "破壳",
+    "Fury Cutter": "连斩",
+    "Stealth Rock": "隐形岩",
+    "X-Scissor": "十字剪",
+    "Rubble Rouser": "碎石旋风垒"
   }
 }

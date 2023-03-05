@@ -47,6 +47,12 @@
     "URSHIFU_MOVE_FLOWING_FISTS_TEXT_1": "对范围内的敌人造成伤害并将其推开。如果再次使用此招式，Urshifu 会对指定的敌人连续施放五击，造成伤害并将其推开。在流动之拳激活和后续攻击之间的时间内，Urshifu每对敌人造成2次伤害，后续攻击的连续打击次数增加1次，最多增加10次。在进行连续打击时，Urshifu 受到的伤害降低 30% 并且免疫障碍。连续打击结束后，Urshifu 造成伤害并将效果范围内的敌人推到自己面前。",
     "URSHIFU_MOVE_FLOWING_FISTS_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
 
+    "Attack - Kubfu": "攻击 - 熊徒弟",
+    "Level 7, Wicked Blow Learned": "等级7，学会暗冥强击",
+    "Level 7, Surging Strikes Learned": "等级7，学会水流连打",
+    "Unlocks at Level 9, Wicked Blow Learned": "等级9解锁，学会暗冥强击",
+    "Unlocks at Level 9, Surging Strikes Learned": "等级9解锁，学会水流连打",
+
     "Inner Focus": "精神力",
     "Unseen Fist": "无形拳",
     "Rock Smash": "碎岩",
