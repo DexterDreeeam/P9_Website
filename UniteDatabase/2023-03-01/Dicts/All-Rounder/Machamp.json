@@ -33,13 +33,13 @@
     "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_1": "Machamp 的移动速度提高 5%，攻击提高 30%，防御提高 200，Sp。防御 200，持续 10 秒。如果再次使用，发动连击，对范围内的敌人造成伤害并将其推开。最后一击造成的伤害是之前攻击的两倍。",
     "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
 
-    "Guts": "0000",
-    "Karate Chop": "0000",
-    "Close Combat": "0000",
-    "Cross Chop": "0000",
-    "Bulk Up": "0000",
-    "Dynamic Punch": "0000",
-    "Submission": "0000",
-    "Barrage Blow": "0000"
+    "Guts": "毅力",
+    "Karate Chop": "空手劈",
+    "Close Combat": "近身战",
+    "Cross Chop": "十字劈",
+    "Bulk Up": "健美",
+    "Dynamic Punch": "爆裂拳",
+    "Submission": "地狱翻滚",
+    "Barrage Blow": "豪杰千烈拳"
   }
 }

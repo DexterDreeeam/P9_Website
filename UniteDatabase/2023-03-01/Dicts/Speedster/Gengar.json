@@ -33,13 +33,13 @@
     "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_1": "跳到指定区域开始潜行7秒——移动速度提高30%，隐身，下一次自动攻击加成。移动和自动攻击可以在隐身时使用，但会把你带到地面上。在地面上时，敌人可以看到。再次使用此招式，对范围内的敌人造成伤害，并使其移动速度降低50%，持续1.5秒。",
     "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_2": "80% 移动速度，20% 最大生命值护盾",
 
-    "Levitate": "0000",
-    "Will-o-Wisp": "0000",
-    "Shadow Ball": "0000",
-    "Sludge Bomb": "0000",
-    "Lick": "0000",
-    "Dream Eater": "0000",
-    "Hex": "0000",
-    "Phantom Ambush": "0000"
+    "Levitate": "飘浮",
+    "Will-o-Wisp": "鬼火",
+    "Shadow Ball": "暗影球",
+    "Sludge Bomb": "污泥炸弹",
+    "Lick": "舌舔",
+    "Dream Eater": "食梦",
+    "Hex": "祸不单行",
+    "Phantom Ambush": "遁影奇袭"
   }
 }

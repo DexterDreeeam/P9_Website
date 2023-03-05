@@ -35,6 +35,15 @@
     "SNORLAX_MOVE_YAWN_TEXT_1": "Snorlax 发出缓慢的短程射弹，使所有被击中的目标陷入睡眠 3 秒。",
     "SNORLAX_MOVE_YAWN_TEXT_2": "醒来后敌人移动速度降低 35%，持续 3 秒。",
     "SNORLAX_MOVE_POWER_NAP_TEXT_1": "进入睡眠并开始打鼾，对效果范围内的敌人造成伤害并将其抛向空中 1 秒。当沉睡的敌人无法通过卡诺拉克斯的命中框时，卡诺拉克斯免疫障碍物，对附近的敌人造成持续伤害，使被击中的敌人减速 30% 持续 1 秒，并持续恢复 7% 的最大生命值，共 9 次。此招式可以重新施放以翻身，造成 DoT 伤害的额外实例并将敌人扔到空中 1 秒。",
-    "SNORLAX_MOVE_POWER_NAP_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
+    "SNORLAX_MOVE_POWER_NAP_TEXT_2": "30% 移动速度，40% 最大生命值护盾",
+
+    "Gluttony": "贪吃鬼",
+    "Tackle": "撞击",
+    "Heavy Slam": "重磅冲撞",
+    "Flail": "抓狂",
+    "Rest": "睡觉",
+    "Block": "挡路",
+    "Yawn": "哈欠",
+    "Power Nap": "暴睡冲击"
   }
 }

@@ -33,13 +33,13 @@
     "SLOWBRO_MOVE_SLOWBEAM_TEXT_1": "凝视敌人并持续攻击，每 0.5 秒造成一次伤害，持续 3 秒并对其施加“束缚”。这种能力反击势不可挡。授予护盾（10% 最大 HP）并使 Slowbro 在使用此招式时免疫障碍。",
     "SLOWBRO_MOVE_SLOWBEAM_TEXT_2": "30% 移动速度，40% 最大生命值护盾",
 
-    "Oblivious": "0000",
-    "Water Gun": "0000",
-    "Scald": "0000",
-    "Surf": "0000",
-    "Slack Off": "0000",
-    "Amnesia": "0000",
-    "Telekinesis": "0000",
-    "Slowbeam": "0000"
+    "Oblivious": "迟钝",
+    "Water Gun": "水枪",
+    "Scald": "热水",
+    "Surf": "冲浪",
+    "Slack Off": "偷懒",
+    "Amnesia": "瞬间失忆",
+    "Telekinesis": "意念移物",
+    "Slowbeam": "呆强念"
   }
 }
