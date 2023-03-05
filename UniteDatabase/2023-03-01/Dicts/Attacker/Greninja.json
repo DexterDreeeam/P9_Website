@@ -31,6 +31,15 @@
     "GRENINJA_MOVE_SMOKESCREEN_TEXT_1": "Greninja 隐身 3 秒，获得 10% 额外移动速度，并留下一团烟雾。留在烟雾云中的敌人的视野范围减少 60%。Greninja 的下一次攻击得到增强并造成更高的伤害，近战和远程奖励效果适用。Greninja 在冲刺时势不可挡。",
     "GRENINJA_MOVE_SMOKESCREEN_TEXT_2": "离开隐身状态时，Greninja 的攻击力也会提高 20%，持续 2 秒。",
     "GRENINJA_MOVE_WATERBURST_SHURIKEN_TEXT_1": "向指定区域投掷巨型水手里剑，对影响范围内的敌人以及箭头标线所示线上但在 Greninja 的近战攻击范围之外的敌人造成伤害。招式命中时，被指定圆形区域伤害的宝可梦移动速度降低50%，持续2秒。水手里剑随即爆炸，对范围内的敌人造成伤害并将其抛向空中。一旦此移动结束，Greninja 可以向指定方向跳跃。",
-    "GRENINJA_MOVE_WATERBURST_SHURIKEN_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾"
+    "GRENINJA_MOVE_WATERBURST_SHURIKEN_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
+
+    "Torrent": "激流",
+    "Bubble": "泡沫",
+    "Water Shuriken": "飞水手里剑",
+    "Surf": "冲浪",
+    "Substitute": "替身",
+    "Double Team": "影子分身",
+    "Smokescreen": "烟幕",
+    "Waterburst Shuriken": "巨大飞水手里剑"
   }
 }

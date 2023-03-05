@@ -33,6 +33,16 @@
     "GLACEON_MOVE_FREEZE_DRY_TEXT_1": "向前射出一阵冰冷的空气。这种爆炸会在击中敌人或行进一定距离后爆炸；对范围内的所有敌人造成伤害。击中敌人后，增加 Glaceon 的 Sp。攻击力降低 50%，持续 3 秒。对于每个被爆炸击中的敌人，Glaceon 都会获得 2 个冰晶。爆炸还会留下一个冰区，使进入的敌人减速 20%，持续 3 秒。如果他们在冰区停留 2.5 秒，他们将被冻结 0.6 秒。",
     "GLACEON_MOVE_FREEZE_DRY_TEXT_2": "每有一个敌人被此招式的爆炸击中，Glaceon 就会获得 1 个额外的冰晶。",
     "GLACEON_MOVE_GLACIAL_STAGE_TEXT_1": "Glaceon 跳得很高，在他们面前创造一个冰区，对范围内的敌人造成伤害。当 Glaceon 在冰区时，他们的移动速度提高 50%，持续 6 秒，Glaceon 在中心时每秒获得 2 个冰晶，在周边时每秒获得 1 个冰晶。冰区内敌人移动速度降低50%，持续1秒。",
-    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾"
+    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
+
+    "Run Away": "逃跑",
+    "Snow Cloak": "雪隐",
+    "Swift": "高速星星",
+    "Icicle Spear": "冰锥",
+    "Icy Wind": "冰冻之风",
+    "Tail Whip": "搖尾巴",
+    "Ice Shard": "冰砾",
+    "Freeze Dry": "冷凍乾燥",
+    "Glacial Stage": "冰晶舞台"
   }
 }

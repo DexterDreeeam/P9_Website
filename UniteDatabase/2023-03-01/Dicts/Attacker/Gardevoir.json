@@ -31,6 +31,15 @@
     "GARDEVOIR_MOVE_FUTURE_SIGHT_TEXT_1": "沙奈朵在目标区域制造延迟爆炸；伤害敌人。如果预知未来击中敌方玩家（非野外），则冷却时间减少 75%，沙奈朵获得 40% 移动速度，持续 1.5 秒。",
     "GARDEVOIR_MOVE_FUTURE_SIGHT_TEXT_2": "成功命中后冷却时间重置。",
     "GARDEVOIR_MOVE_FAIRY_SINGULARITY_TEXT_1": "沙奈朵在大范围内扭曲空间，创造一个领域，伤害半径内的所有敌人并将他们拉向中心 4 次。当它过期时，该场会伤害并推开敌人。",
-    "GARDEVOIR_MOVE_FAIRY_SINGULARITY_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "GARDEVOIR_MOVE_FAIRY_SINGULARITY_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Synchronize": "同步",
+    "Confusion": "念力",
+    "Psychic": "精神强念",
+    "Moonblast": "月亮之力",
+    "Teleport": "瞬间移动",
+    "Psyshock": "精神冲击",
+    "Future Sight": "预知未来",
+    "Fairy Singularity": "妖精噬灭洞"
   }
 }

@@ -31,6 +31,15 @@
     "MAMOSWINE_MOVE_EARTHQUAKE_TEXT_1": "Mamoswine 向指定方向跃起并强行落地，对效果范围内的敌人造成伤害并将其拉向 Mamoswine。被击中的敌人在 1.5 秒内无法行动。",
     "MAMOSWINE_MOVE_EARTHQUAKE_TEXT_2": "招式命中时降低敌人30%的移动速度，持续2.5秒，增加招式的牵引力。",
     "MAMOSWINE_MOVE_MAMMOTH_MASH_TEXT_1": "Mamoswine 跳到指定位置并免疫阻碍 - 然后反复踩踏地面，对效果范围内的敌人造成伤害，每次踩踏都会降低他们 20% 的移动速度，持续 0.5 秒。最后的踩踏将敌人抛向空中。",
-    "MAMOSWINE_MOVE_MAMMOTH_MASH_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
+    "MAMOSWINE_MOVE_MAMMOTH_MASH_TEXT_2": "30% 移动速度，40% 最大生命值护盾",
+
+    "Thick Fat": "厚脂肪",
+    "Ice Shard": "冰砾",
+    "Icicle Crash": "冰柱坠击",
+    "Ice Fang": "冰冻牙",
+    "Tackle": "撞击",
+    "High Horsepower": "十万马力",
+    "Earthquake": "地震",
+    "Mammoth Mash": "隆隆地跺"
   }
 }

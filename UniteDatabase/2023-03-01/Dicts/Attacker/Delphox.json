@@ -31,6 +31,15 @@
     "DELPHOX_MOVE_FLAME_CHARGE_TEXT_1": "Delphox 朝着指定的方向向前冲锋。冲锋结束时若自动攻击范围内有敌人，则召唤三道火焰进行攻击。这些火焰造成伤害并使敌人移动速度降低 30%，持续 2 秒。此招式可以在使用火焰冲击或神秘之火的同时使用。每个后续的火焰命中减少 70%。",
     "DELPHOX_MOVE_FLAME_CHARGE_TEXT_2": "使用此招式时，德尔福克斯的移动速度提升30%，持续1秒。",
     "DELPHOX_MOVE_FANCIFUL_FIREWORKS_TEXT_1": "对指定区域内的敌人造成持续伤害，持续8秒。被击中的敌人移动速度降低 50%，HP 恢复效果降低 50%，持续 1.75 秒。恢复效果在该区域内减弱，并且无法在该区域中被清除。离开区域时，削弱的HP恢复效果会持续1.75s，离开区域后可能会被清除。8 秒持续时间（以 0.5 秒为间隔滴答）。",
-    "DELPHOX_MOVE_FANCIFUL_FIREWORKS_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "DELPHOX_MOVE_FANCIFUL_FIREWORKS_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Blaze": "猛火",
+    "Ember": "火花",
+    "Fire Blast": "大字爆炎",
+    "Mystical Fire": "魔法火焰",
+    "Will-o-Wisp": "鬼火",
+    "Fire Spin": "火焰旋涡",
+    "Flame Charge": "蓄能焰袭",
+    "Fanciful Fireworks": "魔幻庆典"
   }
 }

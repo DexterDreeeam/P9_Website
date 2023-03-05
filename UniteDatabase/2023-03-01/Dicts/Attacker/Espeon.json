@@ -39,6 +39,16 @@
     "ESPEON_MOVE_FUTURE_SIGHT_TEXT_1": "Espeon 锁定敌人，2 秒后在以锁定目标为中心的区域造成伤害。根据锁定目标的剩余 HP 造成更多伤害。当锁定敌人时，Espeon 的其他动作将尽可能瞄准该敌人。如果 Psyshock 的中心在释放时处于 Future Sight 的影响范围内，Psyshock 将追踪 Future Sight 受影响的目标。每次 Espeon 通过 Psyshock、Stored Power 和自动攻击造成伤害时，Future Sight 的冷却时间减少 0.8 秒。如果锁定的目标在对方队伍中，并且在造成区域伤害之前被击倒，而不是损失 HP 伤害的百分比，则可以在短时间内使用一次加电的 Psyshock 或 Stored Power。Full Heal 和其他净化，如 Blissey 的 Natural cure 可以移除 Future Sight。",
     "ESPEON_MOVE_FUTURE_SIGHT_TEXT_2": "Espeon 对锁定的目标造成 10% 的额外伤害。",
     "ESPEON_MOVE_PSYCHIC_SOLAIRE_TEXT_1": "Espeon 将效果区域内的敌人抛向空中，并使用精神力量将他们悬浮。延迟一段时间后，会发生爆炸，对影响范围内的所有敌人造成伤害并将其推开。",
-    "ESPEON_MOVE_PSYCHIC_SOLAIRE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "ESPEON_MOVE_PSYCHIC_SOLAIRE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Anticipation": "危险预知",
+    "Magic Bounce": "魔法镜",
+    "Swift": "高速星星",
+    "Psyshock": "精神冲击",
+    "Stored Power": "辅助力量",
+    "Growl": "叫声",
+    "Psybeam": "幻象光线",
+    "Future Sight": "预知未来",
+    "Psychic Solaire": "精神之阳"
   }
 }

@@ -31,6 +31,15 @@
     "CRUSTLE_MOVE_X_SCISSOR_TEXT_1": "Crustle 用他的爪子攻击 3 次，每次攻击都会造成更高的伤害，每次攻击都会将敌人推开 0.2 秒。如果敌人在第三击落地时靠墙，则眩晕 1.5 秒。",
     "CRUSTLE_MOVE_X_SCISSOR_TEXT_2": "冷却时间减少 1 秒。",
     "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_1": "召唤一阵岩石旋风。开始时使附近的敌人昏迷1秒并获得护盾（40%最大生命值+600生命值）。然后每 1 秒对附近的敌人造成一次伤害，持续 10 秒，如果 Crustle 在这个动作生效时受到伤害，则造成额外的复仇伤害（这不会每 2 秒发生一次以上）。",
-    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
+    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "30% 移动速度，40% 最大生命值护盾",
+
+    "Sturdy": "0000",
+    "Rock Slide": "0000",
+    "Rock Tomb": "0000",
+    "Shell Smash": "0000",
+    "Fury Cutter": "0000",
+    "Stealth Rock": "0000",
+    "X-Scissor": "0000",
+    "Rubble Rouser": "0000"
   }
 }

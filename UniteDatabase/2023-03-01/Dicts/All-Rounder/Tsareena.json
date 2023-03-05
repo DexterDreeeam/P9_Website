@@ -35,6 +35,16 @@
     "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_1": "Tsareena 向指定方向滑动；对命中的敌人造成伤害。随后向相反方向发起攻击，造成伤害并将击中的敌人推开。女王陛下效果：使用此招式时，为 Tsareena 提供持续 3 秒的护盾。",
     "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_2": "伤害增加。",
     "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_1": "Tsareena 从对方队伍中跳向一名敌人并将其高高踢向空中，然后在空中用一系列踢击淋浴，对他们造成伤害。Tsareena 着地的那一刻，恢复 HP。在空中时，被踢的敌人和 Tsareena 不受其他动作的影响。",
-    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Oblivious": "迟钝",
+    "Queenly Majesty": "女王的威严",
+    "Razor Leaf": "飞叶快刀",
+    "Triple Axel": "三旋击",
+    "Stomp": "踩踏",
+    "Rapid Spin": "高速旋转",
+    "Trop Kick": "热带踢",
+    "Grassy Glide": "青草滑梯",
+    "Queen Ascendant": "女王凌空无情腿"
   }
 }

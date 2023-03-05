@@ -37,6 +37,15 @@
     "HOOPA_MOVE_RINGS_UNBOUND_TEXT_1": "将Hoopa变身为Hoopa Unbound，持续15秒，最大生命值增加40%，并在指定位置制造戒指。每个盟友可以在 10 秒内传送到戒指的位置一次。作为 Hoopa Unbound，移动变为 Hyperspace Fury 和 Psybeam。每次攻击也会变成一次强化攻击，对附近最多 2 个敌人造成伤害。如果射程内只有一个目标，那么两道光束都会击中同一个目标，但 1 道光束会造成 50% 的伤害。Hoopa Unbound 无法进球或激活魔术师能力。",
     "HOOPA_MOVE_RINGS_UNBOUND_TAG_TEXT_1": "超空间狂怒：释放胡帕的众多手臂在指定区域发动7次攻击，对范围内的敌人造成伤害，并使其1秒无法行动。（7 秒冷却时间）。",
     "HOOPA_MOVE_RINGS_UNBOUND_TAG_TEXT_2": "Psybeam：以水平扫动的方式向 Hoopa 前方发射一道奇特的射线，对命中的敌人造成伤害。使用此招式时，Hoopa Unbound 变得对障碍物免疫。（9 秒冷却时间）。",
-    "HOOPA_MOVE_RINGS_UNBOUND_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "HOOPA_MOVE_RINGS_UNBOUND_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Magician": "魔术师",
+    "Astonish": "惊吓",
+    "Phantom Force": "潜灵奇袭",
+    "Shadow Ball": "暗影球",
+    "Confusion": "念力",
+    "Hyperspace Hole": "异次元洞",
+    "Trick": "戏法",
+    "Rings Unbound": "解放光环"
   }
 }

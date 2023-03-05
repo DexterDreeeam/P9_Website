@@ -31,6 +31,15 @@
     "GARCHOMP_MOVE_DRAGON_CLAW_TEXT_1": "Garchomp 恶毒地抓住指定区域的所有东西两次。第一次攻击造成伤害并推动敌人。第二次攻击造成的伤害增加并使移动速度降低 45%。当使用此招式使用 Dragon Rush 组合时，将减速增加到 60%。",
     "GARCHOMP_MOVE_DRAGON_CLAW_TEXT_2": "伤害增加。",
     "GARCHOMP_MOVE_LIVID_OUTRAGE_TEXT_1": "Garchomp 变得狂暴，在 5 秒内受到的伤害降低 30%，并释放出强大的、不可阻挡的连锁攻击。Garchomp 冲刺并在指定区域造成五次伤害；在每次攻击前花一点时间瞄准目标。每次攻击都有不同的指定区域，并且比上一次造成更大的伤害。第五次也是最后一次攻击会使 Garchomp 昏迷 0.5 秒，并将所有被击中的敌人抛向空中。被击中的敌人减速 30%，持续 1 秒。",
-    "GARCHOMP_MOVE_LIVID_OUTRAGE_TEXT_2": "30% 移动速度，30% 最大生命值护盾"
+    "GARCHOMP_MOVE_LIVID_OUTRAGE_TEXT_2": "30% 移动速度，30% 最大生命值护盾",
+
+    "Rough Skin": "粗糙皮肤",
+    "Sand Attack": "泼沙",
+    "Dig": "挖洞",
+    "Dragon Rush": "龙之俯冲",
+    "Bulldoze": "重踏",
+    "Earthquake": "地震",
+    "Dragon Claw": "龙爪",
+    "Livid Outrage": "怒火猛冲"
   }
 }

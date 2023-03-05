@@ -33,6 +33,15 @@
     "ELDEGOSS_MOVE_COTTON_SPORE_TEXT_1": "Eldegoss 引导 2 秒，收集孢子，同时增加 30% 的移动速度，持续 2 秒。在通道的尽头释放孢子；对附近的敌人造成伤害并将其抛向空中 0.5 秒，然后在落地时降低他们 30% 的移动速度，持续 2 秒。2s通道可以通过使用Cotton Cloud Crash提前结束。",
     "ELDEGOSS_MOVE_COTTON_SPORE_TEXT_2": "引导时，Eldegoss 的防御和特防提高 40%。",
     "ELDEGOSS_MOVE_COTTON_CLOUD_CRASH_TEXT_1": "浮空3s；变得无敌，移动速度提高10%，持续6秒。如果再次使用或在 3 秒后使用，重击地面，攻击并推搡敌人 0.7 秒，同时为范围内的 Eldegoss 和盟友恢复 HP。",
-    "ELDEGOSS_MOVE_COTTON_CLOUD_CRASH_TEXT_2": "30% 移动速度，30% 最大生命值护盾"
+    "ELDEGOSS_MOVE_COTTON_CLOUD_CRASH_TEXT_2": "30% 移动速度，30% 最大生命值护盾",
+
+    "Cotton Down": "棉絮",
+    "Leafage": "树叶",
+    "Pollen Puff": "花粉团",
+    "Leaf Tornado": "青草搅拌器",
+    "Synthesis": "光合作用",
+    "Cotton Guard": "棉花防守",
+    "Cotton Spore": "棉孢子",
+    "Cotton Cloud Crash": "棉絮之舞"
   }
 }

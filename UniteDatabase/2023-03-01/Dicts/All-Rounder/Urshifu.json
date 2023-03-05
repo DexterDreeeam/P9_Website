@@ -45,6 +45,17 @@
     "URSHIFU_MOVE_EBON_FIST_TEXT_1": "冲向指定的敌人并指定或不指定方向。如果没有指定方向，则此移动会造成伤害并将单个敌人抛出，使他们在落地时无法行动。如果指定了一个方向，这个动作会对目标造成更强大的打击并将他们推向指定的方向。然后，被推挤的敌人也会对他们击中的其他敌人造成伤害并将其投掷出去。使用此招式将重置邪恶打击的冷却时间。",
     "URSHIFU_MOVE_EBON_FIST_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
     "URSHIFU_MOVE_FLOWING_FISTS_TEXT_1": "对范围内的敌人造成伤害并将其推开。如果再次使用此招式，Urshifu 会对指定的敌人连续施放五击，造成伤害并将其推开。在流动之拳激活和后续攻击之间的时间内，Urshifu每对敌人造成2次伤害，后续攻击的连续打击次数增加1次，最多增加10次。在进行连续打击时，Urshifu 受到的伤害降低 30% 并且免疫障碍。连续打击结束后，Urshifu 造成伤害并将效果范围内的敌人推到自己面前。",
-    "URSHIFU_MOVE_FLOWING_FISTS_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "URSHIFU_MOVE_FLOWING_FISTS_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Inner Focus": "精神力",
+    "Unseen Fist": "无形拳",
+    "Rock Smash": "碎岩",
+    "Wicked Blow": "暗冥强击",
+    "Surging Strikes": "水流连打",
+    "Headbutt": "头锤",
+    "Throat Chop": "地狱突刺",
+    "Liquidation": "水流裂破",
+    "Ebon Fist": "漆黑终拳",
+    "Flowing Fists": "苍流舞步"
   }
 }

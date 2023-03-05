@@ -35,6 +35,15 @@
     "BUZZWOLE_MOVE_SUPER_POWER_TEXT_1": "消耗全部肌肉量表，让使用者朝指定方向奔跑并抓住敌人。然后，使用者全力将目标猛击在地上，对该区域内的所有敌人造成伤害，并获得 8% 的最大生命值护盾。此招式造成的伤害以每增加 12.5% 的肌肉量增加率增加。护盾以 1.5% 最大生命值的速率增加，每次肌肉量增加。",
     "BUZZWOLE_MOVE_SUPER_POWER_TEXT_2": "当用户的肌肉指标达到最大值时，重置此动作的冷却时间。",
     "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_1": "Buzzwole 高速飞行，对影响范围内的敌人造成伤害。之后，使用者以被击中的生命值百分比最低的敌人为目标，从空中冲下，再次造成范围伤害，并根据目标敌人损失的生命值追加伤害。对野生宝可梦：不造成失去HP的伤害。",
-    "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Beast Boost": "异兽提升",
+    "Mega Punch": "百万吨重拳",
+    "Lunge": "猛扑",
+    "Smack Down": "击落",
+    "Fell Stinger": "致命针刺",
+    "Leech Life": "吸血",
+    "Super Power": "蛮力",
+    "Ultra Swole Slam": "究极大肌块"
   }
 }

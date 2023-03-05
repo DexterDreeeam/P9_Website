@@ -35,6 +35,15 @@
     "ABSOL_MOVE_SUCKER_PUNCH_TEXT_2": "使用此招式后，攻击速度提高40%，持续3秒。",
     "ABSOL_MOVE_MIDNIGHT_SLASH_TEXT_1": "在 Absol 面前释放一连串的 5 道斜线，并在 1.15 秒内无法被选中。此移动以释放强大的能量之刃、推挤敌人并在近战范围内造成最多 4 次伤害和在最大范围内造成 1 次伤害而结束。只有与敌人相连的第一个结局击中会造成全额伤害，其他的对同一目标造成 30% 的伤害。",
     "ABSOL_MOVE_MIDNIGHT_SLASH_TAG_TEXT_1": "全伤害的30%。",
-    "ABSOL_MOVE_MIDNIGHT_SLASH_TEXT_2": "80% 移动速度，20% 最大生命值护盾"
+    "ABSOL_MOVE_MIDNIGHT_SLASH_TEXT_2": "80% 移动速度，20% 最大生命值护盾",
+
+    "Super Luck": "超幸运",
+    "Feint": "佯攻",
+    "Night Slash": "暗袭要害",
+    "Pursuit": "追打",
+    "Slash": "劈开",
+    "Psycho Cut": "精神利刃",
+    "Sucker Punch": "突袭",
+    "Midnight Slash": "黑暗烈刃"
   }
 }

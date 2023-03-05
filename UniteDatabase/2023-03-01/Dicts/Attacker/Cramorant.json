@@ -31,6 +31,15 @@
     "CRAMORANT_MOVE_AIR_SLASH_TEXT_1": "克拉莫兰特在向后移动时射出 5 道气刃，在 0.33 秒的时间内对锥形范围内的敌人造成伤害。每击中一个刀片，此招式的冷却时间就会减少 0.5 秒（最多 2.5 秒）。",
     "CRAMORANT_MOVE_AIR_SLASH_TEXT_2": "每次空气之刃击中敌人时都会治疗 Cramorant。",
     "CRAMORANT_MOVE_GATLING_GULP_MISSILE_TEXT_1": "Cramorant 变得势不可挡，并向最近的敌人发射一系列猎物最多 10 次，在最多 6.5 秒内无法移动。被发射的猎物在 50% 生命值以上时为 Arrokuda，在 50% 生命值以下时为皮卡丘。Gatling Gulp 导弹可以提前取消。如果在开始此动作时已准备好增强攻击，它将作为常规增强攻击首先发射出去，然后是 10 枚加特林吞噬导弹。",
-    "CRAMORANT_MOVE_GATLING_GULP_MISSILE_TEXT_2": "移动开始时获得 30% 最大生命值护盾，炮塔结束时获得 30% 移动速度。"
+    "CRAMORANT_MOVE_GATLING_GULP_MISSILE_TEXT_2": "移动开始时获得 30% 最大生命值护盾，炮塔结束时获得 30% 移动速度。",
+
+    "Gulp Missile": "一口导弹",
+    "Whirlpool": "潮旋",
+    "Surf": "冲浪",
+    "Dive": "潜水",
+    "Feather Dance": "羽毛舞",
+    "Hurricane": "暴风",
+    "Air Slash": "空气斩",
+    "Gatling Gulp Missile": "怒涛导弹"
   }
 }

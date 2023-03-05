@@ -35,6 +35,16 @@
     "SYLVEON_MOVE_CALM_MIND_TEXT_1": "Sylveon悄悄地集中他们的精神并平静他们的精神，增加移动速度，Sp。攻击力降低 40% 和 Sp。防御力提升 10%，持续 3 秒。",
     "SYLVEON_MOVE_CALM_MIND_TEXT_2": "使用此招式后最多 3 秒，如果西尔文被敌人的招式击中，则伤害完全无效，西尔文获得护盾。",
     "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_1": "跳到空中，消除大多数状态并立于不败之地。Sylveon落地的那一刻，失去无敌状态并立即获得Fairy Frolic buff，同时对效果范围内的敌人造成伤害。妖精嬉戏buff：持续10秒，仙女座造成伤害的50%转化为生命值。如果对护盾造成伤害，则不会恢复 HP。",
-    "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Adaptability": "适应力",
+    "Pixilate": "妖精皮肤",
+    "Swift": "高速星星",
+    "Mystical Fire": "魔法火焰",
+    "Hyper Voice": "巨声",
+    "Baby-Doll Eyes": "圆瞳",
+    "Draining Kiss": "吸取之吻",
+    "Calm Mind": "冥想",
+    "Fairy Frolic": "妖精谐律"
   }
 }

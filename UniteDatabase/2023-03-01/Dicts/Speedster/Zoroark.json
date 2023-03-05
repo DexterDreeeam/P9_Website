@@ -35,6 +35,15 @@
     "ZOROARK_MOVE_FEINT_ATTACK_TAG_TEXT_1": "额外造成 15% 已损失敌人 HP 的伤害。对付野生宝可梦：总伤害上限为1200。",
     "ZOROARK_MOVE_FEINT_ATTACK_TEXT_2": "此招式的冷却时间减少 1 秒。",
     "ZOROARK_MOVE_NIGHTFALL_DAZE_TEXT_1": "释放黑暗冲击波，对命中的敌人造成伤害。三道冲击波释放，每一道冲击波的作用范围都越来越大。使用者在释放冲击波时不受障碍物的影响。",
-    "ZOROARK_MOVE_NIGHTFALL_DAZE_TEXT_2": "80% 移动速度，20% 最大生命值护盾"
+    "ZOROARK_MOVE_NIGHTFALL_DAZE_TEXT_2": "80% 移动速度，20% 最大生命值护盾",
+
+    "Illusion": "幻觉",
+    "Slash": "劈开",
+    "Shadow Claw": "暗影爪",
+    "Cut": "居合斩",
+    "Fury Swipes": "乱抓",
+    "Night Slash": "暗袭要害",
+    "Feint Attack": "出奇一击",
+    "Nightfall Daze": "暗暮爆破"
   }
 }

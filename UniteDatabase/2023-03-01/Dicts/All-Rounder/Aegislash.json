@@ -35,6 +35,16 @@
     "AEGISLASH_MOVE_IRON_HEAD_TEXT_1": "向指定方向冲刺，对命中的敌人造成伤害。还会增加 1 点增益计数，并在之后用特殊护盾保护 Aegislash 1 秒。该护盾不能防止障碍，但可以抵消伤害。护盾格挡一次攻击后消失，冷却时间减少3秒，增益次数增加1。",
     "AEGISLASH_MOVE_IRON_HEAD_TEXT_2": "如果此招式阻挡了一次攻击，Aegislash 将获得 +10% 攻击力，持续 3 秒。",
     "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_1": "向指定方向挥出一道裂地斩，对命中的敌人造成伤害并切换为剑式。他们剩余的生命值越低，此招式造成的伤害就越大。如果此斜线击倒敌人，则增益计数增加 2。 对野生宝可梦：损失HP的追加伤害上限为1000。",
-    "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "No Guard": "无防守",
+    "Stance Change": "战斗切换",
+    "Shadow Sneak": "影子偷袭",
+    "Sacred Sword": "圣剑",
+    "Shadow Claw": "暗影爪",
+    "Iron Defense": "铁壁",
+    "Wide Guard": "广域防守",
+    "Iron Head": "铁头",
+    "Coup de Grace": "终结一击"
   }
 }

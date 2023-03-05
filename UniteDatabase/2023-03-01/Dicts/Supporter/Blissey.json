@@ -31,6 +31,15 @@
     "BLISSEY_MOVE_SAFEGUARD_TEXT_1": "Blissey 为目标盟友和他们自己提供一个持续 3 秒的护盾，清除障碍并使双方免疫障碍，直到护盾被移除（护盾持续 3 秒）。",
     "BLISSEY_MOVE_SAFEGUARD_TEXT_2": "护盾值增加。",
     "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_1": "Blissey 冲向指定的盟友并给它一个蛋，为该盟友提供护盾并增加他们的 Attack 和 Sp。6秒内攻击力提高20%。Blissey 还会拦截该盟友受到的伤害的 50%，持续 6 秒。冲刺时，将击中的敌人抛向空中 0.8 秒。当到达目标盟友时，对附近的所有敌人造成额外伤害。",
-    "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Natural Cure": "自然回复",
+    "Pound": "拍击",
+    "Egg Bomb": "炸蛋",
+    "Helping Hand": "帮助",
+    "Heal Pulse": "治愈波动",
+    "Soft-Boiled": "生蛋",
+    "Safeguard": "神秘守护",
+    "Bliss Assistance": "福来运转"
   }
 }

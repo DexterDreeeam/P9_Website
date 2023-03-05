@@ -33,6 +33,15 @@
     "DRAGAPULT_MOVE_PHANTOM_FORCE_TEXT_2": "当用户使用基本或增强攻击对敌人造成伤害时，此招式的冷却时间减少 0.5 秒。",
     "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_1": "发射两个 Dreepy，每个都对影响范围内的不同敌人造成伤害。敌人的剩余 HP 越低，Dreepy 造成的伤害就越大。如果该区域只有一个目标，则两个 Dreepy 都以该敌人为目标并对他们造成伤害。此移动最多可保留 2 次使用。Dreepy 可能每 2 秒发射一次。对付野生宝可梦：损失HP造成的额外伤害上限为1200。",
     "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TAG_TEXT_1": "还造成敌人损失 HP 的 10%。",
-    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_2": "激活能量增幅器有 30 秒的内部冷却时间；有 60 秒的内部冷却时间来激活 Buddy Barrier；10% 最大生命值护盾，10% 移动速度持续 3 秒"
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_2": "激活能量增幅器有 30 秒的内部冷却时间；有 60 秒的内部冷却时间来激活 Buddy Barrier；10% 最大生命值护盾，10% 移动速度持续 3 秒",
+
+    "Clear Body": "恒净之躯",
+    "Astonish": "惊吓",
+    "Dragon Breath": "龙息",
+    "Shadow Ball": "暗影球",
+    "Quick Attack": "电光一闪",
+    "Dragon Dance": "龙之舞",
+    "Phantom Force": "潜灵奇袭",
+    "Dreep and Destroy": "龙骑射击"
   }
 }

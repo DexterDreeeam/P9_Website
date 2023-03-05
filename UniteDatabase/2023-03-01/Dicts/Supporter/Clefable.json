@@ -49,6 +49,22 @@
     "CLEFABLE_MOVE_HYPER_BEAM_TAG_TEXT_1" : "对野生宝可梦：最大HP的追加伤害上限为2400。",
     "CLEFABLE_MOVE_BLOCK_TEXT_1": "在目标方向创造并守住一堵墙，获得护盾并减少 25% 受到的所有伤害，持续 4 秒。接触墙壁的敌人会被击退并眩晕 0.8 秒。在阻止期间可能不会激活其他能力，但现有的移动可能会继续。",
     "CLEFABLE_MOVE_CLOSE_COMBAT_TEXT_1": "发动一连串的打击，每次击中目标都会造成伤害和治疗。",
-    "CLEFABLE_MOVE_FLY_TEXT_1": "跳到空中变得无法被选中，获得自由移动，并增加 65% 的移动速度，持续 3 秒。3 秒后或提前激活时，降落在下方区域，对着陆区内的敌人造成伤害。"
+    "CLEFABLE_MOVE_FLY_TEXT_1": "跳到空中变得无法被选中，获得自由移动，并增加 65% 的移动速度，持续 3 秒。3 秒后或提前激活时，降落在下方区域，对着陆区内的敌人造成伤害。",
+
+    "Magic Guard": "魔法防守",
+    "Heal Pulse": "治愈波动",
+    "Moonlight": "月光",
+    "Draining Kiss": "吸取之吻",
+    "Disarming Voice": "魅惑之声",
+    "Gravity": "重力",
+    "Follow Me": "看我嘛",
+    "Wonder Wish": "挥指祈愿",
+    "Splash": "跃起",
+    "Explosion": "大爆炸",
+    "Hydro Pump": "水炮",
+    "Hyper Beam": "破坏死光",
+    "Block": "挡路",
+    "Close Combat": "近身战",
+    "Fly": "飞翔"
   }
 }

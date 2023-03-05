@@ -31,6 +31,15 @@
     "PIKACHU_MOVE_THUNDERBOLT_TEXT_1": "皮卡丘在指定区域用强力电击攻击；对区域内的敌人造成伤害并使其昏迷 1.25 秒。",
     "PIKACHU_MOVE_THUNDERBOLT_TEXT_2": "伤害增加。",
     "PIKACHU_MOVE_THUNDERSTORM_TEXT_1": "短暂地变得势不可挡，并在 3 秒内在皮卡丘周围的半径范围内召唤 4 次闪电。第一次打击以半径内的所有敌方玩家为目标，接下来的 3 次打击以半径内的单个随机敌方玩家为目标。被闪电击中的目标会对周围小范围内的盟友造成伤害。在第一次打击期间，多个螺栓区域中的敌人只会受到一次伤害。所有招式都可以在这场雷雨中使用。",
-    "PIKACHU_MOVE_THUNDERSTORM_TEXT_2": "30% 移动速度，30% CDR，30% 最大生命值护盾"
+    "PIKACHU_MOVE_THUNDERSTORM_TEXT_2": "30% 移动速度，30% CDR，30% 最大生命值护盾",
+
+    "Static": "静电",
+    "Thunder Shock": "电击",
+    "Electro Ball": "电球",
+    "Thunder": "打雷",
+    "Electroweb": "电网",
+    "Volt Tackle": "伏特攻击",
+    "Thunderbolt": "十万伏特",
+    "Thunderstorm": "万钧伏特轰雷暴"
   }
 }

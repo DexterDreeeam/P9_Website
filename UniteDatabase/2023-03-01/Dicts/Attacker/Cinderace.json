@@ -31,6 +31,15 @@
     "CINDERACE_MOVE_FEINT_TEXT_1": "Cinderace 闪避，将移动速度提高 25%，持续 2 秒，并在 44 帧（0.73 秒）内短暂无敌。",
     "CINDERACE_MOVE_FEINT_TEXT_2": "闪避后，接下来的 3 次自动攻击会恢复相当于所造成伤害 30% 的生命值。",
     "CINDERACE_MOVE_BLAZING_BICYCLE_KICK_TEXT_1": "制造一个巨大的火球，将其踢向指定位置。球释放出强烈的冲击波，对范围内的宝可梦造成伤害，宝可梦 HP 越低，造成的伤害越高。命中时移动速度也会提高 10%（与联合增益叠加），持续 5 秒。",
-    "CINDERACE_MOVE_BLAZING_BICYCLE_KICK_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾"
+    "CINDERACE_MOVE_BLAZING_BICYCLE_KICK_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
+
+    "Blaze": "猛火",
+    "Ember": "火花",
+    "Pyro Ball": "火焰球",
+    "Blaze Kick": "火焰踢",
+    "Low Sweep": "下盘踢",
+    "Flame ChargeFlame Charge": "蓄能焰袭",
+    "Feint": "佯攻",
+    "Blazing Bicycle Kick": "烈焰金钩"
   }
 }

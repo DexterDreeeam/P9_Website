@@ -39,6 +39,16 @@
     "MEW_MOVE_AGILITY_TEXT_1": "向指定方向快速移动，使喵喵的移动速度提高5%，持续2秒。保留 2 次使用，每 2 秒不能使用超过一次。",
     "MEW_MOVE_AGILITY_TEXT_2": "增加喵喵在指定方向移动的距离。",
     "MEW_MOVE_MYSTICAL_MIRAGE_TEXT_1": "喵喵漂浮在空中 1 秒，变得无敌 6 秒，或者直到使用攻击或移动并在其位置周围创建一个持续 5 秒的场。这个领域与喵喵一起旅行。喵喵和区域内的所有盟友进入隐身状态 4 秒。力场结束后，此招会对范围内的敌人造成伤害。",
-    "MEW_MOVE_MYSTICAL_MIRAGE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "MEW_MOVE_MYSTICAL_MIRAGE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Synchronize": "同步",
+    "Move Reset": "招式重置",
+    "Electro Ball": "电球",
+    "Solar Beam": "日光束",
+    "Surf": "冲浪",
+    "Coaching": "指导",
+    "Light Screen": "光墙",
+    "Agility": "高速移动",
+    "Mystical Mirage": "神秘幻影"
   }
 }

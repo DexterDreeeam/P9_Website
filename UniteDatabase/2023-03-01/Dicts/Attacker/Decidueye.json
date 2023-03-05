@@ -37,6 +37,15 @@
     "DECIDUEYE_MOVE_SHADOW_SNEAK_TEXT_1": "在效果范围内制造一个影子抓住一名敌人，造成伤害并降低其30%的移动速度，降低其60%的防御力，并使Decidueye的移动速度提高70%，持续3秒。",
     "DECIDUEYE_MOVE_SHADOW_SNEAK_TEXT_2": "敌人的防御减少增加到80%。",
     "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_1": "向指定方向发射尖刺，对敌人造成伤害但不会穿透他们。移动结束时释放出一根巨大的羽毛笔，对它击中的所有敌人造成伤害（如果目标生命值低于 50%，则伤害增加 30%）。在使用此招式时，Decidueye 免疫障碍但无法移动。",
-    "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_2": "30% 移动速度，30% 最大生命值护盾"
+    "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_2": "30% 移动速度，30% 最大生命值护盾",
+
+    "Long Reach": "0000",
+    "Leafage": "0000",
+    "Razor Leaf": "0000",
+    "Spirit Shackle": "0000",
+    "Astonish": "0000",
+    "Leaf Storm": "0000",
+    "Shadow Sneak": "0000",
+    "Nock Nock": "0000"
   }
 }

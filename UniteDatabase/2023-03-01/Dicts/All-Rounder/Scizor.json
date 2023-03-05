@@ -29,6 +29,16 @@
     "SCIZOR_MOVE_SWORDS_DANCE_TEXT_1": "冲刺一小段距离，增加12%的攻击，持续5秒。当剑舞的攻击增益处于活动状态时，在基本攻击或技能接触 8 次后，用户会发起一次范围攻击，穿透一条直线上的敌人。",
     "SCIZOR_MOVE_SWORDS_DANCE_TEXT_2": "使用户在冲刺时受到的伤害降低 50%（0.3 秒）。",
     "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_1": "瞄准一个敌人并猛击他们，造成初始伤害，并使其移动速度降低 40%，持续 3 秒。然后创建 5 个冲出 Scizor 的副本。如果一个副本在冲出时击中敌人，它会造成伤害，并使该敌人的移动速度降低 40%，持续 3 秒，然后消失。激活后8秒内可再次使用此招式，向指定方向冲刺，对命中的敌人造成伤害。当 Scizor 继续冲刺时，被击中的敌人也会被抓住并携带。在冲刺结束时，Scizor 猛击地面，在一定范围内造成伤害。如果被抓住的敌人接触到幻影复制体，他们将受到伤害并失去行动能力 2 秒。",
-    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Technician": "技术高手",
+    "Fury Cutter": "连斩",
+    "Dual Wingbeat": "双翼",
+    "Bullet Punch": "子弹拳",
+    "Quick Attack": "电光一闪",
+    "Double Hit": "二连击",
+    "Swords Dance": "剑舞",
+    "Green Illusion Dive": "翠星划落",
+    "Red Illusion Dive": "赤星划落"
   }
 }

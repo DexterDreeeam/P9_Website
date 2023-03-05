@@ -35,6 +35,17 @@
     "TYRANITAR_MOVE_SAND_TOMB_TEXT_1": "向指定方向跳跃；对击中的任何敌人造成伤害并使他们在短时间内无法行动。当 Tyranitar 着陆时，着陆产生的震动会在撞击点产生一团尘埃云，持续 6 秒；每 0.5 秒造成一次持续伤害，每秒降低被击中敌人 25% 的移动速度，持续 1 秒。如果在暴君处于尘埃云中时再次使用此招式，暴君前方的敌人就会被拉近。此外，当使用者处于尘埃云中时，他们受到的伤害降低 25%，并且可以无视敌人的防御和护盾效果。",
     "TYRANITAR_MOVE_SAND_TOMB_TEXT_2": "增加尘埃云在撞击点停留的时间。",
     "TYRANITAR_MOVE_TYRANNICAL_RAMPAGE_TEXT_1": "怒发冲冠，狂暴10s。在狂暴的同时，暴君还会获得 50% 的坚韧，并且基本攻击模式发生变化，造成更高的伤害。如果被这些基本攻击击中的敌人生命值低于 20%，则会立即被击倒（仅限敌方玩家）。此招式中的攻击无法暴击。",
-    "TYRANITAR_MOVE_TYRANNICAL_RAMPAGE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "TYRANITAR_MOVE_TYRANNICAL_RAMPAGE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Guts": "毅力",
+    "Shed Skin": "蜕皮",
+    "Sand Stream": "扬沙",
+    "Bite": "咬住",
+    "Dark Pulse": "恶之波动",
+    "Stone Edge": "尖石攻击",
+    "Rock Polish": "岩石打磨",
+    "Ancient Power": "原始之力",
+    "Sand Tomb": "流沙地狱",
+    "Tyrannical Rampage": "致命暴袭"
   }
 }

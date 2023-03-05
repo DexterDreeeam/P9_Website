@@ -31,6 +31,15 @@
     "SABLEYE_MOVE_CONFUSE_RAY_TEXT_1": "向指定方向发射邪恶射线，对命中的敌人造成伤害。如果此招式击中敌方玩家，他们也会感到困惑 2.5 秒。困惑时，敌人无法行动，无法用普通攻击连续攻击附近的敌人。困惑的敌人会按照以下优先顺序瞄准附近的敌人：首先是他们的盟友；然后是野生宝可梦；最后，Sableye 团队中的神奇宝贝。野生神奇宝贝的击倒将归因于 Sableye，窃取被击倒的野生神奇宝贝的效果以及 Aeos 能量。困惑时，自动攻击和移动 1 的输出伤害降低 50%。",
     "SABLEYE_MOVE_CONFUSE_RAY_TEXT_2": "当此举让对方感到困惑时，也会增加 30% 的移动速度和 50% 的攻击速度。",
     "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_1": "Sableye 在 1.2 秒内变得势不可挡，并从双眼射出光芒，对前方锥形范围内的敌人造成伤害。被此招式击中并面对 Sableye 的敌方玩家将在 3 秒内无法行动并开始准备返回基地。如果他们在返回基地前受到伤害，返回效果将被取消，他们将在 1.5 秒内无法行动。被此招式击中的敌人，如果没有面对 Sableye，移动速度会降低 50%，持续 2 秒。",
-    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Prankster": "恶作剧之心",
+    "Thief": "小偷",
+    "Knock Off": "拍落",
+    "Shadow Sneak": "影子偷袭",
+    "Astonish": "惊吓",
+    "Feint Attack": "出奇一击",
+    "Confuse Ray": "奇异之光",
+    "Chaos Glower": "混沌目光"
   }
 }

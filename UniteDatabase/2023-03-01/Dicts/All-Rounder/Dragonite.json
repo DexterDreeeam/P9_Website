@@ -37,6 +37,17 @@
     "DRAGONITE_MOVE_OUTRAGE_TEXT_1": "Dragonite 踩踏地面，对 Dragonite 周围区域内的敌人造成伤害，并获得上次使用的加速攻击的加成效果。此外，Dragonite 获得一个持续 5.5 秒的增益，增加 30% 的自动攻击速度，持续 5.5 秒，将愤怒持续期间的所有攻击转化为近战助推攻击，并依次交替进行水、电和火助推攻击。当 buff 结束时，Dragonite 会被眩晕 0.7 秒。",
     "DRAGONITE_MOVE_OUTRAGE_TEXT_2": "减少 40% 狂暴时对 Dragonite 造成的障碍的持续时间，持续 5.5 秒。",
     "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_1": "短暂地在空中飞翔，变得不可瞄准，然后坠落，大约在激活后 2 秒，在指定区域有几颗彗星，造成伤害并将该区域的敌人投掷 0.5 秒。Dragonite 飞得越远，Unite 槽消耗的越多（最短距离为 50%，最大距离为 100%）。使用此招式时，Dragonite 势不可挡。",
-    "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾"
+    "DRAGONITE_MOVE_DRACO_IMPACT_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
+
+    "Marvel Scale": "神奇鳞片",
+    "Multiscale": "多重鳞片",
+    "Twister": "龙卷风",
+    "Dragon Dance": "龙之舞",
+    "Extreme Speed": "神速",
+    "Dragon Breath": "龙息",
+    "Hyper Beam": "    "Hyper Beam": "破坏死光",
+    ",
+    "Outrage": "逆鳞",
+    "Draco Impact": "流星猛坠"
   }
 }

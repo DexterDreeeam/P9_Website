@@ -31,6 +31,15 @@
     "MACHAMP_MOVE_SUBMISSION_TEXT_1": "Machamp 在 5 秒内变得不可阻挡，并获得 50% 的移动速度提高（每 1 秒减少 20%）或直到下一次自动攻击。Machamp 在提交期间的下一次自动攻击得到增强，命中两次并将目标猛击到 Machamp 身后。如果这次攻击命中，Machamp 还会获得 5% 的暴击率和 50% 的攻击速度，持续 3 秒。",
     "MACHAMP_MOVE_SUBMISSION_TEXT_2": "暴击率进一步提高 5%，攻击速度提高 10%。",
     "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_1": "Machamp 的移动速度提高 5%，攻击提高 30%，防御提高 200，Sp。防御 200，持续 10 秒。如果再次使用，发动连击，对范围内的敌人造成伤害并将其推开。最后一击造成的伤害是之前攻击的两倍。",
-    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾"
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
+
+    "Guts": "0000",
+    "Karate Chop": "0000",
+    "Close Combat": "0000",
+    "Cross Chop": "0000",
+    "Bulk Up": "0000",
+    "Dynamic Punch": "0000",
+    "Submission": "0000",
+    "Barrage Blow": "0000"
   }
 }

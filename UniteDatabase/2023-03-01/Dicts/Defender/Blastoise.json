@@ -37,6 +37,15 @@
     "BLASTOISE_MOVE_RAPID_SPIN_TEXT_1": "Blastoise 缩回壳中并开始快速旋转 5.5 秒，重置其另一招式的冷却时间。Blastoise 在 Rapid Spin 的持续时间内抵抗障碍，并且可以在战场上自由移动。旋转时，水箭龟会伤害附近的敌人。在快速旋转结束后，水箭龟的下一次自动攻击得到增强。在 Rapid Spin 期间，Blastoise 的自动攻击机制以及 Hydro Pump 和 Water Spout 都发生了变化。",
     "BLASTOISE_MOVE_RAPID_SPIN_TEXT_2": "Blastoise 在 7 秒内获得大量 Def 和 SpDef。",
     "BLASTOISE_MOVE_HYDRO_TYPHOON_TEXT_1": "Blastoise 获得持续 4 秒的护盾并在其周围形成一个大圆圈扫射强大的水柱，造成巨大伤害并将击中的敌人抛向空中 1.5 秒。",
-    "BLASTOISE_MOVE_HYDRO_TYPHOON_TEXT_2": "30% 移动速度，40% 最大生命值护盾"
+    "BLASTOISE_MOVE_HYDRO_TYPHOON_TEXT_2": "30% 移动速度，40% 最大生命值护盾",
+
+    "Torrent": "激流",
+    "Water Gun": "水枪",
+    "Hydro Pump": "水炮",
+    "Water Spout": "喷水",
+    "Skull Bash": "火箭头锤",
+    "Surf": "冲浪",
+    "Rapid Spin": "高速旋转",
+    "Hydro Typhoon": "旋风激流炮"
   }
 }

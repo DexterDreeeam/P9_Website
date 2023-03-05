@@ -33,6 +33,15 @@
     "AZUMARILL_MOVE_AQUA_TAIL_TEXT_1": "增加接下来 3 次自动攻击的速度和效果范围，持续 5 秒。如果这些自动攻击从远处击中，它们也会造成更高的伤害并恢复 HP。使用 Aqua Tail 将覆盖任何活跃的 Play Rough 攻击更改。出于物品、吸血和其他好处的目的，Aqua Tail 攻击算作自动攻击。",
     "AZUMARILL_MOVE_AQUA_TAIL_TEXT_2": "从远处击中敌人的水色尾巴攻击每击中一个敌人，所有动作的冷却时间就会减少 0.8 秒。",
     "AZUMARILL_MOVE_BELLY_BASH_TEXT_1": "Azumarill 以一只神奇宝贝为目标，然后敲打它们的肚子 3 次；每磅损失 5% 的剩余 HP，以换取 5% 的最大 HP 护盾，该护盾与每磅叠加并持续 6 秒。Azumarill 还会增加攻击力，持续 5 秒，并且可以在拍打腹部的同时移动。然后 Azumarill 冲向目标，伤害并投掷所有在冲锋时击中的神奇宝贝，并在目标周围造成区域内的神奇宝贝效果。额外攻击持续 5 秒，护盾持续 6 秒。",
-    "AZUMARILL_MOVE_BELLY_BASH_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "AZUMARILL_MOVE_BELLY_BASH_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Huge Power": "大力士",
+    "Tackle": "撞击",
+    "Play Rough": "嬉闹",
+    "Water Pulse": "水之波动",
+    "Bubble": "泡沫",
+    "Whirlpool": "潮旋",
+    "Aqua Tail": "水流尾",
+    "Belly Bash": "泡泡鼓大冲刺"
   }
 }

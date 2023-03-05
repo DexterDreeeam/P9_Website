@@ -31,6 +31,15 @@
     "VENUSAUR_MOVE_PETAL_DANCE_TEXT_1": "Venusaur 在自身周围散布花瓣，持续 4.8 秒，移动速度提高 90%，并且每 0.3 秒对半径内的敌人造成伤害（总共 16 个伤害刻度）。此移动速度增加在该移动的持续时间内每 0.5 秒缓慢衰减 9%。每击中一名敌方玩家一次伤害，花瓣之舞会减少污泥炸弹或千兆排水的冷却时间 30% 当前剩余冷却时间（击中多个敌人会减少更多冷却时间）。",
     "VENUSAUR_MOVE_PETAL_DANCE_TEXT_2": "半径增加。",
     "VENUSAUR_MOVE_VERDANT_ANGER_TEXT_1": "妙蛙花向指定位置投掷一颗巨大的种子，对半径内的所有敌人造成伤害并使他们减速 35%，持续 1 秒。然后种子分裂成 4 个较小的种子，每个种子对其半径内的所有敌人造成伤害。",
-    "VENUSAUR_MOVE_VERDANT_ANGER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "VENUSAUR_MOVE_VERDANT_ANGER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Overgrow": "茂盛",
+    "Seed Bomb": "种子炸弹",
+    "Sludge Bomb": "污泥炸弹",
+    "Giga Drain": "终极吸取",
+    "Razor Leaf": "飞叶快刀",
+    "Solar Beam": "日光束",
+    "Petal Dance": "花瓣舞",
+    "Verdant Anger": "鲜绿怒放"
   }
 }

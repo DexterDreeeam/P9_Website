@@ -35,6 +35,15 @@
     "NINETALES_MOVE_AURORA_VEIL_TEXT_1": "Ninetales 冲刺一小段距离，并以其位置为中心制造极光，持续 5 秒；Ninetales 和面纱内的盟友受到的伤害降低 30%，每次增强攻击都会治疗 Ninetales，并将攻击速度提高 15%。当九尾在极光内时，移动速度提高 10%，所有自动攻击都会增加。",
     "NINETALES_MOVE_AURORA_VEIL_TEXT_2": "减伤增加至 35%，冷却时间减少 2 秒。",
     "NINETALES_MOVE_SNOW_GLOBE_TEXT_1": "用寒冷的冰雪攻击；击中时对 Ninetales 周围范围内的敌人造成伤害。对被冻结的敌人造成更高的伤害。",
-    "NINETALES_MOVE_SNOW_GLOBE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "NINETALES_MOVE_SNOW_GLOBE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Snow Warning": "降雪",
+    "Powder Snow": "细雪",
+    "Avalanche": "雪崩",
+    "Dazzling Gleam": "魔法闪耀",
+    "Icy Wind": "冰冻之风",
+    "Blizzard": "暴风雪",
+    "Aurora Veil": "极光幕",
+    "Snow Globe": "寒雪冰封阵"
   }
 }

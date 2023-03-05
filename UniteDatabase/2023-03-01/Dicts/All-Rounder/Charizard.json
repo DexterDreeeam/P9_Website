@@ -31,6 +31,15 @@
     "CHARIZARD_MOVE_FLARE_BLITZ_TEXT_1": "Charizard 向前冲锋，保护自己 5 秒，将目标敌人扔出去并对一个区域造成伤害。",
     "CHARIZARD_MOVE_FLARE_BLITZ_TEXT_2": "投掷后还会使敌人减速 40%，持续 3 秒。",
     "CHARIZARD_MOVE_SEISMIC_SLAM_TEXT_1": "抓住一个敌人并将其猛击在地上，对目标和附近的敌人造成伤害，并根据他们的最大生命值造成额外伤害。然后，飞到空中自由越过障碍物7.5秒，获得阻碍抗性。当此移动处于活动状态时，自动攻击会对目标施加持续 1 秒的燃烧，造成 2 点伤害，并且每次自动攻击造成的伤害都会刷新。当使用自动攻击对敌人造成伤害时（不是来自燃烧或额外伤害），恢复相当于所造成伤害 80% 的 HP。",
-    "CHARIZARD_MOVE_SEISMIC_SLAM_TEXT_2": "50% 移动速度，20% 最大生命值护盾"
+    "CHARIZARD_MOVE_SEISMIC_SLAM_TEXT_2": "50% 移动速度，20% 最大生命值护盾",
+
+    "Blaze": "猛火",
+    "Flame Burst": "烈焰溅射",
+    "Flamethrower": "喷射火焰",
+    "Fire Punch": "火焰拳",
+    "Fire Spin": "火焰旋涡",
+    "Fire Blast": "大字爆炎",
+    "Flare Blitz": "闪焰冲锋",
+    "Seismic Slam": "大地粉碎击"
   }
 }

@@ -33,6 +33,15 @@
     "COMFEY_MOVE_GRASS_KNOT_TEXT_1": "向指定方向放出藤蔓，对击中的对方宝可梦造成伤害并定身。此招式最多可以击中对方的两只宝可梦。如果它击中了全范围 75% 范围内的两只对立宝可梦，草结会将第二只宝可梦拉到第一只宝可梦的位置并对两者造成额外伤害。附在盟友身上时，此招式的范围会增加。",
     "COMFEY_MOVE_GRASS_KNOT_TEXT_2": "增加此招式的影响范围。",
     "COMFEY_MOVE_FLOWERY_FIELDS_FOREVER_TEXT_1": "在自身周围制造一大片高草丛，持续 6 秒。这片高草丛中的神奇宝贝是看不见的，就像地图上的其他高草丛一样。如果我方宝可梦进入这片高草丛，它们会每 0.5 秒持续治疗一次。Comfey 从这种高草中长出特殊的花朵。这种草的花朵可以让你获得强大的花香疗愈和甜蜜之吻。",
-    "COMFEY_MOVE_FLOWERY_FIELDS_FOREVER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
+    "COMFEY_MOVE_FLOWERY_FIELDS_FOREVER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Triage": "先行治疗",
+    "Synthesis": "光合作用",
+    "Floral Healing": "花疗",
+    "Sweet Kiss": "天使之吻",
+    "Vine Whip": "藤鞭",
+    "Magical Leaf": "魔法叶",
+    "Grass Knot": "打草结",
+    "Flowery Fields Forever": "治愈之礼"
   }
 }
