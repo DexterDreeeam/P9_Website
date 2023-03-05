@@ -19,20 +19,20 @@
   },
   "Cn":
   {
-    "LUCARIO_PA1_TEXT_1": "OOOO",
-    "LUCARIO_BA1_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_QUICK_ATTACK_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_2": "OOOO",
-    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_POWER_UP_PUNCH_TAG_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_2": "OOOO",
-    "LUCARIO_MOVE_METEOR_MASH_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_BONE_RUSH_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_BONE_RUSH_TEXT_2": "OOOO",
-    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_2": "OOOO",
-    "LUCARIO_MOVE_AURA_CANNON_TEXT_1": "OOOO",
-    "LUCARIO_MOVE_AURA_CANNON_TEXT_2": "OOOO"
+    "LUCARIO_PA1_TEXT_1": "当生命值低于 50% 时，获得护盾并增加移动速度，持续 5 秒（60 秒冷却时间）。",
+    "LUCARIO_BA1_TEXT_1": "每三次攻击变为一次增强攻击，攻击两次。第一次攻击是普通的基本攻击，第二次是附加攻击，可以暴击，增加攻击范围，并将敌人扔到空中。",
+    "LUCARIO_MOVE_QUICK_ATTACK_TEXT_1": "路卡利欧向前冲刺，对所有击中的敌人造成伤害。",
+    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_1": "路卡利欧向前冲刺，对所有击中的敌人造成伤害，并为每个击中的敌人治疗路卡利欧。第一个被击中的敌人将重置极速的冷却时间。此效果每 10 秒不能在同一目标上出现超过一次。冲刺后立即攻击将在一个区域进行一次独特的攻击，造成 75% 的攻击力，并且可以暴击。",
+    "LUCARIO_MOVE_EXTREME_SPEED_TEXT_2": "路卡利欧伤害提升7.5%，持续2秒。无论是否有敌人被击中，这个增益都会激活，并在这个动作被激活时应用。",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_1": "路卡利欧开始充电，减速并减少 30% 受到的伤害，同时准备释放毁灭性的一击。释放后，路卡利欧会向前冲刺——对命中的第一个敌人造成伤害并短暂击晕他们。强化拳根据敌人损失的生命值造成额外伤害，并使路卡利欧的下一次攻击得到强化。每当路卡利欧落地招式时，强化拳的冷却时间减少1秒。对野生宝可梦：损失HP的追加伤害上限为1000。",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TAG_TEXT_1": "10% 的敌人失去 HP（上限为 1000 dmg）。",
+    "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_2": "路卡利欧蓄力时势不可挡。",
+    "LUCARIO_MOVE_METEOR_MASH_TEXT_1": "路卡利欧以流星般的力量出拳，对敌人造成伤害并将其击退。",
+    "LUCARIO_MOVE_BONE_RUSH_TEXT_1": "路卡利欧用一根骨头快速攻击，对命中的敌人造成最多 6 次伤害。远距离的敌人会被击中 3 次，近距离的敌人会被击中 6 次。路卡利欧在最后一击后扔出骨头，推开敌人并使骨头落在不远处。路卡利欧可以再次激活 Bone Rush 以传送到骨头处，对其周围小范围内的敌人造成伤害。使 Bone Rush 的初始打击之一落地将重置该目标上极速的冷却时间计时器。",
+    "LUCARIO_MOVE_BONE_RUSH_TEXT_2": "传送到骨头会重置极速或强化拳的冷却时间。",
+    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_1": "路卡利欧快速出拳，持续时间内对前方区域内的敌人造成 11 次伤害，每次击中恢复 HP，并在出拳时变得势不可挡。招式使用后5秒内，路卡利欧的下一次普攻射程增加，并使路卡利欧冲向目标。",
+    "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_2": "伤害增加。",
+    "LUCARIO_MOVE_AURA_CANNON_TEXT_1": "将光环能量引导至向指定方向发射的球形射弹。弹丸在行进时会加快速度。接触射弹的神奇宝贝会受到伤害。灵气炮对一个目标的命中次数没有限制。在近距离时，一个静止的敌人最多可以被击中 4 次，而当大炮处于最大速度时，一个静止的敌人只会被击中一次。下一次能量提升拳的伤害提高了大约 20%，被大炮击中的敌人的极速重置有内部冷却时间。",
+    "LUCARIO_MOVE_AURA_CANNON_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
   }
 }

@@ -19,20 +19,20 @@
   },
   "Cn":
   {
-    "GLACEON_PA1_TEXT_1": "OOOO",
-    "GLACEON_PA2_TEXT_1": "OOOO",
-    "GLACEON_BA1_TEXT_1": "OOOO",
-    "GLACEON_MOVE_SWIFT_TEXT_1": "OOOO",
-    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_1": "OOOO",
-    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_2": "OOOO",
-    "GLACEON_MOVE_ICY_WIND_TEXT_1": "OOOO",
-    "GLACEON_MOVE_ICY_WIND_TEXT_2": "OOOO",
-    "GLACEON_MOVE_TAIL_WHIP_TEXT_1": "OOOO",
-    "GLACEON_MOVE_ICE_SHARD_TEXT_1": "OOOO",
-    "GLACEON_MOVE_ICE_SHARD_TEXT_2": "OOOO",
-    "GLACEON_MOVE_FREEZE_DRY_TEXT_1": "OOOO",
-    "GLACEON_MOVE_FREEZE_DRY_TEXT_2": "OOOO",
-    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_1": "OOOO",
-    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_2": "OOOO"
+    "GLACEON_PA1_TEXT_1": "当伊布受到障碍物影响时，障碍物被无效化并在 1 秒内无敌。此技能在触发后进入冷却时间（70 秒冷却时间）。",
+    "GLACEON_PA2_TEXT_1": "当 Glaceon 受到障碍的影响时，障碍会被取消。然后 Glaceon 开始潜行并无敌 0.5 秒。此技能在触发后进入冷却（70 秒冷却时间）并在重生后重置。",
+    "GLACEON_BA1_TEXT_1": "每三次攻击变为一次增强攻击，造成更高的伤害，并在增强攻击命中时给予 Glaceon 2 个冰晶。冰晶持续4秒，获得额外的冰晶会刷新持续时间。Glaceon 一次最多可以容纳 8 个冰晶。",
+    "GLACEON_MOVE_SWIFT_TEXT_1": "在用户周围创建 4 颗星。之后的一小段时间里，每次用户用普通攻击或增幅攻击击中敌人时，都会分别射出一颗或两颗星星，对目标造成额外伤害。",
+    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_1": "Glaceon 向指定的敌人快速连续发射所有储存的冰晶。如果使用此招式时Glaceon没有冰晶，则立即产生并发射2个冰晶。发射的冰晶可以击中对方队伍中非此招式指定目标的敌人。水晶在击中任何敌人时破碎，对区域内的所有敌人造成伤害。此招式发射的冰晶每次击中同一个敌人时造成的伤害提高 5%。使用此招式时，寒冰碎片或冻干的冷却时间减少。此招式最多发射12颗冰晶。",
+    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_2": "每个发射的冰晶还会对命中的敌人造成相当于其剩余生命值 2% 的额外伤害。对野生宝可梦：最大HP的追加伤害上限为300。",
+    "GLACEON_MOVE_ICY_WIND_TEXT_1": "向指定方向跳跃一小段距离；Glaceon 在 5 秒内的下一次自动攻击会增加射程，并向敌人发射所有储存的冰晶，对其造成伤害。Glaceon 然后重新获得与发射的相同数量的冰晶。如果一个敌人被 4 个或更多冰晶击中，则每个碎片（最多叠加 6 次）使该敌人的移动速度降低 8%，持续 1 秒。如果使用此招式时Glaceon没有冰晶，则获得2个冰晶。",
+    "GLACEON_MOVE_ICY_WIND_TEXT_2": "每个发射的冰晶还会对命中的敌人造成相当于其剩余生命值 1.5% 的额外伤害。对野生宝可梦：最大HP的追加伤害上限为300。",
+    "GLACEON_MOVE_TAIL_WHIP_TEXT_1": "让用户向敌人摇尾巴，造成伤害并降低他们的防御和 Sp。防御提升30%，持续2秒，移动速度提升20%，持续1.5秒。使用此招式后的下一次自动攻击会变成一次强化攻击。",
+    "GLACEON_MOVE_ICE_SHARD_TEXT_1": "移动速度提高50%，持续0.5秒。之后冰狮的普攻速度提升25%，持续2秒，普攻变为投掷冰块攻击，持续2.5秒。这些冰块对它们击中的敌人造成伤害，并使其移动速度降低 30%，持续 1 秒。每当有一块冰击中时，Glaceon 就会获得 2 个冰晶。如果在使用冰柱矛发射水晶时使用此招式，或者如果此招式是在冰风之后但在下一次自动攻击发射所有水晶之前使用此招式，则获得 2 个冰晶。",
+    "GLACEON_MOVE_ICE_SHARD_TEXT_2": "在招式效果持续时间内将基本攻击速度进一步提高至 50%。",
+    "GLACEON_MOVE_FREEZE_DRY_TEXT_1": "向前射出一阵冰冷的空气。这种爆炸会在击中敌人或行进一定距离后爆炸；对范围内的所有敌人造成伤害。击中敌人后，增加 Glaceon 的 Sp。攻击力降低 50%，持续 3 秒。对于每个被爆炸击中的敌人，Glaceon 都会获得 2 个冰晶。爆炸还会留下一个冰区，使进入的敌人减速 20%，持续 3 秒。如果他们在冰区停留 2.5 秒，他们将被冻结 0.6 秒。",
+    "GLACEON_MOVE_FREEZE_DRY_TEXT_2": "每有一个敌人被此招式的爆炸击中，Glaceon 就会获得 1 个额外的冰晶。",
+    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_1": "Glaceon 跳得很高，在他们面前创造一个冰区，对范围内的敌人造成伤害。当 Glaceon 在冰区时，他们的移动速度提高 50%，持续 6 秒，Glaceon 在中心时每秒获得 2 个冰晶，在周边时每秒获得 1 个冰晶。冰区内敌人移动速度降低50%，持续1秒。",
+    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾"
   }
 }

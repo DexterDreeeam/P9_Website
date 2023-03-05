@@ -18,19 +18,19 @@
   },
   "Cn":
   {
-    "CINDERACE_PA1_TEXT_1": "OOOO",
-    "CINDERACE_BA1_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_EMBER_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_PYRO_BALL_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_PYRO_BALL_TEXT_2": "OOOO",
-    "CINDERACE_MOVE_BLAZE_KICK_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_BLAZE_KICK_TEXT_2": "OOOO",
-    "CINDERACE_MOVE_LOW_SWEEP_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_FLAME_CHARGE_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_FLAME_CHARGE_TEXT_2": "OOOO",
-    "CINDERACE_MOVE_FEINT_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_FEINT_TEXT_2": "OOOO",
-    "CINDERACE_MOVE_BLAZING_BICYCLE_KICK_TEXT_1": "OOOO",
-    "CINDERACE_MOVE_BLAZING_BICYCLE_KICK_TEXT_2": "OOOO"
+    "CINDERACE_PA1_TEXT_1": "血量减半时，暴击率提升10%，普攻速度提升20%，持续5秒（冷却时间30秒）。当用自动攻击击中敌人时，会在该敌人身上放置一个煤渣，持续 5 秒。增强攻击和移动应用 2 个煤渣。当目标收到它的第 5 个煤渣时，它们将全部被消耗掉以对敌人造成额外伤害。对付野生宝可梦：总伤害上限为500。",
+    "CINDERACE_BA1_TEXT_1": "每三次攻击或使用招式时都会成为增强攻击，造成更高的伤害。对付野生宝可梦：普通攻击伤害上限为 1000，强化攻击伤害上限为 1300。",
+    "CINDERACE_MOVE_EMBER_TEXT_1": "Cinderace 射出一道小火焰，对敌人造成伤害并施加燃烧效果。燃烧持续 3 秒，每秒一次滴答伤害，并降低敌人的攻击和 Sp。攻击力提升5%，持续2s。",
+    "CINDERACE_MOVE_PYRO_BALL_TEXT_1": "Cinderace 朝指定方向踢出一团火球，燃烧并伤害命中的敌人。燃烧持续 3 秒，每秒一次滴答伤害，并降低敌人的攻击和 Sp。攻击力提升5%，持续2s。",
+    "CINDERACE_MOVE_PYRO_BALL_TEXT_2": "此招式命中时，减少 Flame Charge 或 Feint 的冷却时间 3.5 秒。",
+    "CINDERACE_MOVE_BLAZE_KICK_TEXT_1": "施展炽热的飞踢，跳向指定的敌人，推搡并燃烧他们。此招式命中后，Cinderace 可以朝目标方向着陆。此外，Cinderace 在此移动期间不受阻碍，并且始终是致命一击。燃烧持续 3 秒，每秒一次滴答伤害，并降低敌人的攻击和 Sp。攻击力提升5%，持续2s。",
+    "CINDERACE_MOVE_BLAZE_KICK_TEXT_2": "此招式命中后，自动攻击速度提高 65%，持续 3 秒。",
+    "CINDERACE_MOVE_LOW_SWEEP_TEXT_1": "Cinderace 向指定方向快速低扫，对击中的所有敌人造成伤害。",
+    "CINDERACE_MOVE_FLAME_CHARGE_TEXT_1": "Cinderace 向前冲锋，对所有击中的敌人造成伤害。",
+    "CINDERACE_MOVE_FLAME_CHARGE_TEXT_2": "此移动结束后的下一次增强攻击也会使被击中的敌人减速 30%，持续 2 秒。",
+    "CINDERACE_MOVE_FEINT_TEXT_1": "Cinderace 闪避，将移动速度提高 25%，持续 2 秒，并在 44 帧（0.73 秒）内短暂无敌。",
+    "CINDERACE_MOVE_FEINT_TEXT_2": "闪避后，接下来的 3 次自动攻击会恢复相当于所造成伤害 30% 的生命值。",
+    "CINDERACE_MOVE_BLAZING_BICYCLE_KICK_TEXT_1": "制造一个巨大的火球，将其踢向指定位置。球释放出强烈的冲击波，对范围内的宝可梦造成伤害，宝可梦 HP 越低，造成的伤害越高。命中时移动速度也会提高 10%（与联合增益叠加），持续 5 秒。",
+    "CINDERACE_MOVE_BLAZING_BICYCLE_KICK_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾"
   }
 }

@@ -20,21 +20,21 @@
   },
   "Cn":
   {
-    "TSAREENA_PA1_TEXT_1": "OOOO",
-    "TSAREENA_PA2_TEXT_1": "OOOO",
-    "TSAREENA_BA1_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_RAZOR_LEAF_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_TRIPLE_AXEL_TAG_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_2": "OOOO",
-    "TSAREENA_MOVE_STOMP_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_STOMP_TEXT_2": "OOOO",
-    "TSAREENA_MOVE_RAPID_SPIN_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_TROP_KICK_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_TROP_KICK_TEXT_2": "OOOO",
-    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_2": "OOOO",
-    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_1": "OOOO",
-    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2": "OOOO"
+    "TSAREENA_PA1_TEXT_1": "当对 Bounsweet 或 Steenee 造成障碍时，减少效果的持续时间。",
+    "TSAREENA_PA2_TEXT_1": "当 Tsareena 受到阻碍时；减少效果的持续时间。使用增强攻击或移动可使 Tsareena 获得 1 层女王威严。在获得 3 层后，女王陛下的增益会在短时间内应用于 Tsareena，这使得 Tsareena 的一个动作可以重复使用（这些使用与基础动作不共享相同的冷却时间），造成更高的伤害并施加额外的效果基于所使用的移动。",
+    "TSAREENA_BA1_TEXT_1": "每三次攻击变为一次增幅攻击，向敌人发起猛攻，造成伤害并降低其 20% 防御，持续 1 秒。",
+    "TSAREENA_MOVE_RAZOR_LEAF_TEXT_1": "毛皮按指定方向离开；对命中的敌人造成伤害。此招的暴击率增加15%。",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_1": "Tsareena向指定方向旋转踢3次；对敌人造成伤害。落地命中会增加 Triple Axel Buff 堆栈。堆叠持续 5 秒并一起衰减。在增益持续期间，自动攻击速度会根据层数增加（上限为 3 层）。此外，增益期间自动攻击或三重轴造成的所有伤害每层增加 5%（上限为 6 层）。女王陛下效果：每次踢中都会恢复HP。",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TAG_TEXT_1": "4% + (1.5% x (级别 -1)",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_STOMP_TEXT_1": "Tsareena 跳得很高，用脚攻击敌人。当此招式命中时，对敌人造成伤害并使他们在 0.1 秒内无法行动。女王陛下效果：此招式命中时恢复HP。",
+    "TSAREENA_MOVE_STOMP_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_RAPID_SPIN_TEXT_1": "Tsareena 向指定方向旋转；对任何被击中的敌人造成伤害。此招式命中时，增加Tsareena的移动速度30%，持续1.5秒。",
+    "TSAREENA_MOVE_TROP_KICK_TEXT_1": "向指定方向施展飞腿，对命中的敌人造成伤害，并降低其攻击力25%，持续2秒。接触到飞踢尾波的敌人会受到伤害，并使他们的移动速度降低 35%，持续 1 秒（可重复应用）。女王陛下效果：使用此招式时，为 Tsareena 提供持续 3 秒的护盾。",
+    "TSAREENA_MOVE_TROP_KICK_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_1": "Tsareena 向指定方向滑动；对命中的敌人造成伤害。随后向相反方向发起攻击，造成伤害并将击中的敌人推开。女王陛下效果：使用此招式时，为 Tsareena 提供持续 3 秒的护盾。",
+    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_1": "Tsareena 从对方队伍中跳向一名敌人并将其高高踢向空中，然后在空中用一系列踢击淋浴，对他们造成伤害。Tsareena 着地的那一刻，恢复 HP。在空中时，被踢的敌人和 Tsareena 不受其他动作的影响。",
+    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾"
   }
 }
