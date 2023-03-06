@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "CRAMORANT_PA1_TEXT_1": "When Cramorant has prey in its mouth, it will counterattack upon taking damage from an enemy. Alternatively, Cramorant can shoot the prey at his enemy as a boosted attack. The prey bounces to 1 nearby enemy. While above 50% HP, caught prey will be Arrokuda which deals damage and reduces enemy Defense by 20% and Sp. Def by 5% for 3s. While below 50% HP, the prey will be Pikachu which deals damage to the enemy and slows them by 50% for 1s.",
+    "CRAMORANT_BA1_TEXT_1": "Becomes a boosted attack with every fourth attack. This boosted attack spits prey at the enemy and bounces to 1 nearby enemy.",
+    "CRAMORANT_MOVE_WHIRLPOOL_TEXT_1": "Cramorant creates a whirlpool at a designated location, damaging all enemies in the radius 10 times over a 1.8s duration. The area contracts over time to where enemies at the outer edge of the pool will only be hit three times. It also slows enemies by 50% for 0.2s, refreshing every damage tick. Cramorant can enter the whirlpool to catch prey for Gulp Missile (you can catch up to 2 prey).",
+    "CRAMORANT_MOVE_SURF_TEXT_1": "Cramorant sends a wave in a designated direction, damaging enemies that make contact with the wave. The wave reaches its maximum distance after 0.8s and then returns to its starting point at the same speed. Enemies caught in the outgoing or returning wave are dealt damage up to two times. Enemies caught in the returning wave pulled in the direction of the returning wave, being incapacitated for the duration of the pull for 0.4s. Cramorant catches prey with the first wave, and can enter the wave that returns to catch prey for Gulp Missile.",
+    "CRAMORANT_MOVE_SURF_TEXT_2": "The wave also slows by 40% for 2s.",
+    "CRAMORANT_MOVE_DIVE_TEXT_1": "Cramorant turns the designated area into a puddle, then dives to that area; becoming unstoppable for 0.5s, shoving and damaging enemies in the area for 0.5s. Cramorant catches prey for Gulp Missile as they emerge from the puddle and the next boosted attack deals additional damage but only for the next 5s; boosted attacks after this 5s are treated as regular boosted attacks. Holds 3 uses in reserve. There is a 1.5 sec cooldown between each use, which is reduced with cooldown reduction.",
+    "CRAMORANT_MOVE_DIVE_TEXT_2": "Increased damage.",
+    "CRAMORANT_MOVE_FEATHER_DANCE_TEXT_1": "Cramorant throws a circle of feathers at a designated area, slowing enemies by 20% in the radius and reducing their Attack by 30% for 4s.",
+    "CRAMORANT_MOVE_HURRICANE_TEXT_1": "Cramorant creates a fierce wind at a location. After 0.5s enemies caught in the area are damaged and thrown for 1s.",
+    "CRAMORANT_MOVE_HURRICANE_TEXT_2": "Increases Cramorant's movement speed by 20% for 3s.",
+    "CRAMORANT_MOVE_AIR_SLASH_TEXT_1": "Cramorant shoots 5 blades of air while moving backwards, dealing damage to enemies within the cone in a 0.33s time frame. This move's cooldown is reduced by .5s for each blade that hits (maximum 2.5s).",
+    "CRAMORANT_MOVE_AIR_SLASH_TEXT_2": "Heals Cramorant every time a blade of air hits an enemy.",
+    "CRAMORANT_MOVE_GATLING_GULP_MISSILE_TEXT_1": "Cramorant becomes unstoppable and fires a series of prey at the nearest enemy up to 10 times, becoming immobile for the up to 6.5s. The prey that is fired will be Arrokuda while above 50% HP and Pikachu while under 50% HP. Gatling Gulp Missile can be cancelled early. If a boosted attack is ready when starting this move, it will be shot out first as a regular boosted attack, followed by 10 Gatling Gulp Missiles.",
+    "CRAMORANT_MOVE_GATLING_GULP_MISSILE_TEXT_2": "30% Max HP Shield granted at the start of the Move, 30% Movement Speed granted at the end of the turret."
+  },
+  "Cn":
+  {
+    "CRAMORANT_PA1_TEXT_1": "当 Cramorant 嘴里叼着猎物时，它会在受到敌人伤害时进行反击。或者，Cramorant 可以将猎物射向他的敌人作为增强攻击。猎物弹回附近的 1 个敌人。当生命值高于 50% 时，捕获的猎物将成为 Arrokuda，造成伤害并降低敌人 20% 的防御和 Sp。防御降低 5%，持续 3 秒。血量低于50%时，猎物为皮卡丘，对敌人造成伤害并减速50%，持续1秒。",
+    "CRAMORANT_BA1_TEXT_1": "每四次攻击变为一次增强攻击。这种增强的攻击会向敌人吐出猎物并弹回附近的 1 个敌人。",
+    "CRAMORANT_MOVE_WHIRLPOOL_TEXT_1": "克拉莫兰特在指定位置制造漩涡，在 1.8 秒内对半径内的所有敌人造成 10 次伤害。随着时间的推移，该区域会缩小到池外边缘的敌人只会被击中 3 次。它还会使敌人减速 50%，持续 0.2 秒，每次伤害更新。Cramorant 可以进入漩涡为 Gulp Missile 捕捉猎物（最多可以捕捉 2 个猎物）。",
+    "CRAMORANT_MOVE_SURF_TEXT_1": "Cramorant 向指定方向发射波浪，对与波浪接触的敌人造成伤害。波浪在 0.8 秒后到达其最大距离，然后以相同的速度返回其起点。被卷入或返回的波浪中的敌人最多受到两倍的伤害。被卷入返回波中的敌人会被拉向返回波的方向，在拉动的持续时间内无法行动 0.4 秒。Cramorant 用第一波捕获猎物，并可以进入返回的波为 Gulp Missile 捕获猎物。",
+    "CRAMORANT_MOVE_SURF_TEXT_2": "波浪也会减速 40%，持续 2 秒。",
+    "CRAMORANT_MOVE_DIVE_TEXT_1": "Cramorant将指定区域变成水坑，然后潜入该区域；在 0.5 秒内变得不可阻挡，在 0.5 秒内推挤和伤害区域内的敌人。当猎物从水坑中出现时，Cramorant 会用 Gulp Missile 捕捉猎物，下一次增强攻击会造成额外伤害，但仅限于接下来的 5 秒；这 5 秒后的增强攻击被视为常规增强攻击。保留 3 次使用。每次使用之间有 1.5 秒的冷却时间，随着冷却时间减少而减少。",
+    "CRAMORANT_MOVE_DIVE_TEXT_2": "伤害增加。",
+    "CRAMORANT_MOVE_FEATHER_DANCE_TEXT_1": "克拉莫兰特向指定区域投掷一圈羽毛，使范围内的敌人减速 20%，并降低他们 30% 的攻击，持续 4 秒。",
+    "CRAMORANT_MOVE_HURRICANE_TEXT_1": "Cramorant 在一个位置制造狂风。0.5 秒后，进入该区域的敌人受到伤害并被抛出 1 秒。",
+    "CRAMORANT_MOVE_HURRICANE_TEXT_2": "使克拉莫兰特的移动速度提高 20%，持续 3 秒。",
+    "CRAMORANT_MOVE_AIR_SLASH_TEXT_1": "克拉莫兰特在向后移动时射出 5 道气刃，在 0.33 秒的时间内对锥形范围内的敌人造成伤害。每击中一个刀片，此招式的冷却时间就会减少 0.5 秒（最多 2.5 秒）。",
+    "CRAMORANT_MOVE_AIR_SLASH_TEXT_2": "每次空气之刃击中敌人时都会治疗 Cramorant。",
+    "CRAMORANT_MOVE_GATLING_GULP_MISSILE_TEXT_1": "Cramorant 变得势不可挡，并向最近的敌人发射一系列猎物最多 10 次，在最多 6.5 秒内无法移动。被发射的猎物在 50% 生命值以上时为 Arrokuda，在 50% 生命值以下时为皮卡丘。Gatling Gulp 导弹可以提前取消。如果在开始此动作时已准备好增强攻击，它将作为常规增强攻击首先发射出去，然后是 10 枚加特林吞噬导弹。",
+    "CRAMORANT_MOVE_GATLING_GULP_MISSILE_TEXT_2": "移动开始时获得 30% 最大生命值护盾，炮塔结束时获得 30% 移动速度。",
+
+    "Gulp Missile": "一口导弹",
+    "Whirlpool": "潮旋",
+    "Surf": "冲浪",
+    "Dive": "潜水",
+    "Feather Dance": "羽毛舞",
+    "Hurricane": "暴风",
+    "Air Slash": "空气斩",
+    "Gatling Gulp Missile": "怒涛导弹"
+  }
+}

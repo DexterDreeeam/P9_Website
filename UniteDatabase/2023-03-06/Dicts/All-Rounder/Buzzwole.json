@@ -1,0 +1,49 @@
+{
+  "En":
+  {
+    "BUZZWOLE_PA1_TEXT_1": "When Buzzwole knocks out or assists in knocking out an enemy player, movement speed is increased by 100% and basic attack speed increased by 50% for 3s. Each time Buzzwole hits an enemy with basic attacks, Mega Punch, Lunge, or Smack Down - muscle gauge increases. Conversely, when Buzzwole is not in combat with enemy players, muscle gauge depletes by 1 increment every 5s. Up to 6 muscle gauge increments can be stored.",
+    "BUZZWOLE_BA1_TEXT_1": "Each time a basic attack hits an enemy, increase muscle gauge by 1 increment. Becomes a boosted attack with every third attack, throwing two consecutive punches while restoring Buzzwole's HP and increasing muscle gauge by 1 increment for each hit.",
+    "BUZZWOLE_MOVE_MEGA_PUNCH_TEXT_1": "Jump in the designated direction before slamming the ground with a powerful punch. The shock from the punch deals damage to enemies in the area. If this move hits an enemy, muscle gauge increases by 1 increment for each enemy hit.",
+    "BUZZWOLE_MOVE_LUNGE_TEXT_1": "Lunge in the designated direction, dealing damage to enemies, decreasing their Attack by 30% for 2s and slowing them by 30% for 1s. If this move hits an enemy, muscle gauge increases by 1 increment for each enemy hit. After this move is used, Buzzwole's basic attack speed is increased by 30% for 2s. Holds 2 uses in reserve and cannot be used more than once every 1s.",
+    "BUZZWOLE_MOVE_LUNGE_TEXT_2": "Whenever this move hits enemy players, Buzzwole's Attack increases by 10% for 2s for each player hit (up to a max of 5 stacks).",
+    "BUZZWOLE_MOVE_SMACK_DOWN_TEXT_1": "Deliver an uppercut punch to an enemy in the designated direction, dealing damage and throwing them into the air. While the enemy is airborne, the user can activate this move again to perform a follow-up attack that smacks the target to the ground, dealing damage to all enemies in an area centered on the airborne enemy. When this move deals damage, muscle gauge increases by 2 increments for each enemy hit.",
+    "BUZZWOLE_MOVE_SMACK_DOWN_TEXT_2": "Widens the area-of-effect in which damage is dealt when the grappled enemy slams the ground. Additionally, muscle gauge will now increase by 3 increments for each enemy player hit from the slam.",
+    "BUZZWOLE_MOVE_FELL_STINGER_TEXT_1": "Consumes the entire muscle gauge and has the user deal damage to an enemy in the designated direction, briefly shoving and stunning them for .2s. The damage dealt by this move increases for each muscle gauge increment consumed at a rate of 12.5% per increment. If this move knocks out an enemy, the user recovers 10% of maximum HP.",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TEXT_1": "Grab and restrain an enemy in the designated direction, dealing damage-over-time while restoring Buzzwole's HP. When this move is used, consume the user's entire muscle gauge. The number of hits and the amount of damage dealt per hit increases for each muscle gauge increment consumed. Number of hits starts at 4 and increases by 1 per 2 increments of muscle gauge consumed. Initial damage increases by 1.5% per muscle gauge increment. This move ends if Buzzwole becomes unable to act for any reason or if the restrained enemy escapes by using an Eject Button or through some other means. Against Unstoppable Targets: Only 1 instance of damage and healing will occur, equal to 5 hits.",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TAG_TEXT_1": "1.5% of per tick damage",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TAG_TEXT_2": "50% of Damage Dealt + 5% x (Level -1)",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TEXT_2": "Also causes each instance of damage dealt by this move to be stronger than the last by 5% additively.",
+    "BUZZWOLE_MOVE_SUPER_POWER_TEXT_1": "Consumes the entire muscle gauge and has the user run in the designated direction and grab an enemy. The user then slams the target down on the ground at full strength, dealing damage to all enemies in the area and granting an 8% Max HP shield. The damage dealt by this move is increased at a rate of 12.5% per muscle gauge increment. The shield is increased at a rate of 1.5% Max HP per muscle gauge increment.",
+    "BUZZWOLE_MOVE_SUPER_POWER_TEXT_2": "Resets the cooldown of this move when the user's muscle gauge reaches maximum.",
+    "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_1": "Buzzwole flies at high speed, dealing damage to enemies in the area-of-effect. Afterward, the user targets the enemy with the lowest percentage of HP remaining among those hit and charges down at them from the sky, dealing area damage once again and additional damage to the targeted enemy based on their missing HP. Against Wild Pokemon: Missing HP damage is not dealt.",
+    "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "BUZZWOLE_PA1_TEXT_1": "Buzzwole击倒或协助击倒敌方玩家时，移动速度提升100%，普攻速度提升50%，持续3秒。每次 Buzzwole 以基本攻击、Mega Punch、Lunge 或 Smack Down 击中敌人时 - 肌肉量增加。相反，当 Buzzwole 没有与敌方玩家战斗时，肌肉量表每 5 秒减少 1 个增量。最多可以存储 6 个肌肉量表增量。",
+    "BUZZWOLE_BA1_TEXT_1": "每次基本攻击击中敌人时，肌肉槽增加 1 个增量。每三次攻击变为一次强化攻击，连续两次出拳，同时恢复 Buzzwole 的 HP，每次攻击增加 1 个增量的肌肉量表。",
+    "BUZZWOLE_MOVE_MEGA_PUNCH_TEXT_1": "朝指定方向跳跃，然后用有力的拳头猛击地面。冲击波会对区域内的敌人造成伤害。如果此招式击中敌人，每击中一个敌人，肌肉计量器就会增加 1 个增量。",
+    "BUZZWOLE_MOVE_LUNGE_TEXT_1": "向指定方向突进，对敌人造成伤害，使其攻击力降低30%，持续2秒，减速效果30%，持续1秒。如果此招式击中敌人，每击中一个敌人，肌肉计量器就会增加 1 个增量。此招使用后，嗡嗡狼的普攻速度提升30%，持续2秒。保留 2 次使用，每 1 秒不能使用超过一次。",
+    "BUZZWOLE_MOVE_LUNGE_TEXT_2": "每当此招式击中敌方玩家时，每击中一名玩家，Buzzwole 的攻击力就会提高 10%，持续 2 秒（最多叠加 5 层）。",
+    "BUZZWOLE_MOVE_SMACK_DOWN_TEXT_1": "向指定方向的敌人发出上勾拳，造成伤害并将其抛向空中。当敌人在空中时，使用者可以再次激活此招式进行后续攻击，将目标击倒在地，对以空中敌人为中心的区域内的所有敌人造成伤害。当此招式造成伤害时，每击中一个敌人，肌肉量表就会增加 2 个增量。",
+    "BUZZWOLE_MOVE_SMACK_DOWN_TEXT_2": "扩大被擒抱的敌人猛击地面时造成伤害的影响范围。此外，每击中一名敌方玩家，肌肉计量器现在会增加 3 个增量。",
+    "BUZZWOLE_MOVE_FELL_STINGER_TEXT_1": "消耗全部肌肉量表并让使用者对指定方向的敌人造成伤害，短暂地推搡并击晕他们 0.2 秒。此招式造成的伤害会随着每增加 12.5% 的肌肉量增加而增加。如果此招式击倒敌人，使用者将恢复最大 HP 的 10%。",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TEXT_1": "抓住并约束指定方向的敌人，造成持续伤害，同时恢复 Buzzwole 的 HP。使用此招式时，消耗使用者的全部肌肉计量器。每消耗一个肌肉计量增量，命中次数和每次命中造成的伤害量就会增加。命中次数从 4 开始，每增加 2 次消耗的肌肉量增加 1 次。每增加一个肌肉量表，初始伤害就会增加 1.5%。如果 Buzzwole 因任何原因无法行动，或者如果被束缚的敌人使用弹出按钮或通过其他方式逃脱，则此移动结束。对抗不可阻挡的目标：只会造成 1 次伤害和治疗，相当于 5 次攻击。",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TAG_TEXT_1": "每刻伤害的 1.5%",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TAG_TEXT_2": "造成伤害的 50% + 5% *（等级 -1）",
+    "BUZZWOLE_MOVE_LEECH_LIFE_TEXT_2": "还会使此招式造成的每次伤害实例都比上一次加法强 5%。",
+    "BUZZWOLE_MOVE_SUPER_POWER_TEXT_1": "消耗全部肌肉量表，让使用者朝指定方向奔跑并抓住敌人。然后，使用者全力将目标猛击在地上，对该区域内的所有敌人造成伤害，并获得 8% 的最大生命值护盾。此招式造成的伤害以每增加 12.5% 的肌肉量增加率增加。护盾以 1.5% 最大生命值的速率增加，每次肌肉量增加。",
+    "BUZZWOLE_MOVE_SUPER_POWER_TEXT_2": "当用户的肌肉指标达到最大值时，重置此动作的冷却时间。",
+    "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_1": "Buzzwole 高速飞行，对影响范围内的敌人造成伤害。之后，使用者以被击中的生命值百分比最低的敌人为目标，从空中冲下，再次造成范围伤害，并根据目标敌人损失的生命值追加伤害。对野生宝可梦：不造成失去HP的伤害。",
+    "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Beast Boost": "异兽提升",
+    "Mega Punch": "百万吨重拳",
+    "Lunge": "猛扑",
+    "Smack Down": "击落",
+    "Fell Stinger": "致命针刺",
+    "Leech Life": "吸血",
+    "Super Power": "蛮力",
+    "Ultra Swole Slam": "究极大肌块"
+  }
+}
