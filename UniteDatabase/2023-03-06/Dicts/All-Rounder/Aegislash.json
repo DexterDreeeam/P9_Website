@@ -37,12 +37,12 @@
     "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_1": "向指定方向挥出一道裂地斩，对命中的敌人造成伤害并切换为剑式。他们剩余的生命值越低，此招式造成的伤害就越大。如果此斜线击倒敌人，则增益计数增加 2。 对野生宝可梦：损失HP的追加伤害上限为1000。",
     "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
 
-    "Damange - Boosted (Shield Stance)": "伤害 - 强化 (盾形态)",
+    "Damage - Boosted (Shield Stance)": "伤害 - 强化 (盾形态)",
     "Healing - Boosted (Shield Stance)": "治疗 - 强化 (盾形态)",
-    "Damange - Boosted (Sword Stance)": "伤害 - 强化 (剑形态)",
-    "Damange - Additional (Sword Stance)": "伤害 - 附加 (剑形态)",
-    "Damange - Triangle Attack": "伤害 - 三角攻击",
-    "Damange - Slash Attack": "伤害 - 劈砍攻击",
+    "Damage - Boosted (Sword Stance)": "伤害 - 强化 (剑形态)",
+    "Damage - Additional (Sword Stance)": "伤害 - 附加 (剑形态)",
+    "Damage - Triangle Attack": "伤害 - 三角攻击",
+    "Damage - Slash Attack": "伤害 - 劈砍攻击",
 
     "No Guard": "无防守",
     "Stance Change": "战斗切换",
