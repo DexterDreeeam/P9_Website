@@ -1,0 +1,57 @@
+{
+  "En":
+  {
+    "AEGISLASH_PA1_TEXT_1": "Honedge and Doublade do not gain the stat benefits of Stance Change. However, their boosted attack functions like Aegislash's Sword Stance boosted attack.",
+    "AEGISLASH_PA2_TEXT_1": "Aegislash can switch between Sword Stance and Shield Stance. Using a blade move switches stance to Sword Stance; which increases Attack, movement speed by 5%, and Attack Speed by 15%. Using a shield move switches stance to Shield Stance; which increases Defense and Sp. Defense and reduces Attack Speed by 20%. After switching stances, movement speed and basic attack speed are further increased by 15% for 3.5s.",
+    "AEGISLASH_BA1_TEXT_1": "Slash at enemies in front of Aegislash, dealing damage to them. If the boost count is one or more, auto attacks become a boosted attack. When in Sword Stance or No Guard: pierce through enemies, dealing damage. When in Shield Stance: ram enemies, dealing damage and leaving them unable to act for .1s, restore HP, and reduce the cooldown of Sacred Sword and Shadow Claw by 1s when this attack hits. Every boosted attack consumes one boost count. Up to 4 boosted attacks can be stored.",
+    "AEGISLASH_BA1_TAG_TEXT_1": "Against Wild Pokemon: The additional damage from maximum HP is capped at 1000.",
+    "AEGISLASH_MOVE_SHADOW_SNEAK_TEXT_1": "Cast a shadow in the designated direction dealing damage to enemies hit. After the shadow hits an enemy or travels its maximum distance, Aegislash warps to the shadow’s location, dealing damage to nearby enemies and increase boost count by 1.",
+    "AEGISLASH_MOVE_SACRED_SWORD_TEXT_1": "Aegislash thrusts its blade into the ground creating a triangular zone. This zone erupts with a hidden power, dealing damage to enemies in the area and throws them in the air for .6s. Also increases boost count by 1 for each enemy hit (capped at 2 for wilds, 4 for players). At the same time as the eruption, Aegislash slashes forward, dealing additional damage to enemies hit. For 3s after this slash hits, damage dealt by Aegislash ignores 25% of the enemy's Defense.",
+    "AEGISLASH_MOVE_SACRED_SWORD_TEXT_2": "Increase Attack by 50 for 3s after hitting enemies with the triangle attack.",
+    "AEGISLASH_MOVE_SHADOW_CLAW_TEXT_1": "Aegislash slashes with its blade twice in the designated direction, dealing damage to enemies hit. Follow up with a final rising slash that deals damage to enemies hit and throws them in the air for .75s. Boost count increases by 1 when at least one of the three slashes hits.",
+    "AEGISLASH_MOVE_SHADOW_CLAW_TEXT_2": "Increases Critical-Hit Rate by 20% for 1s (This move does not benefit).",
+    "AEGISLASH_MOVE_IRON_DEFENSE_TEXT_1": "Envelops Aegislash in a powerful protective force for 3s or after blocking one attack. If this move blocks an attack, increase boost count by 1.",
+    "AEGISLASH_MOVE_WIDE_GUARD_TEXT_1": "Focus in place for a short time to create a great shield on Aegislash for 1.2s. When this great shield appears, boost count increases by 1, granting a shield to Aegislash and shoves enemies in front. While this great shield is active, enemy player attacks increase boost count by 1 for each different enemy (capping at 2). When this move ends, shove enemies for .75s in front of Aegislash once again and slow them by 45% for 2s. \nGain 1 boosted count if the shove at the end hits at least one enemy. If the great shield is depleted before the duration of this move ends, the boosted count is granted regardless of whether an enemy is hit.",
+    "AEGISLASH_MOVE_WIDE_GUARD_TEXT_2": "Cooldown reduced by 1s.",
+    "AEGISLASH_MOVE_IRON_HEAD_TEXT_1": "Dash in the designated direction dealing damage to enemies hit. Also increases boost count by 1, and protects Aegislash with a special shield for 1s afterward. This shield doesn’t protect from hindrances, but it can nullify damage. When the shield blocks an attack, it disappears, the cooldown is reduced by 3s, and boost count is increased by 1.",
+    "AEGISLASH_MOVE_IRON_HEAD_TEXT_2": "If an attack is blocked with this move, Aegislash gains +10% Attack for 3s.",
+    "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_1": "Unleash a ground-splitting slash in the designated direction dealing damage to enemies hit and switching to Sword Stance. The lower their remaining HP, the more damage this move deals. If this slash knocks out an enemy, boost count increases by 2. \nAgainst Wild Pokémon: The additional damage from missing HP is capped at 1000.",
+    "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "AEGISLASH_PA1_TEXT_1": "独剑鞘和双剑鞘没有战斗切换的效果。但是，它们的强化攻击效果与坚盾剑怪的剑形态强化攻击一致。",
+    "AEGISLASH_PA2_TEXT_1": "坚盾剑怪可以在剑形态和盾形态之间切换。使用剑招式将姿态切换为剑形态，增加 5% 的攻击、5% 的移动速度和 15% 的攻击速度。使用盾招式将切换为盾形态，这增加了防御和特防并降低攻击速度 20%。切换姿态后移动速度和攻击速度将额外提升 15%，持续 3.5 秒。",
+    "AEGISLASH_BA1_TEXT_1": "猛击坚盾剑怪前方的敌人，对其造成伤害。如果拥有至少一层充能，则自动攻击成为强化攻击。剑形态或无防守时：刺穿敌人，造成伤害。盾形态时：冲撞敌人，造成伤害，0.1 秒内无法行动，回血，命中时圣剑和暗影爪的冷却时间减少1秒。每次强化攻击都会消耗一层充能。最多可储存 4 层充能。",
+    "AEGISLASH_BA1_TAG_TEXT_1": "对野生宝可梦：最大HP的额外伤害上限为 1000。",
+    "AEGISLASH_MOVE_SHADOW_SNEAK_TEXT_1": "向指定方向投出影子，对命中的敌人造成伤害。在影子击中敌人或到达最远距离后，坚盾剑怪会跃迁至影子所在位置，对附近的敌人造成伤害并获得 1 层充能。",
+    "AEGISLASH_MOVE_SACRED_SWORD_TEXT_1": "坚盾剑怪将其剑刃刺入地面，形成一个三角形区域。该区域爆发出隐藏的力量，对该区域内的敌人造成伤害并击飞 0.6 秒。每击中一个敌人，会增加 1 层充能（对野生宝可梦上限为 2 层，对抗玩家时上限为 4 层）。同时，坚盾剑怪向前劈砍，对命中的敌人造成额外伤害。劈砍命中后的 3 秒内，坚盾剑怪造成的伤害会无视敌人 25% 的防御。",
+    "AEGISLASH_MOVE_SACRED_SWORD_TEXT_2": "三角攻击击中敌人后增加 50 点攻击，持续 3 秒。",
+    "AEGISLASH_MOVE_SHADOW_CLAW_TEXT_1": "坚盾剑怪用它的剑刃朝指定方向劈砍两次，对命中的敌人造成伤害。紧接着向上劈砍，对击中的敌人造成伤害并击飞 0.75 秒。当三次劈砍中至少有一次命中时，获得 1 层充能。",
+    "AEGISLASH_MOVE_SHADOW_CLAW_TEXT_2": "增加 20% 的暴击率，持续 1 秒（此招式不会获得暴击提升）。",
+    "AEGISLASH_MOVE_IRON_DEFENSE_TEXT_1": "强大的力量保护坚盾剑怪，该力量可以格挡一次攻击，最多持续3秒。如果此招式格挡了一次攻击，则获得 1 层充能。",
+    "AEGISLASH_MOVE_WIDE_GUARD_TEXT_1": "短暂的保持不动并获得持续 1.2 秒的巨型盾牌，获得 1 层充能。赋予坚盾剑怪的巨大盾牌会将敌人推到前面。当这个巨大盾牌存在时，每个不同的对方宝可梦的攻击会为坚盾剑怪增加 1 层充能（上限为 2 层）。当此招式结束时，再次将敌人推到坚盾剑怪前面 0.75 秒，并使他们减速 45%，持续 2 秒。 如果最后一次推击击中至少一名敌人，则获得 1 层充能。如果巨大盾牌在此招式的持续时间结束之前耗尽，则无论是否击中敌人，都会充能。",
+    "AEGISLASH_MOVE_WIDE_GUARD_TEXT_2": "冷却时间减少 1 秒。",
+    "AEGISLASH_MOVE_IRON_HEAD_TEXT_1": "向指定方向冲刺，对命中的敌人造成伤害，获得 1 层充能。之后用特殊护盾保护坚盾剑怪 1 秒，该护盾无法抵抗控制效果，但可以抵消伤害。护盾格挡一次攻击后消失，冷却时间减少3秒，获得 1 层充能。",
+    "AEGISLASH_MOVE_IRON_HEAD_TEXT_2": "如果此招式阻挡了一次攻击，坚盾剑怪将获得 +10% 攻击力，持续 3 秒。",
+    "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_1": "向指定方向挥出一道裂地斩，对命中的敌人造成伤害并切换为剑形态。他们剩余的生命值越低，此招式造成的伤害就越大。如果这次杀死一个敌人，则获得 2 层充能。 对野生宝可梦：损失HP的额外伤害上限为 1000。",
+    "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_2": "30% 移动速度，30% 冷却缩减，20% 最大生命值护盾",
+
+    "Damage - Boosted (Shield Stance)": "伤害 - 强化 (盾形态)",
+    "Healing - Boosted (Shield Stance)": "治疗 - 强化 (盾形态)",
+    "Damage - Boosted (Sword Stance)": "伤害 - 强化 (剑形态)",
+    "Damage - Additional (Sword Stance)": "伤害 - 附加 (剑形态)",
+    "Damage - Triangle Attack": "伤害 - 三角攻击",
+    "Damage - Slash Attack": "伤害 - 劈砍攻击",
+
+    "No Guard": "无防守",
+    "Stance Change": "战斗切换",
+    "Shadow Sneak": "影子偷袭",
+    "Sacred Sword": "圣剑",
+    "Shadow Claw": "暗影爪",
+    "Iron Defense": "铁壁",
+    "Wide Guard": "广域防守",
+    "Iron Head": "铁头",
+    "Coup de Grace": "终结一击"
+  }
+}

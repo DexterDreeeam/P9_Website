@@ -1,0 +1,310 @@
+{
+    "LUCARIO_PA1":
+    {
+        "name": "Steadfast",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "LUCARIO_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "LUCARIO_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "LUCARIO_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (2nd Hit)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.3,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "LUCARIO_MOVE_QUICK_ATTACK":
+    {
+        "name": "Quick Attack",
+        "type": "Move 1",
+        "cd": 6.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "LUCARIO_MOVE_QUICK_ATTACK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.21,
+                            "Lv": 11,
+                            "Con": 240
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "LUCARIO_MOVE_EXTREME_SPEED":
+    {
+        "name": "Extreme Speed",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 9.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "LUCARIO_MOVE_EXTREME_SPEED_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.98,
+                            "Lv": 6,
+                            "Con": 270
+                        }
+                    },
+                    {
+                        "name": "Healing",
+                        "type": "heal",
+                        "value":
+                        {
+                            "Atk": 0.3375,
+                            "Lv": 1,
+                            "Con": 42
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "LUCARIO_MOVE_EXTREME_SPEED_TEXT_2"
+            }
+        ]
+    },
+
+    "LUCARIO_MOVE_POWER_UP_PUNCH":
+    {
+        "name": "Power-Up Punch",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 7.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Uncharged",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.0915,
+                            "Lv": 3,
+                            "Con": 88
+                        }
+                    },
+                    {
+                        "name": "Damage - Fully Charged",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 3.818,
+                            "Lv": 5,
+                            "Con": 161
+                        }
+                    },
+                    {
+                        "name": "Damage - Execute",
+                        "type": "damage",
+                        "text": "LUCARIO_MOVE_POWER_UP_PUNCH_TAG_TEXT_1"
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "LUCARIO_MOVE_POWER_UP_PUNCH_TEXT_2"
+            }
+        ]
+    },
+
+    "LUCARIO_MOVE_METEOR_MASH":
+    {
+        "name": "Meteor Mash",
+        "type": "Move 2",
+        "cd": 7.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "LUCARIO_MOVE_METEOR_MASH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.67,
+                            "Lv": 8,
+                            "Con": 180
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "LUCARIO_MOVE_BONE_RUSH":
+    {
+        "name": "Bone Rush",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 10.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "LUCARIO_MOVE_BONE_RUSH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit (4-7 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.41,
+                            "Lv": 1,
+                            "Con": 50
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "LUCARIO_MOVE_BONE_RUSH_TEXT_2"
+            }
+        ]
+    },
+
+    "LUCARIO_MOVE_CLOSE_COMBAT":
+    {
+        "name": "Close Combat",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 9.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit (11 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.5,
+                            "Lv": 2,
+                            "Con": 60
+                        }
+                    },
+                    {
+                        "name": "Damage - per Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.1,
+                            "Lv": 0,
+                            "Con": 20
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "LUCARIO_MOVE_CLOSE_COMBAT_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit (11 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.56,
+                            "Lv": 2,
+                            "Con": 69
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "LUCARIO_MOVE_AURA_CANNON":
+    {
+        "name": "Aura Cannon",
+        "type": "Unite Move",
+        "cd": 134.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "LUCARIO_MOVE_AURA_CANNON_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Tick",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.74,
+                            "Lv": 4,
+                            "Con": 210
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "LUCARIO_MOVE_AURA_CANNON_TEXT_2"
+            }
+        ]
+    }
+}

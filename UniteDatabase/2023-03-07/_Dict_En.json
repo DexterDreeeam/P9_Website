@@ -1,0 +1,12 @@
+{
+    "Atk": "Attack",
+    "SpA": "Sp.Attack",
+    "Lv": "Level",
+    "MaxHp": "Max HP",
+    "MissingHp": "Missing HP",
+    "DmgDealt": "Damange Dealt",
+    "Dur": "s",
+    "Slow": "Slow",
+    "Reflect": "Reflect",
+    "Con": "Const"
+}
