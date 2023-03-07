@@ -171,6 +171,11 @@
     "Damage - Boosted (4x)": "伤害 - 强化 (4x)",
     "Damage - Boosted (5x)": "伤害 - 强化 (5x)",
 
+    "Damage - Boosted (per Hit - 2 Hits)": "伤害 - 强化 (每次攻击，共计2次)",
+    "Damage - Boosted (per Hit - 3 Hits)": "伤害 - 强化 (每次攻击，共计3次)",
+    "Damage - Boosted (per Hit - 4 Hits)": "伤害 - 强化 (每次攻击，共计4次)",
+    "Damage - Boosted (per Hit - 5 Hits)": "伤害 - 强化 (每次攻击，共计5次)",
+
     "Damage - Area": "伤害 - 区域",
     "Damage - Area (2 Hits)": "伤害 - 区域 (2次攻击)",
     "Damage - Area (3 Hits)": "伤害 - 区域 (3次攻击)",
@@ -232,6 +237,7 @@
     "Damage - Additional (5x)": "伤害 - 附加 (5x)",
     "Damage - Additional (6x)": "伤害 - 附加 (6x)",
     "Damage - Additional (7x)": "伤害 - 附加 (7x)",
+    "Damage - Additional (per Increment)": "伤害 - 附加 (每段提升)",
 
     "Damage - Basic (Close Range)": "伤害 - 基础 (近距离)",
     "Damage - Basic (Long Range)": "伤害 - 基础 (远距离)",
@@ -243,6 +249,8 @@
     "Damage - Initial": "伤害 - 初始",
     "Damage - Execute": "伤害 - 斩杀",
     "Damage - Reflected": "伤害 - 反射",
+    "Damage - Sweep": "伤害 - 扫荡",
+    "Damage - Seek": "伤害 - 追踪",
 
     "Damage (Front)": "伤害 (面前)",
     "Damage (Behind)": "伤害 (身后)",
@@ -292,6 +300,11 @@
     "Healing - HoT (5x)": "治疗 - 持续治疗 (5x)",
     "Healing - HoT (6x)": "治疗 - 持续治疗 (6x)",
     "Healing - HoT (7x)": "治疗 - 持续治疗 (7x)",
+
+    "Healing - Boosted (per Hit - 2 Hits)": "治疗 - 强化 (每次攻击，共计2次)",
+    "Healing - Boosted (per Hit - 3 Hits)": "治疗 - 强化 (每次攻击，共计3次)",
+    "Healing - Boosted (per Hit - 4 Hits)": "治疗 - 强化 (每次攻击，共计4次)",
+    "Healing - Boosted (per Hit - 5 Hits)": "治疗 - 强化 (每次攻击，共计5次)",
 
     "Healing - per Hit (against Wilds)": "治疗 - 每次攻击 (野生宝可梦)",
     "Healing - per Hit (against Players)": "治疗 - 每次攻击 (对方宝可梦)",
