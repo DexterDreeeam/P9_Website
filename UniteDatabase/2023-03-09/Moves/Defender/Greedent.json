@@ -1,0 +1,298 @@
+{
+    "GREEDENT_PA1":
+    {
+        "name": "Cheek Pouch",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "GREEDENT_PA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Healing - Oran Berry",
+                        "type": "heal",
+                        "value":
+                        {
+                            "MaxHp": 0.02,
+                            "Lv": 5,
+                            "Con": 45
+                        }
+                    },
+                    {
+                        "name": "Healing - Any Berry",
+                        "type": "heal",
+                        "value":
+                        {
+                            "MaxHp": 0.01,
+                            "Lv": 3,
+                            "Con": 23
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GREEDENT_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "GREEDENT_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.75,
+                            "Lv": 4,
+                            "Con": 80
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GREEDENT_MOVE_TACKLE":
+    {
+        "name": "Tackle",
+        "type": "Move 1",
+        "cd": 5.5,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "GREEDENT_MOVE_TACKLE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.01,
+                            "Lv": 16,
+                            "Con": 310
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GREEDENT_MOVE_BULLET_SEED":
+    {
+        "name": "Bullet Seed",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 5.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "GREEDENT_MOVE_BULLET_SEED_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Seed",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.25,
+                            "Lv": 4,
+                            "Con": 75
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "GREEDENT_MOVE_BULLET_SEED_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Seed",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.27,
+                            "Lv": 4,
+                            "Con": 83
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GREEDENT_MOVE_BELCH":
+    {
+        "name": "Belch",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 5.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "GREEDENT_MOVE_BELCH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.85,
+                            "Lv": 32,
+                            "Con": 700
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "GREEDENT_MOVE_BELCH_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.96,
+                            "Lv": 35,
+                            "Con": 750
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GREEDENT_MOVE_DEFENSE_CURL":
+    {
+        "name": "Defense Curl",
+        "type": "Move 2",
+        "cd": 8.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "GREEDENT_MOVE_DEFENSE_CURL_TEXT_1"
+            }
+        ]
+    },
+
+    "GREEDENT_MOVE_STUFF_CHEEKS":
+    {
+        "name": "Stuff Cheeks",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 8.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_1"
+            },
+            {
+                "condition": "Level 11",
+                "text": "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_2"
+            }
+        ]
+    },
+
+    "GREEDENT_MOVE_COVET":
+    {
+        "name": "Covet",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 11.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "GREEDENT_MOVE_COVET_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.55,
+                            "Lv": 4,
+                            "Con": 180
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "GREEDENT_MOVE_COVET_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.59,
+                            "Lv": 5,
+                            "Con": 200
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GREEDENT_MOVE_BERRY_BELLY_FLOP":
+    {
+        "name": "Berry Belly Flop",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.41,
+                            "Lv": 22,
+                            "Con": 1050
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_2"
+            }
+        ]
+    }
+}

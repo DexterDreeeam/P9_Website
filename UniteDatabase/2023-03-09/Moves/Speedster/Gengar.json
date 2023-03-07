@@ -1,0 +1,349 @@
+{
+    "GENGAR_PA1":
+    {
+        "name": "Levitate",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "GENGAR_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "GENGAR_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "GENGAR_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.84,
+                            "Lv": 8,
+                            "Con": 160
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GENGAR_MOVE_WILL_O_WISP":
+    {
+        "name": "Will-o-Wisp",
+        "type": "Move 1",
+        "cd": 5.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "GENGAR_MOVE_WILL_O_WISP_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Wisp (3x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.84,
+                            "Lv": 5,
+                            "Con": 100
+                        }
+                    },
+                    {
+                        "name": "Damage - Burn (3 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.28,
+                            "Lv": 2,
+                            "Con": 40
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GENGAR_MOVE_SHADOW_BALL":
+    {
+        "name": "Shadow Ball",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 4.5,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "GENGAR_MOVE_SHADOW_BALL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.152,
+                            "Lv": 32,
+                            "Con": 756
+                        }
+                    },
+                    {
+                        "name": "Sp. Defense Reduction",
+                        "type": "debuff",
+                        "value":
+                        {
+                            "SpA": 0,
+                            "Lv": 5,
+                            "Con": 80
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "GENGAR_MOVE_SHADOW_BALL_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.28,
+                            "Lv": 36,
+                            "Con": 840
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GENGAR_MOVE_SLUDGE_BOMB":
+    {
+        "name": "Sludge Bomb",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 8.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "GENGAR_MOVE_SLUDGE_BOMB_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.06,
+                            "Lv": 6,
+                            "Con": 230
+                        }
+                    },
+                    {
+                        "name": "Damage - Poison per Tick (10 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "MaxHp": 0.01
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "GENGAR_MOVE_SLUDGE_BOMB_TEXT_2"
+            }
+        ]
+    },
+
+    "GENGAR_MOVE_LICK":
+    {
+        "name": "Lick",
+        "type": "Move 2",
+        "cd": 7.0,
+        "cast": "Hinrance",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "GENGAR_MOVE_LICK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.13,
+                            "Lv": 7,
+                            "Con": 140
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GENGAR_MOVE_DREAM_EATER":
+    {
+        "name": "Dream Eater",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 8.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "GENGAR_MOVE_DREAM_EATER_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 2.6,
+                            "Lv": 12,
+                            "Con": 550
+                        }
+                    },
+                    {
+                        "name": "Healing",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 0.45,
+                            "Lv": 5,
+                            "Con": 250
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "GENGAR_MOVE_DREAM_EATER_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 2.93,
+                            "Lv": 14,
+                            "Con": 620
+                        }
+                    },
+                    {
+                        "name": "Healing",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 0.52,
+                            "Lv": 5,
+                            "Con": 310
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GENGAR_MOVE_HEX":
+    {
+        "name": "Hex",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 7.5,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "GENGAR_MOVE_HEX_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.05,
+                            "Lv": 3,
+                            "Con": 150
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "GENGAR_MOVE_HEX_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.25,
+                            "Lv": 4,
+                            "Con": 200
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GENGAR_MOVE_PHANTOM_AMBUSH":
+    {
+        "name": "Phantom Ambush",
+        "type": "Unite Move",
+        "cd": 134.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.63,
+                            "Lv": 12,
+                            "Con": 560
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_2"
+            }
+        ]
+    }
+}

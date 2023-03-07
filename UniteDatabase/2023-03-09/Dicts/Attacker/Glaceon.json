@@ -1,0 +1,48 @@
+{
+  "En":
+  {
+    "GLACEON_PA1_TEXT_1": "When Eevee would be affected by a hindrance, the hindrance is negated and becomes invincible for 1s. This Ability goes on cooldown after it’s triggered (70s cd).",
+    "GLACEON_PA2_TEXT_1": "When Glaceon would be affected by a hindrance, the hindrance is negated. Glaceon then starts sneaking and becomes invincible for 0.5s. This Ability goes on cooldown after it’s triggered (70s cd) and is reset after respawning.",
+    "GLACEON_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage and giving Glaceon 2 ice crystals when the boosted attack hits. Ice crystals last 4s and the duration is refreshed upon gaining additional crystals. Glaceon can hold a maximum of 8 ice crystals at a time.",
+    "GLACEON_MOVE_SWIFT_TEXT_1": "Creates 4 stars around the user. For a short time afterward, each time the user hits an enemy with a basic attack or boosted attack, one or two of the stars respectively will shoot out and deal additional damage to the target.",
+    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_1": "Glaceon launches all of its stored ice crystals in rapid succession at the designated enemy. If Glaceon has no ice crystals when this move is used, 2 ice crystals are instantly created and are launched. Launched ice crystals can hit enemies on the opposing team that are not the designated target of this move. The crystals shatter when they hit any enemy, dealing damage to all enemies in the area. Ice crystals launched by this move deal 5% increased damage each time they hit the same enemy. When this move is used, the cooldown of Ice Shard or Freeze-Dry is reduced. A maximum of 12 ice crystals will be launched during this move.",
+    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_2": "Each launched ice crystal also deals additional damage to enemies hit equal to 2% of their remaining HP. Against Wild Pokémon: The additional damage from maximum HP is capped at 300.",
+    "GLACEON_MOVE_ICY_WIND_TEXT_1": "Jump a short distance in the designated direction; Glaceon's next auto attack within 5s gains increased range and launches all stored ice crystals at an enemy, dealing damage to them. Glaceon then regains the same number of ice crystals that were launched. If an enemy is hit by 4 or more ice crystals, that enemy's movement speed is decreased by 8% per shard (stacking up to 6 times) for 1s. If Glaceon has no ice crystals when this move is used, gain 2 ice crystals.",
+    "GLACEON_MOVE_ICY_WIND_TEXT_2": "Each launched ice crystal also deals additional damage to enemies hit equal to 1.5% of their remaining HP. Against Wild Pokémon: The additional damage from maximum HP is capped at 300.",
+    "GLACEON_MOVE_TAIL_WHIP_TEXT_1": "Has the user wag its tail at an enemy, dealing damage and decreasing their Defense and Sp. Def by 30% for 2s, and movement speed by 20% for 1.5s. The next auto attack after using this move becomes a boosted attack.",
+    "GLACEON_MOVE_ICE_SHARD_TEXT_1": "Increases movement speed by 50% for 0.5s. Afterward, the Glaceon's basic attack speed is increased by 25% for 2s, and basic attacks change into attacks that hurl chunks of ice for 2.5s. These chunks of ice deal damage to enemies they hit and decrease their movement speed by 30% for 1s. Each time a chunk of ice hits, Glaceon gains 2 ice crystals. Gain 2 ice crystals if this move is used while launching crystals with Icicle Spear, or if this move is used after Icy Wind but before launching all crystals with the next auto attack.",
+    "GLACEON_MOVE_ICE_SHARD_TEXT_2": "Increases basic attack speed further to 50% for the duration of the move's effect.",
+    "GLACEON_MOVE_FREEZE_DRY_TEXT_1": "Shoot out a freezing burst of air in a forward direction. This burst explodes upon hitting an enemy or after traveling a set distance; dealing damage to all enemies in the area. Upon hitting an enemy, increase Glaceon's Sp. Atk by 50% for 3s. For each enemy hit by the explosion, Glaceon gains 2 ice crystals. The explosion also leaves behind an ice zone which slows enemies that enter by 20% for 3s. If they remain in the ice zone for 2.5s, they become frozen for 0.6s.",
+    "GLACEON_MOVE_FREEZE_DRY_TEXT_2": "For each enemy hit by this move's explosions, Glaceon gains 1 additional ice crystal.",
+    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_1": "Glaceon leaps up high, creating an ice zone in front of themself that deals damage to enemies in the area-of-effect. While Glaceon is in the ice zone, their movement speed is increased by 50% for 6s, and Glaceon gains 2 ice crystals every second while on the center and 1 ice crystal every second while on the perimeter. The movement speed of enemies in the ice zone is decreased by 50% for 1s.",
+    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_2": "30% Movement Speed, 35% Attack Speed, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "GLACEON_PA1_TEXT_1": "当伊布受到障碍物影响时，障碍物被无效化并在 1 秒内无敌。此技能在触发后进入冷却时间（70 秒冷却时间）。",
+    "GLACEON_PA2_TEXT_1": "当 Glaceon 受到障碍的影响时，障碍会被取消。然后 Glaceon 开始潜行并无敌 0.5 秒。此技能在触发后进入冷却（70 秒冷却时间）并在重生后重置。",
+    "GLACEON_BA1_TEXT_1": "每三次攻击变为一次增强攻击，造成更高的伤害，并在增强攻击命中时给予 Glaceon 2 个冰晶。冰晶持续4秒，获得额外的冰晶会刷新持续时间。Glaceon 一次最多可以容纳 8 个冰晶。",
+    "GLACEON_MOVE_SWIFT_TEXT_1": "在用户周围创建 4 颗星。之后的一小段时间里，每次用户用普通攻击或增幅攻击击中敌人时，都会分别射出一颗或两颗星星，对目标造成额外伤害。",
+    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_1": "Glaceon 向指定的敌人快速连续发射所有储存的冰晶。如果使用此招式时Glaceon没有冰晶，则立即产生并发射2个冰晶。发射的冰晶可以击中对方队伍中非此招式指定目标的敌人。水晶在击中任何敌人时破碎，对区域内的所有敌人造成伤害。此招式发射的冰晶每次击中同一个敌人时造成的伤害提高 5%。使用此招式时，寒冰碎片或冻干的冷却时间减少。此招式最多发射12颗冰晶。",
+    "GLACEON_MOVE_ICICLE_SPEAR_TEXT_2": "每个发射的冰晶还会对命中的敌人造成相当于其剩余生命值 2% 的额外伤害。对野生宝可梦：最大HP的追加伤害上限为300。",
+    "GLACEON_MOVE_ICY_WIND_TEXT_1": "向指定方向跳跃一小段距离；Glaceon 在 5 秒内的下一次自动攻击会增加射程，并向敌人发射所有储存的冰晶，对其造成伤害。Glaceon 然后重新获得与发射的相同数量的冰晶。如果一个敌人被 4 个或更多冰晶击中，则每个碎片（最多叠加 6 次）使该敌人的移动速度降低 8%，持续 1 秒。如果使用此招式时Glaceon没有冰晶，则获得2个冰晶。",
+    "GLACEON_MOVE_ICY_WIND_TEXT_2": "每个发射的冰晶还会对命中的敌人造成相当于其剩余生命值 1.5% 的额外伤害。对野生宝可梦：最大HP的追加伤害上限为300。",
+    "GLACEON_MOVE_TAIL_WHIP_TEXT_1": "让用户向敌人摇尾巴，造成伤害并降低他们的防御和 Sp。防御提升30%，持续2秒，移动速度提升20%，持续1.5秒。使用此招式后的下一次自动攻击会变成一次强化攻击。",
+    "GLACEON_MOVE_ICE_SHARD_TEXT_1": "移动速度提高50%，持续0.5秒。之后冰狮的普攻速度提升25%，持续2秒，普攻变为投掷冰块攻击，持续2.5秒。这些冰块对它们击中的敌人造成伤害，并使其移动速度降低 30%，持续 1 秒。每当有一块冰击中时，Glaceon 就会获得 2 个冰晶。如果在使用冰柱矛发射水晶时使用此招式，或者如果此招式是在冰风之后但在下一次自动攻击发射所有水晶之前使用此招式，则获得 2 个冰晶。",
+    "GLACEON_MOVE_ICE_SHARD_TEXT_2": "在招式效果持续时间内将基本攻击速度进一步提高至 50%。",
+    "GLACEON_MOVE_FREEZE_DRY_TEXT_1": "向前射出一阵冰冷的空气。这种爆炸会在击中敌人或行进一定距离后爆炸；对范围内的所有敌人造成伤害。击中敌人后，增加 Glaceon 的 Sp。攻击力降低 50%，持续 3 秒。对于每个被爆炸击中的敌人，Glaceon 都会获得 2 个冰晶。爆炸还会留下一个冰区，使进入的敌人减速 20%，持续 3 秒。如果他们在冰区停留 2.5 秒，他们将被冻结 0.6 秒。",
+    "GLACEON_MOVE_FREEZE_DRY_TEXT_2": "每有一个敌人被此招式的爆炸击中，Glaceon 就会获得 1 个额外的冰晶。",
+    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_1": "Glaceon 跳得很高，在他们面前创造一个冰区，对范围内的敌人造成伤害。当 Glaceon 在冰区时，他们的移动速度提高 50%，持续 6 秒，Glaceon 在中心时每秒获得 2 个冰晶，在周边时每秒获得 1 个冰晶。冰区内敌人移动速度降低50%，持续1秒。",
+    "GLACEON_MOVE_GLACIAL_STAGE_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
+
+    "Run Away": "逃跑",
+    "Snow Cloak": "雪隐",
+    "Swift": "高速星星",
+    "Icicle Spear": "冰锥",
+    "Icy Wind": "冰冻之风",
+    "Tail Whip": "搖尾巴",
+    "Ice Shard": "冰砾",
+    "Freeze Dry": "冷凍乾燥",
+    "Glacial Stage": "冰晶舞台"
+  }
+}
