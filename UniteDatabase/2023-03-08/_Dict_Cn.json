@@ -233,6 +233,11 @@
     "Damage - Additional (6x)": "伤害 - 附加 (6x)",
     "Damage - Additional (7x)": "伤害 - 附加 (7x)",
 
+    "Damage - Basic (Close Range)": "伤害 - 基础 (近距离)",
+    "Damage - Basic (Long Range)": "伤害 - 基础 (远距离)",
+    "Damage - Boosted (Close Range)": "伤害 - 基础 (近距离)",
+    "Damage - Boosted (Long Range)": "伤害 - 基础 (远距离)",
+
     "Damage - Bonus": "伤害 - 额外",
     "Damage - Increase": "伤害 - 增加",
     "Damage - Initial": "伤害 - 初始",
@@ -288,6 +293,9 @@
     "Healing - HoT (6x)": "治疗 - 持续治疗 (6x)",
     "Healing - HoT (7x)": "治疗 - 持续治疗 (7x)",
 
+    "Healing - per Hit (against Wilds)": "治疗 - 每次攻击 (野生宝可梦)",
+    "Healing - per Hit (against Players)": "治疗 - 每次攻击 (对方宝可梦)",
+
     "Healing - per Tick": "治疗 - 每段",
     "Healing - per Boosted Attack": "治疗 - 每次强化攻击",
     "Healing - Final Slash": "治疗 - 最后劈砍",
@@ -307,11 +315,9 @@
 
     "Defense Reduction": "无视防御",
 
-    "Honedge": "独剑鞘",
-    "Doublade": "双剑鞘",
 
-    "Aegislash": "坚盾剑怪",
-    "Azumarill": "玛力露丽",
+    "Honedge": "独剑鞘", "Doublade": "双剑鞘", "Aegislash": "坚盾剑怪",
+    "Marill": "露力丽", "Azumarill": "玛力露丽",
     "Buzzwole": "爆肌蚊",
     "Charizard": "喷火龙",
     "Dragonite": "快龙",
@@ -323,6 +329,7 @@
     "Tyranitar": "班基拉斯",
     "Urshifu": "武道熊师",
     "Zacian": "苍响",
+
 
     "Cinderace": "闪焰王牌",
     "Cramorant": "古月鸟",
@@ -340,6 +347,7 @@
     "Sylveon": "仙子伊布",
     "Venusaur": "妙蛙花",
 
+
     "Blastoise": "水箭龟",
     "Crustle": "岩殿居蟹",
     "Greedent": "藏饱栗鼠",
@@ -348,6 +356,7 @@
     "Snorlax": "卡比兽",
     "Trevenant": "朽木妖",
 
+
     "Absol": "阿勃梭鲁",
     "Dodrio": "嘟嘟利",
     "Gengar": "耿鬼",
@@ -355,6 +364,10 @@
     "Talonflame": "烈箭鹰",
     "Zeraora": "捷拉奥拉",
     "Zoroark": "索罗亚克",
+
+
+
+
 
     "Blissey": "幸福蛋",
     "Clefable": "皮可西",
