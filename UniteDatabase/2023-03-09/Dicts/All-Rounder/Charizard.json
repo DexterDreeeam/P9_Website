@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "CHARIZARD_PA1_TEXT_1": "Increases Critical-Hit Rate by 20% while at half HP or less.",
+    "CHARIZARD_BA1_TEXT_1": "Breathe a firey breath dealing continual damage 4 times. Deal additional damage to enemies that have been burned by Charizard. This additional damage can not critically strike. Auto attacks gain increased range when evolving. Against Wild Pokemon: The total damage is capped at 250.",
+    "CHARIZARD_MOVE_FLAME_BURST_TEXT_1": "Charizard attacks with a bursting flame forward, exploding on the first enemy hit, dealing damage and burning enemies in a small radius. Charizard gains a 20% movement speed bonus for 3s when hitting an enemy. The burn lasts 4s and reduces enemy Attack by 5%.",
+    "CHARIZARD_MOVE_FLAMETHROWER_TEXT_1": "Attacks with a blast of fire while moving, damaging and burning enemies in a line. Charizard gains a small movement speed bonus by 40% for 4s if they hit. The burn lasts 4s and reduces enemy Attack by 5%.",
+    "CHARIZARD_MOVE_FLAMETHROWER_TEXT_2": "Deals increased damage.",
+    "CHARIZARD_MOVE_FIRE_PUNCH_TEXT_1": "Charizard punches forward, damaging and shoving enemies in their path. The first enemy hit is burned. The burn lasts 4s and reduces enemy Attack by 5%.",
+    "CHARIZARD_MOVE_FIRE_PUNCH_TEXT_2": "Cooldown reduces by .3s per target, every time Charizard damages an enemy with an auto attack (1.2s total for an entire auto attack animation on a single target).",
+    "CHARIZARD_MOVE_FIRE_SPIN_TEXT_1": "Charizard shoots a burst of fire forward, exploding on the first enemy hit or after traveling max distance, dealing damage over time every 0.5s and slowing enemies within the radius by 25% for 1s (refreshing on every damage tick).",
+    "CHARIZARD_MOVE_FIRE_BLAST_TEXT_1": "Charizard shoots a blast of fire forward while moving, exploding on the first enemy hit or after a short distance, damaging enemies and leaving a fire area for 5s that deals damage over time every 0.5s and slows enemies within the radius by 35% for 1s (refreshing on every damage tick).",
+    "CHARIZARD_MOVE_FIRE_BLAST_TEXT_2": "Increased damage.",
+    "CHARIZARD_MOVE_FLARE_BLITZ_TEXT_1": "Charizard charges forward, shielding themself for 5s, throwing the targeted enemy and dealing damage in an area.",
+    "CHARIZARD_MOVE_FLARE_BLITZ_TEXT_2": "Also slows enemies by 40% for 3s after thrown.",
+    "CHARIZARD_MOVE_SEISMIC_SLAM_TEXT_1": "Grab an enemy and slam it onto the ground, damaging the target and nearby enemies and deal additional damage based on their max HP. Then, fly up into the air moving freely over obstacles for 7.5s and gaining Hindrance Resistance. While this move is active, auto attacks apply a burn to the target which lasts for 1s, dealing 2 instances of damage and is refreshed by each instance of damage from auto attacks. When dealing damage with auto attacks to an enemy (not from burn or additional damage), recover HP equal to 80% of the damage dealt.",
+    "CHARIZARD_MOVE_SEISMIC_SLAM_TEXT_2": "50% Movement Speed, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "CHARIZARD_PA1_TEXT_1": "HP减半时暴击率提高20%。",
+    "CHARIZARD_BA1_TEXT_1": "吐出火焰吐息造成 4 次持续伤害。对被喷火龙烧伤的敌人造成额外伤害。这种额外伤害不能暴击。自动攻击在进化时获得更大的射程。对付野生宝可梦：总伤害上限为250。",
+    "CHARIZARD_MOVE_FLAME_BURST_TEXT_1": "Charizard 向前方喷出爆裂的火焰，在击中第一个敌人时爆炸，造成伤害并燃烧小范围内的敌人。喷火龙在击中敌人时获得 20% 的移动速度加成，持续 3 秒。燃烧持续 4 秒，并降低敌人 5% 的攻击力。",
+    "CHARIZARD_MOVE_FLAMETHROWER_TEXT_1": "一边移动、伤害和燃烧一条直线上的敌人，一边用火焰冲击波进行攻击。喷火龙命中后会获得 40% 的小幅移动速度加成，持续 4 秒。燃烧持续 4 秒，并降低敌人 5% 的攻击力。",
+    "CHARIZARD_MOVE_FLAMETHROWER_TEXT_2": "造成更高的伤害。",
+    "CHARIZARD_MOVE_FIRE_PUNCH_TEXT_1": "Charizard 向前猛击，伤害并推开沿途的敌人。第一个被击中的敌人被烧毁。燃烧持续 4 秒，并降低敌人 5% 的攻击力。",
+    "CHARIZARD_MOVE_FIRE_PUNCH_TEXT_2": "Charizard 每次用自动攻击伤害敌人时，每个目标的冷却时间减少 0.3 秒（单个目标的整个自动攻击动画总共 1.2 秒）。",
+    "CHARIZARD_MOVE_FIRE_SPIN_TEXT_1": "Charizard 向前射出一阵火焰，在击中第一个敌人时或在行进最远距离后爆炸，每 0.5 秒造成一次持续伤害，并使半径内的敌人减速 25%，持续 1 秒（每次伤害更新时刷新）。",
+    "CHARIZARD_MOVE_FIRE_BLAST_TEXT_1": "Charizard 移动时向前发射一道火焰，在击中第一个敌人时或在短距离后爆炸，对敌人造成伤害并离开火区 5 秒，每 0.5 秒造成一次持续伤害，并使半径内的敌人减速 35%，持续 1 秒（刷新每个伤害刻度）。",
+    "CHARIZARD_MOVE_FIRE_BLAST_TEXT_2": "伤害增加。",
+    "CHARIZARD_MOVE_FLARE_BLITZ_TEXT_1": "Charizard 向前冲锋，保护自己 5 秒，将目标敌人扔出去并对一个区域造成伤害。",
+    "CHARIZARD_MOVE_FLARE_BLITZ_TEXT_2": "投掷后还会使敌人减速 40%，持续 3 秒。",
+    "CHARIZARD_MOVE_SEISMIC_SLAM_TEXT_1": "抓住一个敌人并将其猛击在地上，对目标和附近的敌人造成伤害，并根据他们的最大生命值造成额外伤害。然后，飞到空中自由越过障碍物7.5秒，获得阻碍抗性。当此移动处于活动状态时，自动攻击会对目标施加持续 1 秒的燃烧，造成 2 点伤害，并且每次自动攻击造成的伤害都会刷新。当使用自动攻击对敌人造成伤害时（不是来自燃烧或额外伤害），恢复相当于所造成伤害 80% 的 HP。",
+    "CHARIZARD_MOVE_SEISMIC_SLAM_TEXT_2": "50% 移动速度，20% 最大生命值护盾",
+
+    "Blaze": "猛火",
+    "Flame Burst": "烈焰溅射",
+    "Flamethrower": "喷射火焰",
+    "Fire Punch": "火焰拳",
+    "Fire Spin": "火焰旋涡",
+    "Fire Blast": "大字爆炎",
+    "Flare Blitz": "闪焰冲锋",
+    "Seismic Slam": "大地粉碎击"
+  }
+}

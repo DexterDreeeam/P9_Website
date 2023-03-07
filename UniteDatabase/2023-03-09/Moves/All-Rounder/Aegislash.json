@@ -1,0 +1,328 @@
+{
+    "AEGISLASH_PA1":
+    {
+        "name": "No Guard",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "AEGISLASH_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "AEGISLASH_PA2":
+    {
+        "name": "Stance Change",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "AEGISLASH_PA2_TEXT_1"
+            }
+        ]
+    },
+
+    "AEGISLASH_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "AEGISLASH_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Shield Stance)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    },
+                    {
+                        "name": "Healing - Boosted (Shield Stance)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "Atk": 1.5,
+                            "Lv": 12,
+                            "Con": 72
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Sword Stance)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.35,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    },
+                    {
+                        "name": "Damage - Additional (Sword Stance)",
+                        "type": "damage",
+                        "text": "AEGISLASH_BA1_TAG_TEXT_1",
+                        "value":
+                        {
+                            "MaxHp": 0.07,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "AEGISLASH_MOVE_SHADOW_SNEAK":
+    {
+        "name": "Shadow Sneak",
+        "type": "Move 1",
+        "cd": 6.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "AEGISLASH_MOVE_SHADOW_SNEAK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - 2 Hits",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.93,
+                            "Lv": 8,
+                            "Con": 150
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "AEGISLASH_MOVE_SACRED_SWORD":
+    {
+        "name": "Sacred Sword",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 7.5,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "AEGISLASH_MOVE_SACRED_SWORD_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Triangle Attack",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.96,
+                            "Lv": 3,
+                            "Con": 120
+                        }
+                    },
+                    {
+                        "name": "Damage - Slash Attack",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.92,
+                            "Lv": 6,
+                            "Con": 240
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "AEGISLASH_MOVE_SACRED_SWORD_TEXT_2"
+            }
+        ]
+    },
+
+    "AEGISLASH_MOVE_SHADOW_CLAW":
+    {
+        "name": "Shadow Claw",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 5.5,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "AEGISLASH_MOVE_SHADOW_CLAW_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First 2 Hits",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.63,
+                            "Lv": 3,
+                            "Con": 70
+                        }
+                    },
+                    {
+                        "name": "Damage - Third Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.26,
+                            "Lv": 6,
+                            "Con": 140
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "AEGISLASH_MOVE_SHADOW_CLAW_TEXT_2"
+            }
+        ]
+    },
+
+    "AEGISLASH_MOVE_IRON_DEFENSE":
+    {
+        "name": "Iron Defense",
+        "type": "Move 2",
+        "cd": 7.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "AEGISLASH_MOVE_IRON_DEFENSE_TEXT_1"
+            }
+        ]
+    },
+
+    "AEGISLASH_MOVE_WIDE_GUARD":
+    {
+        "name": "Wide Guard",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 9.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "AEGISLASH_MOVE_WIDE_GUARD_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "value":
+                        {
+                            "Atk": 2.0,
+                            "Lv": 0,
+                            "Con": 400
+                        }
+                    },
+                    {
+                        "name": "Shield - Additional",
+                        "type": "shield",
+                        "value":
+                        {
+                            "MaxHp": 0.1
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "AEGISLASH_MOVE_WIDE_GUARD_TEXT_2"
+            }
+        ]
+    },
+
+    "AEGISLASH_MOVE_IRON_HEAD":
+    {
+        "name": "Iron Head",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 7.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "AEGISLASH_MOVE_IRON_HEAD_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.18,
+                            "Lv": 5,
+                            "Con": 130
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "AEGISLASH_MOVE_IRON_HEAD_TEXT_2"
+            }
+        ]
+    },
+
+    "AEGISLASH_MOVE_COUP_DE_GRACE":
+    {
+        "name": "Coup de Grace",
+        "type": "Unite Move",
+        "cd": 100.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.82,
+                            "Lv": 13,
+                            "Con": 640
+                        }
+                    },
+                    {
+                        "name": "Damage - Execute",
+                        "type": "damage",
+                        "value":
+                        {
+                            "MissingHp": 0.12
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "AEGISLASH_MOVE_COUP_DE_GRACE_TEXT_2"
+            }
+        ]
+    }
+}

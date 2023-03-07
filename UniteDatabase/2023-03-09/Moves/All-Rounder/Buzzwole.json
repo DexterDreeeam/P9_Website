@@ -1,0 +1,328 @@
+{
+    "BUZZWOLE_PA1":
+    {
+        "name": "Beast Boost",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "BUZZWOLE_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "BUZZWOLE_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "BUZZWOLE_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (per Hit - 2 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.8,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    },
+                    {
+                        "name": "Healing - Boosted (per Hit - 2 Hits)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "Atk": 0.6,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "BUZZWOLE_MOVE_MEGA_PUNCH":
+    {
+        "name": "Mega Punch",
+        "type": "Move 1",
+        "cd": 5.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "BUZZWOLE_MOVE_MEGA_PUNCH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.08,
+                            "Lv": 9,
+                            "Con": 180
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "BUZZWOLE_MOVE_LUNGE":
+    {
+        "name": "Lunge",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 7.5,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "BUZZWOLE_MOVE_LUNGE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.89,
+                            "Lv": 6,
+                            "Con": 150
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "BUZZWOLE_MOVE_LUNGE_TEXT_2"
+            }
+        ]
+    },
+
+    "BUZZWOLE_MOVE_SMACK_DOWN":
+    {
+        "name": "Smack Down",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 7.5,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "BUZZWOLE_MOVE_SMACK_DOWN_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.74,
+                            "Lv": 3,
+                            "Con": 140
+                        }
+                    },
+                    {
+                        "name": "Damage - Slam",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.48,
+                            "Lv": 6,
+                            "Con": 280
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "BUZZWOLE_MOVE_SMACK_DOWN_TEXT_2"
+            }
+        ]
+    },
+
+    "BUZZWOLE_MOVE_FELL_STINGER":
+    {
+        "name": "Fell Stinger",
+        "type": "Move 2",
+        "cd": 8.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "BUZZWOLE_MOVE_FELL_STINGER_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.67,
+                            "Lv": 10,
+                            "Con": 310
+                        }
+                    },
+                    {
+                        "name": "Healing",
+                        "type": "heal",
+                        "value":
+                        {
+                            "MaxHp": 0.1
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "BUZZWOLE_MOVE_LEECH_LIFE":
+    {
+        "name": "Leech Life",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 8.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "BUZZWOLE_MOVE_LEECH_LIFE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Tick",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.76,
+                            "Lv": 3,
+                            "Con": 120
+                        }
+                    },
+                    {
+                        "name": "Damage - Additional (per Increment)",
+                        "type": "damage",
+                        "text": "BUZZWOLE_MOVE_LEECH_LIFE_TAG_TEXT_1"
+                    },
+                    {
+                        "name": "Healing - per Tick",
+                        "type": "damage",
+                        "text": "BUZZWOLE_MOVE_LEECH_LIFE_TAG_TEXT_2"
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "BUZZWOLE_MOVE_LEECH_LIFE_TEXT_2"
+            }
+        ]
+    },
+
+    "BUZZWOLE_MOVE_SUPER_POWER":
+    {
+        "name": "Super Power",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 7.5,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "BUZZWOLE_MOVE_SUPER_POWER_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.69,
+                            "Lv": 2,
+                            "Con": 105
+                        }
+                    },
+                    {
+                        "name": "Damage - Slam",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.3,
+                            "Lv": 8,
+                            "Con": 350
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "BUZZWOLE_MOVE_SUPER_POWER_TEXT_2"
+            }
+        ]
+    },
+
+    "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM":
+    {
+        "name": "Ultra Swole Slam",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Sweep",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.13,
+                            "Lv": 4,
+                            "Con": 210
+                        }
+                    },
+                    {
+                        "name": "Damage - Seek",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.13,
+                            "Lv": 4,
+                            "Con": 210
+                        }
+                    },
+                    {
+                        "name": "Damage - Execute",
+                        "type": "damage",
+                        "value":
+                        {
+                            "MissingHp": 0.5
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "BUZZWOLE_MOVE_ULTRA_SWOLE_SLAM_TEXT_2"
+            }
+        ]
+    }
+}
