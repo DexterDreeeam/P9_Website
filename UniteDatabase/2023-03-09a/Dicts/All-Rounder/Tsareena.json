@@ -37,6 +37,13 @@
     "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_1": "Tsareena 从对方队伍中跳向一名敌人并将其高高踢向空中，然后在空中用一系列踢击淋浴，对他们造成伤害。Tsareena 着地的那一刻，恢复 HP。在空中时，被踢的敌人和 Tsareena 不受其他动作的影响。",
     "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
 
+    "Damage - per Hit (Queenly Majesty Buff)": "伤害 - 每次攻击 (女王的威严效果触发)",
+    "Healing (Queenly Majesty Buff)": "治疗 (女王的威严效果触发)",
+    "Damage (Queenly Majesty Buff)": "伤害 (女王的威严效果触发)",
+    "Damage DoT (7 Ticks - Queenly Majesty Buff)": "持续伤害 (7段伤害，女王的威严效果触发)",
+    "Shield (Queenly Majesty Buff)": "护盾 (女王的威严效果触发)",
+    "Healing - Landing": "治疗 - 落地",
+
     "Oblivious": "迟钝",
     "Queenly Majesty": "女王的威严",
     "Razor Leaf": "飞叶快刀",
