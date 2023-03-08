@@ -1,0 +1,481 @@
+{
+    "URSHIFU_PA1":
+    {
+        "name": "Inner Focus",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "URSHIFU_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "URSHIFU_PA2":
+    {
+        "name": "Unseen Fist",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "URSHIFU_PA2_TEXT_1"
+            }
+        ]
+    },
+
+    "URSHIFU_BA1":
+    {
+        "name": "Attack - Kubfu",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "URSHIFU_BA1_TEXT_1"
+            }
+        ]
+    },
+
+    "URSHIFU_BA2":
+    {
+        "name": "Attack - Urshifu (Single Strike)",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "URSHIFU_BA2_TEXT_1"
+            }
+        ]
+    },
+
+    "URSHIFU_BA3":
+    {
+        "name": "Attack - Urshifu (Rapid Strike)",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "URSHIFU_BA3_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Kubfu)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.3,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Single Strike)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.5,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    },
+                    {
+                        "name": "Shield (Single Strike)",
+                        "type": "shield",
+                        "value":
+                        {
+                            "Atk": 0.7,
+                            "Lv": 0,
+                            "Con": 200
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Rapid Strike, 2x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.75,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_ROCK_SMASH":
+    {
+        "name": "Rock Smash",
+        "type": "Move 1",
+        "cd": 6.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "URSHIFU_MOVE_ROCK_SMASH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (1st Level Charge)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.99,
+                            "Lv": 9,
+                            "Con": 160
+                        }
+                    },
+                    {
+                        "name": "Damage (2st Level Charge)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.14,
+                            "Lv": 10,
+                            "Con": 184
+                        }
+                    },
+                    {
+                        "name": "Damage (3rd Level Charge)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.28,
+                            "Lv": 12,
+                            "Con": 209
+                        }
+                    },
+                    {
+                        "name": "Damage (4th Level Charge)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.435,
+                            "Lv": 13,
+                            "Con": 232
+                        }
+                    },
+                    {
+                        "name": "Damage (5th Level Charge)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.584,
+                            "Lv": 14,
+                            "Con": 256
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_WICKED_BLOW":
+    {
+        "name": "Wicked Blow",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "URSHIFU_MOVE_WICKED_BLOW_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (Uncharged)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.19,
+                            "Lv": 8,
+                            "Con": 190
+                        }
+                    },
+                    {
+                        "name": "Damage - Center (Charged)",
+                        "type": "damage",
+                        "text": "URSHIFU_MOVE_WICKED_BLOW_TAG_TEXT_1",
+                        "value":
+                        {
+                            "Atk": 1.904,
+                            "Lv": 13,
+                            "Con": 304
+                        }
+                    },
+                    {
+                        "name": "Damage - Conal (Charged)",
+                        "type": "damage",
+                        "text": "URSHIFU_MOVE_WICKED_BLOW_TAG_TEXT_2",
+                        "value":
+                        {
+                            "Atk": 1.904,
+                            "Lv": 13,
+                            "Con": 304
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "URSHIFU_MOVE_WICKED_BLOW_TEXT_2"
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_SURGING_STRIKES":
+    {
+        "name": "Surging Strikes",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 11.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "URSHIFU_MOVE_SURGING_STRIKES_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.89,
+                            "Lv": 4,
+                            "Con": 170
+                        }
+                    },
+                    {
+                        "name": "Healing (2x)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "MaxHp": 0.03,
+                            "Con": 45
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "URSHIFU_MOVE_SURGING_STRIKES_TEXT_2"
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_HEADBUTT":
+    {
+        "name": "Headbutt",
+        "type": "Move 2",
+        "cd": 9.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "URSHIFU_MOVE_HEADBUTT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.99,
+                            "Lv": 6,
+                            "Con": 180
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_THROAT_CHOP":
+    {
+        "name": "Throat Chop",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 9.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 7, Wicked Blow Learned",
+                "text": "URSHIFU_MOVE_THROAT_CHOP_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.49,
+                            "Lv": 5,
+                            "Con": 280
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "URSHIFU_MOVE_THROAT_CHOP_TEXT_2"
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_LIQUIDATION":
+    {
+        "name": "Liquidation",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 10.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 7, Surging Strikes Learned",
+                "text": "URSHIFU_MOVE_LIQUIDATION_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.65,
+                            "Lv": 4,
+                            "Con": 110
+                        }
+                    },
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "text": "URSHIFU_MOVE_LIQUIDATION_TAG_TEXT_1",
+                        "value":
+                        {
+                            "Atk": 0.84,
+                            "Con": 240
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "URSHIFU_MOVE_LIQUIDATION_TEXT_2"
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_EBON_FIST":
+    {
+        "name": "Ebon Fist",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9, Wicked Blow Learned",
+                "text": "URSHIFU_MOVE_EBON_FIST_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 3.3,
+                            "Lv": 12,
+                            "Con": 615
+                        }
+                    },
+                    {
+                        "name": "Damage with Directive Input",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 4.4,
+                            "Lv": 17,
+                            "Con": 820
+                        }
+                    },
+                    {
+                        "name": "Damage - Collision",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.2,
+                            "Lv": 9,
+                            "Con": 410
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "URSHIFU_MOVE_EBON_FIST_TEXT_2"
+            }
+        ]
+    },
+
+    "URSHIFU_MOVE_FLOWING_FISTS":
+    {
+        "name": "Flowing Fists",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9, Surging Strikes Learned",
+                "text": "URSHIFU_MOVE_FLOWING_FISTS_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (Initial Hit)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.37,
+                            "Lv": 2,
+                            "Con": 70
+                        }
+                    },
+                    {
+                        "name": "Damage (Hits during Follow-up Attack)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.74,
+                            "Lv": 4,
+                            "Con": 140
+                        }
+                    },
+                    {
+                        "name": "Damage (Final Hit and Shove)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.74,
+                            "Lv": 4,
+                            "Con": 140
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "URSHIFU_MOVE_FLOWING_FISTS_TEXT_2"
+            }
+        ]
+    }
+}
