@@ -118,7 +118,7 @@
                         }
                     },
                     {
-                        "name": "Healing - (Queenly Majesty Buff)",
+                        "name": "Healing (Queenly Majesty Buff)",
                         "type": "damage",
                         "value":
                         {
