@@ -1,0 +1,363 @@
+{
+    "ESPEON_PA1":
+    {
+        "name": "Anticipation",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "ESPEON_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "ESPEON_PA2":
+    {
+        "name": "Magic Bounce",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "ESPEON_PA2_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Counter",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.34,
+                            "Lv": 8,
+                            "Con": 140
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ESPEON_BA1":
+    {
+        "name": "Attack - Eevee",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "ESPEON_BA1_TEXT_1"
+            }
+        ]
+    },
+
+    "ESPEON_BA2":
+    {
+        "name": "Attack - Espeon",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "ESPEON_BA2_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.39,
+                            "Lv": 9,
+                            "Con": 160
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ESPEON_MOVE_SWIFT":
+    {
+        "name": "Swift",
+        "type": "Move 1",
+        "cd": 6.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "ESPEON_MOVE_SWIFT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.70,
+                            "Lv": 19,
+                            "Con": 360
+                        }
+                    },
+                    {
+                        "name": "Damage - Subsequent Hits",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.21,
+                            "Lv": 6,
+                            "Con": 108
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ESPEON_MOVE_PSYSHOCK":
+    {
+        "name": "Psyshock",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 5.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "ESPEON_MOVE_PSYSHOCK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.79,
+                            "Lv": 15,
+                            "Con": 410
+                        }
+                    },
+                    {
+                        "name": "Damage - Subsequent Hits",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.237,
+                            "Lv": 5,
+                            "Con": 123
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "ESPEON_MOVE_PSYSHOCK_TEXT_2"
+            }
+        ]
+    },
+
+    "ESPEON_MOVE_STORED_POWER":
+    {
+        "name": "Stored Power",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 5.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "ESPEON_MOVE_STORED_POWER_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.64,
+                            "Lv": 12,
+                            "Con": 330
+                        }
+                    },
+                    {
+                        "name": "Damage - Subsequent Hits",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.192,
+                            "Lv": 4,
+                            "Con": 99
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "ESPEON_MOVE_STORED_POWER_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Additional",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.26,
+                            "Lv": 5,
+                            "Con": 135
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ESPEON_MOVE_GROWL":
+    {
+        "name": "Growl",
+        "type": "Move 2",
+        "cd": 7.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "ESPEON_MOVE_GROWL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.55,
+                            "Lv": 15,
+                            "Con": 290
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ESPEON_MOVE_PSYBEAM":
+    {
+        "name": "Psybeam",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 7.5,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "ESPEON_MOVE_PSYBEAM_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.91,
+                            "Lv": 13,
+                            "Con": 540
+                        }
+                    },
+                    {
+                        "name": "Damage - Additional",
+                        "type": "damage",
+                        "text": "ESPEON_MOVE_PSYBEAM_TAG_TEXT_1"
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "ESPEON_MOVE_PSYBEAM_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Additional (Stunned)",
+                        "type": "damage",
+                        "text": "ESPEON_MOVE_PSYBEAM_TAG_TEXT_2"
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ESPEON_MOVE_FUTURE_SIGHT":
+    {
+        "name": "Future Sight",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 8.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "ESPEON_MOVE_FUTURE_SIGHT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.48,
+                            "Lv": 7,
+                            "Con": 280
+                        }
+                    },
+                    {
+                        "name": "Damage - Execute",
+                        "type": "damage",
+                        "value":
+                        {
+                            "MissingHp": 0.1
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "ESPEON_MOVE_FUTURE_SIGHT_TEXT_2"
+            }
+        ]
+    },
+
+    "ESPEON_MOVE_PSYCHIC_SOLAIRE":
+    {
+        "name": "Psychic Solaire",
+        "type": "Unite Move",
+        "cd": 100.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 8",
+                "text": "ESPEON_MOVE_PSYCHIC_SOLAIRE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.87,
+                            "Lv": 11,
+                            "Con": 520
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "ESPEON_MOVE_PSYCHIC_SOLAIRE_TEXT_2"
+            }
+        ]
+    }
+}
