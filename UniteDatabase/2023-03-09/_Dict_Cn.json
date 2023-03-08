@@ -241,8 +241,8 @@
 
     "Damage - Basic (Close Range)": "伤害 - 基础 (近距离)",
     "Damage - Basic (Long Range)": "伤害 - 基础 (远距离)",
-    "Damage - Boosted (Close Range)": "伤害 - 基础 (近距离)",
-    "Damage - Boosted (Long Range)": "伤害 - 基础 (远距离)",
+    "Damage - Boosted (Close Range)": "伤害 - 强化 (近距离)",
+    "Damage - Boosted (Long Range)": "伤害 - 强化 (远距离)",
 
     "Damage - Bonus Damage": "伤害 - 额外伤害",
     "Damage - Bonus": "伤害 - 额外",
@@ -277,7 +277,7 @@
     "Damage - Leap": "伤害 - 跳跃",
     "Damage - Trail": "伤害 - 路径",
     "Damage - Dash": "伤害 - 冲刺",
-    "Damage - Slam": "伤害 - 冲撞",
+    "Damage - Slam": "伤害 - 冲击",
     "Damage - Self": "伤害 - 自身",
     "Damage - Auto Attack": "伤害 - 自动攻击",
     "Damage - Auto Attacks": "伤害 - 自动攻击",

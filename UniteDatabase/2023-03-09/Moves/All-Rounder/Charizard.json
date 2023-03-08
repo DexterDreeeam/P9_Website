@@ -362,7 +362,7 @@
                         "type": "damage",
                         "value":
                         {
-                            "Atk": 307,
+                            "Atk": 3.07,
                             "Lv": 8,
                             "Con": 380
                         }
@@ -372,7 +372,7 @@
                         "type": "damage",
                         "value":
                         {
-                            "MaxHp": 0.8
+                            "MaxHp": 0.08
                         }
                     }
                 ]
