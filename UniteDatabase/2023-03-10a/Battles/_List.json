@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Eject Button",
+    "display_name_En": "Eject Button",
+    "display_name_Cn": "逃脱按键",
+    "description_En": "Quickly move in a designated direction.",
+    "description_Cn": "立即向指定方向进行移动。",
+    "tier": "S",
+    "cooldown": 70,
+    "level": 11
+  },
+  {
+    "name": "Fluffy Tail",
+    "display_name_En": "Fluffy Tail",
+    "display_name_Cn": "向尾喵的尾巴",
+    "description_En": "Apply a debuff to a wild Pokemon for 3 seconds. The debuff disables the affected Pokemon’s attacks and triggers an additional hit when the user deals direct damage to the target. The additional hit deals 100% Atk + 60% SpA + 10*(Level-1) + 100 and has a 0.5 second cooldown.",
+    "description_Cn": "对野生宝可梦施加一个有害效果，持续 3 秒。此效果使得野生宝可梦无法动弹，每当对其造成直接伤害时触发一次附加伤害(100% x 攻击 + 60% 特攻 + 10 x (等级 - 1) + 100)，这个效果有 0.5 秒间隔时间。",
+    "tier": "C",
+    "cooldown": 25,
+    "level": 10
+  },
+  {
+    "name": "Full Heal",
+    "display_name_En": "Full Heal",
+    "display_name_Cn": "万灵药",
+    "description_En": "Remove all status conditions and become immune to hindrances for a short time. (1.5s duration)",
+    "description_Cn": "解除自身的妨碍状态，并进入妨碍无效状态，持续 1.5 秒。",
+    "tier": "S",
+    "cooldown": 50,
+    "level": 14
+  },
+  {
+    "name": "Goal Getter",
+    "display_name_En": "Goal Getter",
+    "display_name_Cn": "得分加速装置",
+    "description_En": "Doubles goal scoring speed for a short time. (10s duration)",
+    "description_Cn": "使用后，在 10 秒内得分速度翻倍。",
+    "tier": "B",
+    "cooldown": 90,
+    "level": 17
+  },
+  {
+    "name": "Potion",
+    "display_name_En": "Potion",
+    "display_name_Cn": "伤药",
+    "description_En": "Restores some of your HP. (20% max HP + 160)",
+    "description_Cn": "立即回复自身少量体力。(20% 最大体力 + 160)",
+    "tier": "B",
+    "cooldown": 30,
+    "level": 3
+  },
+  {
+    "name": "Slow Smoke",
+    "display_name_En": "Slow Smoke",
+    "display_name_Cn": "迟缓烟雾",
+    "description_En": "Create a ring of smoke around you, greatly slowing enemies movement speed by 80% and attack speed by 30% within the area. (2s duration)",
+    "description_Cn": "围绕自身圆形内放出烟雾，会大幅降低区域内的宝可梦移动速度和攻击速度，移动速度降低 80%，攻击速度降低 30%，持续 2秒。",
+    "tier": "D",
+    "cooldown": 45,
+    "level": 13
+  },
+  {
+    "name": "X Attack",
+    "display_name_En": "X Attack",
+    "display_name_Cn": "力量强化",
+    "description_En": "Raises your basic Attack Speed by 25%, Attack and Sp. Attack by 20% for a short time. (7s duration)",
+    "description_Cn": "在 7 秒内提高自己的攻击 25%、特攻 20% 以及普通攻击的速度 20%。",
+    "tier": "A",
+    "cooldown": 40,
+    "level": 7
+  },
+  {
+    "name": "X Speed",
+    "display_name_En": "X Speed",
+    "display_name_Cn": "速度强化",
+    "description_En": "Raises your movement speed by 45% and become immune to move speed reduction for 6s.",
+    "description_Cn": "在 6 秒内提高自身移动速度 45% 并且免疫降低移动速度",
+    "tier": "S",
+    "cooldown": 50,
+    "level": 8
+  }
+]

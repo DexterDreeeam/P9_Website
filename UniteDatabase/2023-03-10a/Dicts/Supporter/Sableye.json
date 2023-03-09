@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "SABLEYE_PA1_TEXT_1": "When Sableye is outside the visual range of enemy players, Sableye enters stealth and gains 10% increased movement speed. When Sableye enters the visual range of enemy players, Sableye does not immediately become visible but instead remains in stealth for 1.8s. Sableye exits stealth when attacking.",
+    "SABLEYE_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing damage to enemies hit and decreasing their movement speed by 20% for 2s. If Sableye is in stealth when hitting an enemy with a boosted attack, Sableye will deal damage and apply a fear effect for 1s. Enemies affected by fear will be forced to move away from Sableye with 40% reduced movement speed. When Sableye enters stealth, they will ready a boosted attack immediately and hold it.",
+    "SABLEYE_MOVE_THIEF_TEXT_1": "Dashes in the designated direction, dealing damage to any enemies hit and decreasing their movement speed for a short time. If this move hits an enemy, Sableye steals a small amount of their Aeos energy (maximum 5). If those enemies do not have any Aeos energy, they will be left unable to act for 0.5s.",
+    "SABLEYE_MOVE_KNOCK_OFF_TEXT_1": "Sableye dashes in the designated direction and then back again while attacking around themself, dealing damage to enemies hit and leaving them unable to act for 0.5s. This move can be used again within 7.5s attacking in front of Sableye with their claws, dealing damage to enemies hit, pushing them away and leaving them unable to act for 1.2s. When either the first or second activation of this move hits an enemy, they will drop 5 Aeos energy (total 15: 10 from first activation, 5 from second) and be left unable to pick up Aeos energy for 4s. When either activation of this move hits enemies that do not have Aeos energy (or are wild Pokémon), those enemies will be left unable to act for 1s. While using this move, Sableye receives 40% reduced damage.",
+    "SABLEYE_MOVE_KNOCK_OFF_TEXT_2": "Aeos energy picked up within 5s of using this move recovers 9% Max HP and increases movement speed by 40% for 2s.",
+    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_1": "Apply a 6.5s duration buff that stealths Sableye after 1.5s increasing Sableye's movement speed by 10%. If the initial stealthing is interrupted by a hindrance, Sableye will not enter stealth. When the buff first stealth's Sableye, Sableye is granted a readied boosted attack that deals additional damage. While the buff is still active, if Sableye exits stealth and is not immobilized or incapacitated by a hindrance, they will enter stealth again after 2s.",
+    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_2": "Increases the duration of this move’s effects to 7.5s. While this move is active and Sableye is in stealth, Sableye will also restore 1% max HP every 0.5s.",
+    "SABLEYE_MOVE_ASTONISH_TEXT_1": "Sableye attacks in a cone in front of themself, dealing damage to enemies hit and decreasing their movement speed by 30% for 2s. If this move hits enemies from behind, this move deals increased damage and applies a greater decrease in movement speed to 60%.",
+    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_1": "Throw dummy Aeos energy to a designated location. While dummy Aeos energy remains at a location, that location and the area around it will be visible to the user. Dummy Aeos energy can remain at up to five locations at a time. If an enemy walks on top of dummy Aeos energy, that energy explodes, dealing damage-over-time 9 times over 4s in an area and decreases the movement speed of enemies hit for 4s by 70% initially and decreasing gradually. Holds 3 uses in reserve and cannot be used more than once every 1s. Note: Placing the dummy energy does not break stealth. Stealth is only broken when an enemy takes damage from the dummy energy.",
+    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_2": "If an enemy is knocked out while affected by this move, they will drop more Aeos energy than they normally would.",
+    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_1": "Fires a sinister ray in the designated direction, dealing damage to enemies hit. If this move hits enemy players, they are also left confused for 2.5s. While confused, enemies are unable to act and continuously attack nearby enemies with basic attacks. Confused enemies will target nearby enemies in the following order of priority: first, their allies; then, wild Pokémon; last, Pokémon on Sableye's team. Knock outs for wild Pokémon will be attributed to Sableye, stealing the effects of the wild Pokémon being knocked out as well as the Aeos energy. While confused, outgoing damage is decreased for auto attacks and move 1 by 50%.",
+    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_2": "Also increases movement speed by 30% and attack speed by 50% from enemies of the opposing team while this move has left them confused.",
+    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_1": "Sableye becomes unstoppable for 1.2s and shoots light from both eyes, dealing damage to enemies in a cone in front of themself. Enemy players hit by this move who are facing Sableye are left unable to act for 3s and start preparing to return to base. If they take damage before returning to base, the return effect is cancelled, and they are left unable to act for 1.5s. Enemies hit by this move who are not facing Sableye have their movement speed decreased by 50% for 2s.",
+    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "SABLEYE_PA1_TEXT_1": "当 Sableye 处于敌方玩家的视野范围之外时，Sableye 会进入隐身状态并获得 10% 的移动速度提升。当 Sableye 进入敌方玩家的视野时，Sableye 不会立即变得可见，而是会保持隐身状态 1.8 秒。Sableye 在攻击时退出隐身状态。",
+    "SABLEYE_BA1_TEXT_1": "每三次攻击变为一次增幅攻击，对命中的敌人造成伤害并降低其20%的移动速度，持续2秒。如果 Sableye 在用增强攻击击中敌人时处于隐身状态，Sableye 将造成伤害并施加恐惧效果 1 秒。受到恐惧影响的敌人将被迫远离 Sableye，移动速度降低 40%。当 Sableye 进入隐身状态时，他们会立即准备好攻击并保持住。",
+    "SABLEYE_MOVE_THIEF_TEXT_1": "向指定方向冲刺，对命中的所有敌人造成伤害并在短时间内降低其移动速度。如果此举击中敌人，Sableye 会窃取他们少量的 Aeos 能量（最多 5 个）。如果那些敌人没有任何宙斯能量，他们将在0.5秒内无法行动。",
+    "SABLEYE_MOVE_KNOCK_OFF_TEXT_1": "Sableye向指定方向冲刺，然后在攻击自己的同时再次返回，对被击中的敌人造成伤害，并使他们在0.5秒内无法行动。此招式可在7.5秒内再次使用，用爪子攻击Sableye前方，对击中的敌人造成伤害，将其推开，1.2秒内无法行动。当此招式的第一次或第二次激活击中敌人时，他们将掉落 5 个 Aeos 能量（总计 15：第一次激活 10 个，第二次激活 5 个）并且在 4 秒内无法拾取 Aeos 能量。当此招式的任一激活击中没有 Aeos 能量的敌人（或野生神奇宝贝）时，这些敌人将无法行动 1 秒。使用此招式时，Sableye 受到的伤害降低 40%。",
+    "SABLEYE_MOVE_KNOCK_OFF_TEXT_2": "使用此招式后5秒内吸收的Aeos能量可恢复9%的最大生命值，并增加40%的移动速度，持续2秒。",
+    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_1": "应用一个持续 6.5 秒的增益效果，在 1.5 秒后使 Sableye 隐身，使 Sableye 的移动速度提高 10%。如果初始隐身被障碍打断，Sableye 将不会进入隐身。当 buff 第一个隐身的 Sableye 时，Sableye 会获得准备好的增强攻击，造成额外伤害。当 buff 仍然有效时，如果 Sableye 退出潜行并且没有被障碍物固定或无法行动，它们将在 2 秒后再次进入潜行。",
+    "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_2": "将此招式效果的持续时间增加到 7.5 秒。当此招式处于活动状态且 Sableye 处于隐身状态时，Sableye 还会每 0.5 秒恢复 1% 的最大生命值。",
+    "SABLEYE_MOVE_ASTONISH_TEXT_1": "貂眼攻击自己前方的锥形区域，对命中的敌人造成伤害，并使其移动速度降低 30%，持续 2 秒。如果此招式从背后击中敌人，此招式造成的伤害会增加，并且移动速度会降低 60%。",
+    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_1": "将虚拟 Aeos 能量扔到指定位置。当虚拟 Aeos 能量保留在某个位置时，该位置及其周围区域将对用户可见。虚拟 Aeos 能量一次最多可以停留在五个位置。如果敌人走在虚拟的 Aeos 能量之上，该能量会爆炸，在 4 秒内对一个区域造成 9 次持续伤害，并使被击中的敌人的移动速度降低 70%，持续 4 秒，并逐渐降低。保留 3 次使用，每 1 秒不能使用超过一次。注意：放置虚拟能量不会破坏隐形。只有当敌人受到虚拟能量的伤害时，隐身才会被打破。",
+    "SABLEYE_MOVE_FEINT_ATTACK_TEXT_2": "如果敌人在受到此招式影响时被击倒，他们会掉落比平时更多的 Aeos 能量。",
+    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_1": "向指定方向发射邪恶射线，对命中的敌人造成伤害。如果此招式击中敌方玩家，他们也会感到困惑 2.5 秒。困惑时，敌人无法行动，无法用普通攻击连续攻击附近的敌人。困惑的敌人会按照以下优先顺序瞄准附近的敌人：首先是他们的盟友；然后是野生宝可梦；最后，Sableye 团队中的神奇宝贝。野生神奇宝贝的击倒将归因于 Sableye，窃取被击倒的野生神奇宝贝的效果以及 Aeos 能量。困惑时，自动攻击和移动 1 的输出伤害降低 50%。",
+    "SABLEYE_MOVE_CONFUSE_RAY_TEXT_2": "当此举让对方感到困惑时，也会增加 30% 的移动速度和 50% 的攻击速度。",
+    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_1": "Sableye 在 1.2 秒内变得势不可挡，并从双眼射出光芒，对前方锥形范围内的敌人造成伤害。被此招式击中并面对 Sableye 的敌方玩家将在 3 秒内无法行动并开始准备返回基地。如果他们在返回基地前受到伤害，返回效果将被取消，他们将在 1.5 秒内无法行动。被此招式击中的敌人，如果没有面对 Sableye，移动速度会降低 50%，持续 2 秒。",
+    "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Prankster": "恶作剧之心",
+    "Thief": "小偷",
+    "Knock Off": "拍落",
+    "Shadow Sneak": "影子偷袭",
+    "Astonish": "惊吓",
+    "Feint Attack": "出奇一击",
+    "Confuse Ray": "奇异之光",
+    "Chaos Glower": "混沌目光"
+  }
+}

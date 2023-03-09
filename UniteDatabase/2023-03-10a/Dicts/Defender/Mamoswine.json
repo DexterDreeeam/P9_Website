@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "MAMOSWINE_PA1_TEXT_1": "When Mamoswine deals damage, Defense and Sp. Def are increased for 3s, stacking up to 3 times. When Mamoswine uses Ice Shard, Icicle Crash or Ice Fang, the next auto attack is boosted. If any of these moves creates a freezing area of effect inside an ally goal zone, the goal-scoring speed of enemies is decreased by 30%.",
+    "MAMOSWINE_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing damage and freezing enemies for 0.5s when it hits. Mamoswine's auto attacks deal increased damage for a short time to enemies recently frozen with one of Mamoswine's moves.",
+    "MAMOSWINE_MOVE_ICE_SHARD_TEXT_1": "Hurls 3 chunks of ice at the designated location, dealing damage to enemies in the area of effect and decreasing their movement speed for a short time. If an enemy is hit by all three chunks, they're left frozen for 0.5s.",
+    "MAMOSWINE_MOVE_ICICLE_CRASH_TEXT_1": "Drops icicles on the designated location, dealing damage to enemies in the area of effect and decreasing their movement speed for a short time. The final icicle shatters after a set amount of time or when hit by Mamoswine's other moves or boosted attacks, dealing damage to enemies in the area of effect and leaving them frozen for 1s. If the icicle is shattered by Tackle or High Horsepower, the ground is covered in ice, which increases the movement speed of allies that run over it. The next auto attack is boosted.",
+    "MAMOSWINE_MOVE_ICICLE_CRASH_TEXT_2": "The final icicle leaves enemies hit unable to act for .2s.",
+    "MAMOSWINE_MOVE_ICE_FANG_TEXT_1": "Uses cold-infused fangs to throw the enemy closest to Mamoswine, dealing damage and leaving them frozen for 1.75s. Mamoswine can then designate a direction to slam the thrown Pokémon forward or backward, dealing damage to enemies in the area of effect and leaving them frozen for 0.5s. The next auto attack is boosted.",
+    "MAMOSWINE_MOVE_ICE_FANG_TEXT_2": "Increases the area of effect in which enemies are left frozen after the slam attack.",
+    "MAMOSWINE_MOVE_TACKLE_TEXT_1": "Mamoswine rushes recklessly in the designated direction; dealing damage to enemies hit and throws them in the air for 0.5s.",
+    "MAMOSWINE_MOVE_HIGH_HORSEPOWER_TEXT_1": "Mamoswine rushes recklessly in the designated direction, dealing damage to enemies they hit and shoving them. Mamoswine then stomps their feet, dealing damage to enemies in the area of effect and leaves them unable to act for 1.4s. This stomping deals increased damage to frozen enemies.",
+    "MAMOSWINE_MOVE_HIGH_HORSEPOWER_TEXT_2": "Increases the reckless rush's speed and the length of time enemies are left unable to act by .2s.",
+    "MAMOSWINE_MOVE_EARTHQUAKE_TEXT_1": "Mamoswine leaps up in the designated direction and lands forcefully, dealing damage to enemies in the area of effect and pulling them toward Mamoswine. Enemies that are hit cannot act for 1.5s.",
+    "MAMOSWINE_MOVE_EARTHQUAKE_TEXT_2": "Decreases movement speed of enemies by 30% for 2.5s when this move hits and increases the move's pulling power.",
+    "MAMOSWINE_MOVE_MAMMOTH_MASH_TEXT_1": "Mamoswine jumps to the designated location and becomes immune to hindrances - then repeatedly stomps the ground, dealing damage to enemies in the area of effect and decreases their movement speed by 20% for 0.5s with each stomp. The final stomp throws enemies in the air.",
+    "MAMOSWINE_MOVE_MAMMOTH_MASH_TEXT_2": "30% Movement Speed, 40% Max HP Shield"
+  },
+  "Cn":
+  {
+    "MAMOSWINE_PA1_TEXT_1": "当 Mamoswine 造成伤害时，Defense 和 Sp。防御增加3秒，最多叠加3次。当猛犸猪使用寒冰碎片、冰柱撞击或寒冰毒牙时，下一次自动攻击会增加。如果这些动作中的任何一个在盟友目标区域内产生冰冻效果区域，敌人的目标得分速度将降低 30%。",
+    "MAMOSWINE_BA1_TEXT_1": "每三次攻击变为一次增幅攻击，命中时造成伤害并冰冻敌人 0.5 秒。Mamoswine 的自动攻击会在短时间内对最近被 Mamoswine 的一个动作冻结的敌人造成伤害。",
+    "MAMOSWINE_MOVE_ICE_SHARD_TEXT_1": "向指定位置投掷3块寒冰，对范围内的敌人造成伤害并在短时间内降低其移动速度。如果一个敌人被所有三个块击中，他们将被冻结 0.5 秒。",
+    "MAMOSWINE_MOVE_ICICLE_CRASH_TEXT_1": "向指定位置投掷冰柱，对范围内的敌人造成伤害，并在短时间内降低其移动速度。最后的冰柱会在一定时间后或被 Mamoswine 的其他动作或增强攻击击中时破碎，对效果范围内的敌人造成伤害并使他们冻结 1 秒。如果冰柱被 Tackle 或 High Horsepower 打碎，地面就会被冰覆盖，这会增加跑过它的盟友的移动速度。下一次自动攻击得到提升。",
+    "MAMOSWINE_MOVE_ICICLE_CRASH_TEXT_2": "最后的冰柱让被击中的敌人在 0.2 秒内无法行动。",
+    "MAMOSWINE_MOVE_ICE_FANG_TEXT_1": "使用灌注冷气的毒牙将距离最近的 Mamoswine 的敌人扔出，造成伤害并使他们冻结 1.75 秒。然后 Mamoswine 可以指定一个方向向前或向后猛击投掷的神奇宝贝，对效果范围内的敌人造成伤害并使他们冻结 0.5 秒。下一次自动攻击得到提升。",
+    "MAMOSWINE_MOVE_ICE_FANG_TEXT_2": "增加猛击攻击后敌人被冻结的效果范围。",
+    "MAMOSWINE_MOVE_TACKLE_TEXT_1": "猛猪不顾一切地朝着指定的方向冲去；对击中的敌人造成伤害并将其抛向空中 0.5 秒。",
+    "MAMOSWINE_MOVE_HIGH_HORSEPOWER_TEXT_1": "Mamoswine 鲁莽地冲向指定方向，对击中的敌人造成伤害并将他们推开。Mamoswine 然后跺脚，对效果范围内的敌人造成伤害，并使他们在 1.4 秒内无法行动。这种踩踏对冻结的敌人造成的伤害增加。",
+    "MAMOSWINE_MOVE_HIGH_HORSEPOWER_TEXT_2": "将鲁莽冲刺的速度和敌人无法行动的时间增加 0.2 秒。",
+    "MAMOSWINE_MOVE_EARTHQUAKE_TEXT_1": "Mamoswine 向指定方向跃起并强行落地，对效果范围内的敌人造成伤害并将其拉向 Mamoswine。被击中的敌人在 1.5 秒内无法行动。",
+    "MAMOSWINE_MOVE_EARTHQUAKE_TEXT_2": "招式命中时降低敌人30%的移动速度，持续2.5秒，增加招式的牵引力。",
+    "MAMOSWINE_MOVE_MAMMOTH_MASH_TEXT_1": "Mamoswine 跳到指定位置并免疫阻碍 - 然后反复踩踏地面，对效果范围内的敌人造成伤害，每次踩踏都会降低他们 20% 的移动速度，持续 0.5 秒。最后的踩踏将敌人抛向空中。",
+    "MAMOSWINE_MOVE_MAMMOTH_MASH_TEXT_2": "30% 移动速度，40% 最大生命值护盾",
+
+    "Thick Fat": "厚脂肪",
+    "Ice Shard": "冰砾",
+    "Icicle Crash": "冰柱坠击",
+    "Ice Fang": "冰冻牙",
+    "Tackle": "撞击",
+    "High Horsepower": "十万马力",
+    "Earthquake": "地震",
+    "Mammoth Mash": "隆隆地跺"
+  }
+}
