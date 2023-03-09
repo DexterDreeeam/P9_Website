@@ -582,8 +582,8 @@
     "display_name_Cn": "腐朽的剑",
     "description1": "\"It is said that a hero used this sword to halt a terrible disaster in ancient times. But it's grown rusty and worn.\"",
     "description1_Cn": "据说在很久以前，英雄就是拿着这把剑驱走了灾厄。而现在，剑早已变得锈迹斑斑。",
-    "extra_info_Cn": "Rusted Sword must be used and can only be used while playing Zacian. Has no effect.",
-    "extra_info": "苍响的特有装备，必须携带，没有效果。"
+    "extra_info": "Rusted Sword must be used and can only be used while playing Zacian. Has no effect.",
+    "extra_info_Cn": "苍响的特有装备，必须携带，没有效果。"
   },
   {
     "name": "Scope Lens",
