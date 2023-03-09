@@ -66,7 +66,7 @@
   },
   {
     "name": "Attack Weight",
-    "display_name_En": "Attack Weight",
+    "display_name": "Attack Weight",
     "display_name_Cn": "猛攻哑铃",
     "bonus1": "Attack +18",
     "bonus1_Cn": "攻击 +18",
@@ -93,7 +93,7 @@
   },
   {
     "name": "Buddy Barrier",
-    "display_name_En": "Buddy Barrier",
+    "display_name": "Buddy Barrier",
     "display_name_Cn": "救援屏障",
     "bonus1": "HP +450",
     "bonus1_Cn": "体力 +450",
@@ -120,7 +120,7 @@
   },
   {
     "name": "Choice Specs",
-    "display_name_En": "Choice Specs",
+    "display_name": "Choice Specs",
     "display_name_Cn": "讲究眼镜",
     "bonus1": "Sp. Attack +39",
     "bonus1_Cn": "特攻 +39",
@@ -147,7 +147,7 @@
   },
   {
     "name": "Drain Crown",
-    "display_name_En": "Drain Crown",
+    "display_name": "Drain Crown",
     "display_name_Cn": "治愈之冠",
     "bonus1": "HP +120",
     "bonus1_Cn": "体力 +120",
@@ -186,7 +186,7 @@
   },
   {
     "name": "Energy Amplifier",
-    "display_name_En": "Energy Amplifier",
+    "display_name": "Energy Amplifier",
     "display_name_Cn": "能量增幅器",
     "bonus1": "Energy Rate +6%",
     "bonus1_Cn": "能量增加速率 +6%",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Exp Share",
-    "display_name_En": "Exp. Share",
+    "display_name": "Exp. Share",
     "display_name_Cn": "学习装置",
     "bonus1": "HP +240",
     "bonus1_Cn": "体力 +240",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Float Stone",
-    "display_name_En": "Float Stone",
+    "display_name": "Float Stone",
     "display_name_Cn": "轻石",
     "bonus1": "Attack +24",
     "bonus1_Cn": "攻击 +24",
@@ -304,7 +304,7 @@
   },
   {
     "name": "Focus Band",
-    "display_name_En": "Focus Band",
+    "display_name": "Focus Band",
     "display_name_Cn": "气势头带",
     "bonus1": "Sp. Defense +30",
     "bonus1_Cn": "特防 +30",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Leftovers",
-    "display_name_En": "Leftovers",
+    "display_name": "Leftovers",
     "display_name_Cn": "吃剩的东西",
     "bonus1": "HP +360",
     "bonus1_Cn": "体力 +360",
@@ -382,7 +382,7 @@
   },
   {
     "name": "Muscle Band",
-    "display_name_En": "Muscle Band",
+    "display_name": "Muscle Band",
     "display_name_Cn": "力量头带",
     "bonus1": "Attack +15",
     "bonus1_Cn": "攻击 +15",
@@ -422,7 +422,7 @@
   },
   {
     "name": "Rapid Fire Scarf",
-    "display_name_En": "Rapid-Fire Scarf",
+    "display_name": "Rapid-Fire Scarf",
     "display_name_Cn": "连打围巾",
     "bonus1": "Attack +12",
     "bonus1_Cn": "攻击 +12",
@@ -461,7 +461,7 @@
   },
   {
     "name": "Razor Claw",
-    "display_name_En": "Razor Claw",
+    "display_name": "Razor Claw",
     "display_name_Cn": "锐利之爪",
     "bonus1": "Attack +15",
     "bonus1_Cn": "攻击 +15",
@@ -500,7 +500,7 @@
   },
   {
     "name": "Rescue Hood",
-    "display_name_En": "Rescue Hood",
+    "display_name": "Rescue Hood",
     "display_name_Cn": "援助头巾",
     "bonus1": "Defense + 30",
     "bonus1_Cn": "防御 + 30",
@@ -539,7 +539,7 @@
   },
   {
     "name": "Rocky Helmet",
-    "display_name_En": "Rocky Helmet",
+    "display_name": "Rocky Helmet",
     "display_name_Cn": "凸凸头盔",
     "bonus1": "HP +270",
     "bonus1_Cn": "体力 +270",
@@ -587,7 +587,7 @@
   },
   {
     "name": "Scope Lens",
-    "display_name_En": "Scope Lens",
+    "display_name": "Scope Lens",
     "display_name_Cn": "焦点镜",
     "bonus1": "Critical-Hit Rate +6%",
     "bonus1_Cn": "暴击几率 +6%",
@@ -625,7 +625,7 @@
   },
   {
     "name": "Score Shield",
-    "display_name_En": "Score Shield",
+    "display_name": "Score Shield",
     "display_name_Cn": "得分护具",
     "bonus1": "HP +450",
     "bonus1_Cn": "体力 +450",
@@ -652,7 +652,7 @@
   },
   {
     "name": "Shell Bell",
-    "display_name_En": "Shell Bell",
+    "display_name": "Shell Bell",
     "display_name_Cn": "贝壳之铃",
     "bonus1": "Sp. Attack +24",
     "bonus1_Cn": "特攻 +24",
@@ -691,7 +691,7 @@
   },
   {
     "name": "Slick Spoon",
-    "display_name_En": "Slick Spoon",
+    "display_name": "Slick Spoon",
     "display_name_Cn": "穿透汤匙",
     "bonus1": "HP + 210",
     "bonus1_Cn": "体力 + 210",
@@ -730,7 +730,7 @@
   },
   {
     "name": "Sp. Atk Specs",
-    "display_name_En": "Sp. Atk Specs",
+    "display_name": "Sp. Atk Specs",
     "display_name_Cn": "进击眼镜",
     "bonus1": "Sp. Attack +24",
     "bonus1_Cn": "特攻 +24",
@@ -757,7 +757,7 @@
   },
   {
     "name": "Weakness Policy",
-    "display_name_En": "Weakness Policy",
+    "display_name": "Weakness Policy",
     "display_name_Cn": "弱点保险",
     "bonus1": "HP +210",
     "bonus1_Cn": "体力 +210",
@@ -796,7 +796,7 @@
   },
   {
     "name": "Wise Glasses",
-    "display_name_En": "Wise Glasses",
+    "display_name": "Wise Glasses",
     "display_name_Cn": "博识眼镜",
     "bonus1": "Sp. Attack +39",
     "bonus1_Cn": "特攻 +39",
