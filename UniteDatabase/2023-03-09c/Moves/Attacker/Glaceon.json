@@ -1,0 +1,286 @@
+{
+    "GLACEON_PA1":
+    {
+        "name": "Run Away",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "GLACEON_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "GLACEON_PA2":
+    {
+        "name": "Snow Cloak",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "GLACEON_PA2_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.39,
+                            "Lv": 4,
+                            "Con": 70
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Eevee)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.4485,
+                            "Lv": 5,
+                            "Con": 81
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Glaceon)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.47,
+                            "Lv": 5,
+                            "Con": 90
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GLACEON_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "GLACEON_BA1_TEXT_1"
+            }
+        ]
+    },
+
+    "GLACEON_MOVE_SWIFT":
+    {
+        "name": "Swift",
+        "type": "Move 1",
+        "cd": 5.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "GLACEON_MOVE_SWIFT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Star",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.16,
+                            "Lv": 6,
+                            "Con": 110
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GLACEON_MOVE_ICICLE_SPEAR":
+    {
+        "name": "Icicle Spear",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 5.5,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "GLACEON_MOVE_ICICLE_SPEAR_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Ice Crystal",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.34,
+                            "Lv": 3,
+                            "Con": 110
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "GLACEON_MOVE_ICICLE_SPEAR_TEXT_2"
+            }
+        ]
+    },
+
+    "GLACEON_MOVE_ICY_WIND":
+    {
+        "name": "Icy Wind",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 6.5,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "GLACEON_MOVE_ICY_WIND_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Ice Crystal",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.23,
+                            "Lv": 2,
+                            "Con": 40
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "GLACEON_MOVE_ICY_WIND_TEXT_2"
+            }
+        ]
+    },
+
+    "GLACEON_MOVE_TAIL_WHIP":
+    {
+        "name": "Tail Whip",
+        "type": "Move 2",
+        "cd": 8.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "GLACEON_MOVE_TAIL_WHIP_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.61,
+                            "Lv": 6,
+                            "Con": 190
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GLACEON_MOVE_ICE_SHARD":
+    {
+        "name": "Ice Shard",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "GLACEON_MOVE_ICE_SHARD_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.52,
+                            "Lv": 6,
+                            "Con": 100
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "GLACEON_MOVE_ICE_SHARD_TEXT_2"
+            }
+        ]
+    },
+
+    "GLACEON_MOVE_FREEZE_DRY":
+    {
+        "name": "Freeze Dry",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 6.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "GLACEON_MOVE_FREEZE_DRY_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.65,
+                            "Lv": 5,
+                            "Con": 210
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "GLACEON_MOVE_FREEZE_DRY_TEXT_2"
+            }
+        ]
+    },
+
+    "GLACEON_MOVE_GLACIAL_STAGE":
+    {
+        "name": "Glacial Stage",
+        "type": "Unite Move",
+        "cd": 100.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 8",
+                "text": "GLACEON_MOVE_GLACIAL_STAGE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.0,
+                            "Lv": 7,
+                            "Con": 320
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "GLACEON_MOVE_GLACIAL_STAGE_TEXT_2"
+            }
+        ]
+    }
+}
