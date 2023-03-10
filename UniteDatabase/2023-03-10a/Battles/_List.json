@@ -4,7 +4,7 @@
     "display_name_En": "Eject Button",
     "display_name_Cn": "逃脱按键",
     "description_En": "Quickly move in a designated direction.",
-    "description_Cn": "立即向指定方向进行移动。",
+    "description_Cn": "立即向指定方向进行移动一段距离。",
     "tier": "S",
     "cooldown": 70,
     "level": 11
