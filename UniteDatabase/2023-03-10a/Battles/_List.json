@@ -24,7 +24,7 @@
     "display_name_En": "Full Heal",
     "display_name_Cn": "万灵药",
     "description_En": "Remove all status conditions and become immune to hindrances for a short time. (1.5s duration)",
-    "description_Cn": "解除自身的妨碍状态，并进入妨碍无效状态，持续 1.5 秒。",
+    "description_Cn": "解除自身的妨碍状态，在 1.5 秒内不受妨碍效果影响。",
     "tier": "S",
     "cooldown": 50,
     "level": 14
@@ -74,7 +74,7 @@
     "display_name_En": "X Speed",
     "display_name_Cn": "速度强化",
     "description_En": "Raises your movement speed by 45% and become immune to move speed reduction for 6s.",
-    "description_Cn": "在 6 秒内提高自身移动速度 45% 并且免疫降低移动速度",
+    "description_Cn": "在 6 秒内提高自身移动速度 45%，不受降低移动速度效果的影响。",
     "tier": "S",
     "cooldown": 50,
     "level": 8

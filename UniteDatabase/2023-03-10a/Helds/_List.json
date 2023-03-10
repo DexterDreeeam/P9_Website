@@ -56,7 +56,7 @@
       }
     ],
     "description1": "Gain a shield against Sp. Attack damage while out of combat for 9%/12%/15% max HP (OoC is 5s after leaving combat). This shield must be fully broken before receiving another from Assault Vest.",
-    "description1_Cn": "脱离战斗（5秒没有战斗动作）期间，获得可让 9%/12%/15% 最大体力的特攻伤害无效的护盾。只有护盾完全消失，才可以从突击背心中获取下一次护盾。",
+    "description1_Cn": "脱离战斗（脱离战斗后 5 秒）期间，获得可让 9%/12%/15% 最大体力的特攻伤害无效的护盾。只有护盾完全消失，才可以从突击背心中获取下一次护盾。",
     "tier": "C",
     "description3": "Max HP",
     "description3_Cn": "最大体力",
@@ -176,10 +176,10 @@
       }
     ],
     "description1": "Restores HP equal to 6%/8%/10% of damage dealt by auto attacks that are Attack damage (ie: not true damage). (Patch 1.8.1.4- Still does not recover HP when dealing damage to shields)",
-    "description1_Cn": "Restores HP equal to 6%/8%/10% of damage dealt by auto attacks that are Attack damage (ie: not true damage). (Patch 1.8.1.4- Still does not recover HP when dealing damage to shields)",
+    "description1_Cn": "当普通攻击造成伤害时，回复一定的体力，数值为这次伤害的 6%/8%/10%。目前对于护盾的伤害不会回复体力。",
     "tier": "D",
     "description3": "Lifesteal",
-    "description3_Cn": "Lifesteal",
+    "description3_Cn": "生命吸取",
     "level1": "6%",
     "level10": "8%",
     "level20": "10%"
@@ -258,7 +258,7 @@
     "description1_Cn": "当自身的经验值为友方队伍内最低时，每秒获得 3/4/5 点经验值。但当附近的队友打倒野生宝可梦时，队友将获得更多经验值。",
     "tier": "S",
     "description3": "EXP/s",
-    "description3_Cn": "每秒经验值",
+    "description3_Cn": "经验值/秒",
     "level1": "3",
     "level10": "4",
     "level20": "5"
@@ -294,7 +294,7 @@
       }
     ],
     "description1": "Increases movement speed while out of combat by 10%/15%/20%. (OoC is 5s after leaving combat)",
-    "description1_Cn": "脱离战斗（5秒没有战斗动作）期间，移动速度提高 10%/15%/20%。",
+    "description1_Cn": "脱离战斗（脱离战斗后 5 秒）期间，移动速度提高 10%/15%/20%。",
     "tier": "B",
     "description3": "Speed",
     "description3_Cn": "移动速度",
@@ -333,7 +333,7 @@
       }
     ],
     "description1": "Upon reaching below 25% HP, recover HP each second for 3s by 8%/11%/14% of your missing HP. (100/90/80s cooldown)",
-    "description1_Cn": "体力低于 25% 时，在 3 秒内每秒回复已损失体力的8%，这个效果有 100/90/80 秒间隔时间。",
+    "description1_Cn": "体力低于 25% 时，在 3 秒内每秒回复已损失体力的 8%/11%/14%，这个效果有 100/90/80 秒间隔时间。",
     "tier": "S",
     "description3": "HP Lost",
     "description3_Cn": "已损失体力",
@@ -372,10 +372,10 @@
       }
     ],
     "description1": "Recovers health over time while out of combat by 1%/1.5%/2% HP/s (OoC is 5s after leaving combat).",
-    "description1_Cn": "脱离战斗（5秒没有战斗动作）期间，每秒回复 1%/1.5%/2% 最大体力。",
+    "description1_Cn": "脱离战斗（脱离战斗后 5 秒）期间，每秒回复 1%/1.5%/2% 最大体力。",
     "tier": "D",
     "description3": "Max HP/s",
-    "description3_Cn": "每秒最大体力",
+    "description3_Cn": "最大体力/秒",
     "level1": "1%",
     "level10": "1.50%",
     "level20": "2%"
@@ -451,7 +451,7 @@
       }
     ],
     "description1": "Every instance of auto attack damage applies a hidden \"stack\" for 3s. Stacks up to 3 times and the duration can be refreshed before it expires. The 3rd stack increases auto attack speed by 15%/22.5%/30% for 5s (10s cooldown). Gaining a stack incurs a .35s internal cooldown until another stack can be acquired.",
-    "description1_Cn": "每一次普通攻击（间隔超过 0.35 秒），会叠加一个内置的连击计数，计数值最高叠加 3 次。连击计数会在 3 秒后失效，并且到达 3 次后，计数值失效前可以刷新这个计数值的持续时间至 3 秒。计数值叠加至 3 次后，普通攻击速度会提高 15%/22.5%/30%，攻击速度提高效果最多持续 5 秒，有 10 秒间隔时间。",
+    "description1_Cn": "每一次普通攻击（触发间隔 0.35 秒以上），会叠加一个内置的连击计数，计数值最高叠加 3 次。在 3 秒内不进行攻击，连击计数会重置。计数值叠加至 3 次后，普通攻击速度会提高 15%/22.5%/30%，攻击速度提高效果最多持续 5 秒，这个效果的触发有 10 秒的间隔时间。",
     "tier": "A",
     "description3": "Attack Speed",
     "description3_Cn": "攻击速度",
@@ -494,9 +494,9 @@
     "tier": "A",
     "description3": "Attack",
     "description3_Cn": "攻击",
-    "level1": "40%",
-    "level10": "45%",
-    "level20": "50%"
+    "level1": "10 + 40%",
+    "level10": "15 + 45%",
+    "level20": "20 + 50%"
   },
   {
     "name": "Rescue Hood",
@@ -685,9 +685,9 @@
     "tier": "B",
     "description3": "HP",
     "description3_Cn": "体力",
-    "level1": "45",
-    "level10": "60",
-    "level20": "75"
+    "level1": "45 + 35% 特攻",
+    "level10": "60 + 40% 特攻",
+    "level20": "75 + 45% 特攻"
   },
   {
     "name": "Slick Spoon",
