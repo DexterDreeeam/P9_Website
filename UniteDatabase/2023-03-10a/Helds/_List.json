@@ -685,9 +685,9 @@
     "tier": "B",
     "description3": "HP",
     "description3_Cn": "体力",
-    "level1": "45 + 35% 特攻",
-    "level10": "60 + 40% 特攻",
-    "level20": "75 + 45% 特攻"
+    "level1": "45 + 35% Sp.A",
+    "level10": "60 + 40% Sp.A",
+    "level20": "75 + 45% Sp.A"
   },
   {
     "name": "Slick Spoon",
