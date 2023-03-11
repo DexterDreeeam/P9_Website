@@ -1,6 +1,7 @@
 [
   {
     "name": "All-Rounder",
+    "name_Cn": "平衡",
     "bgColor": "darkseagreen",
     "bgColorLight": "#BFDCBF",
     "bgColorSelected": "seagreen",
@@ -23,6 +24,7 @@
   },
   {
     "name": "Attacker",
+    "name_Cn": "攻击",
     "bgColor": "indianred",
     "bgColorLight": "#ED9C9C",
     "bgColorSelected": "maroon",
@@ -47,6 +49,7 @@
   },
   {
     "name": "Defender",
+    "name_Cn": "防御",
     "bgColor": "deepskyblue",
     "bgColorLight": "#B0EFFF",
     "bgColorSelected": "steelblue",
@@ -63,6 +66,7 @@
   },
   {
     "name": "Speedster",
+    "name_Cn": "敏捷",
     "bgColor": "orange",
     "bgColorLight": "#FFC550",
     "bgColorSelected": "chocolate",
@@ -79,6 +83,7 @@
   },
   {
     "name": "Supporter",
+    "name_Cn": "辅助",
     "bgColor": "thistle",
     "bgColorLight": "#E8CFE8",
     "bgColorSelected": "palevioletred",
