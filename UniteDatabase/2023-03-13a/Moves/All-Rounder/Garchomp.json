@@ -1,0 +1,352 @@
+{
+    "GARCHOMP_PA1":
+    {
+        "name": "Rough Skin",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "GARCHOMP_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "GARCHOMP_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "GARCHOMP_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.1,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    },
+                    {
+                        "name": "Damage - % Increase",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0,
+                            "Lv": 3,
+                            "Con": 28
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GARCHOMP_MOVE_SAND_ATTACK":
+    {
+        "name": "Sand Attack",
+        "type": "Move 1",
+        "cd": 6.0,
+        "cast": "Debuff",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "GARCHOMP_MOVE_SAND_ATTACK_TEXT_1"
+            }
+        ]
+    },
+
+    "GARCHOMP_MOVE_DIG":
+    {
+        "name": "Dig",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 8.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "GARCHOMP_MOVE_DIG_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.16,
+                            "Lv": 5,
+                            "Con": 220
+                        }
+                    },
+                    {
+                        "name": "Damage - Increase",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0,
+                            "Lv": 25,
+                            "Con": 25
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "GARCHOMP_MOVE_DIG_TEXT_2"
+            }
+        ]
+    },
+
+    "GARCHOMP_MOVE_DRAGON_RUSH":
+    {
+        "name": "Dragon Rush",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 6.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "GARCHOMP_MOVE_DRAGON_RUSH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.21,
+                            "Lv": 8,
+                            "Con": 200
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "GARCHOMP_MOVE_DRAGON_RUSH_TEXT_2"
+            }
+        ]
+    },
+
+    "GARCHOMP_MOVE_BULLDOZE":
+    {
+        "name": "Bulldoze",
+        "type": "Move 2",
+        "cd": 5.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "GARCHOMP_MOVE_BULLDOZE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.45,
+                            "Lv": 13,
+                            "Con": 240
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GARCHOMP_MOVE_EARTHQUAKE":
+    {
+        "name": "Earthquake",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 8",
+                "text": "GARCHOMP_MOVE_EARTHQUAKE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.12,
+                            "Lv": 8,
+                            "Con": 180
+                        }
+                    },
+                    {
+                        "name": "Damage - Aftershock (2x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.56,
+                            "Lv": 7,
+                            "Con": 90
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "GARCHOMP_MOVE_EARTHQUAKE_TEXT_2"
+            }
+        ]
+    },
+
+    "GARCHOMP_MOVE_DRAGON_CLAW":
+    {
+        "name": "Dragon Claw",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 5.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "GARCHOMP_MOVE_DRAGON_CLAW_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.88,
+                            "Lv": 6,
+                            "Con": 155
+                        }
+                    },
+                    {
+                        "name": "Damage - Second Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.08,
+                            "Lv": 7,
+                            "Con": 188
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "GARCHOMP_MOVE_DRAGON_CLAW_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.06,
+                            "Lv": 6,
+                            "Con": 170
+                        }
+                    },
+                    {
+                        "name": "Damage - Second Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.272,
+                            "Lv": 7,
+                            "Con": 204
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "GARCHOMP_MOVE_LIVID_OUTRAGE":
+    {
+        "name": "Livid Outrage",
+        "type": "Unite Move",
+        "cd": 134.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "GARCHOMP_MOVE_LIVID_OUTRAGE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.27,
+                            "Lv": 10,
+                            "Con": 330
+                        }
+                    },
+                    {
+                        "name": "Damage - Second Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.67,
+                            "Lv": 11,
+                            "Con": 450
+                        }
+                    },
+                    {
+                        "name": "Damage - Third Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 3.07,
+                            "Lv": 12,
+                            "Con": 570
+                        }
+                    },
+                    {
+                        "name": "Damage - Fourth Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 3.07,
+                            "Lv": 13,
+                            "Con": 920
+                        }
+                    },
+                    {
+                        "name": "Damage - Fifth Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 3.07,
+                            "Lv": 14,
+                            "Con": 1270
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "GARCHOMP_MOVE_LIVID_OUTRAGE_TEXT_2"
+            }
+        ]
+    }
+}
