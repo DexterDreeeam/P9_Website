@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "MACHAMP_PA1_TEXT_1": "Increases Attack by 10% for 5s when afflicted by any debuff.",
+    "MACHAMP_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage when it hits. This boosted attack also decreases the movement speed of enemies by 50% for 1s.",
+    "MACHAMP_MOVE_KARATE_CHOP_TEXT_1": "Machamp attacks in a straight line dealing damage to enemies hit.",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_1": "Machamp unleashes a barrage of blows in a targeted direction for 1s, hitting multiple times and finishing with a single large strike. Machamp is unstoppable for the duration and can move while using Close Combat.",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_2": "Deals 25% additional damage if the target is affected by a status condition.",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_1": "Machamp dashes forward, dealing damage to enemies hit. Cross Chop may critically hit and has a 5% higher Critical-Hit Rate. Cross Chop further increases Critical-Hit Rate by 5% for 3s on hit.",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_2": "Machamp’s auto attacks increases Atk by 2 per target hit, permanently stacking up to 40 times.",
+    "MACHAMP_MOVE_BULK_UP_TEXT_1": "Machop buffs themselves for 3s becoming unstoppable, increasing attack by 15%, attack speed by 40% and movement speed by 30% inititally, diminishing gradually every 1s. Machop's next attack is boosted.",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_1": "Machamp jumps to target location, becoming unstoppable for 0.5s, stunning enemies hit for 0.5s, slowing them by 40% for 3s, and dealing damage four times in quick succession to the landing radius. Machamp’s Atk is increased by 15% for 5s and gains bonus movement speed of 40% inititally, diminishing gradually, for 3s when using Dynamic Punch. Machamp’s next auto attack is boosted.",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_2": "Further increases movement speed by 30% and Atk bonus by 5%.",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_1": "Machamp becomes unstoppable for 5s and gains 50% increased movement speed (diminishing every 1s by 20%) or until the next auto attack. Machamp’s next auto attack during submission is enhanced, hitting twice and slamming the target down behind Machamp. If this attack hits, Machamp also gains 5% increased Critical-Hit Rate and 50% Attack Speed for 3s.",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_2": "Further increases Critical-Hit Rate by 5% and Attack Speed by 10%.",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_1": "Increases Machamp's movement speed by 5%, Attack by 30%, Defense by 200, and Sp. Defense by 200 for 10s. If used again, unleash a combo attack, dealing damage to enemies in the area of effect and shoving them. The final blow deals double the damage of the previous hits.",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_2": "30% Movement Speed, 35% Attack Speed, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "MACHAMP_PA1_TEXT_1": "受到任何减益效果影响时，攻击力提高 10%，持续 5 秒。",
+    "MACHAMP_BA1_TEXT_1": "每三次攻击变为一次增强攻击，命中时造成更高的伤害。这种增强的攻击还会使敌人的移动速度降低 50%，持续 1 秒。",
+    "MACHAMP_MOVE_KARATE_CHOP_TEXT_1": "Machamp 直线攻击，对命中的敌人造成伤害。",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_1": "Machamp 在 1 秒内向目标方向施展一连串打击，多次打击并以一次大打击结束。Machamp 在持续时间内不可阻挡，并且可以在使用 Close Combat 时移动。",
+    "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_2": "如果目标受到状态条件的影响，则造成 25% 的额外伤害。",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_1": "Machamp 向前冲刺，对击中的敌人造成伤害。Cross Chop 可能会暴击并且暴击率提高 5%。Cross Chop 进一步提高暴击率 5%，持续 3 秒。",
+    "MACHAMP_MOVE_CROSS_CHOP_TEXT_2": "Machamp 的自动攻击每次击中一个目标都会增加 2 点攻击力，最多可永久叠加 40 次。",
+    "MACHAMP_MOVE_BULK_UP_TEXT_1": "Machop增益自己3s变得势不可挡，初始增加15%的攻击，40%的攻击速度和30%的移动速度，每1s逐渐递减。Machop 的下一次攻击得到提升。",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_1": "Machamp 跳到目标位置，在 0.5 秒内变得不可阻挡，击晕敌人 0.5 秒，使他们减速 40%，持续 3 秒，并在着陆半径内快速连续造成四次伤害。Machamp 的攻击力提高 15%，持续 5 秒，初始时获得 40% 的移动速度加成，使用动态拳时会持续 3 秒，并逐渐递减。Machamp 的下一次自动攻击得到提升。",
+    "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_2": "进一步增加 30% 的移动速度和 5% 的攻击加值。",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_1": "Machamp 在 5 秒内变得不可阻挡，并获得 50% 的移动速度提高（每 1 秒减少 20%）或直到下一次自动攻击。Machamp 在提交期间的下一次自动攻击得到增强，命中两次并将目标猛击到 Machamp 身后。如果这次攻击命中，Machamp 还会获得 5% 的暴击率和 50% 的攻击速度，持续 3 秒。",
+    "MACHAMP_MOVE_SUBMISSION_TEXT_2": "暴击率进一步提高 5%，攻击速度提高 10%。",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_1": "Machamp 的移动速度提高 5%，攻击提高 30%，防御提高 200，Sp。防御 200，持续 10 秒。如果再次使用，发动连击，对范围内的敌人造成伤害并将其推开。最后一击造成的伤害是之前攻击的两倍。",
+    "MACHAMP_MOVE_BARRAGE_BLOW_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大生命值护盾",
+
+    "Guts": "毅力",
+    "Karate Chop": "空手劈",
+    "Close Combat": "近身战",
+    "Cross Chop": "十字劈",
+    "Bulk Up": "健美",
+    "Dynamic Punch": "爆裂拳",
+    "Submission": "地狱翻滚",
+    "Barrage Blow": "豪杰千烈拳"
+  }
+}
