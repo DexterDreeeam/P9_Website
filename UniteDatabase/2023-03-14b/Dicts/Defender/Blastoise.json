@@ -1,0 +1,54 @@
+{
+  "En":
+  {
+    "BLASTOISE_PA1_TEXT_1": "Increases Attack and Sp. Attack by 20% while at half HP or less.",
+    "BLASTOISE_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing 3 instances of damage, slowing enemies hit by 50% for 1s, and reducing Blastoise’s move cooldowns by 1s. When evolving into Blastoise, auto attacks instead strike twice for 50% Atk.",
+    "BLASTOISE_BA1_TAG_TEXT_1": "When evolving into Blastoise, auto attacks now strike twice for 50% Atk.",
+    "BLASTOISE_MOVE_WATER_GUN_TEXT_1": "Blastoise shoots a jet of water in a straight line; damaging, knocking back, and stunning enemies hit for 0.5s. Enemies hit are also slowed by 30% for 1s.",
+    "BLASTOISE_MOVE_HYDRO_PUMP_TEXT_1": "Blastoise shoots a large amount of water, damaging, knocking back, and stunning enemies hit for 0.5s.",
+    "BLASTOISE_MOVE_HYDRO_PUMP_TAG_TEXT_1": "Blastoise unleashes a large burst of water in a radius around themself, damaging, stunning, and knocking back enemies hit. Blastoise also gains a 30% movement speed bonus for the duration of this move.",
+    "BLASTOISE_MOVE_HYDRO_PUMP_TEXT_2": "Increased damage.",
+    "BLASTOISE_MOVE_WATER_SPOUT_TEXT_1": "Blastoise calls down a barrage of water in a targeted radius. Enemies within the radius are struck 6 times over 3s, damaging and slowing them by 30% for 1s (refreshing every hit).",
+    "BLASTOISE_MOVE_WATER_SPOUT_TAG_TEXT_1": "Blastoise rapidly unleashes bursts of water in a radius around themselves dealing up to 17 instances of damage over the duration of Rapid Spin. Blastoise also gains a 30% movement speed bonus for the duration of this move.",
+    "BLASTOISE_MOVE_WATER_SPOUT_TEXT_2": "Increased damage.",
+    "BLASTOISE_MOVE_SKULL_BASH_TEXT_1": "Blastoise dashes forward damaging and stunning all enemies hit for 0.5s.",
+    "BLASTOISE_MOVE_SURF_TEXT_1": "Blastoise rides a large wave in the designated direction damaging, knocking back, and stunning enemies hit for 1.6s. Blastoise is unstoppable while surfing, and once it ends, Blastoise can jump in a designated direction. The wave continues for a short duration after leaping off and the wave continues to knock back enemies hit but inflicts no damage.",
+    "BLASTOISE_MOVE_SURF_TEXT_2": "Blastoise gains a small shield for 4s when hitting an enemy with Surf.",
+    "BLASTOISE_MOVE_RAPID_SPIN_TEXT_1": "Blastoise withdraws into its shell and begins rapidly spinning for 5.5s resetting the cooldown of its other move. Blastoise resists hindrances for the duration of Rapid Spin and can freely move about the battlefield. While spinning, Blastoise will damage nearby enemies. Blastoise’s next auto attack after Rapid Spin ends becomes boosted. For the duration of Rapid Spin, the mechanics of Blastoise’s auto attacks as well as Hydro Pump and Water Spout are changed.",
+    "BLASTOISE_MOVE_RAPID_SPIN_TEXT_2": "Blastoise gains a massive amount of Def and SpDef for 7s.",
+    "BLASTOISE_MOVE_HYDRO_TYPHOON_TEXT_1": "Blastoise gains a shield for 4s and sweeps powerful water jets in a large circle around itself dealing massive damage and throwing enemies hit into the air for 1.5s.",
+    "BLASTOISE_MOVE_HYDRO_TYPHOON_TEXT_2": "30% Movement Speed, 40% Max HP Shield"
+  },
+  "Cn":
+  {
+    "BLASTOISE_PA1_TEXT_1": "当体力在一半及以下时，增加攻击和特攻 20%。",
+    "BLASTOISE_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，造成 3 次伤害，降低对方宝可梦的移动速度 50%，持续时间 1 秒，并缩短水箭龟其他招式的间隔时间 1 秒。当进化为水箭龟时，攻击分两次进行，每次为原本攻击的 50%。",
+    "BLASTOISE_BA1_TAG_TEXT_1": "当进化成水箭龟时，攻击分两次进行，每次为原本攻击的 50%。",
+    "BLASTOISE_MOVE_WATER_GUN_TEXT_1": "直线射出一股水流，对命中的敌人造成伤害，击退并眩晕其 0.5 秒。也会降低被击中的敌人移动速度 30%，持续时间 1 秒。",
+    "BLASTOISE_MOVE_HYDRO_PUMP_TEXT_1": "猛烈地喷射水流进行攻击，对命中的敌人造成伤害，击退并眩晕其 0.5 秒。",
+    "BLASTOISE_MOVE_HYDRO_PUMP_TAG_TEXT_1": "在自身攻击范围内爆发大量水流，对击中的敌人造成伤害、眩晕和击退。在招式使用期间，还会获得 30% 的移动速度加成。",
+    "BLASTOISE_MOVE_HYDRO_PUMP_TEXT_2": "伤害增加。",
+    "BLASTOISE_MOVE_WATER_SPOUT_TEXT_1": "在攻击范围内召唤出一道水柱。水柱内的敌人在 3 秒内可被击中 6 次，造成伤害的同时会使敌人减速 30%，持续时间 1 秒（每次击中都会刷新）。",
+    "BLASTOISE_MOVE_WATER_SPOUT_TAG_TEXT_1": "在自身攻击范围内爆发大量水流，最多造成 17 次伤害。在使用招式期间还会获得 30% 的移动速度加成。",
+    "BLASTOISE_MOVE_WATER_SPOUT_TEXT_2": "伤害增加。",
+    "BLASTOISE_MOVE_SKULL_BASH_TEXT_1": "向前冲刺，对所有命中的敌人造成伤害并使其昏迷0.5秒。",
+    "BLASTOISE_MOVE_SURF_TEXT_1": "呈上海浪向指定方向进行突击，对命中的敌人造成伤害，击退并眩晕其 1.6 秒。冲浪期间自身不会被妨碍，招式结束时可以向指定方向跳跃。跳跃后，海浪会持续一小段时间，继续击退击中的敌人，但不会造成伤害。",
+    "BLASTOISE_MOVE_SURF_TEXT_2": "招式命中时，获得一个持续 4 秒的护盾。",
+    "BLASTOISE_MOVE_RAPID_SPIN_TEXT_1": "缩回壳中并快速旋转 5.5 秒，对周围的敌人造成持续伤害，并改变自身的普通攻击、“水炮”、“喷水”的攻击方式。使用招式时会立即解除“水炮”、“喷水”的等待时间。招式使用期间自身会获得妨碍抗性。另外，招式结束后下一次普通攻击会变为强化普通攻击",
+    "BLASTOISE_MOVE_RAPID_SPIN_TEXT_2": "在 7 秒内防御和特防大幅提升。",
+    "BLASTOISE_MOVE_HYDRO_TYPHOON_TEXT_1": "获得持续 4 秒的护盾并在攻击范围内扫射出大量水流，造成巨大伤害并将击中的敌人击飞 1.5 秒。",
+    "BLASTOISE_MOVE_HYDRO_TYPHOON_TEXT_2": "30% 移动速度，40% 最大体力的护盾",
+
+    "Damage - During Rapid Spin": "伤害 - 高速旋转时",
+    "Damage - Area (17 Hits) During Rapid Spin": "伤害 - 范围(17次攻击) 高速旋转时",
+
+    "Torrent": "激流",
+    "Water Gun": "水枪",
+    "Hydro Pump": "水炮",
+    "Water Spout": "喷水",
+    "Skull Bash": "火箭头锤",
+    "Surf": "冲浪",
+    "Rapid Spin": "高速旋转",
+    "Hydro Typhoon": "旋风激流炮"
+  }
+}

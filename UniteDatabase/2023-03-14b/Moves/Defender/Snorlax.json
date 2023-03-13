@@ -1,0 +1,297 @@
+{
+    "SNORLAX_PA1":
+    {
+        "name": "Gluttony",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "SNORLAX_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "SNORLAX_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "SNORLAX_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.86,
+                            "Lv": 9,
+                            "Con": 170
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SNORLAX_MOVE_TACKLE":
+    {
+        "name": "Tackle",
+        "type": "Move 1",
+        "cd": 6.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "SNORLAX_MOVE_TACKLE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Shard (3 Shards)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.11,
+                            "Lv": 233,
+                            "Con": 420
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SNORLAX_MOVE_HEAVY_SLAM":
+    {
+        "name": "Heavy Slam",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 6.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "SNORLAX_MOVE_HEAVY_SLAM_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.0,
+                            "Lv": 15,
+                            "Con": 400
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "SNORLAX_MOVE_HEAVY_SLAM_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.62,
+                            "Lv": 21,
+                            "Con": 520
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SNORLAX_MOVE_FLAIL":
+    {
+        "name": "Flail",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 6.5,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "SNORLAX_MOVE_FLAIL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Basic Attack - Above 80% HP",
+                        "type": "damage",
+                        "text": "SNORLAX_MOVE_FLAIL_TAG_TEXT_1",
+                        "value":
+                        {
+                            "Atk": 0.45,
+                            "MaxHp": 0.05,
+                            "Lv": 7,
+                            "Con": 90
+                        }
+                    },
+                    {
+                        "name": "Boosted Attack - Above 80% HP",
+                        "type": "damage",
+                        "text": "SNORLAX_MOVE_FLAIL_TAG_TEXT_2",
+                        "value":
+                        {
+                            "Atk": 0.675,
+                            "MaxHp": 0.06,
+                            "Lv": 10,
+                            "Con": 135
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "SNORLAX_MOVE_FLAIL_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Basic Attack - Above 80% HP",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.81,
+                            "MaxHp": 0.05,
+                            "Lv": 7,
+                            "Con": 100
+                        }
+                    },
+                    {
+                        "name": "Boosted Attack - Above 80% HP",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.81,
+                            "MaxHp": 0.06,
+                            "Lv": 10,
+                            "Con": 150
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SNORLAX_MOVE_REST":
+    {
+        "name": "Rest",
+        "type": "Move 2",
+        "cd": 10.0,
+        "cast": "Recovery",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "SNORLAX_MOVE_REST_TEXT_1"
+            }
+        ]
+    },
+
+    "SNORLAX_MOVE_BLOCK":
+    {
+        "name": "Block",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 9.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "SNORLAX_MOVE_BLOCK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "value":
+                        {
+                            "MaxHp": 0.1,
+                            "Con": 900
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "SNORLAX_MOVE_BLOCK_TEXT_2"
+            }
+        ]
+    },
+
+    "SNORLAX_MOVE_YAWN":
+    {
+        "name": "Yawn",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 12.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "SNORLAX_MOVE_YAWN_TEXT_1"
+            },
+            {
+                "condition": "Level 13",
+                "text": "SNORLAX_MOVE_YAWN_TEXT_2"
+            }
+        ]
+    },
+
+    "SNORLAX_MOVE_POWER_NAP":
+    {
+        "name": "Power Nap",
+        "type": "Unite Move",
+        "cd": 122.0,
+        "cast": "Recovery",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "SNORLAX_MOVE_POWER_NAP_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.32,
+                            "Lv": 8,
+                            "Con": 360
+                        }
+                    },
+                    {
+                        "name": "Damage - DoT (3 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.66,
+                            "Lv": 4,
+                            "Con": 180
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "SNORLAX_MOVE_POWER_NAP_TEXT_2"
+            }
+        ]
+    }
+}
