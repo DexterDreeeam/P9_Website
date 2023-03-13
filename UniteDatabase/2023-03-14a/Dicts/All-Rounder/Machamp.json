@@ -18,14 +18,15 @@
   },
   "Cn":
   {
-    "MACHAMP_PA1_TEXT_1": "受到任何减益效果影响时，攻击力提高 10%，持续 5 秒。",
-    "MACHAMP_BA1_TEXT_1": "每三次攻击变为一次增强攻击，命中时造成更高的伤害。这种增强的攻击还会使敌人的移动速度降低 50%，持续 1 秒。",
-    "MACHAMP_MOVE_KARATE_CHOP_TEXT_1": "Machamp 直线攻击，对命中的敌人造成伤害。",
+    "MACHAMP_PA1_TEXT_1": "受到任何负面效果影响时，攻击力提高 10%，持续 5 秒。",
+    "MACHAMP_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，命中时增加伤害，并降低对方宝可梦的移动速度 50%，持续 1 秒。",
+    "MACHAMP_MOVE_KARATE_CHOP_TEXT_1": "用锋利的手刀进行劈斩攻击。",
     "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_1": "Machamp 在 1 秒内向目标方向施展一连串打击，多次打击并以一次大打击结束。Machamp 在持续时间内不可阻挡，并且可以在使用 Close Combat 时移动。",
     "MACHAMP_MOVE_CLOSE_COMBAT_TEXT_2": "如果目标受到状态条件的影响，则造成 25% 的额外伤害。",
     "MACHAMP_MOVE_CROSS_CHOP_TEXT_1": "Machamp 向前冲刺，对击中的敌人造成伤害。Cross Chop 可能会暴击并且暴击率提高 5%。Cross Chop 进一步提高暴击率 5%，持续 3 秒。",
     "MACHAMP_MOVE_CROSS_CHOP_TEXT_2": "Machamp 的自动攻击每次击中一个目标都会增加 2 点攻击力，最多可永久叠加 40 次。",
-    "MACHAMP_MOVE_BULK_UP_TEXT_1": "Machop增益自己3s变得势不可挡，初始增加15%的攻击，40%的攻击速度和30%的移动速度，每1s逐渐递减。Machop 的下一次攻击得到提升。",
+    "MACHAMP_MOVE_BULK_UP_TEXT_1": "使用招式后，在 3 秒内不会被妨碍，并且提高自身 30% 移动速度和 40% 攻击，每秒衰减。普通攻击会也变得更快。另外，下一次普通攻击将变为强化普通攻击。
+    Machop增益自己3s变得势不可挡，初始增加15%的攻击，40%的攻击速度和30%的移动速度，每1s逐渐递减。Machop 的下一次攻击得到提升。",
     "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_1": "Machamp 跳到目标位置，在 0.5 秒内变得不可阻挡，击晕敌人 0.5 秒，使他们减速 40%，持续 3 秒，并在着陆半径内快速连续造成四次伤害。Machamp 的攻击力提高 15%，持续 5 秒，初始时获得 40% 的移动速度加成，使用动态拳时会持续 3 秒，并逐渐递减。Machamp 的下一次自动攻击得到提升。",
     "MACHAMP_MOVE_DYNAMIC_PUNCH_TEXT_2": "进一步增加 30% 的移动速度和 5% 的攻击加值。",
     "MACHAMP_MOVE_SUBMISSION_TEXT_1": "Machamp 在 5 秒内变得不可阻挡，并获得 50% 的移动速度提高（每 1 秒减少 20%）或直到下一次自动攻击。Machamp 在提交期间的下一次自动攻击得到增强，命中两次并将目标猛击到 Machamp 身后。如果这次攻击命中，Machamp 还会获得 5% 的暴击率和 50% 的攻击速度，持续 3 秒。",
