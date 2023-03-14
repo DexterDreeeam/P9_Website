@@ -1,0 +1,47 @@
+{
+  "En":
+  {
+    "DRAGAPULT_PA1_TEXT_1": "Reduces the duration of debuff effects inflicted on the user.",
+    "DRAGAPULT_BA1_TEXT_1": "Each time damage is dealt to enemies, boosted basic attack gauge increases. When the boosted basic attack gauge is full (after 8 instances of damage), the Pokémon's basic attacks become boosted attacks. Boosted attacks deal increased damage and have an area-of-effect centered on the enemy they hit. The boosted basic attack gauge will begin decreasing rapidly if this Pokémon does not deal damage to enemies for 3s.",
+    "DRAGAPULT_MOVE_ASTONISH_TEXT_1": "Lets out a sound blast in a forward direction. The shout explodes when it hits an enemy or after traveling a set distance, dealing damage in an area and decreasing enemy movement speed by 30% for 2s.",
+    "DRAGAPULT_MOVE_DRAGON_BREATH_TEXT_1": "Exhales a mighty gust in the designated direction, dealing damage to enemies in the area-of-effect and decreasing their movement speed by 30% for 2s. The gust also leaves the ground burning for 3s. Enemies in this area take damage-over-time and have their movement speed decreased for a short time. If this move is used while the user is flying with Dragon Dance, the mighty gust is exhaled along Dragon Dance's flight path, dealing damage to enemies in the area and decreasing their movement speed for a short time.",
+    "DRAGAPULT_MOVE_DRAGON_BREATH_TEXT_2": "Deals increased damage and increases the slow to 45% for 2s.",
+    "DRAGAPULT_MOVE_SHADOW_BALL_TEXT_1": "Hurls a shadowy blob in the designated direction, dealing damage to enemies hit and applying a mark to them. When marked enemies are hit by Dragapult, they receive additional damage. After the fourth time the marked enemy is hit, the mark is removed, and additional damage is dealt and the user recovers 10% of max HP. After using this move, the user moves a short distance in a designated direction.",
+    "DRAGAPULT_MOVE_SHADOW_BALL_TEXT_2": "Increased damage.",
+    "DRAGAPULT_MOVE_QUICK_ATTACK_TEXT_1": "Dashes in the designated direction, increasing basic attack speed by 40% for 2s.",
+    "DRAGAPULT_MOVE_DRAGON_DANCE_TEXT_1": "Flies in a circular pattern in the designated direction. While flying, continuously deal damage to nearby enemies with auto attacks that deal 10% less damage but have increased attack speed by 200%. This fly pattern takes 3.5s to complete. If this move is used again while the user is flying, the user stops flying and moves a short distance in the designated direction. If the user knocks out an enemy, this move's cooldown is reset. If the user assists in a knock out, this move's cooldown is reduced by half. When this move is used, Dragon Breath's cooldown is reset.",
+    "DRAGAPULT_MOVE_DRAGON_DANCE_TEXT_2": "While the user is flying, attacks gain an additional 25% lifesteal.",
+    "DRAGAPULT_MOVE_PHANTOM_FORCE_TEXT_1": "The user enters stealth and has 15% increased movement speed for 6s. While the user is in stealth, the boosted basic attack gauge increases. When stealth ends, Dragapult's basic attack speed is increased by 85% for 3s. After this move is learned, if the user knocks out an enemy, this move's cooldown is reset and Dragapult's Attack is increased by 6 until the end of battle. This Attack increase can stack up to 8 times.",
+    "DRAGAPULT_MOVE_PHANTOM_FORCE_TEXT_2": "Reduces this move's cooldown by 0.5s when the user deals damage to enemies with basic or boosted attacks.",
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_1": "Launches two Dreepy and each deals damage to different enemies in the area-of-effect. The lower the enemy's remaining HP is, the more damage the Dreepy deal. If there is only one target in the area, both Dreepy target that enemy and deal damage to them. A maximum of 2 uses can be kept in reserve for this move. Dreepy may be fired once every 2s. Against Wild Pokemon: The additional damage from missing HP is capped at 1200.",
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TAG_TEXT_1": "Also deals 10% of enemy missing HP.",
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_2": "Has an internal cooldown of 30s to activate Energy Amplifier; Has an internal cooldown of 60s to activate Buddy Barrier; 10% Max HP Shield, 10% Movement Speed for 3s"
+  },
+  "Cn":
+  {
+    "DRAGAPULT_PA1_TEXT_1": "减少对用户造成的减益效果的持续时间。",
+    "DRAGAPULT_BA1_TEXT_1": "每次对敌人造成伤害时，增强的基本攻击槽会增加。当增强的基本攻击槽满时（在 8 次伤害后），神奇宝贝的基本攻击变为增强攻击。强化攻击会造成更高的伤害，并且会以击中的敌人为中心形成一个区域效果。如果这只宝可梦在 3 秒内没有对敌人造成伤害，提升的基本攻击槽将开始快速减少。",
+    "DRAGAPULT_MOVE_ASTONISH_TEXT_1": "向前方发出声波。怒吼击中敌人或移动一定距离后爆炸，对范围造成伤害并降低敌人30%的移动速度，持续2秒。",
+    "DRAGAPULT_MOVE_DRAGON_BREATH_TEXT_1": "向指定方向喷出一股强风，对范围内的敌人造成伤害，并降低其30%的移动速度，持续2秒。阵风还会使地面燃烧 3 秒。该区域中的敌人会随着时间受到伤害，并在短时间内降低移动速度。如果在龙舞飞行时使用此招式，会沿着龙舞的飞行路线喷出强大的狂风，对范围内的敌人造成伤害并在短时间内降低他们的移动速度。",
+    "DRAGAPULT_MOVE_DRAGON_BREATH_TEXT_2": "造成更高的伤害并将减速提高到 45%，持续 2 秒。",
+    "DRAGAPULT_MOVE_SHADOW_BALL_TEXT_1": "向指定方向投掷暗影一团，对击中的敌人造成伤害并对其施加标记。当被标记的敌人被 Dragapult 击中时，他们会受到额外的伤害。第四次击中被标记的敌人后，标记解除，追加伤害并恢复自身最大生命值的10%。使用此招式后，使用者会朝指定方向移动一小段距离。",
+    "DRAGAPULT_MOVE_SHADOW_BALL_TEXT_2": "伤害增加。",
+    "DRAGAPULT_MOVE_QUICK_ATTACK_TEXT_1": "向指定方向冲刺，普攻速度提升40%，持续2秒。",
+    "DRAGAPULT_MOVE_DRAGON_DANCE_TEXT_1": "沿指定方向呈圆形飞行。飞行时，使用自动攻击持续对附近的敌人造成伤害，造成的伤害降低 10%，但攻击速度提高 200%。这种飞行模式需要 3.5 秒才能完成。如果使用者在飞行过程中再次使用此招式，使用者将停止飞行并朝指定方向移动一小段距离。如果使用者击倒敌人，此招式的冷却时间会重置。如果用户协助击倒，此招式的冷却时间减少一半。使用此招式时，龙息的冷却时间会重置。",
+    "DRAGAPULT_MOVE_DRAGON_DANCE_TEXT_2": "当使用者在飞行时，攻击额外获得 25% 的吸血。",
+    "DRAGAPULT_MOVE_PHANTOM_FORCE_TEXT_1": "使用者进入隐身状态，移动速度提高 15%，持续 6 秒。当用户处于隐身状态时，增强的基本攻击量表会增加。潜行结束时，飞龙的基础攻击速度提高85%，持续3秒。习得此招式后，如果使用者击倒敌人，此招式的冷却时间将重置，并且 Dragapult 的攻击力增加 6，直到战斗结束。此攻击增加最多可叠加 8 次。",
+    "DRAGAPULT_MOVE_PHANTOM_FORCE_TEXT_2": "当用户使用基本或增强攻击对敌人造成伤害时，此招式的冷却时间减少 0.5 秒。",
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_1": "发射两个 Dreepy，每个都对影响范围内的不同敌人造成伤害。敌人的剩余 HP 越低，Dreepy 造成的伤害就越大。如果该区域只有一个目标，则两个 Dreepy 都以该敌人为目标并对他们造成伤害。此移动最多可保留 2 次使用。Dreepy 可能每 2 秒发射一次。对付野生宝可梦：损失HP造成的额外伤害上限为1200。",
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TAG_TEXT_1": "还造成敌人损失 HP 的 10%。",
+    "DRAGAPULT_MOVE_DREEP_AND_DESTROY_TEXT_2": "激活能量增幅器有 30 秒的内部冷却时间；有 60 秒的内部冷却时间来激活 Buddy Barrier；10% 最大生命值护盾，10% 移动速度持续 3 秒",
+
+    "Clear Body": "恒净之躯",
+    "Astonish": "惊吓",
+    "Dragon Breath": "龙息",
+    "Shadow Ball": "暗影球",
+    "Quick Attack": "电光一闪",
+    "Dragon Dance": "龙之舞",
+    "Phantom Force": "潜灵奇袭",
+    "Dreep and Destroy": "龙骑射击"
+  }
+}
