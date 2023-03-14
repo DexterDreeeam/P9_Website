@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "GENGAR_PA1_TEXT_1": "Increases movement speed by 10% when out of combat for 5s.",
+    "GENGAR_BA1_TEXT_1": "Becomes a boosted attack with every third attack, teleporting to an enemy (even through walls) and dealing increased damage.",
+    "GENGAR_MOVE_WILL_O_WISP_TEXT_1": "Gengar shoots 3 wisps of flame in a cone, damaging and burning enemies hit for 2s. This burn reduces enemy Attack and Sp. Attack by 10% for 4s. A single enemy can only be damaged by a maximum of 2 wisps. Damage is halved if the target is burning.",
+    "GENGAR_MOVE_SHADOW_BALL_TEXT_1": "Gengar hurls a shadowy ball forward in a line; damaging, slowing their movement speed by 90% for 1s, and reducing the Sp. Defense of enemies hit for 3s. This ball pierces through wild Pokémon.",
+    "GENGAR_MOVE_SHADOW_BALL_TEXT_2": "Increased damage.",
+    "GENGAR_MOVE_SLUDGE_BOMB_TEXT_1": "Gengar hurls unsanitary sludge to the designated area, damaging enemies and poisoning them for 5s. Poison deals 1% of the Pokemon's max HP per tick. Against Wild Pokémon: The poison damage is capped at 120 per tick.",
+    "GENGAR_MOVE_SLUDGE_BOMB_TEXT_2": "Increased area duration by 1s (adds 2 additional ticks)",
+    "GENGAR_MOVE_LICK_TEXT_1": "Gengar attacks forward in a line with their tongue, damaging enemies hit, and pulling them to Gengar. The next auto attack is boosted.",
+    "GENGAR_MOVE_DREAM_EATER_TEXT_1": "Gengar shoots forward a mysterious orb, sleeping enemies for 1s when it hits. If used again when a nearby enemy is affected by Dream Eater, Gengar teleports behind them and attacks; dealing damage to the enemy, healing Gengar, and reducing the cooldown of Will-o-Wisp, Shadow Ball or Sludge Bomb by 2s. Before and after teleporting, the next auto attack is boosted. If Gengar knocks out an enemy player, the cooldown of this move is reset.",
+    "GENGAR_MOVE_DREAM_EATER_TEXT_2": "Increased damage and healing.",
+    "GENGAR_MOVE_HEX_TEXT_1": "Gengar vanishes and teleports to a designated location, damaging enemies in a radius where Gengar appears. If this hits an enemy afflicted with a status condition, damage dealt is doubled and Hex cooldown is reduced by 85%. The next auto attack is boosted.",
+    "GENGAR_MOVE_HEX_TEXT_2": "Increased damage.",
+    "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_1": "Jump to the designated area and start sneaking for 7s - gaining 30% increased movement speed, become invisible, and the next auto attack is boosted. Moves and auto attacks can be used while invisible, but bring you above the ground. While above the ground, become visible to the enemies. If this move is used again, deal damage to enemies in the area of effect and decrease their movement speed by 50% for 1.5s.",
+    "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_2": "80% Movement Speed, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "GENGAR_PA1_TEXT_1": "脱离战斗5秒后移动速度提高10%。",
+    "GENGAR_BA1_TEXT_1": "每三次攻击都会成为增强攻击，传送到敌人（甚至穿过墙壁）并造成更高的伤害。",
+    "GENGAR_MOVE_WILL_O_WISP_TEXT_1": "耿鬼在锥形范围内射出 3 缕火焰，对命中的敌人造成伤害并燃烧 2 秒。这种燃烧会降低敌人的攻击力和 Sp。攻击力提升 10%，持续 4 秒。单个敌人最多只能受到 2 个小精灵的伤害。如果目标正在燃烧，则伤害减半。",
+    "GENGAR_MOVE_SHADOW_BALL_TEXT_1": "耿鬼向前投出一个影子球；造成伤害，使他们的移动速度降低 90%，持续 1 秒，并降低 Sp。防御被击中的敌人3秒。这个球能穿透野生宝可梦。",
+    "GENGAR_MOVE_SHADOW_BALL_TEXT_2": "伤害增加。",
+    "GENGAR_MOVE_SLUDGE_BOMB_TEXT_1": "耿鬼向指定区域投掷不卫生的污泥，对敌人造成伤害并使他们中毒 5 秒。毒药每次滴答造成口袋妖怪最大 HP 的 1%。对抗野生宝可梦：毒伤害上限为每滴答 120。",
+    "GENGAR_MOVE_SLUDGE_BOMB_TEXT_2": "区域持续时间增加 1 秒（增加 2 个额外滴答）",
+    "GENGAR_MOVE_LICK_TEXT_1": "耿鬼用舌头向前攻击，对击中的敌人造成伤害，并将他们拉向耿鬼。下一次自动攻击得到提升。",
+    "GENGAR_MOVE_DREAM_EATER_TEXT_1": "耿鬼向前射出一个神秘的球体，击中敌人后会使敌人昏睡 1 秒。如果当附近的敌人受到食梦者影响时再次使用，耿鬼会传送到他们身后并进行攻击；对敌人造成伤害，治疗耿鬼，并减少鬼火、暗影球或污泥炸弹的冷却时间2秒。传送前后，下一次自动攻击都会增加。如果耿鬼击倒敌方玩家，此招式的冷却时间会重置。",
+    "GENGAR_MOVE_DREAM_EATER_TEXT_2": "增加伤害和治疗。",
+    "GENGAR_MOVE_HEX_TEXT_1": "耿鬼消失并传送到指定位置，对耿鬼出现范围内的敌人造成伤害。如果这击中了一个受到状态影响的敌人，造成的伤害会加倍并且 Hex 冷却时间减少 85%。下一次自动攻击得到提升。",
+    "GENGAR_MOVE_HEX_TEXT_2": "伤害增加。",
+    "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_1": "跳到指定区域开始潜行7秒——移动速度提高30%，隐身，下一次自动攻击加成。移动和自动攻击可以在隐身时使用，但会把你带到地面上。在地面上时，敌人可以看到。再次使用此招式，对范围内的敌人造成伤害，并使其移动速度降低50%，持续1.5秒。",
+    "GENGAR_MOVE_PHANTOM_AMBUSH_TEXT_2": "80% 移动速度，20% 最大生命值护盾",
+
+    "Levitate": "飘浮",
+    "Will-o-Wisp": "鬼火",
+    "Shadow Ball": "暗影球",
+    "Sludge Bomb": "污泥炸弹",
+    "Lick": "舌舔",
+    "Dream Eater": "食梦",
+    "Hex": "祸不单行",
+    "Phantom Ambush": "遁影奇袭"
+  }
+}

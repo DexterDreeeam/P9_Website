@@ -1,0 +1,304 @@
+{
+    "PIKACHU_PA1":
+    {
+        "name": "Static",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "PIKACHU_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "PIKACHU_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "PIKACHU_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.38,
+                            "Lv": 10,
+                            "Con": 200
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "PIKACHU_MOVE_THUNDER_SHOCK":
+    {
+        "name": "Thunder Shock",
+        "type": "Move 1",
+        "cd": 5.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "PIKACHU_MOVE_THUNDER_SHOCK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.75,
+                            "Lv": 21,
+                            "Con": 390
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "PIKACHU_MOVE_ELECTRO_BALL":
+    {
+        "name": "Electro Ball",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 5.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "PIKACHU_MOVE_ELECTRO_BALL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Area",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.66,
+                            "Lv": 25,
+                            "Con": 530
+                        }
+                    },
+                    {
+                        "name": "Damage - Execute",
+                        "type": "damage",
+                        "value":
+                        {
+                            "MissingHp": 0.04
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "PIKACHU_MOVE_ELECTRO_BALL_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Area",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.77,
+                            "Lv": 29,
+                            "Con": 640
+                        }
+                    },
+                    {
+                        "name": "Damage - Execute",
+                        "type": "damage",
+                        "value":
+                        {
+                            "MissingHp": 0.05
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "PIKACHU_MOVE_THUNDER":
+    {
+        "name": "Thunder",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 8.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "PIKACHU_MOVE_THUNDER_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.2,
+                            "Lv": 5,
+                            "Con": 210
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "PIKACHU_MOVE_THUNDER_TEXT_2"
+            }
+        ]
+    },
+
+    "PIKACHU_MOVE_ELECTROWEB":
+    {
+        "name": "Electroweb",
+        "type": "Move 2",
+        "cd": 9.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "PIKACHU_MOVE_ELECTROWEB_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.36,
+                            "Lv": 11,
+                            "Con": 350
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "PIKACHU_MOVE_VOLT_TACKLE":
+    {
+        "name": "Volt Tackle",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 10.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "PIKACHU_MOVE_VOLT_TACKLE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (5x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.14,
+                            "Lv": 3,
+                            "Con": 140
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "PIKACHU_MOVE_VOLT_TACKLE_TEXT_2"
+            }
+        ]
+    },
+
+    "PIKACHU_MOVE_THUNDERBOLT":
+    {
+        "name": "Thunderbolt",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 8.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "PIKACHU_MOVE_THUNDERBOLT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.5,
+                            "Lv": 12,
+                            "Con": 500
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "PIKACHU_MOVE_THUNDERBOLT_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.59,
+                            "Lv": 14,
+                            "Con": 600
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "PIKACHU_MOVE_THUNDERSTORM":
+    {
+        "name": "Thunderstorm",
+        "type": "Unite Move",
+        "cd": 89.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "PIKACHU_MOVE_THUNDERSTORM_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Frozen Enemies",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.49,
+                            "Lv": 10,
+                            "Con": 490
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "PIKACHU_MOVE_THUNDERSTORM_TEXT_2"
+            }
+        ]
+    }
+}
