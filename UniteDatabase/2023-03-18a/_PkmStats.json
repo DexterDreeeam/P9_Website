@@ -4440,6 +4440,191 @@
     ]
   },
   {
+    "name": "Goodra",
+    "level": [
+      {
+        "level": 1,
+        "hp": 3225,
+        "attack": 150,
+        "defense": 100,
+        "sp_attack": 50,
+        "sp_defense": 100,
+        "crit": 0,
+        "cdr": 0,
+        "lifesteal": 0,
+        "attack_speed": 10
+      },
+      {
+        "level": 2,
+        "hp": 3315,
+        "attack": 152,
+        "defense": 107,
+        "sp_attack": 56,
+        "sp_defense": 106,
+        "crit": 0,
+        "cdr": 0,
+        "lifesteal": 0,
+        "attack_speed": 10.29
+      },
+      {
+        "level": 3,
+        "hp": 3423,
+        "attack": 155,
+        "defense": 116,
+        "sp_attack": 63,
+        "sp_defense": 113,
+        "crit": 0,
+        "cdr": 0,
+        "lifesteal": 0,
+        "attack_speed": 10.63
+      },
+      {
+        "level": 4,
+        "hp": 3552,
+        "attack": 158,
+        "defense": 126,
+        "sp_attack": 71,
+        "sp_defense": 121,
+        "crit": 0,
+        "cdr": 0,
+        "lifesteal": 0,
+        "attack_speed": 11.04
+      },
+      {
+        "level": 5,
+        "hp": 4021,
+        "attack": 169,
+        "defense": 163,
+        "sp_attack": 101,
+        "sp_defense": 151,
+        "crit": 0,
+        "cdr": 5,
+        "lifesteal": 0,
+        "attack_speed": 12.54
+      },
+      {
+        "level": 6,
+        "hp": 4208,
+        "attack": 174,
+        "defense": 178,
+        "sp_attack": 113,
+        "sp_defense": 163,
+        "crit": 0,
+        "cdr": 5,
+        "lifesteal": 0,
+        "attack_speed": 13.14
+      },
+      {
+        "level": 7,
+        "hp": 4432,
+        "attack": 179,
+        "defense": 196,
+        "sp_attack": 127,
+        "sp_defense": 177,
+        "crit": 0,
+        "cdr": 5,
+        "lifesteal": 0,
+        "attack_speed": 13.86
+      },
+      {
+        "level": 8,
+        "hp": 5329,
+        "attack": 201,
+        "defense": 268,
+        "sp_attack": 184,
+        "sp_defense": 234,
+        "crit": 0,
+        "cdr": 5,
+        "lifesteal": 0,
+        "attack_speed": 16.72
+      },
+      {
+        "level": 9,
+        "hp": 5652,
+        "attack": 209,
+        "defense": 294,
+        "sp_attack": 205,
+        "sp_defense": 255,
+        "crit": 0,
+        "cdr": 10,
+        "lifesteal": 0,
+        "attack_speed": 17.75
+      },
+      {
+        "level": 10,
+        "hp": 6040,
+        "attack": 218,
+        "defense": 325,
+        "sp_attack": 230,
+        "sp_defense": 280,
+        "crit": 0,
+        "cdr": 10,
+        "lifesteal": 0,
+        "attack_speed": 18.98
+      },
+      {
+        "level": 11,
+        "hp": 6505,
+        "attack": 229,
+        "defense": 362,
+        "sp_attack": 260,
+        "sp_defense": 310,
+        "crit": 0,
+        "cdr": 10,
+        "lifesteal": 0,
+        "attack_speed": 20.46
+      },
+      {
+        "level": 12,
+        "hp": 7063,
+        "attack": 242,
+        "defense": 406,
+        "sp_attack": 295,
+        "sp_defense": 345,
+        "crit": 0,
+        "cdr": 10,
+        "lifesteal": 0,
+        "attack_speed": 22.24
+      },
+      {
+        "level": 13,
+        "hp": 7733,
+        "attack": 258,
+        "defense": 459,
+        "sp_attack": 338,
+        "sp_defense": 388,
+        "crit": 0,
+        "cdr": 10,
+        "lifesteal": 0,
+        "attack_speed": 24.37
+      },
+      {
+        "level": 14,
+        "hp": 8536,
+        "attack": 277,
+        "defense": 523,
+        "sp_attack": 389,
+        "sp_defense": 439,
+        "crit": 0,
+        "cdr": 10,
+        "lifesteal": 0,
+        "attack_speed": 26.93
+      },
+      {
+        "level": 15,
+        "hp": 9500,
+        "attack": 300,
+        "defense": 600,
+        "sp_attack": 450,
+        "sp_defense": 500,
+        "crit": 0,
+        "cdr": 10,
+        "lifesteal": 0,
+        "attack_speed": 30
+      }
+    ]
+  },
+  {
     "name": "Greedent",
     "level": [
       {
@@ -5735,7 +5920,7 @@
     ]
   },
   {
-    "name": "Mr. Mime",
+    "name": "Mr.Mime",
     "level": [
       {
         "level": 1,
