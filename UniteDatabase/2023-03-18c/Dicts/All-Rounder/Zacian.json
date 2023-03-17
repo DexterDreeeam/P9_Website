@@ -1,0 +1,85 @@
+{
+  "En":
+  {
+    "ZACIAN_PA1_TEXT_1": "If the goal scoring button is held down, Zacian charges its sword with Aeos energy. For a short time, its basic attacks become boosted attacks. In addition, during this time, Zacian can use a boosted version of one of its moves once. The longer the goal scoring button is held down, the more Aeos energy is charged into the sword, lengthening the duration of the boost effect on basic attacks and moves. This Ability goes on cooldown after it’s triggered. When this Pokémon knocks out or assists (within 4 seconds) in knocking out a Pokémon on the opposing team, that Pokémon will drop an additional 5 more Aeos energy than it normally would. This effect has an 8 second cooldown. Minimum 5 energy is required to charge with a maximum of 10 (except for Unite Move). Duration for buff window is 3s for 5 energy, 6s for 8 energy, 10s for 10 energy. Charging occurs at a rate of 1 energy per 0.1s.",
+    "ZACIAN_BA1_TEXT_1": "When basic attacks are performed consecutively within 2s, additional effects are applied depending on the stage of the consecutive attack. If a Move is used, the time to perform the next consecutive attack is extended.",
+    "ZACIAN_BA1_TAG_TEXT_1": "Boosted basic attacks have an increased area of effect and deal additional damage proportional to the opposing Pokémon’s HP. Stage 1 deals additional 3% Max HP. (Additional damage capped at 400 on Wild Pokémon)",
+    "ZACIAN_BA1_TAG_TEXT_2": "Applies 20% Slow for 2s",
+    "ZACIAN_BA1_TAG_TEXT_3": "Applies 20% Slow for 2s & deals additional 4% Max HP (Additional damage capped at 600 on Wild Pokémon)",
+    "ZACIAN_BA1_TAG_TEXT_4": "Heals 5% max hp",
+    "ZACIAN_BA1_TAG_TEXT_5": "Heals 5% Max HP & deals additional 4% Max HP damage (Additional damage capped at 600 on Wild Pokémon)",
+    "ZACIAN_BA1_TAG_TEXT_6": "Dashes towards the target, reducing all Move cooldowns by 15% of their current cooldown.",
+    "ZACIAN_BA1_TAG_TEXT_7": "Dashes towards the target, reducing all Move cooldowns by 15% of their current cooldown. Also deals additional 5% Max HP damage. (Additional damage capped at 750 on Wild Pokémon)",
+    "ZACIAN_MOVE_SLASH_TEXT_1": "Slashes target Pokémon and deals a small amount of damage to nearby Pokémon. When this move is boosted with Aeos energy, its area of effect is increased, deals increased damage and also slows of Pokémon hit by 60% for 0.5s.",
+    "ZACIAN_MOVE_METAL_CLAW_TEXT_1": "Releases a shock wave in the designated direction, dealing damage to Pokémon, decreasing their movement speed by 30% for 3s. As the shock wave moves forward, projectiles from non-allied Pokémon it hits are negated. After releasing the shock wave, Zacian charges in that direction and deals damage to Pokémon. If the charge hits an enemy, Zacian's attack speed is increased by 100% for 4s or 6 attacks, whichever comes first. When this move is boosted with Aeos energy, the shock wave's size and travel distance are increased and the intensity of the slow is increased to 45% for 3s.",
+    "ZACIAN_MOVE_METAL_CLAW_TEXT_2": "Reduces this move's cooldown by 1s.",
+    "ZACIAN_MOVE_SACRED_SWORD_TEXT_1": "Has the user slash around itself as if drawing a circle with the tip of its sword, dealing damage to opposing Pokémon in the area of effect and slowing them by 30% for 3s. During this slash, Zacian briefly becomes unstoppable and reduces damage taken by 50%. The user then unleashes a slashing attack inside the circle, dealing damage to opposing Pokémon it hits and leaving them unable to act for 0.6s. After a flurry attack hits an opposing Pokémon, the user’s Attack is increased by 20% for 3s, and damage dealt by the user’s moves and basic attacks ignores 15% of the opposing Pokémon’s Defense. When this move is boosted with Aeos energy, its area of effect is increased, and the time until the slashing attack is unleashed is reduced.",
+    "ZACIAN_MOVE_SACRED_SWORD_TEXT_2": "Reduce the time until the flurry of slashes is unleashed to 1.2s for the base Sacred Sword+ and 0.45s for Boosted Sacred Sword+",
+    "ZACIAN_MOVE_QUICK_ATTACK_TEXT_1": "Zacian charges in the designated direction, stopping at the first Pokémon it hits and dealing damage. When this move is boosted with Aeos energy, it also leaves opposing Pokémon unable to act for 1s.",
+    "ZACIAN_MOVE_AGILITY_TEXT_1": "Removes any hindrances applied to the user and increases the user’s movement speed by 50% decaying every 1s by 15% down to a minimum of 10% for 3s. Dealing or taking any damage extends the haste duration by 1 second per attack up to 6 seconds and bypasses the movement speed decay. When this move is boosted with Aeos energy, the user’s movement speed decay is reduced to 10% per second, and the user is also granted a shield.",
+    "ZACIAN_MOVE_AGILITY_TEXT_2": "Further increases movement speed gain to 60% on use.",
+    "ZACIAN_MOVE_PLAY_ROUGH_TEXT_1": "Leaps in the designated direction stopping at the first Pokémon hit. The Pokémon hit is dealt damage and is stunned for 0.7s. Zacian lands near that Pokémon it hits and deals damage to nearby Pokémon stunning them as well. Zacian receives 25% reduced damage for 3s after landing. When this move is boosted with Aeos energy, Zacian leaps further and through all Pokémon hit along the leap’s path. Pokémon hit will receive damage and be left stunned for the same amount as the base stun duration.",
+    "ZACIAN_MOVE_PLAY_ROUGH_TEXT_2": "Increases the stun duration to 1s.",
+    "ZACIAN_MOVE_SOVEREIGN_SWORD_TEXT_1": "Has the user ready its giant sword, charge the sword with Aeos energy, and then slash in front of itself. The user becomes Unstoppable, applying a 10% self slow while the Unite Move button is held down and the user is in its ready stance. The longer the user is in this stance, the more Aeos energy is charged into the sword, and the more damage this move deals. If a set amount of Aeos energy or more is charged into the sword, the Unite Move becomes boosted, and the slash’s area of effect increases. This boosted Unite Move deals increased damage to opposing Pokémon it hits who have been buffed by their own Unite Move.",
+    "ZACIAN_MOVE_SOVEREIGN_SWORD_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "ZACIAN_PA1_TEXT_1": "长按「得分键」为剑注入亿奥斯能量后，「普通攻击」会在短时间内被强化，且在效果持续期间可使用 1 次强化后的招式。按住「得分键」的时间越长，为剑注入的亿奥斯能量越多，「普通攻击」和招式被强化的持续时间会根据注入的量而变长。发动这个特性的冷却时间为 8 秒。「强化普通攻击」会扩大范围，并根据对方宝可梦的体力造成追加伤害。注入的能量最少为 5 点，最多为 10 点(集结招式除外)，强化效果的持续时间长度分别是：3 秒持续时间（5 点能量），6 秒持续时间（8 点能量），以及 10 秒持续时间（10 点能量），注入能量的速率是每 0.1 秒注入 1 点能量。此外，若苍响打倒或协助（4 秒内）队友打倒对方队伍的宝可梦，可使打倒的对方宝可梦多掉落 5 个掉落亿奥斯能量。",
+    "ZACIAN_BA1_TEXT_1": "若在 2 秒内连续使出「普通攻击」，则从第 2 段开始的「普通攻击」的效果会依据阶段发生变化。使用招式，会延长下一次被认为连续「普通攻击」的时间（重置连续攻击剩余计时至 2 秒）。",
+    "ZACIAN_BA1_TAG_TEXT_1": "「强化普通攻击」会造成范围伤害，并造成敌方宝可梦一定量最大体力的附加伤害（对野生宝可梦的附加伤害上限为 400）。",
+    "ZACIAN_BA1_TAG_TEXT_2": "降低 20% 移动速度，持续 2 秒",
+    "ZACIAN_BA1_TAG_TEXT_3": "降低 20% 移动速度，持续 2 秒，造成敌方宝可梦一定量最大体力的附加伤害（对野生神奇宝贝的额外伤害上限为 600）。",
+    "ZACIAN_BA1_TAG_TEXT_4": "回复自身 5% 最大体力",
+    "ZACIAN_BA1_TAG_TEXT_5": "回复自身 5% 最大体力，造成敌方宝可梦一定量最大体力的附加伤害（对野生神奇宝贝的额外伤害上限为 600）",
+    "ZACIAN_BA1_TAG_TEXT_6": "快速接近对方宝可梦并对其造成伤害，缩短自身所有招式的当前剩余冷却时间 15%。",
+    "ZACIAN_BA1_TAG_TEXT_7": "快速接近对方宝可梦并对其造成伤害，造成敌方宝可梦一定量最大体力的附加伤害（对野生神奇宝贝的额外伤害上限为 750），同时缩短自身所有招式的当前剩余冷却时间 15%。",
+    "ZACIAN_MOVE_SLASH_TEXT_1": "对对方宝可梦造成伤害，对周围的对方宝可梦也造成少量伤害。若用亿奥斯能量进行强化，则会扩大招式的范围，增加造成的伤害，并在 0.5 秒内降低对方宝可梦的移动速度 60%。",
+    "ZACIAN_MOVE_METAL_CLAW_TEXT_1": "向指定方向施放冲击波，对命中的对方宝可梦造成伤害并在 3 秒内降低对方宝可梦的移动速度 30%。冲击波会在向前方行进的过程中消除来自敌方宝可梦的飞行弹道类攻击。施放冲击波后，自身也会冲刺并对对方宝可梦造成伤害。若冲刺时接触到对方宝可梦，则会在短时间内提高自身的攻击速度 100%，效果持续 4 秒或在 6 次攻击后结束。若用亿奥斯能量进行强化，则冲击波会变大，并延长向前方行进的距离。另外，对于冲击波接触到的对方宝可梦，降低移动速度的效果提升至 45%，持续 3 秒。",
+    "ZACIAN_MOVE_METAL_CLAW_TEXT_2": "此招式的冷却时间减少 1 秒。",
+    "ZACIAN_MOVE_SACRED_SWORD_TEXT_1": "使用剑尖画圆劈砍周围，对范围内的对方宝可梦造成伤害并降低其移动速度 30%，持续3秒。之后，在画出的圆内部施放斩击。在此斩击期间，会短暂地变得不可妨碍并将受到的伤害降低 50%。对命中的对方宝可梦造成伤害，并使其在 0.6 秒内无法动弹。招式命中对方宝可梦时，会在 3 秒内提高自身的攻击 20%，并且招式和「普通攻击」造成的伤害无视对方宝可梦 15% 的防御力。若用亿奥斯能量进行强化，提高范围伤害，并缩短使用「圣剑」后，发动斩击的间隔时间。",
+    "ZACIAN_MOVE_SACRED_SWORD_TEXT_2": "进一步缩短使用「圣剑」后，发动斩击的间隔时间至 1.2 秒。注入能量后，间隔时间缩短至 0.45 秒",
+    "ZACIAN_MOVE_QUICK_ATTACK_TEXT_1": "向指定方向冲刺，在接触到对方宝可梦时原地停下并造成伤害。若用亿奥斯能量进行强化，则会使对方宝可梦在 1 秒内无法动弹。",
+
+    "ZACIAN_MOVE_AGILITY_TEXT_1": "解除自身受到的妨碍效果，同时提高移动速度 50%。这个移动速度提高效果每 1 秒衰减 15%，降低至 10% 后持续 3 秒结束。每次造成或受到伤害会使移动速度提高效果持续时间延长 1 秒（最多 6 秒），并且移动速度不会衰减。若用亿奥斯能量进行强化，则会进一步提高移动速度，使得动速度衰减降低至每秒 10%，并获得护盾效果。",
+    "ZACIAN_MOVE_AGILITY_TEXT_2": "进一步提高移动速度至 60%。",
+    "ZACIAN_MOVE_PLAY_ROUGH_TEXT_1": "向指定方向跳跃，对接触到的对方宝可梦造成伤害，并使其 0.7 秒内无法动弹。着地后，会在 3 秒内减少自身受到伤害的 25%。若用亿奥斯能量进行强化，则会延长跳跃的距离，且接触到对方宝可梦也不会停下，而是会对途中接触到的所有对方宝可梦造成伤害，并使其无法动弹（持续时间与不进行强化时相同）。",
+    "ZACIAN_MOVE_PLAY_ROUGH_TEXT_2": "延长对方宝可梦无法动弹的时间至 1 秒。",
+    "ZACIAN_MOVE_SOVEREIGN_SWORD_TEXT_1": "架起巨大的剑，为剑注入亿奥斯能量后向前方劈砍。在长按「集结招式键」架起剑期间不会被妨碍。在长按集结招式期间，移动速度降低 10%，玩家进入准备架起状态。架起剑的时间越长，可为剑注入的能量越多，根据注入的量会增加对对方宝可梦造成的伤害，同时也会扩大招式范围。对于刚使用过集结招式，被处于集结增幅状态的对方宝可梦，会造成更高伤害。",
+    "ZACIAN_MOVE_SOVEREIGN_SWORD_TEXT_2": "30% 移动速度，30% 冷却缩减，20% 最大体力的护盾",
+
+    "Damage - Stage One": "伤害 - 阶段1",
+    "Damage - Stage One - Boosted": "伤害 - 阶段1 - 强化",
+    "Damage - Stage Two": "伤害 - 阶段2",
+    "Damage - Stage Two - Boosted": "伤害 - 阶段2 - 强化",
+    "Damage - Stage Three": "伤害 - 阶段3",
+    "Damage - Stage Three - Boosted": "伤害 - 阶段3 - 强化",
+    "Damage - Stage Four": "伤害 - 阶段4",
+    "Damage - Stage Four - Boosted": "伤害 - 阶段4 - 强化",
+
+    "Damage (Shockwave & Charge)": "伤害 (冲击波和冲刺)",
+    "Damage (Shockwave & Charge) - Boosted": "伤害 (冲击波和冲刺) - 强化",
+
+    "Damage - Circle Draw": "伤害 - 画圆",
+    "Damage - Flurry (3 Hits)": "伤害 - 斩击 (3次攻击)",
+    "Damage - Circle Draw - Boosted": "伤害 - 画圆 - 强化",
+    "Damage - Flurry (3 Hits) - Boosted": "伤害 - 斩击 (3次攻击) - 强化",
+
+    "Shield (3s)": "护盾 (3秒)",
+
+    "Damage (0-10 Energy Charged)": "伤害 (0-10点能量注入)",
+    "Damage (11-20 Energy Charged)": "伤害 (11-20点能量注入)",
+    "Damage (21-29 Energy Charged)": "伤害 (21-29点能量注入)",
+    "Damage (30 Energy Charged) - Boosted": "伤害 (30点能量注入) - 强化",
+    "Damage (Additional) - Boosted (versus Unite Buffed Pokemon)": "伤害 (附加) - 强化 (对抗集结增幅的宝可梦)",
+
+    "Intrepid Sword": "不挠之剑",
+    "Slash": "劈开",
+    "Metal Claw": "金属爪",
+    "Sacred Sword": "圣剑",
+    "Quick Attack": "电光一闪",
+    "Agility": "高速移动",
+    "Play Rough": "嬉闹",
+    "Sovereign Sword": "王者之剑"
+  }
+}

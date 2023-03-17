@@ -1,0 +1,47 @@
+{
+  "En":
+  {
+    "GARDEVOIR_PA1_TEXT_1": "When an enemy inflicts decreased movement speed or a damage-over-time effect on Gardevoir; damage that enemy one time and slow them by 40% for 3s, when triggered. This ability goes on a 8s cooldown when triggered.",
+    "GARDEVOIR_BA1_TEXT_1": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to enemies in the area of effect and decreases their Sp. Defense by 10% for 2s.",
+    "GARDEVOIR_MOVE_CONFUSION_TEXT_1": "Gardevoir fires a piercing bolt; damaging enemies and slowing them by 35% for 1s.",
+    "GARDEVOIR_MOVE_PSYCHIC_TEXT_1": "Gardevoir fires a blast; damaging enemies in an area on impact. The blast creates a lingering field that damages and slows enemies by 50% for 1s. Each time Psychic deals damage it reduces the target’s Special Defense by 20% for 4s, up to 60%.",
+    "GARDEVOIR_MOVE_PSYCHIC_TEXT_2": "Cooldown reduced by 1s.",
+    "GARDEVOIR_MOVE_MOONBLAST_TEXT_1": "Gardevoir moves back while firing a blast; stunning the first enemy hit for 1.2s and damaging all enemies in a cone behind it.",
+    "GARDEVOIR_MOVE_MOONBLAST_TEXT_2": "Grants Gardevoir a shield for 3s.",
+    "GARDEVOIR_MOVE_TELEPORT_TEXT_1": "Gardevoir teleports to a targeted area and gains a boosted attack.",
+    "GARDEVOIR_MOVE_PSYSHOCK_TEXT_1": "Gardevoir channels three attacks at the targeted area; damaging enemies. Gardevoir's moves' cooldowns are reduced by 15% each time Psyshock hits an enemy.",
+    "GARDEVOIR_MOVE_PSYSHOCK_TEXT_2": "Each hit of Psyshock also increases the damage of the next hit.",
+    "GARDEVOIR_MOVE_FUTURE_SIGHT_TEXT_1": "Gardevoir creates a delayed explosion at the targeted area; damaging enemies. If Future Sight hits an enemy player (not wild), the cooldown is reduced by 75% and Gardevoir gains 40% movement speed for 1.5s.",
+    "GARDEVOIR_MOVE_FUTURE_SIGHT_TEXT_2": "Cooldown is reset on successful hits.",
+    "GARDEVOIR_MOVE_FAIRY_SINGULARITY_TEXT_1": "Gardevoir warps space in a large area, creating a field, damaging all enemies in the radius and pulling them towards the center 4 times. When it expires, the field damages and shoves enemies.",
+    "GARDEVOIR_MOVE_FAIRY_SINGULARITY_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "GARDEVOIR_PA1_TEXT_1": "被降低移速或受到持续伤害时，对施加者造成 1 次伤害并使其减速 40%，持续 3 秒。此特性触发后有 8 秒的冷却时间。",
+    "GARDEVOIR_BA1_TEXT_1": "第三次普通攻击为强化普通攻击。命中时造成范围伤害伤害并使其特防降低10%，持续 2 秒。",
+    "GARDEVOIR_MOVE_CONFUSION_TEXT_1": "向指定方向进行直线攻击，对命中敌人造成伤害并使其减速 35%，持续 1 秒。",
+    "GARDEVOIR_MOVE_PSYCHIC_TEXT_1": "引发一次爆炸，对影响范围内的敌人造成伤害。爆炸会产生一个挥之不去的力场，对敌人造成伤害并使其减速 50%，持续 1 秒。精神强念每次造成伤害都会使敌人特防降低 20%（最多60%），持续 4 秒。",
+    "GARDEVOIR_MOVE_PSYCHIC_TEXT_2": "间隔时间减少 1 秒。",
+    "GARDEVOIR_MOVE_MOONBLAST_TEXT_1": "向后跳跃的同时发射一记冲击波。对扇形范围内的敌人造成伤害，并使离自己最近的敌人在 1.2 秒内无法动弹。",
+    "GARDEVOIR_MOVE_MOONBLAST_TEXT_2": "给予自身一个持续 3 秒的护盾。",
+    "GARDEVOIR_MOVE_TELEPORT_TEXT_1": "传送到目标区域，并获得一次强化普通攻击。",
+    "GARDEVOIR_MOVE_PSYSHOCK_TEXT_1": "朝指定地点进行三次攻击；每次击中敌人，技能间隔时间都会减少 15%。",
+    "GARDEVOIR_MOVE_PSYSHOCK_TEXT_2": "精神冲击的每击中一次，会增加下一击的伤害。",
+    "GARDEVOIR_MOVE_FUTURE_SIGHT_TEXT_1": "在目标区域制造延迟爆炸。如果预知未来击中敌方玩家（非野生宝可梦），则间隔时间减少 75%，自身移动速度增加 40%，持续 1.5 秒。",
+    "GARDEVOIR_MOVE_FUTURE_SIGHT_TEXT_2": "命中敌人后，立即解除招式间隔时间。",
+    "GARDEVOIR_MOVE_FAIRY_SINGULARITY_TEXT_1": "大范围内扭曲空间，伤害该空间内的所有敌人并将他们拉向中心 4 次。扭曲的空间消失时，再次造成伤害并击退敌人。",
+    "GARDEVOIR_MOVE_FAIRY_SINGULARITY_TEXT_2": "30% 移动速度，30% 冷却缩减，20% 最大体力值护盾",
+
+    "Damage - Final Tick": "伤害 - 最后一秒",
+
+    "Synchronize": "同步",
+    "Confusion": "念力",
+    "Psychic": "精神强念",
+    "Moonblast": "月亮之力",
+    "Teleport": "瞬间移动",
+    "Psyshock": "精神冲击",
+    "Future Sight": "预知未来",
+    "Fairy Singularity": "妖精噬灭洞"
+  }
+}

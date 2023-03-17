@@ -1,0 +1,346 @@
+{
+    "ZERAORA_PA1":
+    {
+        "name": "Volt Absorb",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "ZERAORA_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "ZERAORA_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "ZERAORA_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.1,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ZERAORA_MOVE_AGILITY":
+    {
+        "name": "Agility",
+        "type": "Move 1",
+        "cd": 7.2,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "ZERAORA_MOVE_AGILITY_TEXT_1"
+            }
+        ]
+    },
+
+    "ZERAORA_MOVE_VOLT_SWITCH":
+    {
+        "name": "Volt Switch",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 5.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "ZERAORA_MOVE_VOLT_SWITCH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Dash",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.58,
+                            "Lv": 4,
+                            "Con": 190
+                        }
+                    },
+                    {
+                        "name": "Damage - Return Dash",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.87,
+                            "Lv": 6,
+                            "Con": 285
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "ZERAORA_MOVE_VOLT_SWITCH_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Dash",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.71,
+                            "Lv": 5,
+                            "Con": 220
+                        }
+                    },
+                    {
+                        "name": "Damage - Return Dash",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.065,
+                            "Lv": 8,
+                            "Con": 330
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ZERAORA_MOVE_SPARK":
+    {
+        "name": "Spark",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 9.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "ZERAORA_MOVE_SPARK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Jump",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.45,
+                            "Lv": 2,
+                            "Con": 90
+                        }
+                    },
+                    {
+                        "name": "Damage - Additional",
+                        "type": "damage",
+                        "text": "ZERAORA_MOVE_SPARK_TAG_TEXT_1",
+                        "value":
+                        {
+                            "Atk": 1.1,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "ZERAORA_MOVE_SPARK_TEXT_2"
+            }
+        ]
+    },
+
+    "ZERAORA_MOVE_SLASH":
+    {
+        "name": "Slash",
+        "type": "Move 2",
+        "cd": 7.65,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "ZERAORA_MOVE_SLASH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit (3 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.7,
+                            "Lv": 5,
+                            "Con": 190
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ZERAORA_MOVE_DISCHARGE":
+    {
+        "name": "Discharge",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 9.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 8",
+                "text": "ZERAORA_MOVE_DISCHARGE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Tick (6 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.41,
+                            "Lv": 2,
+                            "Con": 110
+                        }
+                    },
+                    {
+                        "name": "Damage - Aura (Final Tick)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.82,
+                            "Lv": 4,
+                            "Con": 220
+                        }
+                    },
+                    {
+                        "name": "Damage - Pull",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.41,
+                            "Lv": 2,
+                            "Con": 110
+                        }
+                    },
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "value":
+                        {
+                            "Atk": 0.9,
+                            "Lv": 3,
+                            "Con": 200
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 14",
+                "text": "ZERAORA_MOVE_DISCHARGE_TEXT_2"
+            }
+        ]
+    },
+
+    "ZERAORA_MOVE_WILD_CHARGE":
+    {
+        "name": "Wild Charge",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 9.1,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 8",
+                "text": "ZERAORA_MOVE_WILD_CHARGE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.49,
+                            "Lv": 11,
+                            "Con": 500
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 14",
+                "text": "ZERAORA_MOVE_WILD_CHARGE_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Nearby Enemies (up to 6 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.745,
+                            "Lv": 6,
+                            "Con": 250
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "ZERAORA_MOVE_PLASMA_GALE":
+    {
+        "name": "Plasma Gale",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "ZERAORA_MOVE_PLASMA_GALE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Trail",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.99,
+                            "Lv": 6,
+                            "Con": 270
+                        }
+                    },
+                    {
+                        "name": "Damage - Area",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.98,
+                            "Lv": 11,
+                            "Con": 540
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "ZERAORA_MOVE_PLASMA_GALE_TEXT_2"
+            }
+        ]
+    }
+}

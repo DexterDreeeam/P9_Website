@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "VENUSAUR_PA1_TEXT_1": "When HP is 30% or less; increase all damage dealt by 20%.",
+    "VENUSAUR_BA1_TEXT_1": "Becomes a boosted attack with every third attack; becoming a vine whip that strikes twice and pulls enemies between both vines then applies a 20% slow for 1.5s.",
+    "VENUSAUR_MOVE_SEED_BOMB_TEXT_1": "Venusaur hurls a large seed to the designated location, damaging all enemies in the radius.",
+    "VENUSAUR_MOVE_SLUDGE_BOMB_TEXT_1": "Venusaur hurls toxic sludge to the designated location, damaging, slowing movement speed by 35% for 1s (stacking with the radius slow), and poisoning all enemies in the radius when it lands. The sludge lingers; damaging enemies every 0.5s for 5s in the radius, slowing them by 45%, and reducing their Sp. Defense by 30% for 1s (refreshes every tick).",
+    "VENUSAUR_MOVE_SLUDGE_BOMB_TEXT_2": "Increased radius.",
+    "VENUSAUR_MOVE_GIGA_DRAIN_TEXT_1": "Venusaur emits a cone-shaped blast in the designated direction, damaging enemies and restoring health when it hits. Venusaur also takes 35% reduced damage for 2.5s. This move's healing is not increased by Venusaur's passive.",
+    "VENUSAUR_MOVE_GIGA_DRAIN_TEXT_2": "Increased healing.",
+    "VENUSAUR_MOVE_RAZOR_LEAF_TEXT_1": "Venusaur launches a barrage of sharp-edged leaves in the designated direction, damaging enemies 10 times over 0.75s.",
+    "VENUSAUR_MOVE_SOLAR_BEAM_TEXT_1": "Venusaur charges for 0.7s before firing a beam of light in the designated direction, damaging enemies several times over 0.3s. It is randomly divided into several distinct hits, with 10 ticks of damage divided among these hits. Half of the ticks deal damage solely based on the enemies' Max HP. Against Wild Pokémon: Each tick is capped at 450 damage and the total damage is capped at 2250.",
+    "VENUSAUR_MOVE_SOLAR_BEAM_TEXT_2": "Reduced cast time to 0.6s and cooldown is further reduced by 2s.",
+    "VENUSAUR_MOVE_PETAL_DANCE_TEXT_1": "Venusaur scatters petals around themself for 4.8s, increasing movement speed by 90% and damaging enemies every 0.3s in the radius (for a total of 16 damage ticks). This movement speed increase slowly decays during the duration of this move by 9% every every 0.5s. Petal Dance reduces the cooldown of Sludge Bomb or Giga Drain by 30% of the current remaining cooldown, per tick of damage that hit an enemy player (hitting multiple enemies reduces the cooldown more).",
+    "VENUSAUR_MOVE_PETAL_DANCE_TEXT_2": "Increased radius.",
+    "VENUSAUR_MOVE_VERDANT_ANGER_TEXT_1": "Venusaur hurls a massive seed to the designated location, damaging all enemies in the radius and slowing them by 35% for 1s. The seed then splits apart into 4 smaller seeds, each damaging all enemies in their radius.",
+    "VENUSAUR_MOVE_VERDANT_ANGER_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "VENUSAUR_PA1_TEXT_1": "HP为30%以下时；所有造成的伤害提高 20%。",
+    "VENUSAUR_BA1_TEXT_1": "每三次攻击变为一次增强攻击；变成一根藤鞭，攻击两次并将敌人拉到两条藤蔓之间，然后施加 20% 的减速效果，持续 1.5 秒。",
+    "VENUSAUR_MOVE_SEED_BOMB_TEXT_1": "妙蛙花向指定位置投掷一颗大种子，对半径内的所有敌人造成伤害。",
+    "VENUSAUR_MOVE_SLUDGE_BOMB_TEXT_1": "Venusaur 向指定位置投掷有毒污泥，造成伤害，移动速度降低 35%，持续 1 秒（与半径减速叠加），并在落地时使半径内的所有敌人中毒。污泥挥之不去；在半径 5 秒内每 0.5 秒对敌人造成一次伤害，使他们减速 45%，并降低他们的 Sp。防御力提高 30%，持续 1 秒（每跳刷新一次）。Venusaur 向指定位置投掷有毒污泥，造成伤害，移动速度降低 35%，持续 1 秒（与半径减速叠加），并在落地时使半径内的所有敌人中毒。污泥挥之不去；在半径 5 秒内每 0.5 秒对敌人造成一次伤害，使他们减速 45%，并降低他们的 Sp。防御力提高 30%，持续 1 秒（每跳刷新一次）。",
+    "VENUSAUR_MOVE_SLUDGE_BOMB_TEXT_2": "半径增加。",
+    "VENUSAUR_MOVE_GIGA_DRAIN_TEXT_1": "Venusaur 向指定方向发射锥形爆炸，击中敌人并恢复生命值。Venusaur 还可以减少 35% 的伤害，持续 2.5 秒。此招式的治疗效果不会因 Venusaur 的被动而增加。",
+    "VENUSAUR_MOVE_GIGA_DRAIN_TEXT_2": "治疗量增加。",
+    "VENUSAUR_MOVE_RAZOR_LEAF_TEXT_1": "妙蛙花向指定方向发射一连串锋利的树叶，在 0.75 秒内对敌人造成 10 次伤害。",
+    "VENUSAUR_MOVE_SOLAR_BEAM_TEXT_1": "Venusaur 冲锋 0.7 秒，然后向指定方向发射光束，在 0.3 秒内对敌人造成数次伤害。它被随机分成几个不同的命中，10 次伤害在这些命中中分配。一半的蜱只根据敌人的最大生命值造成伤害。对付野生宝可梦：每次伤害上限为 450，总伤害上限为 2250。",
+    "VENUSAUR_MOVE_SOLAR_BEAM_TEXT_2": "施法时间减少至 0.6 秒，冷却时间进一步减少 2 秒。",
+    "VENUSAUR_MOVE_PETAL_DANCE_TEXT_1": "Venusaur 在自身周围散布花瓣，持续 4.8 秒，移动速度提高 90%，并且每 0.3 秒对半径内的敌人造成伤害（总共 16 个伤害刻度）。此移动速度增加在该移动的持续时间内每 0.5 秒缓慢衰减 9%。每击中一名敌方玩家一次伤害，花瓣之舞会减少污泥炸弹或千兆排水的冷却时间 30% 当前剩余冷却时间（击中多个敌人会减少更多冷却时间）。",
+    "VENUSAUR_MOVE_PETAL_DANCE_TEXT_2": "半径增加。",
+    "VENUSAUR_MOVE_VERDANT_ANGER_TEXT_1": "妙蛙花向指定位置投掷一颗巨大的种子，对半径内的所有敌人造成伤害并使他们减速 35%，持续 1 秒。然后种子分裂成 4 个较小的种子，每个种子对其半径内的所有敌人造成伤害。",
+    "VENUSAUR_MOVE_VERDANT_ANGER_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Overgrow": "茂盛",
+    "Seed Bomb": "种子炸弹",
+    "Sludge Bomb": "污泥炸弹",
+    "Giga Drain": "终极吸取",
+    "Razor Leaf": "飞叶快刀",
+    "Solar Beam": "日光束",
+    "Petal Dance": "花瓣舞",
+    "Verdant Anger": "鲜绿怒放"
+  }
+}

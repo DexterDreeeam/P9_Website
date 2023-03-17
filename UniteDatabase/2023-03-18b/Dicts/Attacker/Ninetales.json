@@ -1,0 +1,49 @@
+{
+  "En":
+  {
+    "NINETALES_PA1_TEXT_1": "Causes snow to fall on an enemy, dealing damage to it and decreasing their movement speed by 30% for .75s. Boosted attacks, Snow Warning, and all moves (except Aurora Veil) sling snow; hitting the same target with snow 4 times will freeze them for 1s. This ability has an 8s cooldown.",
+    "NINETALES_BA1_TEXT_1": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to nearby enemies and decreases their movement speed for a short time.",
+    "NINETALES_MOVE_POWDER_SNOW_TEXT_1": "Ninetales attacks with a chilly gust of powdery snow; dealing damage to enemies and slowing them by 50% for 1s.",
+    "NINETALES_MOVE_AVALANCHE_TEXT_1": "Ninetales attacks with a gust of chilly ice toward the designated direction. The ice damages enemies and forms a wall that can't be walked through. After a short time, this wall melts and collapses; further damaging enemies in a radius around the wall.",
+    "NINETALES_MOVE_AVALANCHE_TEXT_2": "Also decreases the movement speed of enemies by 50% for 1s when this move hits.",
+    "NINETALES_MOVE_DAZZLING_GLEAM_TEXT_1": "Ninetales attacks with a powerful cone of blinding light; damaging and stunning enemies hit for .8s.",
+    "NINETALES_MOVE_DAZZLING_GLEAM_TEXT_2": "Increased damage and stun duration to 1s.",
+    "NINETALES_MOVE_ICY_WIND_TEXT_1": "Ninetales attacks with a gust of freezing air; damaging, shoving, and slowing enemies hit.",
+    "NINETALES_MOVE_BLIZZARD_TEXT_1": "Ninetales blasts twice in a line. The first blast penetrates walls and slows enemies. The second blast deals double damage, shoves enemies back, and if it hits a wall it creates a frost area at the impact location for 4s; dealing damage every 0.5s and slowing enemies in the area by 20% for 1s on each tick.",
+    "NINETALES_MOVE_BLIZZARD_TAG_TEXT_1": "Deals twice the damage of the first hit.",
+    "NINETALES_MOVE_BLIZZARD_TEXT_2": "Increased damage.",
+    "NINETALES_MOVE_BLIZZARD_TAG_TEXT_2": "Deals twice the damage of the first hit.",
+    "NINETALES_MOVE_AURORA_VEIL_TEXT_1": "Ninetales dashes a short distance and creates an aurora centered on their position for 5s; reducing damage received by Ninetales and allies within the veil by 30%, healing Ninetales with each boosted attack, and increasing Attack Speed by 15%. While Ninetales is inside the aurora, movement speed is increased by 10% and all auto attacks are boosted.",
+    "NINETALES_MOVE_AURORA_VEIL_TEXT_2": "Damage reduction increased to 35% and cooldown reduced by 2s.",
+    "NINETALES_MOVE_SNOW_GLOBE_TEXT_1": "Attack with a chilly blast of snow and ice; dealing damage to enemies in the area of effect around Ninetales when it hits. Deals increased damage to enemies that are frozen.",
+    "NINETALES_MOVE_SNOW_GLOBE_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "NINETALES_PA1_TEXT_1": "使雪花落在敌人身上，对其造成伤害并使其移动速度降低 30%，持续 0.75 秒。增强攻击、雪地警告和所有动作（极光面纱除外）抛雪；用雪击中同一个目标 4 次会将其冻结 1 秒。此技能有 8 秒的冷却时间。",
+    "NINETALES_BA1_TEXT_1": "每三次攻击变为一次增强攻击。当这种强化攻击命中时，它会对附近的敌人造成伤害并在短时间内降低他们的移动速度。",
+    "NINETALES_MOVE_POWDER_SNOW_TEXT_1": "九尾用一阵寒冷的粉雪来袭；对敌人造成伤害并使其减速 50%，持续 1 秒。",
+    "NINETALES_MOVE_AVALANCHE_TEXT_1": "九尾用一阵寒冰向指定方向攻击。冰会伤害敌人并形成一堵无法穿过的墙。片刻之后，这堵墙融化倒塌；进一步伤害墙周围半径范围内的敌人。",
+    "NINETALES_MOVE_AVALANCHE_TEXT_2": "此招式命中时还会降低敌人50%的移动速度，持续1秒。",
+    "NINETALES_MOVE_DAZZLING_GLEAM_TEXT_1": "九尾用强大的致盲光锥攻击；伤害和击晕敌人 0.8 秒。",
+    "NINETALES_MOVE_DAZZLING_GLEAM_TEXT_2": "伤害和眩晕持续时间增加到 1 秒。",
+    "NINETALES_MOVE_ICY_WIND_TEXT_1": "九尾用一阵冰冷的空气袭击；伤害、推搡和减速击中的敌人。",
+    "NINETALES_MOVE_BLIZZARD_TEXT_1": "Ninetales 连发两次。第一次爆炸会穿透墙壁并减慢敌人的速度。第二次爆炸造成双倍伤害，将敌人推回，如果它击中墙壁，它会在撞击位置产生一个冰霜区域，持续 4 秒；每 0.5 秒造成一次伤害，并在每次跳动时使区域内的敌人减速 20%，持续 1 秒。",
+    "NINETALES_MOVE_BLIZZARD_TAG_TEXT_1": "造成第一击伤害的两倍。",
+    "NINETALES_MOVE_BLIZZARD_TEXT_2": "伤害增加。",
+    "NINETALES_MOVE_BLIZZARD_TAG_TEXT_2": "造成第一击伤害的两倍。",
+    "NINETALES_MOVE_AURORA_VEIL_TEXT_1": "Ninetales 冲刺一小段距离，并以其位置为中心制造极光，持续 5 秒；Ninetales 和面纱内的盟友受到的伤害降低 30%，每次增强攻击都会治疗 Ninetales，并将攻击速度提高 15%。当九尾在极光内时，移动速度提高 10%，所有自动攻击都会增加。",
+    "NINETALES_MOVE_AURORA_VEIL_TEXT_2": "减伤增加至 35%，冷却时间减少 2 秒。",
+    "NINETALES_MOVE_SNOW_GLOBE_TEXT_1": "用寒冷的冰雪攻击；击中时对 Ninetales 周围范围内的敌人造成伤害。对被冻结的敌人造成更高的伤害。",
+    "NINETALES_MOVE_SNOW_GLOBE_TEXT_2": "30% 移动速度，30% CDR，20% 最大生命值护盾",
+
+    "Snow Warning": "降雪",
+    "Powder Snow": "细雪",
+    "Avalanche": "雪崩",
+    "Dazzling Gleam": "魔法闪耀",
+    "Icy Wind": "冰冻之风",
+    "Blizzard": "暴风雪",
+    "Aurora Veil": "极光幕",
+    "Snow Globe": "寒雪冰封阵"
+  }
+}
