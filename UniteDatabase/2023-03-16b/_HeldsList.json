@@ -1,0 +1,824 @@
+[
+  {
+    "name": "Aeos Cookie",
+    "display_name": "Aeos Cookie",
+    "display_name_Cn": "亿奥斯饼干",
+    "bonus1": "HP +240",
+    "bonus1_Cn": "体力 +240",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 8,
+        "start": 0,
+        "skip": 0,
+        "increment": 8,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "When you score a goal, your maximum HP is raised for the rest of the match by 100/150/200. (This bonus caps at 6 stacks)",
+    "description1_Cn": "每次成功得分后，最大体力增加 100/150/200，这个效果可以叠加 6 次。",
+    "tier": "B",
+    "description3": "Max HP",
+    "description3_Cn": "最大体力",
+    "level1": "100",
+    "level10": "150",
+    "level20": "200"
+  },
+  {
+    "name": "Assault Vest",
+    "display_name": "Assault Vest",
+    "display_name_Cn": "突击背心",
+    "bonus1": "HP +270",
+    "bonus1_Cn": "体力 +270",
+    "bonus2": "Sp. Defense +51",
+    "bonus2_Cn": "特防 +51",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 18,
+        "start": 0,
+        "skip": 1,
+        "increment": 18,
+        "initial_diff": 0
+      },
+      {
+        "label": "Sp. Defense",
+        "percent": false,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 3.4
+      }
+    ],
+    "description1": "Gain a shield against Sp. Attack damage while out of combat for 9%/12%/15% max HP (OoC is 5s after leaving combat). This shield must be fully broken before receiving another from Assault Vest.",
+    "description1_Cn": "脱离战斗（脱离战斗后 5 秒）期间，获得可让 9%/12%/15% 最大体力的特攻伤害无效的护盾。只有护盾完全消失，才可以从突击背心中获取下一次护盾。",
+    "tier": "C",
+    "description3": "Max HP",
+    "description3_Cn": "最大体力",
+    "level1": "9%",
+    "level10": "12%",
+    "level20": "15%"
+  },
+  {
+    "name": "Attack Weight",
+    "display_name": "Attack Weight",
+    "display_name_Cn": "猛攻哑铃",
+    "bonus1": "Attack +18",
+    "bonus1_Cn": "攻击 +18",
+    "stats": [
+      {
+        "label": "Attack",
+        "percent": false,
+        "float": 1,
+        "initial": 0.6,
+        "start": 0,
+        "skip": 0,
+        "increment": 0.6,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "When you score a goal, your Attack is raised by 6/9/12 for the rest of the match. (This bonus caps at 6 stacks)",
+    "description1_Cn": "每次成功得分后，攻击提高6，这个效果最多叠加 6 次。",
+    "tier": "S",
+    "description3": "Attack",
+    "description3_Cn": "攻击",
+    "level1": "6",
+    "level10": "9",
+    "level20": "12"
+  },
+  {
+    "name": "Buddy Barrier",
+    "display_name": "Buddy Barrier",
+    "display_name_Cn": "救援屏障",
+    "bonus1": "HP +450",
+    "bonus1_Cn": "体力 +450",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 15,
+        "start": 0,
+        "skip": 0,
+        "increment": 15,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Grant a shield to you and a nearby ally with the lowest HP for 15%/20%/25% of your max HP when using your Unite Move. This shield does not get replaced if you are targeted from another ally, but instead refreshes the duration of your current shield. (5s duration - 30s cooldown)",
+    "description1_Cn": "使用集结招式后，为自身以及周围体力最低的友方宝可梦，分别提供一个基于自身最大体力 15%/20%/25% 的护盾，护盾持续 5 秒，这个效果有 30 秒间隔时间。护盾存在期间，如果另一名友方玩家同样使用救援屏障为你提供护盾，那么护盾不会被替代，而是刷新当前护盾的持续时间。",
+    "tier": "S",
+    "description3": "Max HP",
+    "description3_Cn": "最大体力",
+    "level1": "15%",
+    "level10": "20%",
+    "level20": "25%"
+  },
+  {
+    "name": "Choice Specs",
+    "display_name": "Choice Specs",
+    "display_name_Cn": "讲究眼镜",
+    "bonus1": "Sp. Attack +39",
+    "bonus1_Cn": "特攻 +39",
+    "stats": [
+      {
+        "label": "Sp. Attack",
+        "percent": false,
+        "float": 0,
+        "initial": 10,
+        "start": 0,
+        "skip": 0,
+        "increment": 1,
+        "initial_diff": 9
+      }
+    ],
+    "description1": "When dealing damage with a move, deal (40/50/60 + 30%/35%/40% Sp. Attack) as additional damage. This additional damage only applies to 1 target (8s cd).",
+    "description1_Cn": "招式命中时的造成附加伤害，伤害数值为 40/50/60 外加 30%/35%/40% 特攻。这个效果有 8 秒冷却时间，且只能作用于一个目标。",
+    "tier": "A",
+    "description3": "Sp. Attack",
+    "description3_Cn": "特攻",
+    "level1": "30%",
+    "level10": "35%",
+    "level20": "40%"
+  },
+  {
+    "name": "Drain Crown",
+    "display_name": "Drain Crown",
+    "display_name_Cn": "治愈之冠",
+    "bonus1": "HP +120",
+    "bonus1_Cn": "体力 +120",
+    "bonus2": "Attack +18",
+    "bonus2_Cn": "攻击 +18",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 8,
+        "start": 0,
+        "skip": 1,
+        "increment": 8,
+        "initial_diff": 0
+      },
+      {
+        "label": "Attack",
+        "percent": false,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 1.2,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Restores HP equal to 6%/8%/10% of damage dealt by auto attacks that are Attack damage (ie: not true damage). (Patch 1.8.1.4- Still does not recover HP when dealing damage to shields)",
+    "description1_Cn": "当普通攻击造成伤害时，回复一定的体力，数值为这次伤害的 6%/8%/10%。目前对于护盾的伤害不会回复体力。",
+    "tier": "D",
+    "description3": "Lifesteal",
+    "description3_Cn": "生命吸取",
+    "level1": "6%",
+    "level10": "8%",
+    "level20": "10%"
+  },
+  {
+    "name": "Energy Amplifier",
+    "display_name": "Energy Amplifier",
+    "display_name_Cn": "能量增幅器",
+    "bonus1": "Energy Rate +6%",
+    "bonus1_Cn": "能量增加速率 +6%",
+    "bonus2": "CD Reduction +4.5%",
+    "bonus2_Cn": "冷却缩减 +4.5%",
+    "stats": [
+      {
+        "label": "Energy Rate",
+        "percent": true,
+        "float": 1,
+        "initial": 0.4,
+        "start": 0,
+        "skip": 1,
+        "increment": 0.4,
+        "initial_diff": 0
+      },
+      {
+        "label": "CD Reduction",
+        "percent": true,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 0.3,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "After activating your Unite move, deal increased damage by 7%/14%/21% for a short time. (4s duration - 15s cooldown)",
+    "description1_Cn": "使用集结招式后，4 秒内自身造成伤害增加 7%/14%/21%，这个效果有 15 秒间隔时间。",
+    "tier": "A",
+    "tier_change": "Down",
+    "description3": "Damage",
+    "description3_Cn": "伤害",
+    "level1": "7%",
+    "level10": "14%",
+    "level20": "21%"
+  },
+  {
+    "name": "Exp Share",
+    "display_name": "Exp. Share",
+    "display_name_Cn": "学习装置",
+    "bonus1": "HP +240",
+    "bonus1_Cn": "体力 +240",
+    "bonus2": "Speed +150",
+    "bonus2_Cn": "移动速度 +150",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 16,
+        "start": 0,
+        "skip": 1,
+        "increment": 16,
+        "initial_diff": 0
+      },
+      {
+        "label": "Speed",
+        "percent": false,
+        "float": 0,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 10,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Grants 3/4/5 experience points per second while the wearer has the fewest Exp. Points on their team. Additionally, when the wearer or nearby teammates defeat a wild Pokémon, nearby teammates gain slightly more Exp. Points from that wild Pokémon knockout.",
+    "description1_Cn": "当自身的经验值为友方队伍内最低时，每秒获得 3/4/5 点经验值。但当附近的队友打倒野生宝可梦时，队友将获得更多经验值。",
+    "tier": "S",
+    "description3": "EXP/s",
+    "description3_Cn": "经验值/秒",
+    "level1": "3",
+    "level10": "4",
+    "level20": "5"
+  },
+  {
+    "name": "Float Stone",
+    "display_name": "Float Stone",
+    "display_name_Cn": "轻石",
+    "bonus1": "Attack +24",
+    "bonus1_Cn": "攻击 +24",
+    "bonus2": "Speed +150",
+    "bonus2_Cn": "移动速度 +150",
+    "stats": [
+      {
+        "label": "Attack",
+        "percent": false,
+        "float": 1,
+        "initial": 1.6,
+        "start": 0,
+        "skip": 1,
+        "increment": 1.6,
+        "initial_diff": 0
+      },
+      {
+        "label": "Speed",
+        "percent": false,
+        "float": 0,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 10,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Increases movement speed while out of combat by 10%/15%/20%. (OoC is 5s after leaving combat)",
+    "description1_Cn": "脱离战斗（脱离战斗后 5 秒）期间，移动速度提高 10%/15%/20%。",
+    "tier": "B",
+    "description3": "Speed",
+    "description3_Cn": "移动速度",
+    "level1": "10%",
+    "level10": "15%",
+    "level20": "20%"
+  },
+  {
+    "name": "Focus Band",
+    "display_name": "Focus Band",
+    "display_name_Cn": "气势头带",
+    "bonus1": "Sp. Defense +30",
+    "bonus1_Cn": "特防 +30",
+    "bonus2": "Defense +30",
+    "bonus2_Cn": "防御 +30",
+    "stats": [
+      {
+        "label": "Defense",
+        "percent": false,
+        "float": 0,
+        "initial": 2,
+        "start": 0,
+        "skip": 1,
+        "increment": 2,
+        "initial_diff": 0
+      },
+      {
+        "label": "Sp. Defense",
+        "percent": false,
+        "float": 0,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 2,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Upon reaching below 25% HP, recover HP each second for 3s by 8%/11%/14% of your missing HP. (100/90/80s cooldown)",
+    "description1_Cn": "体力低于 25% 时，在 3 秒内每秒回复已损失体力的 8%/11%/14%，这个效果有 100/90/80 秒间隔时间。",
+    "tier": "S",
+    "description3": "HP Lost",
+    "description3_Cn": "已损失体力",
+    "level1": "8%",
+    "level10": "11%",
+    "level20": "14%"
+  },
+  {
+    "name": "Leftovers",
+    "display_name": "Leftovers",
+    "display_name_Cn": "吃剩的东西",
+    "bonus1": "HP +360",
+    "bonus1_Cn": "体力 +360",
+    "bonus2": "HP/5s +9",
+    "bonus2_Cn": "每5秒体力 +9",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 16,
+        "start": 0,
+        "skip": 1,
+        "increment": 24,
+        "initial_diff": 0
+      },
+      {
+        "label": "HP/5s",
+        "percent": false,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 0.6,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Recovers health over time while out of combat by 1%/1.5%/2% HP/s (OoC is 5s after leaving combat).",
+    "description1_Cn": "脱离战斗（脱离战斗后 5 秒）期间，每秒回复 1%/1.5%/2% 最大体力。",
+    "tier": "D",
+    "description3": "Max HP/s",
+    "description3_Cn": "最大体力/秒",
+    "level1": "1%",
+    "level10": "1.50%",
+    "level20": "2%"
+  },
+  {
+    "name": "Muscle Band",
+    "display_name": "Muscle Band",
+    "display_name_Cn": "力量头带",
+    "bonus1": "Attack +15",
+    "bonus1_Cn": "攻击 +15",
+    "bonus2": "Attack Speed +7.5%",
+    "bonus2_Cn": "攻击速度 +7.5%",
+    "stats": [
+      {
+        "label": "Attack",
+        "percent": false,
+        "float": 0,
+        "initial": 1,
+        "start": 0,
+        "skip": 1,
+        "increment": 1,
+        "initial_diff": 0
+      },
+      {
+        "label": "Attack Speed",
+        "percent": true,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 0.5,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Deal additional damage with basic attacks by 1%/2%/3% of the targets remaining HP, capped against players at 120/240/360 . 0.35s internal cooldown, tracked separately for each enemy.",
+    "description1_Cn": "普通攻击命中时，附加相当于对方宝可梦当前体力 1%/2%/3% 的伤害。附加伤害对玩家的上限值为120/240/360。此外，这个效果有 0.35 秒内置间隔时间，对每个敌人，间隔时间独立计算。",
+    "tier": "A",
+    "tier_change": "Down",
+    "description3": "Remaining HP",
+    "description3_Cn": "当前体力",
+    "level1": "1%",
+    "level10": "2%",
+    "level20": "3%"
+  },
+  {
+    "name": "Rapid Fire Scarf",
+    "display_name": "Rapid-Fire Scarf",
+    "display_name_Cn": "连打围巾",
+    "bonus1": "Attack +12",
+    "bonus1_Cn": "攻击 +12",
+    "bonus2": "Attack Speed +9%",
+    "bonus2_Cn": "攻击速度 +9%",
+    "stats": [
+      {
+        "label": "Attack",
+        "percent": false,
+        "float": 1,
+        "initial": 0.8,
+        "start": 0,
+        "skip": 1,
+        "increment": 0.8,
+        "initial_diff": 0
+      },
+      {
+        "label": "Attack Speed",
+        "percent": true,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 0.6,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Every instance of auto attack damage applies a hidden \"stack\" for 3s. Stacks up to 3 times and the duration can be refreshed before it expires. The 3rd stack increases auto attack speed by 15%/22.5%/30% for 5s (10s cooldown). Gaining a stack incurs a .35s internal cooldown until another stack can be acquired.",
+    "description1_Cn": "每一次普通攻击（触发间隔 0.35 秒以上），会叠加一个内置的连击计数，计数值最高叠加 3 次。在 3 秒内不进行攻击，连击计数会重置。计数值叠加至 3 次后，普通攻击速度会提高 15%/22.5%/30%，攻击速度提高效果最多持续 5 秒，这个效果的触发有 10 秒的间隔时间。",
+    "tier": "A",
+    "description3": "Attack Speed",
+    "description3_Cn": "攻击速度",
+    "level1": "15%",
+    "level10": "22.5%",
+    "level20": "30%"
+  },
+  {
+    "name": "Razor Claw",
+    "display_name": "Razor Claw",
+    "display_name_Cn": "锐利之爪",
+    "bonus1": "Attack +15",
+    "bonus1_Cn": "攻击 +15",
+    "bonus2": "Critical-Hit Rate +2.1%",
+    "bonus2_Cn": "暴击几率 +2.1%",
+    "stats": [
+      {
+        "label": "Attack",
+        "percent": false,
+        "float": 0,
+        "initial": 1,
+        "start": 0,
+        "skip": 1,
+        "increment": 1,
+        "initial_diff": 0
+      },
+      {
+        "label": "Critical-Hit Rate",
+        "percent": true,
+        "float": 1,
+        "initial": 0.6,
+        "start": 1,
+        "skip": 1,
+        "increment": 0.1,
+        "initial_diff": 0.6
+      }
+    ],
+    "description1": "After using a move, the next basic attack deals (10/15/20 + 40%/45%/50% Attack) additional damage to 1 target. This buff lasts for 3s. While this item is held by a Melee Pokémon, this basic attack also slows enemies by 30% for 1s (1.5s cooldown).",
+    "description1_Cn": "使用招式后，下次普通攻击的伤害会附加伤害，额外伤害数值为 10/15/20 外加 40%/45%/50% 攻击。这个效果有 1.5 秒间隔时间，触发后最多持续 3 秒，且只能作用于一个目标。擅长近距离战斗的宝可梦携带时，还会在短 1 秒内降低对方宝可梦的移动速度 30%。",
+    "tier": "A",
+    "description3": "Attack",
+    "description3_Cn": "攻击",
+    "level1": "10 + 40%",
+    "level10": "15 + 45%",
+    "level20": "20 + 50%"
+  },
+  {
+    "name": "Rescue Hood",
+    "display_name": "Rescue Hood",
+    "display_name_Cn": "援助头巾",
+    "bonus1": "Defense + 30",
+    "bonus1_Cn": "防御 + 30",
+    "bonus2": "Sp. Defense +30",
+    "bonus2_Cn": "特防 +30",
+    "stats": [
+      {
+        "label": "Defense",
+        "percent": false,
+        "float": 0,
+        "initial": 2,
+        "start": 0,
+        "skip": 1,
+        "increment": 2,
+        "initial_diff": 0
+      },
+      {
+        "label": "Sp. Defense",
+        "percent": false,
+        "float": 0,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 2,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Increases shield and recovery effect by 5%/7.5%/10% when they're granted to ally Pokémon.",
+    "description1_Cn": "赋予自身以外的宝可梦回复或护盾效果时，回复效果提高 5%/7.5%/10%，护盾效果提高 5%/7.5%/10%。",
+    "tier": "C",
+    "description3": "Shield and Recovery Effects",
+    "description3_Cn": "护盾和回复效果",
+    "level1": "5%",
+    "level10": "7.5%",
+    "level20": "10%"
+  },
+  {
+    "name": "Rocky Helmet",
+    "display_name": "Rocky Helmet",
+    "display_name_Cn": "凸凸头盔",
+    "bonus1": "HP +270",
+    "bonus1_Cn": "体力 +270",
+    "bonus2": "Defense +51",
+    "bonus2_Cn": "防御 +51",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 18,
+        "start": 0,
+        "skip": 1,
+        "increment": 18,
+        "initial_diff": 0
+      },
+      {
+        "label": "Defense",
+        "percent": false,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 3.4,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "After receiving damage equal to or higher than 10% max HP in a single attack, deal percent damage based on your max HP (3%/4%/5%) to nearby enemies (2s cooldown).",
+    "description1_Cn": "受到一定伤害（单次攻击超过 10% 自身最大体力）时，对周围的宝可梦造成 3%/4%/5% 最大体力的伤害，这个效果有 2 秒间隔时间。",
+    "tier": "D",
+    "description3": "Max HP",
+    "description3_Cn": "最大体力",
+    "level1": "3%",
+    "level10": "4%",
+    "level20": "5%"
+  },
+  {
+    "name": "Rusted Sword",
+    "display_name": "Rusted Sword",
+    "display_name_Cn": "腐朽的剑",
+    "description1": "\"It is said that a hero used this sword to halt a terrible disaster in ancient times. But it's grown rusty and worn.\"",
+    "description1_Cn": "据说在很久以前，英雄就是拿着这把剑驱走了灾厄。而现在，剑早已变得锈迹斑斑。",
+    "extra_info": "Rusted Sword must be used and can only be used while playing Zacian. Has no effect.",
+    "extra_info_Cn": "苍响的特有装备，必须携带，没有效果。"
+  },
+  {
+    "name": "Scope Lens",
+    "display_name": "Scope Lens",
+    "display_name_Cn": "焦点镜",
+    "bonus1": "Critical-Hit Rate +6%",
+    "bonus1_Cn": "暴击几率 +6%",
+    "bonus2": "Critical-Hit Damage +12%",
+    "bonus2_Cn": "暴击伤害 +12%",
+    "stats": [
+      {
+        "label": "Critical-Hit Rate",
+        "percent": true,
+        "float": 1,
+        "initial": 0.4,
+        "start": 0,
+        "skip": 1,
+        "increment": 0.4,
+        "initial_diff": 0
+      },
+      {
+        "label": "Critical-Hit Damage",
+        "percent": true,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 0.8
+      }
+    ],
+    "description1": "Deals additional damage equal to 45%/60%/75% of your Attack stat when dealing a critical hit with a basic attack (1s cooldown).",
+    "description1_Cn": "用普通攻击打出暴击时会附加相当于 45%/60%/75% 攻击属性的附加伤害，这个效果有 1 秒间隔时间。",
+    "tier": "A",
+    "description3": "Of Attack Stat",
+    "description3_Cn": "攻击属性",
+    "level1": "45%",
+    "level10": "60%",
+    "level20": "75%"
+  },
+  {
+    "name": "Score Shield",
+    "display_name": "Score Shield",
+    "display_name_Cn": "得分护具",
+    "bonus1": "HP +450",
+    "bonus1_Cn": "体力 +450",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 15,
+        "start": 0,
+        "skip": 0,
+        "increment": 15,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Shields you while you attempt to score a goal. This shield will break before all other shields. Scoring cannot be interrupted while the shield remains active. (20s cooldown). Shield value is dependent on item level and Pokémon level.",
+    "description1_Cn": "正在进行得分时，获得一个护盾，这个效果有 20 秒冷却时间。如果存在其他护盾效果，那么这个护盾效果优先被消耗。获得护盾期间，得分不会被打断。护盾的数值的取决于自身最大体力、物品等级和宝可梦等级，数值为 5%/7.5%/10% 最大体力外加 15/22/30 x (宝可梦等级 - 1)。",
+    "tier": "B",
+    "description3": "Shield",
+    "description3_Cn": "护盾",
+    "level1": "5% Max HP",
+    "level10": "7.5% Max HP",
+    "level20": "10% Max HP"
+  },
+  {
+    "name": "Shell Bell",
+    "display_name": "Shell Bell",
+    "display_name_Cn": "贝壳之铃",
+    "bonus1": "Sp. Attack +24",
+    "bonus1_Cn": "特攻 +24",
+    "bonus2": "CD Reduction +4.5%",
+    "bonus2_Cn": "冷却缩减 +4.5%",
+    "stats": [
+      {
+        "label": "Sp. Attack",
+        "percent": false,
+        "float": 1,
+        "initial": 1.6,
+        "start": 0,
+        "skip": 1,
+        "increment": 1.6,
+        "initial_diff": 0
+      },
+      {
+        "label": "CD Reduction",
+        "percent": true,
+        "float": 1,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 0.3,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Recover (45/60/75 + 35%/40%/45% Sp. Attack) HP when successfully landing a move (10s Cooldown).",
+    "description1_Cn": "招式命中时回复自身体力，回复量为 45/60/75 外加 35%/40%/45% 特攻，有 10 秒冷却时间。",
+    "tier": "B",
+    "description3": "HP",
+    "description3_Cn": "体力",
+    "level1": "45 + 35% Sp.A",
+    "level10": "60 + 40% Sp.A",
+    "level20": "75 + 45% Sp.A"
+  },
+  {
+    "name": "Slick Spoon",
+    "display_name": "Slick Spoon",
+    "display_name_Cn": "穿透汤匙",
+    "bonus1": "HP + 210",
+    "bonus1_Cn": "体力 + 210",
+    "bonus2": "Sp. Atk + 30",
+    "bonus2_Cn": "特攻 + 30",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 14,
+        "start": 0,
+        "skip": 1,
+        "increment": 14,
+        "initial_diff": 0
+      },
+      {
+        "label": "Sp. Attack",
+        "percent": false,
+        "float": 0,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 2,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Makes damage dealt by your Pokémon's Sp. Attack attacks ignore 10%/15%/20% of enemy Sp. Defense.",
+    "description1_Cn": "特攻类的攻击造成的伤害，不受对方宝可梦的 10%/15%/20% 特防影响。",
+    "tier": "S",
+    "description3": "Sp. Defense Penetration",
+    "description3_Cn": "特防穿透",
+    "level1": "10%",
+    "level10": "15%",
+    "level20": "20%"
+  },
+  {
+    "name": "Sp. Atk Specs",
+    "display_name": "Sp. Atk Specs",
+    "display_name_Cn": "进击眼镜",
+    "bonus1": "Sp. Attack +24",
+    "bonus1_Cn": "特攻 +24",
+    "stats": [
+      {
+        "label": "Sp. Attack",
+        "percent": false,
+        "float": 1,
+        "initial": 0.8,
+        "start": 0,
+        "skip": 0,
+        "increment": 0.8,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "When you score a goal, your Sp. Attack is raised by 8/12/16 for the rest of the match (This bonus caps at 6 stacks).",
+    "description1_Cn": "每次成功得分后，特攻提高8，这个效果最多叠加 6 次。",
+    "tier": "B",
+    "description3": "Sp. Attack",
+    "description3_Cn": "特攻",
+    "level1": "8",
+    "level10": "12",
+    "level20": "16"
+  },
+  {
+    "name": "Weakness Policy",
+    "display_name": "Weakness Policy",
+    "display_name_Cn": "弱点保险",
+    "bonus1": "HP +210",
+    "bonus1_Cn": "体力 +210",
+    "bonus2": "Attack +15",
+    "bonus2_Cn": "攻击 +15",
+    "stats": [
+      {
+        "label": "HP",
+        "percent": false,
+        "float": 0,
+        "initial": 70,
+        "start": 0,
+        "skip": 1,
+        "increment": 10,
+        "initial_diff": 60
+      },
+      {
+        "label": "Attack",
+        "percent": false,
+        "float": 0,
+        "initial": 0,
+        "start": 1,
+        "skip": 1,
+        "increment": 1,
+        "initial_diff": 0
+      }
+    ],
+    "description1": "Upon taking damage, apply a 2/2.5/3% Attack buff for up to 4s. Stacks up to 4 times and the duration can be refreshed before it expires.",
+    "description1_Cn": "受到伤害时，在 4 秒内提高自身的攻击 2/2.5/3%。这个效果最多可以叠加 4 次，并且可以刷新持续时间。",
+    "tier": "A",
+    "description3": "Attack",
+    "description3_Cn": "攻击",
+    "level1": "2%",
+    "level10": "2.5%",
+    "level20": "3%"
+  },
+  {
+    "name": "Wise Glasses",
+    "display_name": "Wise Glasses",
+    "display_name_Cn": "博识眼镜",
+    "bonus1": "Sp. Attack +39",
+    "bonus1_Cn": "特攻 +39",
+    "stats": [
+      {
+        "label": "Sp. Attack",
+        "percent": false,
+        "float": 0,
+        "initial": 10,
+        "start": 0,
+        "skip": 0,
+        "increment": 1,
+        "initial_diff": 9
+      }
+    ],
+    "description1": "Further increase Sp. Attack by 3%/5%/7%.",
+    "description1_Cn": "特攻提高 3%/5%/7%。",
+    "tier": "B",
+    "description3": "Sp. Attack",
+    "description3_Cn": "特攻",
+    "level1": "3%",
+    "level10": "5%",
+    "level20": "7%"
+  }
+]
