@@ -1,0 +1,49 @@
+{
+  "En":
+  {
+    "SCIZOR_PA1_TEXT_1": "After this Pokémon uses a move, the next auto attack will deal two consecutive auto attacks instead. The second of these deals decreased damage. Technician lasts 5s and has no internal cooldown.",
+    "SCIZOR_BA1_TEXT_1": "Becomes a boosted attack with every third attack, decreasing enemy movement speed by 30% for 2s when it hits and increasing Scizor's Defense by 25% for 6s. This Defense increase can stack additively up to 3 times and the duration refreshes when gaining another stack.",
+    "SCIZOR_MOVE_FURY_CUTTER_TEXT_1": "Slashes twice dealing damage with its scythes in a cone. The second slash deals more damage than the first.",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_1": "Dash in the designated direction and strike enemies, reducing this move's cooldown by 40% if the attack animation completes and recovering a portion of HP with each hit. If Bullet Punch is used again within 8s, the number of punches increases. The number of punches increases from 3 to a maximum of 5.",
+    "SCIZOR_MOVE_BULLET_PUNCH_TAG_TEXT_1": "30% damage of initial punch.",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_2": "Also grants a shield for 3s if this move hits an enemy.",
+    "SCIZOR_MOVE_QUICK_ATTACK_TEXT_1": "Dashes in designated direction dealing damage to enemies hit along the way.",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_1": "Jumps in the designated direction, dealing damage to enemies during the jump and applying a mark to that enemy until they leave combat. After hitting an enemy, jump again. An enhanced auto attack is prepared on landing that charges at the enemy being attacked. This enhanced attack is available for 5s. If a marked enemy is knocked out, all of the user's move cooldowns are reset. The mark may be cleansed.",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_2": "Reduces cooldown by 1s.",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_1": "Dashes a short distance, increasing Attack by 12% for 5s. While Swords Dance's attack buff is active, after basic attacks or abilities make contact 8 times, the user launches an area-of-effect attack that pierces through enemies in a line.",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_2": "Reduces the damage the user receives by 50% while dashing (0.3s).",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_1": "Target an enemy and punch them, dealing an initial hit of damage, decreasing their movement speed by 40% for 3s. Then create 5 copies that dash away from Scizor. If a copy hits an enemy while dashing out, it deals damage, decreases that enemy's movement speed by 40% for 3s, then disappears. For 8s after activation, this move may be used again, dashing in a designated direction dealing damage to enemies hit. The enemies hit are also grabbed and carried while Scizor continues dashing. At the end of the dash, Scizor punches the ground dealing damage in an area-of-effect. If a grabbed enemy makes contact with an illusory copy, they will be dealt damage and be left incapacitated for 2s.",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "SCIZOR_PA1_TEXT_1": "使用招式后的 5 秒内，发动的普通攻击，会变为连续使出2次普通攻击。第2次普通攻击的伤害会降低。该宝可梦使用招式后，下一次普攻改为连续两次普攻。这个效果没有内置冷却时间。",
+    "SCIZOR_BA1_TEXT_1": "第3次普通攻击为强化普通攻击，强化普通攻击能给予对方宝可梦 30% 减速效果，持续 2 秒，并在短时间内提高自身的防御 25%，持续 6 秒。提高防御力的效果能够叠加 3 次，持续时间会在叠加时刷新。",
+    "SCIZOR_MOVE_FURY_CUTTER_TEXT_1": "对前方扇形范围连续劈砍 2 次，造成伤害 第2次劈砍造成的伤害比第1次高。",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_1": "向指定方向冲刺后，对对方宝可梦连续挥拳进行攻击。如果攻击动作释放完全，会降低此招式 40% 冷却时间。每次命中对方会根据伤害量回复体力。若在 8 秒内再次使用子弹拳，会增加挥拳次数以造成更高的伤害。挥拳次数会从3次增加至最多5次。",
+    "SCIZOR_MOVE_BULLET_PUNCH_TAG_TEXT_1": "初始冲刺的 30% 伤害。",
+    "SCIZOR_MOVE_BULLET_PUNCH_TEXT_2": "如果此招式击中敌人，还会获得持续 3 秒的护盾。",
+    "SCIZOR_MOVE_QUICK_ATTACK_TEXT_1": "朝前方冲刺，对途中接触到的对方宝可梦造成伤害。",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_1": "向指定方向跳跃，对跳跃途中命中的对方宝可梦造成伤害并赋予其标记，直到他们离开战斗为止。招式命中对方宝可梦后，会再次向指定方向跳跃。着地后的下一次普通攻击会变为向对方宝可梦突击的强化普通攻击，这个效果持续时间为 5 秒。若打倒赋予了标记的对方宝可梦，会立即解除所有招式的等待时间。标记可能会被清除。",
+    "SCIZOR_MOVE_DOUBLE_HIT_TEXT_2": "冷却时间减少 1 秒。",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_1": "短距离冲刺，并提高攻击 12%，持续 5 秒。在效果持续期间，是用基本攻击或招式造成第 8 次攻击，会变为贯穿至后方的范围攻击。",
+    "SCIZOR_MOVE_SWORDS_DANCE_TEXT_2": "使用户在冲刺时受到的伤害降低 50%（0.3 秒）。",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_1": "向指定的对方队伍的宝可梦冲刺，对其连续挥拳进行攻击并降低其移动速度 40%，持续 3 秒。在最后一次挥拳结束的同时，制造 5 个影分身，使其向周围冲刺并造成伤害。影分身接触到对方宝可梦时，造成伤害并在 3 秒内降低其移动速度 40%，随后消失。使用招式后 8 秒内，可再次使用招式。再次使用招式时，向指定方向冲刺并造成伤害，随后捶向地面，对范围内的对方宝可梦造成伤害。冲刺命中对方队伍的宝可梦时，会抓住其继续冲刺。若被抓住的对方队伍的宝可梦接触到影分身，2 秒内会变得无法动弹。",
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_2": "30% 移动速度，30% 冷却缩减，20% 最大体力的护盾",
+
+    "Damage - per Hit (3-5 Hits)": "伤害 - 每次攻击 (3-5次攻击)",
+    "Damage - Eighth Attack": "伤害 - 第八次攻击",
+
+    "Dual Wingbeat Learned": "学会双翼",
+    "Bullet Punch Learned": "学会子弹拳",
+    "Technician": "技术高手",
+    "Fury Cutter": "连斩",
+    "Dual Wingbeat": "双翼",
+    "Bullet Punch": "子弹拳",
+    "Quick Attack": "电光一闪",
+    "Double Hit": "二连击",
+    "Swords Dance": "剑舞",
+    "Green Illusion Dive": "翠星划落",
+    "Red Illusion Dive": "赤星划落"
+  }
+}

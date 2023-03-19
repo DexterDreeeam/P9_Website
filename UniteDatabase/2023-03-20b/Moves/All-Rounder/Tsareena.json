@@ -1,0 +1,511 @@
+{
+    "TSAREENA_PA1":
+    {
+        "name": "Oblivious",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "TSAREENA_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "TSAREENA_PA2":
+    {
+        "name": "Queenly Majesty",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "TSAREENA_PA2_TEXT_1"
+            }
+        ]
+    },
+
+    "TSAREENA_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "TSAREENA_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.3,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "TSAREENA_MOVE_RAZOR_LEAF":
+    {
+        "name": "Razor Leaf",
+        "type": "Move 1",
+        "cd": 5.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "TSAREENA_MOVE_RAZOR_LEAF_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (3x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.62,
+                            "Lv": 7,
+                            "Con": 120
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "TSAREENA_MOVE_TRIPLE_AXEL":
+    {
+        "name": "Triple Axel",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.6174,
+                            "Lv": 3,
+                            "Con": 78
+                        }
+                    },
+                    {
+                        "name": "Damage - per Hit (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.9878,
+                            "Lv": 5,
+                            "Con": 125
+                        }
+                    },
+                    {
+                        "name": "Healing (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.3,
+                            "Lv": 2,
+                            "Con": 30
+                        }
+                    },
+                    {
+                        "name": "Attack Speed - Increase",
+                        "type": "attackSpeed",
+                        "text": "TSAREENA_MOVE_TRIPLE_AXEL_TAG_TEXT_1"
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.71,
+                            "Lv": 4,
+                            "Con": 90
+                        }
+                    },
+                    {
+                        "name": "Damage - per Hit (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.136,
+                            "Lv": 6,
+                            "Con": 144
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "TSAREENA_MOVE_STOMP":
+    {
+        "name": "Stomp",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 7.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "TSAREENA_MOVE_STOMP_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.6348,
+                            "Lv": 9,
+                            "Con": 200
+                        }
+                    },
+                    {
+                        "name": "Damage (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.6157,
+                            "Lv": 14,
+                            "Con": 320
+                        }
+                    },
+                    {
+                        "name": "Healing (Queenly Majesty Buff)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "Atk": 0.6,
+                            "Lv": 4,
+                            "Con": 60
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "TSAREENA_MOVE_STOMP_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.88,
+                            "Lv": 10,
+                            "Con": 230
+                        }
+                    },
+                    {
+                        "name": "Damage (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 3.008,
+                            "Lv": 16,
+                            "Con": 368
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "TSAREENA_MOVE_RAPID_SPIN":
+    {
+        "name": "Rapid Spin",
+        "type": "Move 2",
+        "cd": 7.5,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "TSAREENA_MOVE_RAPID_SPIN_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.13,
+                            "Lv": 8,
+                            "Con": 260
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "TSAREENA_MOVE_TROP_KICK":
+    {
+        "name": "Trop Kick",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 8.5,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "TSAREENA_MOVE_TROP_KICK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.7565,
+                            "Lv": 3,
+                            "Con": 113
+                        }
+                    },
+                    {
+                        "name": "Damage - DoT (7 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.113,
+                            "Lv": 1,
+                            "Con": 17
+                        }
+                    },
+                    {
+                        "name": "Damage (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.211,
+                            "Lv": 4,
+                            "Con": 181
+                        }
+                    },
+                    {
+                        "name": "Damage DoT (7 Ticks - Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.1809,
+                            "Lv": 1,
+                            "Con": 28
+                        }
+                    },
+                    {
+                        "name": "Shield (Queenly Majesty Buff)",
+                        "type": "shield",
+                        "value":
+                        {
+                            "Atk": 1.575,
+                            "Lv": 10,
+                            "Con": 300
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "TSAREENA_MOVE_TROP_KICK_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.87,
+                            "Lv": 3,
+                            "Con": 130
+                        }
+                    },
+                    {
+                        "name": "Damage - DoT (7 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.13,
+                            "Lv": 1,
+                            "Con": 20
+                        }
+                    },
+                    {
+                        "name": "Damage (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.392,
+                            "Lv": 5,
+                            "Con": 208
+                        }
+                    },
+                    {
+                        "name": "Damage DoT (7 Ticks - Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.208,
+                            "Lv": 1,
+                            "Con": 32
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "TSAREENA_MOVE_GRASSY_GLIDE":
+    {
+        "name": "Grassy Glide",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 8.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (2x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.6696,
+                            "Lv": 3,
+                            "Con": 87
+                        }
+                    },
+                    {
+                        "name": "Damage (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.072,
+                            "Lv": 5,
+                            "Con": 139
+                        }
+                    },
+                    {
+                        "name": "Shield (Queenly Majesty Buff)",
+                        "type": "shield",
+                        "value":
+                        {
+                            "Atk": 1.575,
+                            "Lv": 10,
+                            "Con": 350
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage (2x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.77,
+                            "Lv": 4,
+                            "Con": 100
+                        }
+                    },
+                    {
+                        "name": "Damage (Queenly Majesty Buff)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.232,
+                            "Lv": 6,
+                            "Con": 160
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "TSAREENA_MOVE_QUEEN_ASCENDANT":
+    {
+        "name": "Queen Ascendant",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (9x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.49,
+                            "Lv": 1,
+                            "Con": 70
+                        }
+                    },
+                    {
+                        "name": "Damage - Final Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.96,
+                            "Lv": 4,
+                            "Con": 280
+                        }
+                    },
+                    {
+                        "name": "Healing - Landing",
+                        "type": "heal",
+                        "value":
+                        {
+                            "Atk": 0.7,
+                            "Lv": 5,
+                            "Con": 350
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2"
+            }
+        ]
+    }
+}
