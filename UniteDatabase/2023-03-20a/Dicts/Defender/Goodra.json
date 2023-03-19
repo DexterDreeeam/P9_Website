@@ -1,0 +1,52 @@
+{
+  "En":
+  {
+    "GOODRA_PA1_TEXT_1": "When this Pokémon is hit by an attack, there is a chance it will spread slime around itself. The slime deals damage to Pokémon and applies a Gooey debuff for a short time. The Gooey debuff slows Pokémon by 8% for 6s, can stack up to 4 times per Pokémon and decreases attack speed by 30% for 2s. Gooey is a debuff that is applicable to Wild Pokémon and enemy players only. When this Pokémon enters tall grass, it continually recovers HP for up to 3s, until it leaves the tall grass or makes a boosted attack. When this Pokémon recovers HP due to Gooey, its attack gauge is progressed towards a boosted attack. This HP recovery goes on a 12s cooldown after being triggered.",
+    "GOODRA_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage. Hitting a Pokémon afllicted with a Gooey effect with a basic attack reduces all of this Pokémon's move cooldowns by 1.5s. Boosted attacks spew slime and if the slime hits Pokémon from a distance, a Gooey debuff is applied to those Pokémon. If the boosted attack is used on a Pokémon in regular attack melee range, the attack deals increased damage.",
+    "GOODRA_MOVE_BUBBLE_TEXT_1": "Cover itself in a bubble, granting it a shield for 3s. When the shield’s effect duration ends or if this move is used again, the bubble shield pops, dealing damage to nearby opposing Pokémon and slowing them by 30% for 2s.",
+    "GOODRA_MOVE_MUDDY_WATER_TEXT_1": "Splashes muddy water around itself, dealing damage to opposing Pokémon in the area of effect and applying an effect to them that decreases the amount of damage they deal by 10% for 3s. If the user deals damage to opposing Pokémon with this move, the user’s Defense and Sp. Def are increased for 2s. The defenses bonus effect can stack up to four times.",
+    "GOODRA_MOVE_MUDDY_WATER_TEXT_2": "Further increases the user’s Defense and Sp. Def when this move deals damage to opposing Pokémon.",
+    "GOODRA_MOVE_DRAGON_PULSE_TEXT_1": "Unleashes a shock wave in the designated direction, dealing damage to Pokémon it hits up to 4 times. If the center of the shock wave hits enemy Pokémon, it deals increased damage to them and restores the user’s HP. More HP is restored when the center of the pulse deals damage to enemy Pokémon that have a Gooey slowing effect applied to them. The fourth tick of damage can be animation cancelled by inputs (attack or movement). It is undetermined if this is a bug or not.",
+    "GOODRA_MOVE_DRAGON_PULSE_TEXT_2": "Restores more HP if the center of the shock wave hits Pokémon, and even more on Pokémon that have a Gooey debuff applied to them.",
+    "GOODRA_MOVE_TACKLE_TEXT_1": "Charges at a Pokémon, dealing damage and throwing it. If this move hits, the user bounces back a short distance.",
+    "GOODRA_MOVE_POWER_WHIP_TEXT_1": "Lashes out with its horns in the designated direction, dealing damage to Pokémon in the area of effect and slowing them by 50% for 2s. If this move hits distant Pokémon, those Pokémon are pulled toward Goodra.",
+    "GOODRA_MOVE_POWER_WHIP_TEXT_2": "Also applies a Gooey slowing effect when this move hits.",
+    "GOODRA_MOVE_ACID_SPRAY_TEXT_1": "Spits acidic fluid at target Pokémon, dealing damage to Pokémon in an area of effect centered on the target slowing them by 40% for 2s. If this move is used again, Goodra charges in the designated direction and deals damage to opposing Pokémon it hits. If this charge hits a Pokémon that has been marked by acidic fluid, that Pokémon is thrown, and damage is also dealt to nearby opposing Pokémon.",
+    "GOODRA_MOVE_ACID_SPRAY_TEXT_2": "Also applies a Gooey slowing effect to opposing Pokémon that receive damage from either the acidic fluid or the charge.",
+    "GOODRA_MOVE_RIGHT_AS_RAIN_TEXT_1": "Causes rain to fall around the user, gradually restoring the user’s HP over 6s. While this move is active, all of the user’s basic attacks become boosted attacks.",
+    "GOODRA_MOVE_RIGHT_AS_RAIN_TEXT_2": "40% Max HP Shield, 30% Movement Speed"
+  },
+  "Cn":
+  {
+    "GOODRA_PA1_TEXT_1": "受到攻击时，它有可能在自己周围挥洒黏液。黏液会对宝可梦造成伤害，并在短时间内对其造成由黏滑引发的减速效果。每层黏滑使对方宝可梦在 6 秒内减速 8%，最多可以堆叠 4 次，并在 2 秒内降低 30% 的攻击速度。黏滑效果只适用于野生宝可梦和对方宝可梦。进入的草丛时，在 3 秒内持续恢复体力，直到它离开草丛或进行强化普通攻击为止。由黏滑效果恢复体力时，强化普通攻击计量条会增长。体力回复的效果有 12 秒间隔时间。",
+    "GOODRA_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，造成更多伤害。如果攻击的目标被黏滑效果影响，会使所有招式的冷却时间减少 1.5 秒。增强普通攻击会挥洒黏液，如果黏液从远处击中宝可梦，则会对其施加黏滑效果。对近战攻击范围内对方宝可梦，强化供给会造成更多伤害。",
+    "GOODRA_MOVE_BUBBLE_TEXT_1": "将自己覆盖在一个泡沫中，为其提供3分的保护。当护盾的效果持续时间结束或再次使用此招式时，气泡护盾会弹出，对附近的对面神奇宝贝造成伤害，并使其减速30%，持续2秒。",
+    "GOODRA_MOVE_MUDDY_WATER_TEXT_1": "在自身周围生成水流，对范围内的对方宝可梦造成伤害，并在 3 秒内减少 10% 该宝可梦造成的伤害。用此招式对对方宝可梦造成伤害时，会在 2 秒内提高自身的防御和特防。此效果最多可叠加 4 次。",
+    "GOODRA_MOVE_MUDDY_WATER_TEXT_2": "此招式命中对方宝可梦时，会进一步提高自身的防御和特防。",
+    "GOODRA_MOVE_DRAGON_PULSE_TEXT_1": "向指定方向施放冲击波，对对方宝可梦最多造成 4 次伤害。若冲击波的中心命中对方宝可梦，则会增加造成的伤害，同时回复自身体力。若受到此招式伤害的对方宝可梦正受到“黏滑”引发的减速效果，则会增加自身的体力回复量。",
+    "GOODRA_MOVE_DRAGON_PULSE_TEXT_2": "如果冲击波的中心击中了神奇宝贝，则会恢复更多的生命值，在带有Gooey debuff的神奇宝贝上会恢复更多。",
+    "GOODRA_MOVE_TACKLE_TEXT_1": "对一只神奇宝贝发起攻击，造成伤害并投掷。如果这一动作命中，用户会反弹一小段距离。",
+    "GOODRA_MOVE_POWER_WHIP_TEXT_1": "用角向指定方向鞭打，对范围内的对方宝可梦造成伤害，并降低其；移动速度 50%，持续 2 秒。若命中离自身较远的对方宝可梦，则会将该宝可梦向自身的方向拖拽。",
+    "GOODRA_MOVE_POWER_WHIP_TEXT_2": "此招式命中时，会对对方造成黏滑引发的减速效果",
+    "GOODRA_MOVE_ACID_SPRAY_TEXT_1": "向对方宝可梦投掷酸性液体，以命中的宝可梦为中心，对范围内的对方宝可梦造成伤害并降低移动速度 40%，持续 2 秒。再次使用招式时会对指定方向冲刺，对对方宝可梦造成伤害。若冲刺接触到受到酸性液体伤害的对方宝可梦，则会将其击飞，并对周围宝可梦也造成伤害。",
+    "GOODRA_MOVE_ACID_SPRAY_TEXT_2": "用酸性液体或冲刺对对方宝可梦造成伤害时，会对其造成黏滑引发的减速效果。",
+    "GOODRA_MOVE_RIGHT_AS_RAIN_TEXT_1": "使自身周围下雨，逐渐回复自身体力，持续 6 秒。在效果持续期间，所有普通攻击都会变为强化普通攻击。",
+    "GOODRA_MOVE_RIGHT_AS_RAIN_TEXT_2": "40% 最大体力的护盾，30% 移动速度",
+
+    "Damage (Slime)": "伤害 (黏液)",
+    "Damage (Center - per Hit up to 4 Hits)": "伤害 (中心 - 每次攻击，最多4次)",
+    "Healing (per Hit up to 4x Based on Number of Center Hits)": "治疗 - (每次攻击，最多 4 次的中心命中次数)",
+    "Healing (Gooey Center - per Hit up to 4x Based on Number of Center Hits)": "治疗 - (每次攻击，最多 4 次的中心命中带有黏液效果宝可梦次数)",
+    "Damage (Dash 2x Hits)": "伤害 (冲刺的 2 次攻击)",
+    "Healing (13 Ticks)": "治疗 (13 段)",
+
+    "Gooey": "黏滑",
+    "Bubble": "泡沫",
+    "Muddy Water": "浊流"  ,
+    "Dragon Pulse": "龙之波动",
+    "Tackle": "撞击",
+    "Power Whip": "强力鞭打",
+    "Acid Spray": "酸液炸弹",
+    "Right as Rain": "雨水雨水落下来"
+  }
+}
