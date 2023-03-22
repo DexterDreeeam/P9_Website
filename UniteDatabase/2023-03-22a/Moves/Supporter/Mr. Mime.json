@@ -1,0 +1,319 @@
+{
+    "MR_MIME_PA1":
+    {
+        "name": "Filter",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "MR_MIME_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "MR_MIME_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "MR_MIME_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.5,
+                            "Lv": 16,
+                            "Con": 290
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "MR_MIME_MOVE_FAKE_OUT":
+    {
+        "name": "Fake Out",
+        "type": "Move 1",
+        "cd": 7.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "MR_MIME_MOVE_FAKE_OUT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.94,
+                            "Lv": 25,
+                            "Con": 470
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "MR_MIME_MOVE_CONFUSION":
+    {
+        "name": "Confusion",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 6.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "MR_MIME_MOVE_CONFUSION_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.4875,
+                            "Lv": 14,
+                            "Con": 340
+                        }
+                    },
+                    {
+                        "name": "Damage - Stunned (Wall Hit)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 2.0,
+                            "Lv": 16,
+                            "Con": 450
+                        }
+                    },
+                    {
+                        "name": "Damage - Stunned (Power Swap)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.8,
+                            "Lv": 6,
+                            "Con": 180
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "MR_MIME_MOVE_CONFUSION_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.63,
+                            "Lv": 18,
+                            "Con": 390
+                        }
+                    },
+                    {
+                        "name": "Damage - Stunned (Wall Hit)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 2.19,
+                            "Lv": 21,
+                            "Con": 500
+                        }
+                    },
+                    {
+                        "name": "Damage - Stunned (Power Swap)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.88,
+                            "Lv": 7,
+                            "Con": 200
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "MR_MIME_MOVE_PSYCHIC":
+    {
+        "name": "Psychic",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 6.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "MR_MIME_MOVE_PSYCHIC_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Pulse",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.216,
+                            "Lv": 2,
+                            "Con": 51
+                        }
+                    },
+                    {
+                        "name": "Damage - Final Pulse",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.72,
+                            "Lv": 8,
+                            "Con": 170
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "MR_MIME_MOVE_PSYCHIC_TEXT_2"
+            }
+        ]
+    },
+
+    "MR_MIME_MOVE_LIGHT_SCREEN":
+    {
+        "name": "Light Screen",
+        "type": "Move 2",
+        "cd": 8.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "MR_MIME_MOVE_LIGHT_SCREEN_TEXT_1"
+            }
+        ]
+    },
+
+    "MR_MIME_MOVE_BARRIER":
+    {
+        "name": "Barrier",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 8.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "MR_MIME_MOVE_BARRIER_TEXT_1"
+            },
+            {
+                "condition": "Level 13",
+                "text": "MR_MIME_MOVE_BARRIER_TEXT_2"
+            }
+        ]
+    },
+
+    "MR_MIME_MOVE_POWER_SWAP":
+    {
+        "name": "Power Swap",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 4.5,
+        "cast": "Debuff",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "MR_MIME_MOVE_POWER_SWAP_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Tick",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.18,
+                            "Lv": 1,
+                            "Con": 30
+                        }
+                    },
+                    {
+                        "name": "Healing - per Tick",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 0.16,
+                            "Lv": 2,
+                            "Con": 12
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "MR_MIME_MOVE_POWER_SWAP_TEXT_2"
+            }
+        ]
+    },
+
+    "MR_MIME_MOVE_SHOWTIME":
+    {
+        "name": "Showtime",
+        "type": "Unite Move",
+        "cd": 100.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "MR_MIME_MOVE_SHOWTIME_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First 3 Hits",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.79,
+                            "Lv": 5,
+                            "Con": 220
+                        }
+                    },
+                    {
+                        "name": "Damage - Final Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.58,
+                            "Lv": 10,
+                            "Con": 440
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "MR_MIME_MOVE_SHOWTIME_TEXT_2"
+            }
+        ]
+    }
+}
