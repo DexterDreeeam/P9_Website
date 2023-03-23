@@ -41,9 +41,9 @@
     "MEW_MOVE_MYSTICAL_MIRAGE_TEXT_1": "在空中漂浮 1 秒，进入守住状态，随后在自身位置周围创建一个持续 5 秒的场。自身和场内的队友会隐身 4 秒，直到发动攻击或招式。场结束后，会对范围内的敌人造成伤害。",
     "MEW_MOVE_MYSTICAL_MIRAGE_TEXT_2": "30% 移动速度，30% 冷却缩减，20% 最大体力值护盾",
 
-    "Damage (No Light Screen Boost)": "伤害（无光强增益）",
-    "Damage (Light Screen Boost)": "伤害（有光强增益）",
-    "Damage - per Tick(Light Screen Boost)": "伤害 - 每次（有光强增益）",
+    "Damage (No Light Screen Boost)": "伤害（无光墙强化）",
+    "Damage (Light Screen Boost)": "伤害（有光墙强化）",
+    "Damage - per Tick (Light Screen Boost)": "伤害 - 每次（有光墙强化）",
 
     "Synchronize": "同步",
     "Move Reset": "招式重置",
