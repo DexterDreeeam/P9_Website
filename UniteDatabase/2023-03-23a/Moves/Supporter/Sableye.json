@@ -1,0 +1,272 @@
+{
+    "SABLEYE_PA1":
+    {
+        "name": "Prankster",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "SABLEYE_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "SABLEYE_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "SABLEYE_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.5,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SABLEYE_MOVE_THIEF":
+    {
+        "name": "Thief",
+        "type": "Move 1",
+        "cd": 7.5,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "SABLEYE_MOVE_THIEF_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.45,
+                            "Lv": 6,
+                            "Con": 190
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SABLEYE_MOVE_KNOCK_OFF":
+    {
+        "name": "Knock Off",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 7.5,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "SABLEYE_MOVE_KNOCK_OFF_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.66,
+                            "Lv": 7,
+                            "Con": 280
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "SABLEYE_MOVE_KNOCK_OFF_TEXT_2"
+            }
+        ]
+    },
+
+    "SABLEYE_MOVE_SHADOW_SNEAK":
+    {
+        "name": "Shadow Sneak",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 13.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Additional",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.13,
+                            "Lv": 12,
+                            "Con": 480
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "SABLEYE_MOVE_SHADOW_SNEAK_TEXT_2"
+            }
+        ]
+    },
+
+    "SABLEYE_MOVE_ASTONISH":
+    {
+        "name": "Astonish",
+        "type": "Move 2",
+        "cd": 9.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "SABLEYE_MOVE_ASTONISH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (Front)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.81,
+                            "Lv": 11,
+                            "Con": 350
+                        }
+                    },
+                    {
+                        "name": "Damage (Behind)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.053,
+                            "Lv": 14,
+                            "Con": 455
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SABLEYE_MOVE_FEINT_ATTACK":
+    {
+        "name": "Feint Attack",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "SABLEYE_MOVE_FEINT_ATTACK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Tick (9 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.33,
+                            "Lv": 2,
+                            "Con": 80
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "SABLEYE_MOVE_FEINT_ATTACK_TEXT_2"
+            }
+        ]
+    },
+
+    "SABLEYE_MOVE_CONFUSE_RAY":
+    {
+        "name": "Confuse Ray",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 10.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "SABLEYE_MOVE_CONFUSE_RAY_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.05,
+                            "Lv": 12,
+                            "Con": 450
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "SABLEYE_MOVE_CONFUSE_RAY_TEXT_2"
+            }
+        ]
+    },
+
+    "SABLEYE_MOVE_CHAOS_GLOWER":
+    {
+        "name": "Chaos Glower",
+        "type": "Unite Move",
+        "cd": 100.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 8",
+                "text": "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.84,
+                            "Lv": 16,
+                            "Con": 790
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "SABLEYE_MOVE_CHAOS_GLOWER_TEXT_2"
+            }
+        ]
+    }
+}

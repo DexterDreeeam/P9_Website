@@ -1,0 +1,45 @@
+{
+  "En":
+  {
+    "MR_MIME_PA1_TEXT_1": "Upon casting a Move, Mr. Mime takes 10% less damage for 2s.",
+    "MR_MIME_BA1_TEXT_1": "Gains a Boosted Attack every 5s, dealing increased damage and throwing enemies in the air for 0.5s.",
+    "MR_MIME_MOVE_FAKE_OUT_TEXT_1": "Mr. Mime claps, damaging and knocking back enemies hit.",
+    "MR_MIME_MOVE_CONFUSION_TEXT_1": "Mr. Mime fires a wave of psychic energy, damaging and knocking enemies back. Enemies hit into a wall take bonus damage and are stunned for 1.5s. Enemies debuffed by Power Swap take bonus damage and are stunned, but are not knocked back. Normal damage will apply to targets that are unstoppable or unstunnable. (Example: Drednaw & Zapdos)",
+    "MR_MIME_MOVE_CONFUSION_TEXT_2": "Increased damage.",
+    "MR_MIME_MOVE_PSYCHIC_TEXT_1": "Mr. Mime. pulses energy, dealing damage in an area around themself, any target affected by Power Swap, and any Barriers or Light Screens. After three pulses, a final pulse will damage enemies and stun them for 1s. Enemies hit by the pulses have their SpDef lowered by 5% for 3s with each hit (maximum 8 stacks).",
+    "MR_MIME_MOVE_PSYCHIC_TEXT_2": "Enemies hit by the pulses are additionally slowed by 30%.",
+    "MR_MIME_MOVE_LIGHT_SCREEN_TEXT_1": "Mr. Mime creates a wall that prevents enemies from passing. If an enemy is near the location where the wall is created, they are shoved and left unable to act for a short time.",
+    "MR_MIME_MOVE_BARRIER_TEXT_1": "Mr. Mime creates a wall that prevents enemies from passing. If an enemy is near the location where the wall is created, they are shoved and left unable to act for a short time. Holds 2 uses in reserve and cannot be used more than once every 2s.",
+    "MR_MIME_MOVE_BARRIER_TEXT_2": "Stores 3 uses in reserve instead.",
+    "MR_MIME_MOVE_POWER_SWAP_TEXT_1": "Creates a link between Mr. Mime and the target this move hits. While the link holds, Mr. Mime's movement speed increases by 8% and their HP is continually restored. The link will continue to hold for as long as the linked target stays in range or until another target is Power Swapped. Damage and healing ticks at a rate of 0.5s. If the linked target is an ally, this move increases their movement speed by 8%, increases the amount of damage they deal by 8%, and continually restores their HP. If the linked target is an enemy, this move decreases their movement speed by 8%, decreases the amount of damage they deal by 8% and deals damage over time to them. Power Swap can be cleansed.",
+    "MR_MIME_MOVE_POWER_SWAP_TEXT_2": "Increases the amount of damage dealt by allies to 12% and decreases the amount of damage dealt by enemies to 12%.",
+    "MR_MIME_MOVE_SHOWTIME_TEXT_1": "Mr. Mime leaps forward and begins a performance; stunning enemies for 0.5s, dealing damage in a large area around him 4 times, and becomes unstoppable for the duration. The final hit deals double damage.",
+    "MR_MIME_MOVE_SHOWTIME_TEXT_2": "30% Movement Speed, 30% Max HP Shield"
+  },
+  "Cn":
+  {
+    "MR_MIME_PA1_TEXT_1": "施展招式后，哑剧先生受到的伤害降低 10%，持续 2 秒。",
+    "MR_MIME_BA1_TEXT_1": "每 5 秒获得一次强化攻击，造成更高的伤害并将敌人抛向空中 0.5 秒。",
+    "MR_MIME_MOVE_FAKE_OUT_TEXT_1": "哑剧先生拍手，对击中的敌人造成伤害并将其击退。",
+    "MR_MIME_MOVE_CONFUSION_TEXT_1": "哑剧先生发射一波精神能量，对敌人造成伤害并将其击退。撞到墙上的敌人会受到额外伤害并眩晕 1.5 秒。受到能量交换减益的敌人会受到额外伤害并被击晕，但不会被击退。正常伤害将适用于不可阻挡或不可眩晕的目标。（示例：Drednaw 和 Zapdos）",
+    "MR_MIME_MOVE_CONFUSION_TEXT_2": "伤害增加。",
+    "MR_MIME_MOVE_PSYCHIC_TEXT_1": "哑剧先生。脉冲能量，对他们周围的区域、任何受电源交换影响的目标以及任何屏障或光幕造成伤害。三个脉冲后，最后一个脉冲会对敌人造成伤害并使他们昏迷 1 秒。每次被脉冲击中的敌人的 SpDef 都会降低 5%，持续 3 秒（最多 8 层）。",
+    "MR_MIME_MOVE_PSYCHIC_TEXT_2": "被脉冲击中的敌人额外减速 30%。",
+    "MR_MIME_MOVE_LIGHT_SCREEN_TEXT_1": "Mime 先生创造了一堵墙，阻止敌人通过。如果敌人靠近创建墙的位置，他们会被推到短时间内无法行动。",
+    "MR_MIME_MOVE_BARRIER_TEXT_1": "Mime 先生创造了一堵墙，阻止敌人通过。如果敌人靠近创建墙的位置，他们会被推到短时间内无法行动。保留 2 次使用，每 2 秒不能使用超过一次。",
+    "MR_MIME_MOVE_BARRIER_TEXT_2": "改为保留 3 次使用。",
+    "MR_MIME_MOVE_POWER_SWAP_TEXT_1": "在 Mime 先生和此移动命中的目标之间创建链接。链接持续期间，米姆先生的移动速度提升8%，生命值不断恢复。只要链接的目标保持在范围内或直到另一个目标被能量交换，链接就会继续保持。伤害和治疗以 0.5 秒的速度滴答作响。如果链接的目标是盟友，此招式会增加他们 8% 的移动速度，增加他们造成的伤害量 8%，并持续恢复他们的 HP。如果链接的目标是敌人，此举会使他们的移动速度降低 8%，造成的伤害降低 8%，并对其造成持续伤害。Power Swap 可以清理。",
+    "MR_MIME_MOVE_POWER_SWAP_TEXT_2": "将盟友造成的伤害量增加至 12%，将敌人造成的伤害量减少至 12%。",
+    "MR_MIME_MOVE_SHOWTIME_TEXT_1": "哑剧先生跳上前开始表演；击晕敌人0.5秒，对周围大范围造成4次伤害，持续时间内势不可挡。最后一击造成双倍伤害。",
+    "MR_MIME_MOVE_SHOWTIME_TEXT_2": "30% 移动速度，30% 最大生命值护盾",
+
+    "Filter": "过滤",
+    "Fake Out": "击掌奇袭",
+    "Confusion": "念力",
+    "Psychic": "精神强念",
+    "Light Screen": "光墙",
+    "Barrier": "屏障",
+    "Power Swap": "力量互换",
+    "Showtime": "好戏开始"
+  }
+}
