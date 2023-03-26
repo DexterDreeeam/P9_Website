@@ -33,7 +33,7 @@
     "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_1": "召唤一阵岩石旋风。开始时使附近的敌人眩晕 1 秒并获得护盾（40% 最大体力值+ 600 体力值）。然后每 1 秒对附近的敌人造成一次伤害，持续 10 秒，如果自身在这个招式生效时受到伤害，则造成附加的复仇伤害（此复仇伤害每 2 秒最多发动 1 次）。",
     "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "30% 移动速度，40% 最大体力值护盾",
 
-    "Def ＆ Sp. Def - Increase (Stacks 10x)": "防御和特防 - 增加（可累积 10 次）",
+    "Def & Sp. Def - Increase (Stacks 10x)": "防御和特防 - 增加（可累积 10 次）",
     "Damage Projectile": "伤害 - 撕裂",
     "Damage - Barrier Spawn": "伤害 - 墙升起",
     "Damage - Barrier De-Spawn": "伤害 - 墙消失",

@@ -33,8 +33,9 @@
     "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_1": "食用树果恢复 15% 最大体力值，然后跳跃到指定区域。短暂进入妨碍无效状态，对敌人造成伤害，并将击飞。接下来将食用特殊的树果，能够重置所有招式的冷却时间，并在 8 秒内囤积的树果不会减少。",
     "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_2": "30% 移动速度，40% 最大体力值护盾",
 
+    "Healing - Oran Berry": "治疗 - 囤积的浆果",
+    "Healing - Any Berry": "治疗 - 任意的浆果",
     "Damage - per Seed": "伤害 - 每个种子",
-
 
     "Cheek Pouch": "颊囊",
     "Tackle": "撞击",
