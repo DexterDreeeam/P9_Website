@@ -1,0 +1,57 @@
+{
+  "En":
+  {
+    "DECIDUEYE_PA1_TEXT_1": "Deals 20% increased damage to distant enemies. Additional damage added per level from each move's damage formula is excluded from this bonus.",
+    "DECIDUEYE_BA1_TEXT_1": "Increases the speed of basic attacks by 3% for a short time after one hits. This effect can stack up to 4 times, and with every third activation of this effect, basic attacks become boosted attacks for a short time. These boosted attacks fire more quills, but the damage dealt by each quill is decreased.",
+    "DECIDUEYE_BA1_TAG_TEXT_1": "Increases the speed of auto attacks by 3% for a short time after one hits. This effect can stack up to 4 times, and with every third activation of this effect, auto attacks become boosted attacks for a short time. These boosted attacks fire more quills, but the damage dealt by each quill is decreased.",
+    "DECIDUEYE_MOVE_LEAFAGE_TEXT_1": "Pelts leaves in the designated direction, dealing damage in a cone to enemies hit (only hits once). For a short time after using this move, Decidueye’s Attack is increased by 10% (this also affects Leafage) and auto attack speed is increased by 25% for 3s.",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TEXT_1": "Summons whirling razor leaves. While active, Decidueye's auto attack is replaced by a new auto attack that targets up to 2 additional enemies in range, as well as increasing Attack by 10% and auto attack speed. This buff lasts for 5.5s.",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TAG_TEXT_1": "Deals half damage.",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TAG_TEXT_2": "Increases Attack Speed by 1% x (Level -1) + 21% for 5.5s.",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TEXT_2": "Increases auto attack damage by 2% of the primary target's remaining HP and 1% for secondary targets. This damage only applies once per attack, not on each of the 3 boosted quills. Against All Enemies: The additional damage from remaining HP is capped at 240 on the primary target and 120 on secondary targets.",
+    "DECIDUEYE_MOVE_SPIRIT_SHACKLE_TEXT_1": "Charges power before firing a large arrow in the designated direction. Damage dealt increases the longer power is charged (with 6 breakpoints), but movement speed is decreased by 25% while charging. If this move hits after power is charged to the maximum, it can stitch enemies to the ground. The affected enemy has their movement speed decreased by 80% for a short time when exiting the area, and receives damage upon leaving the area. A maximum of 3 uses can be kept in reserve for this move. There is a 2s cooldown between uses.",
+    "DECIDUEYE_MOVE_SPIRIT_SHACKLE_TEXT_2": "Deals 15% increased damage to enemies with less than 50% remaining HP.",
+    "DECIDUEYE_MOVE_ASTONISH_TEXT_1": "Deals damage to enemies and decreases their movement speed by 80% for a short time.",
+    "DECIDUEYE_MOVE_LEAF_STORM_TEXT_1": "Creates a tempest of sharp leaves, dealing damage to enemies it hits and decreases their movement speed by 45% for 2s. At point-blank range, it also shoves and stuns enemies hit.",
+    "DECIDUEYE_MOVE_LEAF_STORM_TEXT_2": "Movement speed decrease now lasts 3s.",
+    "DECIDUEYE_MOVE_SHADOW_SNEAK_TEXT_1": "Creates a shadow that takes hold of one enemy in the area of effect, dealing damage and decreasing their movement speed by 30%, decreasing their Defense by 60%, and increasing Decidueye’s movement speed by 70% for 3s.",
+    "DECIDUEYE_MOVE_SHADOW_SNEAK_TEXT_2": "Defense reduction of enemies is increased to 80%.",
+    "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_1": "Fires quills in the designated direction, dealing damage to enemies but does not pierce through them. The move ends by unleashing a large quill that deals damage to all enemies it hits (30% more damage if the target is below 50% HP). While using this move, Decidueye becomes immune to hindrances but is unable to move.",
+    "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_2": "30% Movement Speed, 30% Max HP Shield"
+  },
+  "Cn":
+  {
+    "DECIDUEYE_PA1_TEXT_1": "对离自身较远的敌人造成的伤害提高 20%。各招式的伤害公式中，因等级增加造成的的附加伤害不享受此增益。",
+    "DECIDUEYE_BA1_TEXT_1": "普通攻击命中后，短时间内提升普通攻击速度 3%。此效果最多可叠加 4 次，每三次激活此效果，普通攻击会在短时间内变为强化普通攻击。这些强化普通攻击会发射更多的箭羽，但每支箭羽造成的伤害会降低。",
+    "DECIDUEYE_BA1_TAG_TEXT_1": "普通攻击命中后，短时间内提升普通攻击速度 3%。此效果最多可叠加 4 次，每三次激活此效果，普通攻击会在短时间内变为强化普通攻击。这些强化普通攻击会发射更多的箭羽，但每支箭羽造成的伤害会降低。",
+    "DECIDUEYE_MOVE_LEAFAGE_TEXT_1": "朝指定方向发射树叶进行攻击，对锥形范围内的敌人造成伤害（仅会击中一次）。使用此招式后，在短时间内攻击将会提高 10%（该效果同样对树叶生效）；普通攻击的速度会提高 25%，持续时间为 3 秒。",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TEXT_1": "召唤旋转的刀叶围绕在身边。招式使用期间,提高 10% 的攻击和普通攻击速度。普通攻击被一个新的普通攻击所取代，该普通攻击最多可额外攻击 2 个范围内的敌人。该增益持续 5.5 秒。",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TAG_TEXT_1": "造成原本伤害的一半。",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TAG_TEXT_2": "增加攻击速度 1% x (等级 -1) + 21%。持续时间 5.5 秒。",
+    "DECIDUEYE_MOVE_RAZOR_LEAF_TEXT_2": "对主攻击目标的普通攻击伤害增加其剩余体力的 2%，对次攻击目标的普通攻击伤害增加其剩余体力的 1%。此附加效果仅会对普通攻击生效，强化普通攻击不享受此增益。对所有敌人：剩余体力对主目标的附加伤害造成的影响上限为 240，对次目标的上限为 120。",
+    "DECIDUEYE_MOVE_SPIRIT_SHACKLE_TEXT_1": "蓄力后朝指定方向发射箭羽。蓄力时间越长（有 6 个节点），造成的伤害越高，但蓄力时移动速度会降低 25%。当蓄力到最大后命中敌人时，会将其影子缝在地面上。影子被缝住的敌人在离开该地点时会受到伤害，并在短时间内降低移动速度 80%。此招式最多保存次数为 3 次，每次使用之后有 2 秒的冷却时间。",
+    "DECIDUEYE_MOVE_SPIRIT_SHACKLE_TEXT_2": "对剩余体力低于 50% 的敌人造成 15% 的附加伤害。",
+    "DECIDUEYE_MOVE_ASTONISH_TEXT_1": "对敌人造成伤害，并在短时间内降低其移动速度 80%。",
+    "DECIDUEYE_MOVE_LEAF_STORM_TEXT_1": "用尖锐的叶片卷起风暴进行攻击，对命中的敌人造成伤害并使其移动速度降低 45%，持续时间 2 秒。若招式在极近距离命中敌人，还会将其击退并击晕。",
+    "DECIDUEYE_MOVE_LEAF_STORM_TEXT_2": "移动速度降低效果延长至 3 秒。",
+    "DECIDUEYE_MOVE_SHADOW_SNEAK_TEXT_1": "将影子附着在范围内的敌人身上，造成伤害并降低其 30% 的移动速度、60% 的防御，并使自身的移动速度提高 70%，持续时间 3 秒。",
+    "DECIDUEYE_MOVE_SHADOW_SNEAK_TEXT_2": "敌人的防御减少 80%。",
+    "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_1": "向指定方向发射箭羽，对敌人造成伤害但不会穿透他们。招式结束时会射出一发巨大的箭羽，对击中的所有敌人造成伤害（如果目标体力低于 50%，则伤害增加 30%）。在使用此招式时，自身不会被妨碍但无法移动。",
+    "DECIDUEYE_MOVE_NOCK_NOCK_TEXT_2": "30% 移动速度，30% 最大体力护盾",
+
+    "Damage - Main Target (Unboosted)": "伤害 - 主要目标 (无强化)",
+    "Damage - Main Target (Boosted - 3x)": "伤害 - 主要目标 (强化 - 3x)",
+    "Damage - Exit Stitch Area": "伤害 - 离开影子被缝住地点",
+    "Damage - per Quill (30 Quills)": "伤害 - 每支箭羽（共30支箭羽）",
+    "Damage - Large Arrow": "伤害 - 巨大箭羽",
+    
+    "Long Reach": "远隔",
+    "Leafage": "树叶",
+    "Razor Leaf": "飞叶快刀",
+    "Spirit Shackle": "缝影",
+    "Astonish": "惊吓",
+    "Leaf Storm": "飞叶风暴",
+    "Shadow Sneak": "影子偷袭",
+    "Nock Nock": "无间连环箭"
+  }
+}

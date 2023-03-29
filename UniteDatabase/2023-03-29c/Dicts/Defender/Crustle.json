@@ -1,0 +1,50 @@
+{
+  "En":
+  {
+    "CRUSTLE_PA1_TEXT_1": "Gain Defense and Sp. Defense for every 7% of Crustle's missing HP. Stacks 10 times.",
+    "CRUSTLE_BA1_TEXT_1": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to enemies in the area of effect and decreases their movement speed by 40% for 2s.",
+    "CRUSTLE_MOVE_ROCK_SLIDE_TEXT_1": "Crustle drops rocks in a small radius, stunning enemies hit for 1s.",
+    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_1": "Crustle emits a beam that deals damage to enemies hit and briefly slow their movement speed by 60% for 2s, then create a curved wall at the designated location. When the wall rises or despawns, nearby enemies are damaged and have their movement speed slowed by 60% for 2s. The wall lasts for 3s and can be cancelled early.",
+    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_2": "Movement speed reduction increased to 80%.",
+    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_1": "Crustle smashes their shell, setting Def and SpD to 0, gaining a boost to Atk and SpA equal to 40% of the Def and SpD lost, respectively. Additional Def and SpD from items and buffs (including Crustle's passive) are exempt. Crustle also gains 75% movement speed (decreasing by 5% every 1s) and becomes unstoppable for 0.8s while activating this move. This buff lasts for 4.5s.",
+    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_2": "Def and SpD conversion is increased from 40% to 50%.",
+    "CRUSTLE_MOVE_FURY_CUTTER_TEXT_1": "Crustle attacks once with his claws. Enemies hit by Fury Cutter receive a debuff for 9s that causes subsequent Fury Cutter attacks to deal 20% additional damage. Maximum 2 debuff stacks. Additional damage from this debuff is always rounded up.",
+    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_1": "Crustle launches a pile of rocks in the designated direction. Upon hitting an enemy, a wall, or reaching maximum distance, create a radius in which rocks deal damage to enemies up to 8 times every 0.5s over 4s. Each hit applies a stack of a debuff which causes subsequent hits to deal 15% more damage for 1.5s, stacking up to 10 times. Additional damage from this debuff is always rounded up.",
+    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_2": "Duration of rocks increased by 1s. Number of hits increased from 8 to 10. In addition, slow enemy movement speed by 35% for 1s.",
+    "CRUSTLE_MOVE_X_SCISSOR_TEXT_1": "Crustle attacks three times with his claws, dealing increased damage with each hit and shoving enemies for .2s with each hit. Stuns for 1.5s if the enemy is against a wall when the third hit lands.",
+    "CRUSTLE_MOVE_X_SCISSOR_TEXT_2": "Cooldown reduced by 1s.",
+    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_1": "Summon a whirlwind of rocks. At the beginning leave nearby enemies stunned for 1s and gain a shield (40% max HP + 600 HP). Then deal damage to nearby enemies every 1s for 10s, and if Crustle receives damage while this move is in effect deal additional revenge damage (this cannot happen more than once every 2s).",
+    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "30% Movement Speed, 40% Max HP Shield"
+  },
+  "Cn":
+  {
+    "CRUSTLE_PA1_TEXT_1": "每当损失 7% 的体力值时，提高自身防御及特防，最多叠加 10 次。",
+    "CRUSTLE_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，命中时对范围内的敌人造成伤害，并使其移动速度降低 40%，持续 2 秒。",
+    "CRUSTLE_MOVE_ROCK_SLIDE_TEXT_1": "在指定地点落下岩石进行攻击，命中时造成范围伤害并使敌人在 1 秒内无法动弹。",
+    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_1": "朝指定地点撕裂地面，对命中的敌人造成伤害，并短暂地降低他们的移动速度 60%，持续 2 秒，然后在该位置制造一堵弯曲的墙。当墙升起或消失时，附近的敌人会受到伤害并使其移动速度降低 60%，持续 2 秒。墙持续 3 秒，可以提前取消。",
+    "CRUSTLE_MOVE_ROCK_TOMB_TEXT_2": "移动速度降低增加到 80%。",
+    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_1": "打破外壳，将自身防御和特防设置为 0，将攻击和特攻提升相当于损失的防御和特防的 40%。来自持有物和增益（包括自身特性）的附加防御和特防是不受此特性影响的。还会提高的移动速度 75%（每 1 秒降低 5%），并且在激活此招式时变得不受妨碍 0.8 秒。此增益持续 4.5 秒。",
+    "CRUSTLE_MOVE_SHELL_SMASH_TEXT_2": "防御和特防转换从 40% 增加到 50%。",
+    "CRUSTLE_MOVE_FURY_CUTTER_TEXT_1": "用钳子劈砍敌人。被「连斩」击中的敌人会获得一个持续 9 秒的减益效果，使后续「连斩」攻击造成 20% 的附加伤害。最多累积 2 层减益效果。此减益带来的附加伤害总是四舍五入。",
+    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_1": "向指定方向投掷碎石。接触到敌人或到达最大距离后形成岩石陷阱，在 4 秒内每 0.5 秒对敌人造成最多 8 次伤害。每次击中都会施加一层减益效果，使其后续受到的伤害提高 15%，持续 1.5 秒，最多可叠加 10 次。此减益带来的附加伤害总是四舍五入。",
+    "CRUSTLE_MOVE_STEALTH_ROCK_TEXT_2": "岩石陷阱的持续时间增加 1 秒。命中次数从 8 次增加到 10 次。此外，使敌人的移动速度降低 35%，持续 1 秒。",
+    "CRUSTLE_MOVE_X_SCISSOR_TEXT_1": "用双钳攻击 3 次，每次攻击都会造成更高的伤害，每次攻击都会将敌人击退 0.2 秒。如果敌人在第三击落地时靠墙，则眩晕 1.5 秒。",
+    "CRUSTLE_MOVE_X_SCISSOR_TEXT_2": "间隔时间减少 1 秒。",
+    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_1": "召唤一阵岩石旋风。开始时使附近的敌人眩晕 1 秒并获得护盾（40% 最大体力值+ 600 体力值）。然后每 1 秒对附近的敌人造成一次伤害，持续 10 秒，如果自身在这个招式生效时受到伤害，则造成附加的复仇伤害（此复仇伤害每 2 秒最多发动 1 次）。",
+    "CRUSTLE_MOVE_RUBBLE_ROUSER_TEXT_2": "30% 移动速度，40% 最大体力值护盾",
+
+    "Def & Sp. Def - Increase (Stacks 10x)": "防御和特防 - 增加（可累积 10 次）",
+    "Damage Projectile": "伤害 - 撕裂",
+    "Damage - Barrier Spawn": "伤害 - 墙升起",
+    "Damage - Barrier De-Spawn": "伤害 - 墙消失",
+
+    "Sturdy": "结实",
+    "Rock Slide": "岩崩",
+    "Rock Tomb": "岩石封锁",
+    "Shell Smash": "破壳",
+    "Fury Cutter": "连斩",
+    "Stealth Rock": "隐形岩",
+    "X-Scissor": "十字剪",
+    "Rubble Rouser": "碎石旋风垒"
+  }
+}

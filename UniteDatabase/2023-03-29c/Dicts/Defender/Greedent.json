@@ -1,0 +1,49 @@
+{
+  "En":
+  {
+    "GREEDENT_PA1_TEXT_1": "When Greedent eats a berry, recover HP after receiving the effects of the berry. At the same time, Greedent stashes an Oran berry in its tail. Being hit by a single attack or combination of attacks will cause an Oran berry to drop from Greedent's tail (4.5s cd). Berries stay on the ground for 10s. If any ally or enemy eats an Oran Berry, they heal for 45 + 2% max HP (unless the enemy is Greedent). Greedent enemies that eat an Oran Berry heal for 45 + 5 x (Level -1) + 2% max HP",
+    "GREEDENT_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage when it hits and causing one Oran berry to drop from Greedent's tail.",
+    "GREEDENT_MOVE_TACKLE_TEXT_1": "Leap to the designated area, dealing damage to enemies in the area of effect and decreasing their movement speed by 20% for 1s. If this move is used while Covet is active, no area can be designated for Greedent to leap to. Instead, while running, damage is dealt in an area to enemies in front of Greedent. If Greedent has any Oran berries stashed, consume all of them, reducing Tackle's cooldown by 1s for each berry consumed.",
+    "GREEDENT_MOVE_BULLET_SEED_TEXT_1": "Spit berry seeds in the designated direction for 6s; dealing damage to enemies in the area of effect and decreasing their movement speed by 30% for 1s. Greedent fires more seeds for each Oran berry stashed.",
+    "GREEDENT_MOVE_BULLET_SEED_TEXT_2": "Increased damage.",
+    "GREEDENT_MOVE_BELCH_TEXT_1": "Deals damage to enemies in the area of effect and decrease their movement speed by 15% for 1s. If Greedent has any Oran berries stashed, consume all of them, reducing Belch's cooldown by 1s for each berry consumed (capping at 4s). This move's cooldown cannot be reduced beyond 1s.",
+    "GREEDENT_MOVE_BELCH_TEXT_2": "Increased damage.",
+    "GREEDENT_MOVE_DEFENSE_CURL_TEXT_1": "Grants Greedent a shield (10% max HP) for 3s. In addition, an Oran berry will drop in front of Greedent.",
+    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_1": "Greedent drops 5 Oran berries, which can be eaten to recover HP. Any HP recovered from an Oran berry eaten within 5s that exceeds Greedent's max HP will be converted to a shield for 1.8% max HP per berry. If Greedent catches sight of a berry while using this move, movement speed is increased by 70% for 6s, but decreasing by 15% every 1s.",
+    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_2": "Increase the number of Oran berries dropped by 1.",
+    "GREEDENT_MOVE_COVET_TEXT_1": "Greedent runs with all its might for 6s; becoming resistant to hindrances (for 6.1s), dealing damage to enemies hit and throwing them. While running; Greedent drops Oran berries every 1s. Eating a dropped berry increases movement speed by 22% for 1s (stacking up to 5 times). In addition, Tackle, Belch or Bullet Seed can also be used while running and using this move will reset the cooldown of Tackle or Belch.",
+    "GREEDENT_MOVE_COVET_TEXT_2": "Increased damage and increased frequency of Oran berries dropping (8 berries over 6s).",
+    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_1": "Greedent eats a special berry to recover 15% max HP and then leaps to the designated area; becoming briefly unstoppable, dealing damage, and throwing enemies within the area of effect. Greedent then eats another berry, allowing an unlimited amount of Oran berries to be stored for 8s and resets cooldowns of all moves.",
+    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_2": "30% Movement Speed, 40% Max HP Shield"
+  },
+  "Cn":
+  {
+    "GREEDENT_PA1_TEXT_1": "食用树果后除了获得树果原本的效果之外，还会额外回复自身的体力，同时还会偷偷地在尾巴囤积一个树果。若自身受到攻击或连续攻击时，稍后会从尾巴处掉落树果（4.5 秒间隔时间）。树果在地上停留 10 秒。如果任何盟友或敌人吃了树果，他们会恢复 45 + 2% 最大体力值（敌人是藏饱栗鼠时除外）。敌方的藏饱栗鼠吃掉树果后回复 45 + 5 x（等级 -1）+ 2% 最大体力值",
+    "GREEDENT_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，命中时造成更高的伤害。另外，会从尾巴掉落一颗树果。",
+    "GREEDENT_MOVE_TACKLE_TEXT_1": "冲向指定区域，对范围内的敌人造成伤害，并使其移动速度降低 20%，持续 1 秒。如果在「渴望」的招式期间使用此招式，则不能指定冲向的地点，而是向前进方向的范围内的敌人造成伤害。此时若在尾巴囤积了树果，则会将其全部消耗。每消耗一个树果，撞击的间隔时间就会减少 1 秒。",
+    "GREEDENT_MOVE_BULLET_SEED_TEXT_1": "6 秒内向指定方向吐出树果种子；对范围内的敌人造成伤害，并使其移动速度降低 30%，持续 1秒。囤积的树果越多，造成的伤害越高",
+    "GREEDENT_MOVE_BULLET_SEED_TEXT_2": "伤害增加。",
+    "GREEDENT_MOVE_BELCH_TEXT_1": "对范围内的敌人造成伤害，并使其移动速度降低 15%，持续 1 秒。如果在尾巴囤积了树果，则将其全部消耗。每消耗一个浆果，打嗝的间隔时间就会减少 1 秒（上限为 4 秒）。",
+    "GREEDENT_MOVE_BELCH_TEXT_2": "伤害增加。",
+    "GREEDENT_MOVE_DEFENSE_CURL_TEXT_1": "获得持续 3 秒的护盾（10% 最大体力值）。此外，自身的前方会掉落树果。",
+    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_1": "丢出 5 个树果，并食用这些树果回复自身的体力。超过最大体力的回复量将转换为护盾（每多出一个树果，提供 1.8% 最大体力的护盾），持续时间 5 秒。在招式期间若自身的视野内有树果，移动速度将增加 70%，持续 6 秒，但每 1 秒减少 15%。",
+    "GREEDENT_MOVE_STUFF_CHEEKS_TEXT_2": "树果的掉落数量增加 1 个。",
+    "GREEDENT_MOVE_COVET_TEXT_1": "全力奔跑 6 秒，6.1 秒内获得妨碍抗性。对接触到的敌人造成伤害并将其击飞。奔跑期间每秒都会掉落树果。食用掉落的树果会使移动速度提高 22%，持续 1 秒（最多叠加 5 次）。此外，还可以在奔跑时使用「撞击」、「打嗝」或「种子机关枪」，使用此招式将重置铲球「撞击」或「打嗝」的冷却时间。",
+    "GREEDENT_MOVE_COVET_TEXT_2": "增加伤害并增加树果掉落的频率（6 秒内掉落 8 个浆果）。",
+    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_1": "食用树果恢复 15% 最大体力值，然后跳跃到指定区域。短暂进入妨碍无效状态，对敌人造成伤害，并将击飞。接下来将食用特殊的树果，能够重置所有招式的冷却时间，并在 8 秒内囤积的树果不会减少。",
+    "GREEDENT_MOVE_BERRY_BELLY_FLOP_TEXT_2": "30% 移动速度，40% 最大体力值护盾",
+
+    "Healing - Oran Berry": "治疗 - 囤积的浆果",
+    "Healing - Any Berry": "治疗 - 任意的浆果",
+    "Damage - per Seed": "伤害 - 每个种子",
+
+    "Cheek Pouch": "颊囊",
+    "Tackle": "撞击",
+    "Bullet Seed": "种子机关枪",
+    "Belch": "打嗝",
+    "Defense Curl": "变圆",
+    "Stuff Cheeks": "大快朵颐",
+    "Covet": "渴望",
+    "Berry Belly Flop": "贪欲树果大飞扑"
+  }
+}

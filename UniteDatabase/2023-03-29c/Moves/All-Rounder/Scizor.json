@@ -1,0 +1,278 @@
+{
+    "SCIZOR_PA1":
+    {
+        "name": "Technician",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "SCIZOR_PA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Second Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.5,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SCIZOR_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "SCIZOR_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SCIZOR_MOVE_FURY_CUTTER":
+    {
+        "name": "Fury Cutter",
+        "type": "Move 1",
+        "cd": 5.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "SCIZOR_MOVE_FURY_CUTTER_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.69,
+                            "Lv": 11,
+                            "Con": 200
+                        }
+                    },
+                    {
+                        "name": "Damage - Second Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.828,
+                            "Lv": 13,
+                            "Con": 240
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SCIZOR_MOVE_BULLET_PUNCH":
+    {
+        "name": "Bullet Punch",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 6.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "SCIZOR_MOVE_BULLET_PUNCH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Punch",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.08,
+                            "Lv": 9,
+                            "Con": 210
+                        }
+                    },
+                    {
+                        "name": "Damage - Initial Punch",
+                        "type": "damage",
+                        "text": "SCIZOR_MOVE_BULLET_PUNCH_TAG_TEXT_1"
+                    },
+                    {
+                        "name": "Damage - per Hit (3-5 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.235,
+                            "Lv": 2,
+                            "Con": 48
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "SCIZOR_MOVE_BULLET_PUNCH_TEXT_2"
+            }
+        ]
+    },
+
+    "SCIZOR_MOVE_QUICK_ATTACK":
+    {
+        "name": "Quick Attack",
+        "type": "Move 2",
+        "cd": 8.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "SCIZOR_MOVE_QUICK_ATTACK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.58,
+                            "Lv": 5,
+                            "Con": 190
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SCIZOR_MOVE_DOUBLE_HIT":
+    {
+        "name": "Double Hit",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "SCIZOR_MOVE_DOUBLE_HIT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.15,
+                            "Lv": 12,
+                            "Con": 340
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "SCIZOR_MOVE_DOUBLE_HIT_TEXT_2"
+            }
+        ]
+    },
+
+    "SCIZOR_MOVE_SWORDS_DANCE":
+    {
+        "name": "Swords Dance",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 7.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "SCIZOR_MOVE_SWORDS_DANCE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Eighth Attack",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.22,
+                            "Lv": 9,
+                            "Con": 420
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "SCIZOR_MOVE_SWORDS_DANCE_TEXT_2"
+            }
+        ]
+    },
+
+    "SCIZOR_MOVE_RED_ILLUSION_DIVE":
+    {
+        "name": "Red Illusion Dive",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Punch, Ground Punch, & Copy Contact",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.29,
+                            "Lv": 6,
+                            "Con": 290
+                        }
+                    },
+                    {
+                        "name": "Damage - Main Target (Copy Dash x5), Grab",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.387,
+                            "Lv": 2,
+                            "Con": 87
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "SCIZOR_MOVE_RED_ILLUSION_DIVE_TEXT_2"
+            }
+        ]
+    }
+}

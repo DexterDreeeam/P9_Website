@@ -1,0 +1,57 @@
+{
+  "En":
+  {
+    "TSAREENA_PA1_TEXT_1": "When a hindrance is inflicted on Bounsweet or Steenee, decrease the duration of the effect.",
+    "TSAREENA_PA2_TEXT_1": "When a hindrance is inflicted on Tsareena; decrease the duration of the effect. Using a boosted attack or move grants 1 stack of Queenly Majesty to Tsareena. After gaining 3 stacks, the Queenly Majesty buff is applied to Tsareena for a short time, which allows one of Tsareena's moves to be reused (these uses do not share the same cooldown as the base moves), dealing increased damage and applying an additional effect based on the move used.",
+    "TSAREENA_BA1_TEXT_1": "Becomes a boosted attack with every third attack, lunging at an enemy, dealing damage and lowering their Defense by 20% for 1s.",
+    "TSAREENA_MOVE_RAZOR_LEAF_TEXT_1": "Pelts leaves in the designated direction; dealing damage to enemies hit. The critical-hit rate of this move is increased by 15%.",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_1": "Tsareena spin-kicks 3 times in the designated direction; dealing damage to enemies. Landed hits add a Triple Axel Buff stack. The stacks last for 5s and decay together. During the duration of the buff, auto attack speed is increased depending upon the number of stacks (caps at 3 stacks). In addition, all damage dealt by auto attacks or Triple Axel during the buff is increased by 5% per stack (caps at 6 stacks). Queenly Majesty Effect: Restores HP each time a kick hits.",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TAG_TEXT_1": "4% + 1.5% x (Level -1)",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_2": "Increased damage.",
+    "TSAREENA_MOVE_STOMP_TEXT_1": "Tsareena jumps up high and attacks enemies with their feet. When this move hits, deal damage to enemies and leave them unable to act for .1s. Queenly Majesty Effect: Restores HP when this move hits.",
+    "TSAREENA_MOVE_STOMP_TEXT_2": "Increased damage.",
+    "TSAREENA_MOVE_RAPID_SPIN_TEXT_1": "Tsareena spins in the designated direction; dealing damage to any enemy hit. When this move hits, increase Tsareena's movement speed by 30% for 1.5s.",
+    "TSAREENA_MOVE_TROP_KICK_TEXT_1": "Perform a flying kick in the designated direction, dealing damage to enemies hit and decreasing their Attack by 25% for a 2s. Enemies that make contact with the flying kick's wake receive damage and have their movement speed decreased by 35% for 1s (re-applicable). Queenly Majesty Effect: Grants Tsareena a shield for 3s when this move is used.",
+    "TSAREENA_MOVE_TROP_KICK_TEXT_2": "Increased damage.",
+    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_1": "Tsareena slides in the designated direction; dealing damage to enemies hit. This is followed by an attack in the opposite direction, dealing damage and shoving enemies hit. Queenly Majesty Effect: Grants Tsareena a shield for 3s when this move is used.",
+    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_2": "Increased damage.",
+    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_1": "Tsareena leaps toward an enemy from the opposing team and kicks it high into the air before showering it with a series of kicks while airborne, dealing damage to them. The moment Tsareena lands on the ground, recover HP. While airborne, the enemy that is being kicked and Tsareena are not affected by other moves.",
+    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "TSAREENA_PA1_TEXT_1": "当对 甜竹竹 或 甜舞妮 造成妨碍时，减少效果的持续时间。",
+    "TSAREENA_PA2_TEXT_1": "使用强化普通攻击或招式可使 甜冷美后 获得 1 层女王的威严。在获得 3 层后，女王的威严效果会在短时间内使得 甜冷美后 的一个动作可以重复使用（与基础招式不共享冷却时间），造成更高的伤害并产生附加的效果。",
+    "TSAREENA_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，将冲向对方宝可梦发动攻击造成伤害，并在 1 秒内降低其防御 20%。",
+    "TSAREENA_MOVE_RAZOR_LEAF_TEXT_1": "向指定方向发射叶子进行攻击，招式命中对方宝可梦时造成伤害。该招式的暴击就率比普通攻击高 15%。",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_1": "向指定方向发动三次回旋踢，对对方宝可梦造成伤害。每次回旋踢命中时会叠加回旋踢层数，持续 5 秒并同步衰减。普通攻击速度会根据回旋踢层数提高，最多 3 层。普通攻击和三旋踢的伤害会根据回旋踢层数提高，每层提高 5%，最多 6 层。女王的威严引发的效果：每次回旋踢命中时，回复体力。",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TAG_TEXT_1": "4% + (1.5% x (级别 -1)",
+    "TSAREENA_MOVE_TRIPLE_AXEL_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_STOMP_TEXT_1": "高高跃起并踢向对方宝可梦。招式命中时，对其造成伤害并在 0.1 秒内使其无法动弹。女王的威严引发的效果：招式命中时，回复体力。",
+    "TSAREENA_MOVE_STOMP_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_RAPID_SPIN_TEXT_1": "旋转并向指定方向前进，对接触到对方的宝可梦造成伤害。招式命中时，在 1.5 秒内提高自身的移动速度 30%。",
+    "TSAREENA_MOVE_TROP_KICK_TEXT_1": "向指定方向进行飞踢，命中对方宝可梦时对其造成伤害并在 2 秒内降低其攻击 25%。对方宝可梦接触飞踢所留下的痕迹时，会在 1 秒内降低移动速度 35% 并受到伤害，这个效果对同一目标可以施加多次。女王的威严引发的效果：使用招式时，获得护盾，持续 3 秒。",
+    "TSAREENA_MOVE_TROP_KICK_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_1": "向指定方向滑行，接触到对方宝可梦时将对其造成伤害并降低移动速度。随后还将朝反方向进行攻击，对对方宝可梦造成伤害并将其击退。女王的威严引发的效果：使用招式时，获得护盾，持续 3 秒。",
+    "TSAREENA_MOVE_GRASSY_GLIDE_TEXT_2": "伤害增加。",
+    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_1": "冲向对方队伍的宝可梦并将其踢上高空，随后在空中对其进行连续踢击并造成伤害。落地后将回复自身体力。被锁定的对方宝可梦与自身不受到妨碍效果影响。",
+    "TSAREENA_MOVE_QUEEN_ASCENDANT_TEXT_2": "30% 移动速度，30% 冷却缩减，20% 最大体力的护盾",
+
+    "Damage - per Hit (Queenly Majesty Buff)": "伤害 - 每次攻击 (女王的威严效果触发)",
+    "Healing (Queenly Majesty Buff)": "治疗 (女王的威严效果触发)",
+    "Damage (Queenly Majesty Buff)": "伤害 (女王的威严效果触发)",
+    "Damage DoT (7 Ticks - Queenly Majesty Buff)": "持续伤害 (7段伤害，女王的威严效果触发)",
+    "Shield (Queenly Majesty Buff)": "护盾 (女王的威严效果触发)",
+    "Healing - Landing": "治疗 - 落地",
+
+    "Oblivious": "迟钝",
+    "Queenly Majesty": "女王的威严",
+    "Razor Leaf": "飞叶快刀",
+    "Triple Axel": "三旋击",
+    "Stomp": "踩踏",
+    "Rapid Spin": "高速旋转",
+    "Trop Kick": "热带踢",
+    "Grassy Glide": "青草滑梯",
+    "Queen Ascendant": "女王凌空无情腿"
+  }
+}
