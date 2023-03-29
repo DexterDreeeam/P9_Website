@@ -1,0 +1,52 @@
+{
+  "En":
+  {
+    "SNORLAX_PA1_TEXT_1": "Increases the effects gained from eating berries. 25% increased movement speed when near berries and doubles the amount healed from the Sitrus berry (yellow berry).",
+    "SNORLAX_BA1_TEXT_1": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals increased damage to nearby enemies and decreases their movement speed by 20% for 1s.",
+    "SNORLAX_MOVE_TACKLE_TEXT_1": "Snorlax dashes a short distance forward, dealing damage, stunning the first target hit for 1s, and slightly throwing them. Snorlax’s next auto attack is boosted.",
+    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_1": "Snorlax jumps to the target location, dealing damage and throwing enemies within the landing radius into the air for 1s.",
+    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_2": "Increased damage.",
+    "SNORLAX_MOVE_FLAIL_TEXT_1": "Snorlax buffs themselves for 5s causing auto attacks to deal increased damage and slow enemies hit. Damage increase is strengthened for every 20% HP Snorlax is missing. Snorlax also gains a short burst of increased movement speed by 70% for 2s, decreasing every .4s by 14%, and slows nearby enemies by 50% for 1.5s when Flail is activated.",
+    "SNORLAX_MOVE_FLAIL_TAG_TEXT_1": "Against Wild Pokemon: The total damage is capped at 2000.",
+    "SNORLAX_MOVE_FLAIL_TAG_TEXT_2": "Against Wild Pokemon: The total damage is capped at 2500.",
+    "SNORLAX_MOVE_FLAIL_TEXT_2": "Increased damage. In addition, if Snorlax is below 40% HP, auto attacks will also gain 30% lifesteal.",
+    "SNORLAX_MOVE_REST_TEXT_1": "Snorlax falls asleep for 3s, becoming unstoppable, and healing 3 times for 8% Max HP. While asleep enemies cannot pass through Snorlax’s hitbox.",
+    "SNORLAX_MOVE_BLOCK_TEXT_1": "Snorlax creates and holds a wall in a targeted direction for 4s and gains a shield. The shield lasts 3.5s even if Block is cancelled early. Enemies that contact the wall are knocked back and stunned for .45s. This knockback can occur every 1s (max 4 times). Snorlax cannot attack or use abilities while Blocking but can move with a 45% reduced movement speed.",
+    "SNORLAX_MOVE_BLOCK_TEXT_2": "The Block becomes larger and the knockback and stun occurs every 0.5s (max 8 times). While blocking, Snorlax’s Def and SpDef are increased by 25%.",
+    "SNORLAX_MOVE_YAWN_TEXT_1": "Snorlax sends out a slow short-range projectile that puts all targets hit to Sleep for 3s.",
+    "SNORLAX_MOVE_YAWN_TEXT_2": "Enemy movement speed reduced by 35% for 3s upon waking up.",
+    "SNORLAX_MOVE_POWER_NAP_TEXT_1": "Go to sleep and begin snoring, dealing damage to enemies in the area of effect and throws them in the air for 1s. While sleeping enemies cannot pass through Snorlax’s hitbox, Snorlax becomes immune to hindrances, deals damage over time to nearby enemies, slow enemies hit by 30% for 1s, and continually restore 7% of max HP, 9 times. This move can be recasted to flip over, dealing an extra instance of the DoT damage and throwing enemies in the air for 1s.",
+    "SNORLAX_MOVE_POWER_NAP_TEXT_2": "30% Movement Speed, 40% Max HP Shield"
+  },
+  "Cn":
+  {
+    "SNORLAX_PA1_TEXT_1": "朝有树果的方向移动时，移动速度提高 25%。食用黄色树果获得的治疗量翻倍。",
+    "SNORLAX_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，命中时对范围内敌人造成更高的伤害，并使其移动速度降低 20%，持续 1 秒。",
+    "SNORLAX_MOVE_TACKLE_TEXT_1": "用肚子进行冲撞攻击，命中时造成伤害并击退第一个命中的目标 1 秒。使用招式后，下一次普通攻击将变为强化普通攻击",
+    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_1": "跳向目标位置，造成伤害并将着陆范围内的敌人击飞 1 秒。",
+    "SNORLAX_MOVE_HEAVY_SLAM_TEXT_2": "伤害增加。",
+    "SNORLAX_MOVE_FLAIL_TEXT_1": "5 秒内进入抓狂状态，使普通攻击造成更高的伤害。每失去 20% 的体力，造成的伤害会更高。还会增加移动速度 70%，持续 2 秒，每 0.4 秒减少 14%。抓狂状态下命中敌人会使其使减速 50%，持续 1.5 秒。",
+    "SNORLAX_MOVE_FLAIL_TAG_TEXT_1": "对野生宝可梦：总伤害上限为2000。",
+    "SNORLAX_MOVE_FLAIL_TAG_TEXT_2": "对野生宝可梦：总伤害上限为2500。",
+    "SNORLAX_MOVE_FLAIL_TEXT_2": "伤害增加。此外，如果自身的体力值低于 40%，普攻会获得30%的吸血。",
+    "SNORLAX_MOVE_REST_TEXT_1": "入睡 3 秒，进入妨碍无效状态，并每秒恢复 8% 最大生命值。使用招式期间会阻碍敌人的通行。",
+    "SNORLAX_MOVE_BLOCK_TEXT_1": "4 秒内张开双臂形成无法通过的墙，并获得护盾。即使提前取消格挡，护盾也会持续 3.5 秒。接触墙壁的敌人会被击退并眩晕 0.45 秒。这种击退每 1 秒发生一次（最多 4 次）。自身在格挡时无法攻击或使用技能，但移动速度会降低 45%。",
+    "SNORLAX_MOVE_BLOCK_TEXT_2": "墙壁变大，击退和眩晕每 0.5 秒发生一次（最多 8 次）。格挡时，自身防御和特防增加 25%。",
+    "SNORLAX_MOVE_YAWN_TEXT_1": "打个打哈欠引起敌人睡意，使所有被击中的目标陷入睡眠 3 秒。",
+    "SNORLAX_MOVE_YAWN_TEXT_2": "醒来后敌人移动速度降低 35%，持续 3 秒。",
+    "SNORLAX_MOVE_POWER_NAP_TEXT_1": "进入睡眠并开始打鼾，进入妨碍无效状态，对范围内的敌人造成伤害并将其击飞 1 秒，被击中的敌人减速 30%，持续 1 秒。持续恢复 7% 的最大体力值，共 9 次。此招式可以重新施放以翻身，造成 翻身伤害，并将敌人击飞 1 秒。",
+    "SNORLAX_MOVE_POWER_NAP_TEXT_2": "30% 移动速度，40% 最大体力值护盾",
+
+    "Basic Attack - Above 80% HP": "普通攻击 - 体力高于 80%",
+    "Boosted Attack - Above 80% HP": "强化普通攻击 - 体力高于 80%",
+
+    "Gluttony": "贪吃鬼",
+    "Tackle": "撞击",
+    "Heavy Slam": "重磅冲撞",
+    "Flail": "抓狂",
+    "Rest": "睡觉",
+    "Block": "挡路",
+    "Yawn": "哈欠",
+    "Power Nap": "暴睡冲击"
+  }
+}
