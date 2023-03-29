@@ -1,0 +1,319 @@
+{
+    "SYLVEON_PA1":
+    {
+        "name": "Adaptability",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "SYLVEON_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "SYLVEON_PA2":
+    {
+        "name": "Pixilate",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "SYLVEON_PA2_TEXT_1"
+            }
+        ]
+    },
+
+    "SYLVEON_BA1":
+    {
+        "name": "Attack - Eevee",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "SYLVEON_BA1_TEXT_1"
+            }
+        ]
+    },
+
+    "SYLVEON_BA2":
+    {
+        "name": "Attack - Sylveon",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "SYLVEON_BA2_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.35,
+                            "Lv": 10,
+                            "Con": 180
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SYLVEON_MOVE_SWIFT":
+    {
+        "name": "Swift",
+        "type": "Move 1",
+        "cd": 7.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "SYLVEON_MOVE_SWIFT_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Star",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.32,
+                            "Lv": 6,
+                            "Con": 190
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SYLVEON_MOVE_MYSTICAL_FIRE":
+    {
+        "name": "Mystical Fire",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 7.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "SYLVEON_MOVE_MYSTICAL_FIRE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - First Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.77,
+                            "Lv": 12,
+                            "Con": 460
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "SYLVEON_MOVE_MYSTICAL_FIRE_TEXT_2"
+            }
+        ]
+    },
+
+    "SYLVEON_MOVE_HYPER_VOICE":
+    {
+        "name": "Hyper Voice",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 5.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "SYLVEON_MOVE_HYPER_VOICE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Near (6x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.32,
+                            "Lv": 5,
+                            "Con": 110
+                        }
+                    },
+                    {
+                        "name": "Damage - Far (6x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.54,
+                            "Lv": 8,
+                            "Con": 184
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "SYLVEON_MOVE_HYPER_VOICE_TEXT_2"
+            }
+        ]
+    },
+
+    "SYLVEON_MOVE_BABY_DOLL_EYES":
+    {
+        "name": "Baby-Doll Eyes",
+        "type": "Move 2",
+        "cd": 5.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "SYLVEON_MOVE_BABY_DOLL_EYES_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.63,
+                            "Lv": 18,
+                            "Con": 330
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SYLVEON_MOVE_DRAINING_KISS":
+    {
+        "name": "Draining Kiss",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 9.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "SYLVEON_MOVE_DRAINING_KISS_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage (3x)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.26,
+                            "Lv": 4,
+                            "Con": 160
+                        }
+                    },
+                    {
+                        "name": "Healing (3x)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 0.18,
+                            "Lv": 0,
+                            "Con": 145
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "SYLVEON_MOVE_DRAINING_KISS_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Healing (3x)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 0.27,
+                            "Lv": 0,
+                            "Con": 220
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SYLVEON_MOVE_CALM_MIND":
+    {
+        "name": "Calm Mind",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 10.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "SYLVEON_MOVE_CALM_MIND_TEXT_1"
+            },
+            {
+                "condition": "Level 12",
+                "text": "SYLVEON_MOVE_CALM_MIND_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "value":
+                        {
+                            "SpA": 0.9,
+                            "Lv": 0,
+                            "Con": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "SYLVEON_MOVE_FAIRY_FROLIC":
+    {
+        "name": "Fairy Frolic",
+        "type": "Unite Move",
+        "cd": 139.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 8",
+                "text": "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.04,
+                            "Lv": 13,
+                            "Con": 620
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_2"
+            }
+        ]
+    }
+}

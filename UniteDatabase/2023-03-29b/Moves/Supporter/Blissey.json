@@ -1,0 +1,282 @@
+{
+    "BLISSEY_PA1":
+    {
+        "name": "Natural Cure",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "BLISSEY_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "BLISSEY_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "BLISSEY_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.38,
+                            "Lv": 22,
+                            "Con": 420
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "BLISSEY_MOVE_POUND":
+    {
+        "name": "Pound",
+        "type": "Move 1",
+        "cd": 6.0,
+        "cast": "Melee",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "BLISSEY_MOVE_POUND_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.47,
+                            "Lv": 28,
+                            "Con": 520
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "BLISSEY_MOVE_EGG_BOMB":
+    {
+        "name": "Egg Bomb",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 9.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "BLISSEY_MOVE_EGG_BOMB_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.41,
+                            "Lv": 21,
+                            "Con": 460
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "BLISSEY_MOVE_EGG_BOMB_TEXT_2"
+            }
+        ]
+    },
+
+    "BLISSEY_MOVE_HELPING_HAND":
+    {
+        "name": "Helping Hand",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 9.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "BLISSEY_MOVE_HELPING_HAND_TEXT_1"
+            },
+            {
+                "condition": "Level 12",
+                "text": "BLISSEY_MOVE_HELPING_HAND_TEXT_2"
+            }
+        ]
+    },
+
+    "BLISSEY_MOVE_HEAL_PULSE":
+    {
+        "name": "Heal Pulse",
+        "type": "Move 2",
+        "cd": 10.0,
+        "cast": "Recovery",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "BLISSEY_MOVE_HEAL_PULSE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Healing (4x)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 0.4,
+                            "Lv": 0,
+                            "Con": 60
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "BLISSEY_MOVE_SOFT_BOILED":
+    {
+        "name": "Soft-Boiled",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 12.0,
+        "cast": "Recovery",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "BLISSEY_MOVE_SOFT_BOILED_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Healing",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 1.7,
+                            "Lv": 0,
+                            "Con": 220
+                        }
+                    },
+                    {
+                        "name": "Healing - HoT (2x)",
+                        "type": "heal",
+                        "value":
+                        {
+                            "SpA": 0.7,
+                            "Lv": 0,
+                            "Con": 85
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "BLISSEY_MOVE_SOFT_BOILED_TEXT_2"
+            }
+        ]
+    },
+
+    "BLISSEY_MOVE_SAFEGUARD":
+    {
+        "name": "Safeguard",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 9.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "BLISSEY_MOVE_SAFEGUARD_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.62,
+                            "Lv": 13,
+                            "Con": 648
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "BLISSEY_MOVE_SAFEGUARD_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "value":
+                        {
+                            "SpA": 1.8,
+                            "Lv": 14,
+                            "Con": 720
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "BLISSEY_MOVE_BLISS_ASSISTANCE":
+    {
+        "name": "Bliss Assistance",
+        "type": "Unite Move",
+        "cd": 134.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 8",
+                "text": "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.18,
+                            "Lv": 31,
+                            "Con": 1490
+                        }
+                    },
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "value":
+                        {
+                            "SpA": 3.0,
+                            "Lv": 0,
+                            "Con": 1500
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "BLISSEY_MOVE_BLISS_ASSISTANCE_TEXT_2"
+            }
+        ]
+    }
+}

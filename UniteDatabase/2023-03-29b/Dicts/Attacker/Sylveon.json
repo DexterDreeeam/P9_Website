@@ -1,0 +1,54 @@
+{
+  "En":
+  {
+    "SYLVEON_PA1_TEXT_1": "Every time Eevee deals or receives damage, increase Sp. Attack by 5% for 1.5s, stacking up to 4 times.",
+    "SYLVEON_PA2_TEXT_1": "Every time Sylveon deals or receives damage, increase Sp. Atk and Sp. Defense by 2.5% for 1.5s, stacking up to 6 times.",
+    "SYLVEON_BA1_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage.",
+    "SYLVEON_BA2_TEXT_1": "Becomes a boosted attack with every third attack, dealing increased damage. In addition, increase movement speed by 75% for 1s when this boosted attack hits.",
+    "SYLVEON_MOVE_SWIFT_TEXT_1": "Shoots 4 star-shaped rays at enemies, dealing damage to them.",
+    "SYLVEON_MOVE_MYSTICAL_FIRE_TEXT_1": "Create four small flames while leaping in the designated direction. These flames shoot towards enemies one by one, dealing damage and decreasing their Sp. Attack by 15% for 1s, stacking up to 4 times. Each time a flame hits, reduce the cooldown of this move by 15% of the current cooldown. After the first flame hits, subsequent flames on the same target deal 25% damage. Wild Pokémon will only be prioritized if no enemy players are in range.",
+    "SYLVEON_MOVE_MYSTICAL_FIRE_TEXT_2": "Increases the number of flames by one.",
+    "SYLVEON_MOVE_HYPER_VOICE_TEXT_1": "Unleashes an attack of multiple sound waves that deal damage when they hit. The damage dealt increases the farther the target is from Sylveon. Every sound wave reduces enemy Sp. Defense by 20% for 1.5s (capping at 80%).",
+    "SYLVEON_MOVE_HYPER_VOICE_TEXT_2": "Increases the number of sound waves by one.",
+    "SYLVEON_MOVE_BABY_DOLL_EYES_TEXT_1": "Stare at an enemy with baby-doll eyes, dealing damage and decreasing their Attack by 15% and decreasing their movement speed for a short time when this move hits.",
+    "SYLVEON_MOVE_DRAINING_KISS_TEXT_1": "Blow a kiss at an enemy that goes back and forth between Sylveon and the target multiple times. When the kiss touches Sylveon, restore HP. When it hits the enemy, deal damage and decrease their movement speed by 20% for a short time. If Sylveon and the enemy move too far away from each other, the kiss will disappear faster than normal.",
+    "SYLVEON_MOVE_DRAINING_KISS_TEXT_2": "Increased healing.",
+    "SYLVEON_MOVE_CALM_MIND_TEXT_1": "Sylveon quietly focuses their mind and calms their spirit, increasing movement speed, Sp. Attack by 40% and Sp. Defense by 10% for 3s.",
+    "SYLVEON_MOVE_CALM_MIND_TEXT_2": "Up to 3s after using this move, if Sylveon is hit by an Enemy's move, the damage is completely nullified and Sylveon is granted a shield.",
+    "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_1": "Jump into the air, removing most statuses and becoming invincible. The moment Sylveon lands, lose invincibility and immediately gain Fairy Frolic buff, while dealing damage to enemies in the area of effect. Fairy Frolic buff: for 10s, 50% of the damage dealt by Sylveon is converted into HP. No HP is recovered if the damage is dealt to shields.",
+    "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_2": "30% Movement Speed, 30% CDR, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "SYLVEON_PA1_TEXT_1": "每次造成或受到伤害时，特攻提升 5%，持续 1.5 秒，最多叠加 4 次。",
+    "SYLVEON_PA2_TEXT_1": "每每次造成或受到伤害时，特攻和特防提升 2.5%，持续 1.5 秒，最多叠加 6 次。",
+    "SYLVEON_BA1_TEXT_1": "第三次普通攻击为强化普通攻击，命中时造成更高的伤害。",
+    "SYLVEON_BA2_TEXT_1": "第三次普通攻击为强化普通攻击，命中时造成更高的伤害。此外，当此强化普通攻击命中时，移动速度提高 75%，持续 1 秒。",
+    "SYLVEON_MOVE_SWIFT_TEXT_1": "向敌人发射 4 道星形射线，对其造成伤害。",
+    "SYLVEON_MOVE_MYSTICAL_FIRE_TEXT_1": "向指定方向跳跃的同时产生 4 团火球。这些火球会一个接一个地射向敌人，造成伤害并降低他们的 特攻 15%，持续 1秒，最多叠加4次。\n    每次火球命中时，此招式的间隔时间减少当前间隔时间的 15%。第一团火球命中后，对同一目标的后续火球造成 25% 的伤害。只有在范围内没有敌方玩家时，野生神奇宝贝才会被优先攻击。",
+    "SYLVEON_MOVE_MYSTICAL_FIRE_TEXT_2": "将火球数量增加一个。",
+    "SYLVEON_MOVE_HYPER_VOICE_TEXT_1": "释放多重声波攻击，击中时造成伤害。目标离自身越远，造成的伤害越高。每一次声波都会使敌人的特防降低 20%，持续 1.5 秒（上限为 80%）。",
+    "SYLVEON_MOVE_HYPER_VOICE_TEXT_2": "将声波数量增加一个。",
+    "SYLVEON_MOVE_BABY_DOLL_EYES_TEXT_1": "用圆瞳凝视敌人造成伤害，并短时间内降低其攻击力 15%，移动速度也会降低一定幅度。",
+    "SYLVEON_MOVE_DRAINING_KISS_TEXT_1": "朝对方宝可梦发射飞吻。飞吻会在自身和该宝可梦之间来回反弹，每次接触到自身时会回复体力，接触敌人时造成伤害并短时间内降低敌人移动速度 20%。当自身与敌人距离过远时，飞吻将会消失。",
+    "SYLVEON_MOVE_DRAINING_KISS_TEXT_2": "治疗量增加。",
+    "SYLVEON_MOVE_CALM_MIND_TEXT_1": "静心凝神，移动速度和特攻提升 40%，特防提升 10%，持续 3 秒。",
+    "SYLVEON_MOVE_CALM_MIND_TEXT_2": "使用此招式后的 3 秒内，如果自身被敌人的招式击中，则伤害完全无效，并获得护盾效果。",
+    "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_1": "腾空后消除大多数状态并立进入守住状态。落地的瞬间，失去守住状态并立即获得「妖精谐律」的增益，同时对效果范围内的敌人造成伤害。「妖精谐律」的增益：10 秒内，自身造成伤害的 50% 转化为体力值。如果对护盾造成伤害，则不会恢复 体力。",
+    "SYLVEON_MOVE_FAIRY_FROLIC_TEXT_2": "30% 移动速度，30% 冷却缩减，20% 最大体力值护盾",
+
+    "Attack - Sylveon": "攻击 - 仙子伊布",
+    "Damage - Near (6x)": "伤害 - 近距离 (6x)",
+    "Damage - Far (6x)": "伤害 - 远距离 (6x)",
+
+    "Adaptability": "适应力",
+    "Pixilate": "妖精皮肤",
+    "Swift": "高速星星",
+    "Mystical Fire": "魔法火焰",
+    "Hyper Voice": "巨声",
+    "Baby-Doll Eyes": "圆瞳",
+    "Draining Kiss": "吸取之吻",
+    "Calm Mind": "冥想",
+    "Fairy Frolic": "妖精谐律"
+  }
+}
