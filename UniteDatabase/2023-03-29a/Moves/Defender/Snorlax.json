@@ -58,7 +58,7 @@
                 "tags":
                 [
                     {
-                        "name": "Damage - per Shard (3 Shards)",
+                        "name": "Damage",
                         "type": "damage",
                         "value":
                         {
