@@ -1,0 +1,325 @@
+{
+    "HOOPA_PA1":
+    {
+        "name": "Magician",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "HOOPA_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "HOOPA_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "HOOPA_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.53,
+                            "Lv": 8,
+                            "Con": 160
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "HOOPA_MOVE_ASTONISH":
+    {
+        "name": "Astonish",
+        "type": "Move 1",
+        "cd": 6.5,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "HOOPA_MOVE_ASTONISH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.16,
+                            "Lv": 18,
+                            "Con": 340
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "HOOPA_MOVE_PHANTOM_FORCE":
+    {
+        "name": "Phantom Force",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 4.5,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "HOOPA_MOVE_PHANTOM_FORCE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.1,
+                            "Lv": 14,
+                            "Con": 320
+                        }
+                    },
+                    {
+                        "name": "Damage - per Flame (2 Flames)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.55,
+                            "Lv": 7,
+                            "Con": 160
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "HOOPA_MOVE_PHANTOM_FORCE_TEXT_2"
+            }
+        ]
+    },
+
+    "HOOPA_MOVE_SHADOW_BALL":
+    {
+        "name": "Shadow Ball",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 4.5,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "HOOPA_MOVE_SHADOW_BALL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.0,
+                            "Lv": 0,
+                            "Con": 300
+                        }
+                    },
+                    {
+                        "name": "Damage - Additional",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.25,
+                            "Lv": 0,
+                            "Con": 75
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "HOOPA_MOVE_SHADOW_BALL_TEXT_2"
+            }
+        ]
+    },
+
+    "HOOPA_MOVE_CONFUSION":
+    {
+        "name": "Confusion",
+        "type": "Move 2",
+        "cd": 9.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "HOOPA_MOVE_CONFUSION_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.56,
+                            "Lv": 6,
+                            "Con": 190
+                        }
+                    },
+                    {
+                        "name": "Damage - Explosion",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.12,
+                            "Lv": 12,
+                            "Con": 380
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "HOOPA_MOVE_HYPERSPACE_HOLE":
+    {
+        "name": "Hyperspace Hole",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 10.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "HOOPA_MOVE_HYPERSPACE_HOLE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 1.12,
+                            "Lv": 9,
+                            "Con": 370
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "HOOPA_MOVE_HYPERSPACE_HOLE_TEXT_2"
+            }
+        ]
+    },
+
+    "HOOPA_MOVE_TRICK":
+    {
+        "name": "Trick",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 7.5,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "HOOPA_MOVE_TRICK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Shield",
+                        "type": "shield",
+                        "value":
+                        {
+                            "SpA": 2.0,
+                            "Lv": 30,
+                            "Con": 400
+                        }
+                    },
+                    {
+                        "name": "Damage - Shadow Ball Bonus",
+                        "type": "damage",
+                        "text": "HOOPA_MOVE_TRICK_TAG_TEXT_1",
+                        "value":
+                        {
+                            "SpA": 0.1,
+                            "Lv": 0,
+                            "Con": 30
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "HOOPA_MOVE_TRICK_TEXT_2"
+            }
+        ]
+    },
+
+    "HOOPA_MOVE_RINGS_UNBOUND":
+    {
+        "name": "Rings Unbound",
+        "type": "Unite Move",
+        "cd": 112.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "HOOPA_MOVE_RINGS_UNBOUND_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Auto Attack",
+                        "type": "damage",
+                        "value":
+                        {
+                            "SpA": 0.5,
+                            "Lv": 5,
+                            "Con": 150
+                        }
+                    },
+                    {
+                        "name": "Damage (7x) - Hyperspace Fury",
+                        "type": "damage",
+                        "text": "HOOPA_MOVE_RINGS_UNBOUND_TAG_TEXT_1",
+                        "value":
+                        {
+                            "SpA": 0.15,
+                            "Lv": 2,
+                            "Con": 40
+                        }
+                    },
+                    {
+                        "name": "Damage - Psybeam",
+                        "type": "damage",
+                        "text": "HOOPA_MOVE_RINGS_UNBOUND_TAG_TEXT_2",
+                        "value":
+                        {
+                            "SpA": 1.75,
+                            "Lv": 12,
+                            "Con": 590
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "HOOPA_MOVE_RINGS_UNBOUND_TEXT_2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+  "En":
+  {
+    "GRENINJA_PA1_TEXT_1": "While HP is at 50% or less, Attack is increased by 5% and movement speed is increased by 12%.",
+    "GRENINJA_BA1_TEXT_1": "At range, Greninja's auto attacks reduce the cooldown of Surf, Water Shuriken, or Bubble by 0.5s and boosted attacks reduce enemy movement speed by 25% for 0.5s. In melee, Greninja's auto attacks instead deal bonus damage equal to 5% missing HP (calculated as auto attack damage and subject to auto attack effects). Boosted melee attacks also dash through the primary target and increases the missing HP damage to 10%. Against Wild Pokémon: The total damage of melee attacks is capped at 500.",
+    "GRENINJA_MOVE_BUBBLE_TEXT_1": "Greninja launches 2 bubbles which pop when they hit an enemy, damaging and slowing them by 25% for 1s.",
+    "GRENINJA_MOVE_WATER_SHURIKEN_TEXT_1": "Greninja throws 4 shurikens made of water which explode when they hit an enemy, damaging and slowing enemies by 25% for 1s in a small area while healing Greninja. While using this move, Greninja's movement speed is increased by 15% for 3s.",
+    "GRENINJA_MOVE_WATER_SHURIKEN_TEXT_2": "Throws 5 shurikens instead.",
+    "GRENINJA_MOVE_SURF_TEXT_1": "Greninja dashes on a wave, damaging enemies and healing themself for each enemy hit. Enemies below half health are dealt bonus damage, and if this move KOs an enemy the cooldown is reset. Against Wild Pokémon: The first hit is capped at 1200 and the second hit is capped at 600.",
+    "GRENINJA_MOVE_SURF_TEXT_2": "Increased healing.",
+    "GRENINJA_MOVE_SUBSTITUTE_TEXT_1": "Greninja dashes while leaving behind a targetable decoy. Greninja is unstoppable while dashing.",
+    "GRENINJA_MOVE_DOUBLE_TEAM_TEXT_1": "Greninja briefly vanishes before dashing and sending clones in different directions. The clones attack nearby targets, have the same HP and defenses as Greninja, deal 18% of Greninja's damage (clones use Surf or Water Shuriken - whichever is learned by Greninja), and last for 3s. Greninja is unstoppable while dashing.",
+    "GRENINJA_MOVE_DOUBLE_TEAM_TEXT_2": "Cooldown reduced by 1s.",
+    "GRENINJA_MOVE_SMOKESCREEN_TEXT_1": "Greninja becomes invisible for 3s, gaining 10% bonus movement speed, and leaving behind a cloud of smoke. Enemies that stay in the smoke cloud have their vision range reduced by 60%. Greninja's next attack is boosted and deals increased damage, melee and ranged bonus effects apply. Greninja is unstoppable while dashing.",
+    "GRENINJA_MOVE_SMOKESCREEN_TEXT_2": "Also increases Greninja's attack by 20% for 2s when leaving stealth.",
+    "GRENINJA_MOVE_WATERBURST_SHURIKEN_TEXT_1": "Throw a giant water shuriken toward the designated area, dealing damage to enemies in the area of effect and those in the line shown by arrowed reticule but are outside Greninja's melee attack range. Pokémon damaged by the designated circular area have their movement speed decreased by 50% for 2s when this move hits. The water shuriken then immediately explodes, dealing damage to enemies in the area of effect and throws them in the air. Once this move ends, Greninja may jump in a designated direction.",
+    "GRENINJA_MOVE_WATERBURST_SHURIKEN_TEXT_2": "30% Movement Speed, 35% Attack Speed, 20% Max HP Shield"
+  },
+  "Cn":
+  {
+    "GRENINJA_PA1_TEXT_1": "自身体力在 50% 及以下时，攻击提升 5%，移动速度提升 12%。",
+    "GRENINJA_BA1_TEXT_1": "普通攻击在远程命中时，可将「泡沫」、「冲浪」或「飞水手里剑」的间隔时间缩短 0.5 秒，而强化普通攻击可使敌人的移动速度降低 25%，持续 0.5 秒。\n    普通攻击在近距离命中时，会造成相当于敌人已损失体力值 5% 的附加伤害（计算为普通攻击伤害并受普通攻击效果影响）。强化的近距离普通攻击还会冲向主要目标并将丢失的体力伤害增加到 10%。\n    对野生宝可梦：近距离攻击的伤害上限为 500。",
+    "GRENINJA_MOVE_BUBBLE_TEXT_1": "发射泡沫进行攻击，对敌人造成伤害并使其减速 25%，持续 1 秒。",
+    "GRENINJA_MOVE_WATER_SHURIKEN_TEXT_1": "投掷 4 个水制成的手里剑，当它们击中敌人时会发生爆炸，对小范围内的敌人造成伤害并使其减速 25%，持续 1 秒，同时恢复自身体力。使用此招式时，自身移动速度提高 15%，持续 3 秒。",
+    "GRENINJA_MOVE_WATER_SHURIKEN_TEXT_2": "改为投掷 5 个手里剑。",
+    "GRENINJA_MOVE_SURF_TEXT_1": "乘上激浪的同时攻击敌人，对其造成伤害并恢复自身体力。生命值低于一半的敌人会受到附加伤害。如果此招式击倒敌人，则间隔时间会重置。对野生宝可梦：第一击上限为 1200，第二击上限为 600。",
+    "GRENINJA_MOVE_SURF_TEXT_2": "治疗量增加。",
+    "GRENINJA_MOVE_SUBSTITUTE_TEXT_1": "移动的同时在原地留下一个替身玩偶，移动过程中不会被妨碍。",
+    "GRENINJA_MOVE_DOUBLE_TEAM_TEXT_1": "快速移动并制造分身，协助自身战斗，持续时间 3 秒。分身攻击附近的目标，拥有与自身相同的体力和防御(但受到的伤害为500%)，并使用冲浪或飞水手里剑攻击敌人，伤害量为自身可伤害的 18%。自身在快速移动时不会被妨碍。",
+    "GRENINJA_MOVE_DOUBLE_TEAM_TEXT_2": "间隔时间减少 1 秒。",
+    "GRENINJA_MOVE_SMOKESCREEN_TEXT_1": "在原地留下一团烟雾，接触到烟雾的敌人的视野范围减少 60%。自身隐身 3 秒，移动速度提升 10%，下一次普通攻击将变为强化普通攻击，并造成更高的伤害。自身在隐身瞬间不会被妨碍。",
+    "GRENINJA_MOVE_SMOKESCREEN_TEXT_2": "隐身状态结束后，自身的攻击力会提高 20%，持续 2 秒。",
+    "GRENINJA_MOVE_WATERBURST_SHURIKEN_TEXT_1": "向指定区域投掷巨型水手里剑，对影响范围内的敌人，以及箭头标线所示线上但在自身的近战攻击范围之外的敌人都会造成伤害。\n    招式命中时，被指定圆形区域伤害的宝可梦移动速度降低 50%，持续 2 秒。水手里剑随即爆炸，对范围内的敌人造成伤害并将其击飞。招式结束时，可以向指定方向跳跃。",
+    "GRENINJA_MOVE_WATERBURST_SHURIKEN_TEXT_2": "30% 移动速度，35% 攻击速度，20% 最大体力值护盾",
+
+    "Damage - per Shuriken": "伤害 - 每个手里剑",
+    "Healing (per Unique Enemy)": "治疗（每个敌人）",
+    "Damage - Boosted (Replacement)": "伤害 - 强化（替代）",
+
+    "Torrent": "激流",
+    "Bubble": "泡沫",
+    "Water Shuriken": "飞水手里剑",
+    "Surf": "冲浪",
+    "Substitute": "替身",
+    "Double Team": "影子分身",
+    "Smokescreen": "烟幕",
+    "Waterburst Shuriken": "巨大飞水手里剑"
+  }
+}
