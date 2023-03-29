@@ -1,0 +1,360 @@
+{
+    "AZUMARILL_PA1":
+    {
+        "name": "Huge Power",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "AZUMARILL_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "AZUMARILL_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "AZUMARILL_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.25,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "AZUMARILL_MOVE_TACKLE":
+    {
+        "name": "Tackle",
+        "type": "Move 1",
+        "cd": 5.0,
+        "cast": "Dash",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "AZUMARILL_MOVE_TACKLE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.86,
+                            "Lv": 8,
+                            "Con": 100
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "AZUMARILL_MOVE_PLAY_ROUGH":
+    {
+        "name": "Play Rough",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 5.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "AZUMARILL_MOVE_PLAY_ROUGH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit (3 Hits)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.39,
+                            "Lv": 4,
+                            "Con": 60
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "AZUMARILL_MOVE_PLAY_ROUGH_TEXT_2"
+            }
+        ]
+    },
+
+    "AZUMARILL_MOVE_WATER_PULSE":
+    {
+        "name": "Water Pulse",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 5.0,
+        "cast": "Ranged",
+        "stages":
+        [
+            {
+                "condition": "Level 6",
+                "text": "AZUMARILL_MOVE_WATER_PULSE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.87,
+                            "Lv": 7,
+                            "Con": 120
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 12",
+                "text": "AZUMARILL_MOVE_WATER_PULSE_TEXT_2"
+            }
+        ]
+    },
+
+    "AZUMARILL_MOVE_BUBBLE":
+    {
+        "name": "Bubble",
+        "type": "Move 2",
+        "cd": 7.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 3",
+                "text": "AZUMARILL_MOVE_BUBBLE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Initial Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.74,
+                            "Lv": 7,
+                            "Con": 80
+                        }
+                    },
+                    {
+                        "name": "Damage - Subsequent Hits",
+                        "type": "damage",
+                        "text": "AZUMARILL_MOVE_BUBBLE_TAG_TEXT_1"
+                    }
+                ]
+            }
+        ]
+    },
+
+    "AZUMARILL_MOVE_WHIRLPOOL":
+    {
+        "name": "Whirlpool",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 11.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "AZUMARILL_MOVE_WHIRLPOOL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.34,
+                            "Lv": 2,
+                            "Con": 60
+                        }
+                    },
+                    {
+                        "name": "Healing - per Hit (against Wilds)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.06,
+                            "Lv": 0,
+                            "Con": 10
+                        }
+                    },
+                    {
+                        "name": "Healing - per Hit (against Players)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.18,
+                            "Lv": 0,
+                            "Con": 30
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "AZUMARILL_MOVE_WHIRLPOOL_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Healing - per Hit (against Wilds)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.08,
+                            "Lv": 0,
+                            "Con": 15
+                        }
+                    },
+                    {
+                        "name": "Healing - per Hit (against Players)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.24,
+                            "Lv": 0,
+                            "Con": 45
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "AZUMARILL_MOVE_AQUA_TAIL":
+    {
+        "name": "Aqua Tail",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 7.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 4",
+                "text": "AZUMARILL_MOVE_AQUA_TAIL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic (Close Range)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.68,
+                            "Lv": 2,
+                            "Con": 50
+                        }
+                    },
+                    {
+                        "name": "Damage - Basic (Long Range)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.36,
+                            "Lv": 5,
+                            "Con": 100
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Close Range)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.224,
+                            "Lv": 3,
+                            "Con": 90
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Long Range)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 2.448,
+                            "Lv": 6,
+                            "Con": 180
+                        }
+                    },
+                    {
+                        "name": "Healing",
+                        "type": "heal",
+                        "value":
+                        {
+                            "Atk": 1.1,
+                            "Lv": 0,
+                            "Con": 220
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 10",
+                "text": "AZUMARILL_MOVE_AQUA_TAIL_TEXT_2"
+            }
+        ]
+    },
+
+    "AZUMARILL_MOVE_BELLY_BASH":
+    {
+        "name": "Belly Bash",
+        "type": "Unite Move",
+        "cd": 89.0,
+        "cast": "Sure Hit",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 8",
+                "text": "AZUMARILL_MOVE_BELLY_BASH_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.08,
+                            "Lv": 9,
+                            "Con": 260
+                        }
+                    },
+                    {
+                        "name": "Attack - Increase",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0,
+                            "Lv": 5,
+                            "Con": 60
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "AZUMARILL_MOVE_BELLY_BASH_TEXT_2"
+            }
+        ]
+    }
+}

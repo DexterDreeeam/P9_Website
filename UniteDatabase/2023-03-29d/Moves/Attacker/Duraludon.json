@@ -1,0 +1,351 @@
+{
+    "DURALUDON_PA1":
+    {
+        "name": "Heavy Metal",
+        "type": "Passive Ability",
+        "stages":
+        [
+            {
+                "text": "DURALUDON_PA1_TEXT_1"
+            }
+        ]
+    },
+
+    "DURALUDON_BA1":
+    {
+        "name": "Attack",
+        "type": "Basic Ability",
+        "stages":
+        [
+            {
+                "text": "DURALUDON_BA1_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.35,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    },
+                    {
+                        "name": "Damage - Boosted (Additional)",
+                        "type": "damage",
+                        "text": "DURALUDON_BA1_TAG_TEXT_1",
+                        "value":
+                        {
+                            "MaxHp": 0.03
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "DURALUDON_MOVE_LASER_FOCUS":
+    {
+        "name": "Laser Focus",
+        "type": "Move 1",
+        "cd": 9.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "DURALUDON_MOVE_LASER_FOCUS_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Bonus",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.27,
+                            "Lv": 3,
+                            "Con": 60
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "DURALUDON_MOVE_FLASH_CANNON":
+    {
+        "name": "Flash Cannon",
+        "type": "Move 1 Upgrade Choice 1",
+        "cd": 6.0,
+        "cast": "Buff",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "DURALUDON_MOVE_FLASH_CANNON_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Rupture",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.525,
+                            "Lv": 2,
+                            "Con": 60
+                        }
+                    },
+                    {
+                        "name": "Damage - Cannon Basic",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.05,
+                            "Lv": 3,
+                            "Con": 120
+                        }
+                    },
+                    {
+                        "name": "Damage - Cannon Boosted",
+                        "type": "damage",
+                        "text": "DURALUDON_MOVE_FLASH_CANNON_TAG_TEXT_1"
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "DURALUDON_MOVE_FLASH_CANNON_TEXT_2"
+            }
+        ]
+    },
+
+    "DURALUDON_MOVE_DRAGON_PULSE":
+    {
+        "name": "Dragon Pulse",
+        "type": "Move 1 Upgrade Choice 2",
+        "cd": 9.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Level 5",
+                "text": "DURALUDON_MOVE_DRAGON_PULSE_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - No Charge",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.294,
+                            "Lv": 1,
+                            "Con": 35
+                        }
+                    },
+                    {
+                        "name": "Damage - No Charge (per Mark, All Charge Levels Cap at 750 Damage)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.42,
+                            "MissingHp": 0.0075,
+                            "Lv": 1,
+                            "Con": 50
+                        }
+                    },
+                    {
+                        "name": "Damage - No Charge (Final Ring, All Charge Levels Cap at 900 Damage)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.546,
+                            "MissingHp": 0.015,
+                            "Lv": 1,
+                            "Con": 65
+                        }
+                    },
+                    {
+                        "name": "Damage - Bonus (after KO)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.15,
+                            "Lv": 1,
+                            "Con": 27
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 11",
+                "text": "DURALUDON_MOVE_DRAGON_PULSE_TEXT_2"
+            }
+        ]
+    },
+
+    "DURALUDON_MOVE_METAL_CLAW":
+    {
+        "name": "Metal Claw",
+        "type": "Move 2",
+        "cd": 8.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 1 or 2",
+                "text": "DURALUDON_MOVE_METAL_CLAW_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.94,
+                            "Lv": 8,
+                            "Con": 260
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "DURALUDON_MOVE_DRAGON_TAIL":
+    {
+        "name": "Dragon Tail",
+        "type": "Move 2 Upgrade Choice 1",
+        "cd": 14.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "DURALUDON_MOVE_DRAGON_TAIL_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.79,
+                            "Lv": 5,
+                            "Con": 220
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "DURALUDON_MOVE_DRAGON_TAIL_TEXT_2",
+                "tags":
+                [
+                    {
+                        "name": "Damage - Additional (Mark)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.5,
+                            "Lv": 0,
+                            "Con": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+
+    "DURALUDON_MOVE_STEALTH_ROCK":
+    {
+        "name": "Stealth Rock",
+        "type": "Move 2 Upgrade Choice 2",
+        "cd": 12.0,
+        "cast": "Hindrance",
+        "stages":
+        [
+            {
+                "condition": "Level 7",
+                "text": "DURALUDON_MOVE_STEALTH_ROCK_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Tick (4 Ticks)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.28,
+                            "Lv": 2,
+                            "Con": 80
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Level 13",
+                "text": "DURALUDON_MOVE_STEALTH_ROCK_TEXT_2"
+            }
+        ]
+    },
+
+    "DURALUDON_MOVE_REVOLVING_RUIN":
+    {
+        "name": "Revolving Ruin",
+        "type": "Unite Move",
+        "cd": 134.0,
+        "cast": "Area",
+        "stages":
+        [
+            {
+                "condition": "Unlocks at Level 9",
+                "text": "DURALUDON_MOVE_REVOLVING_RUIN_TEXT_1",
+                "tags":
+                [
+                    {
+                        "name": "Damage - per Hit",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 1.211,
+                            "Lv": 6,
+                            "Con": 270
+                        }
+                    },
+                    {
+                        "name": "Damage - Burning Ring (per Tick)",
+                        "type": "damage",
+                        "value":
+                        {
+                            "Atk": 0.605,
+                            "Lv": 3,
+                            "Con": 135
+                        }
+                    },
+                    {
+                        "name": "Shield - per Enemy",
+                        "type": "shield",
+                        "value":
+                        {
+                            "Atk": 0.68,
+                            "Lv": 0,
+                            "Con": 68
+                        }
+                    }
+                ]
+            },
+            {
+                "condition": "Unite Buffs (6s Duration)",
+                "text": "DURALUDON_MOVE_REVOLVING_RUIN_TEXT_2"
+            }
+        ]
+    }
+}
