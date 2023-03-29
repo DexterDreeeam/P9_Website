@@ -402,8 +402,8 @@
                         }
                     },
                     {
-                        "name": "Damage - per Enemy Hit",
-                        "type": "damage",
+                        "name": "Shield - per Enemy Hit",
+                        "type": "shield",
                         "value":
                         {
                             "Atk": 0.8,
